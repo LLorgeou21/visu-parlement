@@ -1,0 +1,286 @@
+:root {
+  --fond: #f5f6f8;
+  --fond-carte: #ffffff;
+  --texte: #1c1f26;
+  --texte-discret: #5b6472;
+  --bordure: #e2e5ea;
+  --accent: #2f5fd6;
+  --vert: #2e8b57;
+  --rouge: #c0392b;
+  --gris: #8d949a;
+  --ombre: 0 1px 3px rgba(20, 25, 35, 0.08);
+  --rayon: 10px;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --fond: #14161b;
+    --fond-carte: #1d2028;
+    --texte: #e8eaed;
+    --texte-discret: #9aa2b1;
+    --bordure: #2c3038;
+    --ombre: 0 1px 3px rgba(0, 0, 0, 0.4);
+  }
+}
+
+* { box-sizing: border-box; }
+
+body {
+  margin: 0;
+  font-family: -apple-system, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  background: var(--fond);
+  color: var(--texte);
+}
+
+.site-header {
+  padding: 2rem 1.5rem 0;
+  text-align: center;
+  max-width: 900px;
+  margin: 0 auto;
+}
+
+.site-header h1 {
+  margin: 0 0 0.25rem;
+  font-size: 1.8rem;
+}
+
+.soustitre {
+  margin: 0;
+  color: var(--texte-discret);
+}
+
+.derniere-maj {
+  margin: 0.4rem 0 0;
+  font-size: 0.8rem;
+  color: var(--texte-discret);
+}
+
+.onglets {
+  display: flex;
+  justify-content: center;
+  gap: 0.5rem;
+  margin: 1.5rem 0 0;
+  border-bottom: 1px solid var(--bordure);
+}
+
+.onglet-btn {
+  border: none;
+  background: none;
+  color: var(--texte-discret);
+  font-size: 1rem;
+  padding: 0.75rem 1rem;
+  cursor: pointer;
+  border-bottom: 2px solid transparent;
+}
+
+.onglet-btn.actif {
+  color: var(--accent);
+  border-bottom-color: var(--accent);
+  font-weight: 600;
+}
+
+main {
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 1.5rem;
+}
+
+.panneau { display: none; }
+.panneau.actif { display: block; }
+
+/* Scrutins */
+
+.liste-scrutins {
+  display: flex;
+  flex-direction: column;
+  gap: 0.75rem;
+}
+
+.carte-scrutin {
+  background: var(--fond-carte);
+  border: 1px solid var(--bordure);
+  border-radius: var(--rayon);
+  box-shadow: var(--ombre);
+  padding: 1rem 1.2rem;
+  cursor: pointer;
+  transition: transform 0.1s ease;
+}
+
+.carte-scrutin:hover { transform: translateY(-1px); }
+
+.carte-scrutin-entete {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  gap: 0.75rem;
+  margin-bottom: 0.4rem;
+}
+
+.carte-scrutin-date {
+  font-size: 0.8rem;
+  color: var(--texte-discret);
+  white-space: nowrap;
+}
+
+.badge-resultat {
+  display: inline-block;
+  font-size: 0.75rem;
+  font-weight: 600;
+  padding: 0.15rem 0.55rem;
+  border-radius: 999px;
+  color: #fff;
+}
+
+.badge-resultat.adopte { background: var(--vert); }
+.badge-resultat.rejete { background: var(--rouge); }
+.badge-resultat.autre { background: var(--gris); }
+
+.carte-scrutin-titre {
+  margin: 0 0 0.6rem;
+  font-size: 0.95rem;
+  line-height: 1.35;
+}
+
+.barre-votes {
+  display: flex;
+  height: 8px;
+  border-radius: 4px;
+  overflow: hidden;
+  background: var(--bordure);
+}
+
+.barre-votes span { height: 100%; }
+.barre-pour { background: var(--vert); }
+.barre-contre { background: var(--rouge); }
+.barre-abstention { background: var(--gris); }
+
+.carte-scrutin-chiffres {
+  display: flex;
+  gap: 1rem;
+  margin-top: 0.4rem;
+  font-size: 0.78rem;
+  color: var(--texte-discret);
+}
+
+.btn-secondaire {
+  display: block;
+  margin: 1.25rem auto 0;
+  padding: 0.5rem 1.2rem;
+  border-radius: 999px;
+  border: 1px solid var(--bordure);
+  background: var(--fond-carte);
+  color: var(--texte);
+  cursor: pointer;
+}
+
+/* Députés */
+
+.filtres {
+  display: flex;
+  gap: 0.6rem;
+  flex-wrap: wrap;
+  margin-bottom: 0.75rem;
+}
+
+.filtres input, .filtres select {
+  padding: 0.5rem 0.75rem;
+  border: 1px solid var(--bordure);
+  border-radius: 8px;
+  background: var(--fond-carte);
+  color: var(--texte);
+  font-size: 0.9rem;
+}
+
+.filtres input { flex: 1; min-width: 200px; }
+
+.compteur {
+  font-size: 0.8rem;
+  color: var(--texte-discret);
+  margin: 0 0 0.75rem;
+}
+
+.liste-deputes {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(230px, 1fr));
+  gap: 0.6rem;
+}
+
+.carte-depute {
+  background: var(--fond-carte);
+  border: 1px solid var(--bordure);
+  border-radius: var(--rayon);
+  padding: 0.75rem 0.9rem;
+  box-shadow: var(--ombre);
+}
+
+.carte-depute-nom {
+  font-weight: 600;
+  margin-bottom: 0.3rem;
+}
+
+.carte-depute-lieu {
+  font-size: 0.78rem;
+  color: var(--texte-discret);
+  margin-top: 0.3rem;
+}
+
+.badge-groupe {
+  display: inline-block;
+  font-size: 0.72rem;
+  font-weight: 600;
+  padding: 0.1rem 0.5rem;
+  border-radius: 999px;
+}
+
+/* Modal */
+
+.fond-modal {
+  position: fixed;
+  inset: 0;
+  background: rgba(10, 12, 16, 0.5);
+  display: flex;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 3vh 1rem;
+  overflow-y: auto;
+}
+
+.fond-modal.masque { display: none; }
+
+.modal {
+  background: var(--fond-carte);
+  border-radius: var(--rayon);
+  max-width: 640px;
+  width: 100%;
+  padding: 1.5rem;
+  position: relative;
+}
+
+.fermer {
+  position: absolute;
+  top: 0.6rem;
+  right: 0.8rem;
+  border: none;
+  background: none;
+  font-size: 1.5rem;
+  line-height: 1;
+  cursor: pointer;
+  color: var(--texte-discret);
+}
+
+.ligne-groupe-vote {
+  display: grid;
+  grid-template-columns: 100px 1fr 90px;
+  align-items: center;
+  gap: 0.6rem;
+  margin-bottom: 0.5rem;
+  font-size: 0.85rem;
+}
+
+.ligne-groupe-vote .barre-votes { height: 14px; }
+
+.detail-chiffres {
+  margin: 1rem 0;
+  font-size: 0.85rem;
+  color: var(--texte-discret);
+}

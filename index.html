@@ -1,0 +1,48 @@
+<!doctype html>
+<html lang="fr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Visu Parlement</title>
+<link rel="stylesheet" href="frontend/css/style.css">
+</head>
+<body>
+
+<header class="site-header">
+  <h1>Visu Parlement</h1>
+  <p class="soustitre">Suivi quasi temps réel des travaux de l'Assemblée nationale</p>
+  <p class="derniere-maj" id="derniere-maj"></p>
+  <nav class="onglets">
+    <button class="onglet-btn actif" data-onglet="scrutins">Scrutins récents</button>
+    <button class="onglet-btn" data-onglet="deputes">Députés</button>
+  </nav>
+</header>
+
+<main>
+  <section id="panneau-scrutins" class="panneau actif">
+    <div id="liste-scrutins" class="liste-scrutins"></div>
+    <button id="charger-plus" class="btn-secondaire">Charger plus</button>
+  </section>
+
+  <section id="panneau-deputes" class="panneau">
+    <div class="filtres">
+      <input id="recherche-depute" type="search" placeholder="Rechercher un député...">
+      <select id="filtre-groupe">
+        <option value="">Tous les groupes</option>
+      </select>
+    </div>
+    <p id="compteur-deputes" class="compteur"></p>
+    <div id="liste-deputes" class="liste-deputes"></div>
+  </section>
+</main>
+
+<div id="fond-modal" class="fond-modal masque">
+  <div class="modal">
+    <button id="fermer-modal" class="fermer" aria-label="Fermer">&times;</button>
+    <div id="contenu-modal"></div>
+  </div>
+</div>
+
+<script src="frontend/js/app.js"></script>
+</body>
+</html>

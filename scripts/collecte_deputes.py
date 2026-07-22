@@ -2,6 +2,7 @@
 import io
 import json
 import zipfile
+from datetime import datetime, timezone
 from pathlib import Path
 from urllib.request import urlopen
 
@@ -14,6 +15,7 @@ URL_DEPUTES = (
 ROOT = Path(__file__).resolve().parent.parent
 OUT_DEPUTES = ROOT / "data" / "permanent" / "deputes.json"
 OUT_GROUPES = ROOT / "data" / "permanent" / "groupes.json"
+OUT_META = ROOT / "data" / "permanent" / "meta.json"
 
 
 def telecharger_zip(url: str) -> zipfile.ZipFile:
@@ -89,6 +91,10 @@ def main() -> None:
     )
     OUT_GROUPES.write_text(
         json.dumps(sorted(groupes.values(), key=lambda g: g["nom"]), ensure_ascii=False, indent=2),
+        encoding="utf-8",
+    )
+    OUT_META.write_text(
+        json.dumps({"genereLe": datetime.now(timezone.utc).isoformat()}, ensure_ascii=False, indent=2),
         encoding="utf-8",
     )
     print(f"{len(deputes)} députés et {len(groupes)} groupes écrits.")

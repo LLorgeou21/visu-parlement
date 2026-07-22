@@ -7,7 +7,7 @@ Génère :
 import io
 import json
 import zipfile
-from datetime import date, timedelta
+from datetime import date, datetime, timedelta, timezone
 from pathlib import Path
 from urllib.request import urlopen
 
@@ -18,6 +18,7 @@ JOURS_DETAIL = 90  # fenêtre glissante pour laquelle on garde le détail nomina
 ROOT = Path(__file__).resolve().parent.parent
 OUT_INDEX = ROOT / "data" / "actuality" / "scrutins_index.json"
 OUT_DETAIL_DIR = ROOT / "data" / "actuality" / "scrutins"
+OUT_META = ROOT / "data" / "actuality" / "meta.json"
 
 
 def telecharger_zip(url: str) -> zipfile.ZipFile:
@@ -108,6 +109,10 @@ def main() -> None:
     index.sort(key=lambda s: int(s["numero"]), reverse=True)
     OUT_INDEX.parent.mkdir(parents=True, exist_ok=True)
     OUT_INDEX.write_text(json.dumps(index, ensure_ascii=False, indent=2), encoding="utf-8")
+    OUT_META.write_text(
+        json.dumps({"genereLe": datetime.now(timezone.utc).isoformat()}, ensure_ascii=False, indent=2),
+        encoding="utf-8",
+    )
 
     print(f"{len(index)} scrutins indexés, {len(numeros_recents)} détails (fenêtre {JOURS_DETAIL}j).")
 
