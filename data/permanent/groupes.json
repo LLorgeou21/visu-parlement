@@ -1,0 +1,74 @@
+[
+  {
+    "id": "PO845425",
+    "nom": "Droite Républicaine",
+    "abrev": "DR",
+    "couleur": "#8CB0DC"
+  },
+  {
+    "id": "PO845407",
+    "nom": "Ensemble pour la République",
+    "abrev": "EPR",
+    "couleur": "#7B4591"
+  },
+  {
+    "id": "PO845514",
+    "nom": "Gauche Démocrate et Républicaine",
+    "abrev": "GDR",
+    "couleur": "#830E21"
+  },
+  {
+    "id": "PO845470",
+    "nom": "Horizons & Indépendants",
+    "abrev": "HOR",
+    "couleur": "#B5E2F9"
+  },
+  {
+    "id": "PO845413",
+    "nom": "La France insoumise - Nouveau Front Populaire",
+    "abrev": "LFI-NFP",
+    "couleur": "#C00D0D"
+  },
+  {
+    "id": "PO845454",
+    "nom": "Les Démocrates",
+    "abrev": "Dem",
+    "couleur": "#F07E26"
+  },
+  {
+    "id": "PO845485",
+    "nom": "Libertés, Indépendants, Outre-mer et Territoires",
+    "abrev": "LIOT",
+    "couleur": "#FFD96F"
+  },
+  {
+    "id": "PO840056",
+    "nom": "Non inscrit",
+    "abrev": "NI",
+    "couleur": "#8D949A"
+  },
+  {
+    "id": "PO845401",
+    "nom": "Rassemblement National",
+    "abrev": "RN",
+    "couleur": "#313567"
+  },
+  {
+    "id": "PO845419",
+    "nom": "Socialistes et apparentés",
+    "abrev": "SOC",
+    "couleur": "#F5B4CE"
+  },
+  {
+    "id": "PO872880",
+    "nom": "Union des droites pour la République",
+    "abrev": "UDR",
+    "couleur": "#3367A7"
+  },
+  {
+    "id": "PO845439",
+    "nom": "Écologiste et Social",
+    "abrev": "EcoS",
+    "couleur": "#77AA79"
+  }
+]
