@@ -13,6 +13,7 @@ let hemicycleCoordonnees = new Map();
 let participationDeputes = new Map();
 let activiteDeputes = new Map();
 let debutLegislature = null;
+let matriceAccordCache = new Map();
 
 async function chargerJSON(chemin) {
   const reponse = await fetch(chemin);
@@ -489,6 +490,124 @@ function afficherHemicycle() {
     </p>`;
 }
 
+// --- Groupes ---
+
+function statsParGroupe() {
+  const membresParGroupe = new Map();
+  for (const depute of deputesParId.values()) {
+    if (!depute.groupe) continue;
+    if (!membresParGroupe.has(depute.groupe)) membresParGroupe.set(depute.groupe, []);
+    membresParGroupe.get(depute.groupe).push(depute);
+  }
+
+  return [...membresParGroupe.entries()].map(([groupeId, membres]) => {
+    const absenteismes = membres.map(absenteisme).filter((v) => v !== null);
+    const moyenneActivite = (cle) =>
+      membres.reduce((s, d) => s + ((activiteDeputes.get(d.id) || {})[cle] || 0), 0) / membres.length;
+
+    return {
+      groupeId,
+      nombreMembres: membres.length,
+      absenteismeMedian: absenteismes.length ? mediane(absenteismes) : null,
+      amendementsParMembre: moyenneActivite("amendementsAuteur"),
+      questionsParMembre: moyenneActivite("questionsEcrites"),
+      propositionsParMembre: moyenneActivite("propositionsLoi"),
+    };
+  });
+}
+
+function carteGroupe(stats) {
+  const groupe = groupesParId.get(stats.groupeId);
+  if (!groupe) return "";
+  return `
+    <article class="carte-groupe" style="--couleur-groupe:${groupe.couleur}">
+      <div class="carte-groupe-nom">${groupe.nom} (${stats.nombreMembres})</div>
+      <div class="carte-groupe-stats">
+        <span>Absentéisme médian : ${stats.absenteismeMedian !== null ? `${Math.round(stats.absenteismeMedian * 100)}%` : "n/d"}</span>
+        <span>${stats.amendementsParMembre.toFixed(1)} amendement(s) déposé(s) / membre</span>
+        <span>${stats.questionsParMembre.toFixed(1)} question(s) écrite(s) / membre</span>
+        <span>${stats.propositionsParMembre.toFixed(1)} proposition(s) de loi / membre</span>
+      </div>
+    </article>`;
+}
+
+function afficherGroupes() {
+  const stats = statsParGroupe().sort((a, b) => {
+    const nomA = groupesParId.get(a.groupeId)?.nom || "";
+    const nomB = groupesParId.get(b.groupeId)?.nom || "";
+    return nomA.localeCompare(nomB);
+  });
+  document.getElementById("liste-groupes").innerHTML = stats.map(carteGroupe).join("");
+}
+
+async function calculerMatriceAccord() {
+  if (!votesParGroupeCache) {
+    votesParGroupeCache = await chargerJSON("data/actuality/votes_par_groupe.json");
+  }
+
+  const positionsParScrutin = new Map();
+  for (const [groupeId, votes] of Object.entries(votesParGroupeCache)) {
+    for (const v of votes) {
+      if (!positionsParScrutin.has(v.numero)) positionsParScrutin.set(v.numero, {});
+      positionsParScrutin.get(v.numero)[groupeId] = v.position;
+    }
+  }
+
+  const accord = new Map();
+  for (const positions of positionsParScrutin.values()) {
+    const presents = Object.keys(positions);
+    for (let i = 0; i < presents.length; i++) {
+      for (let j = i + 1; j < presents.length; j++) {
+        const [g1, g2] = [presents[i], presents[j]].sort();
+        const cle = `${g1}|${g2}`;
+        if (!accord.has(cle)) accord.set(cle, { memes: 0, total: 0 });
+        const entree = accord.get(cle);
+        entree.total++;
+        if (positions[g1] === positions[g2]) entree.memes++;
+      }
+    }
+  }
+  return accord;
+}
+
+function couleurAccord(pct) {
+  const rouge = [192, 57, 43];
+  const vert = [46, 139, 87];
+  const melange = rouge.map((r, i) => Math.round(r + (vert[i] - r) * pct));
+  return `rgb(${melange.join(",")})`;
+}
+
+function afficherMatriceAccord() {
+  const groupesTries = [...groupesParId.values()].sort((a, b) => a.nom.localeCompare(b.nom));
+
+  const entetes = groupesTries.map((g) => `<th>${g.abrev}</th>`).join("");
+  const lignes = groupesTries
+    .map((gLigne) => {
+      const cellules = groupesTries
+        .map((gCol) => {
+          if (gLigne.id === gCol.id) return `<td class="diagonale">—</td>`;
+          const [g1, g2] = [gLigne.id, gCol.id].sort();
+          const entree = matriceAccordCache.get(`${g1}|${g2}`);
+          if (!entree || !entree.total) return `<td>n/d</td>`;
+          const pct = entree.memes / entree.total;
+          const etiquette = `${gLigne.nom} / ${gCol.nom} : ${Math.round(pct * 100)}% d'accord sur ${entree.total} scrutins`;
+          return `<td style="background:${couleurAccord(pct)};color:#fff" title="${etiquette}">${Math.round(pct * 100)}</td>`;
+        })
+        .join("");
+      return `<tr><th>${gLigne.abrev}</th>${cellules}</tr>`;
+    })
+    .join("");
+
+  document.getElementById("matrice-accord").innerHTML =
+    `<table><thead><tr><th></th>${entetes}</tr></thead><tbody>${lignes}</tbody></table>`;
+}
+
+async function initialiserOngletGroupes() {
+  afficherGroupes();
+  matriceAccordCache = await calculerMatriceAccord();
+  afficherMatriceAccord();
+}
+
 function initialiserModal() {
   const fond = document.getElementById("fond-modal");
   document.getElementById("fermer-modal").addEventListener("click", () => fond.classList.add("masque"));
@@ -548,6 +667,7 @@ async function main() {
   afficherCalendrier();
   afficherDossiers();
   afficherHemicycle();
+  initialiserOngletGroupes();
 
   document.getElementById("charger-plus").addEventListener("click", afficherScrutinsSuivants);
   document.getElementById("recherche-depute").addEventListener("input", filtrerEtAfficherDeputes);

@@ -13,6 +13,7 @@ from urllib.request import urlopen
 
 URL_AMENDEMENTS = "https://data.assemblee-nationale.fr/static/openData/repository/17/loi/amendements_div_legis/Amendements.json.zip"
 URL_QUESTIONS = "https://data.assemblee-nationale.fr/static/openData/repository/17/questions/questions_ecrites/Questions_ecrites.json.zip"
+URL_DOSSIERS = "http://data.assemblee-nationale.fr/static/openData/repository/17/loi/dossiers_legislatifs/Dossiers_Legislatifs.json.zip"
 
 TENTATIVES_TELECHARGEMENT = 5
 
@@ -34,7 +35,13 @@ def telecharger_zip(url: str) -> zipfile.ZipFile:
 
 
 def compteur_depute() -> dict:
-    return {"amendementsAuteur": 0, "amendementsCosignataire": 0, "amendementsAdoptes": 0, "questionsEcrites": 0}
+    return {
+        "amendementsAuteur": 0,
+        "amendementsCosignataire": 0,
+        "amendementsAdoptes": 0,
+        "questionsEcrites": 0,
+        "propositionsLoi": 0,
+    }
 
 
 def extraire_ref(valeur) -> str | None:
@@ -80,11 +87,35 @@ def agreger_questions(archive: zipfile.ZipFile, activite: dict[str, dict]) -> No
         activite.setdefault(auteur_ref, compteur_depute())["questionsEcrites"] += 1
 
 
+def agreger_propositions_loi(archive: zipfile.ZipFile, activite: dict[str, dict]) -> None:
+    for nom in archive.namelist():
+        if not nom.startswith("json/dossierParlementaire/") or not nom.endswith(".json"):
+            continue
+        dossier = json.loads(archive.read(nom))["dossierParlementaire"]
+        if dossier.get("legislature") != "17":
+            continue
+        if "Proposition de loi" not in dossier["procedureParlementaire"]["libelle"]:
+            continue
+
+        initiateur = dossier.get("initiateur") or {}
+        acteurs = (initiateur.get("acteurs") or {}).get("acteur")
+        if not acteurs:
+            continue
+        if isinstance(acteurs, dict):
+            acteurs = [acteurs]
+
+        for acteur in acteurs:
+            ref = extraire_ref(acteur.get("acteurRef"))
+            if ref:
+                activite.setdefault(ref, compteur_depute())["propositionsLoi"] += 1
+
+
 def main() -> None:
     activite: dict[str, dict] = {}
 
     agreger_amendements(telecharger_zip(URL_AMENDEMENTS), activite)
     agreger_questions(telecharger_zip(URL_QUESTIONS), activite)
+    agreger_propositions_loi(telecharger_zip(URL_DOSSIERS), activite)
 
     OUT_ACTIVITE.parent.mkdir(parents=True, exist_ok=True)
     OUT_ACTIVITE.write_text(json.dumps(activite, ensure_ascii=False, indent=2), encoding="utf-8")

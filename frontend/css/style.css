@@ -441,6 +441,67 @@ main {
   margin-top: 0.15rem;
 }
 
+/* Groupes */
+
+.liste-groupes {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));
+  gap: 0.6rem;
+  margin-bottom: 2rem;
+}
+
+.carte-groupe {
+  background: var(--fond-carte);
+  border: 1px solid var(--bordure);
+  border-top: 4px solid var(--couleur-groupe, var(--accent));
+  border-radius: var(--rayon);
+  padding: 0.9rem 1rem;
+  box-shadow: var(--ombre);
+}
+
+.carte-groupe-nom {
+  font-weight: 600;
+  margin-bottom: 0.5rem;
+}
+
+.carte-groupe-stats {
+  display: flex;
+  flex-direction: column;
+  gap: 0.25rem;
+  font-size: 0.78rem;
+  color: var(--texte-discret);
+}
+
+.titre-section {
+  font-size: 1.1rem;
+  margin: 0 0 0.3rem;
+}
+
+.matrice-accord {
+  overflow-x: auto;
+}
+
+.matrice-accord table {
+  border-collapse: collapse;
+  font-size: 0.72rem;
+  white-space: nowrap;
+}
+
+.matrice-accord th, .matrice-accord td {
+  padding: 0.4rem 0.5rem;
+  text-align: center;
+  min-width: 2.4rem;
+}
+
+.matrice-accord th {
+  color: var(--texte-discret);
+  font-weight: 600;
+}
+
+.matrice-accord td.diagonale {
+  background: var(--bordure);
+}
+
 .badge-groupe {
   display: inline-block;
   font-size: 0.72rem;

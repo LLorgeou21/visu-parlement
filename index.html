@@ -15,6 +15,7 @@
   <nav class="onglets">
     <button class="onglet-btn actif" data-onglet="scrutins">Scrutins récents</button>
     <button class="onglet-btn" data-onglet="deputes">Députés</button>
+    <button class="onglet-btn" data-onglet="groupes">Groupes</button>
   </nav>
 </header>
 
@@ -82,6 +83,16 @@
       </label>
       <div id="hemicycle" class="hemicycle"></div>
     </div>
+  </section>
+
+  <section id="panneau-groupes" class="panneau">
+    <div id="liste-groupes" class="liste-groupes"></div>
+    <h2 class="titre-section">Matrice d'accord entre groupes</h2>
+    <p class="compteur">
+      Pour chaque paire de groupes, part des scrutins récents où leur position majoritaire
+      (pour/contre/abstention) a été la même.
+    </p>
+    <div id="matrice-accord" class="matrice-accord"></div>
   </section>
 </main>
 
