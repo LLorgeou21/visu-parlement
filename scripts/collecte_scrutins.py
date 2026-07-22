@@ -19,6 +19,7 @@ ROOT = Path(__file__).resolve().parent.parent
 OUT_INDEX = ROOT / "data" / "actuality" / "scrutins_index.json"
 OUT_DETAIL_DIR = ROOT / "data" / "actuality" / "scrutins"
 OUT_VOTES_GROUPE = ROOT / "data" / "actuality" / "votes_par_groupe.json"
+OUT_PARTICIPATION = ROOT / "data" / "actuality" / "participation_deputes.json"
 OUT_META = ROOT / "data" / "actuality" / "meta.json"
 
 
@@ -88,6 +89,7 @@ def main() -> None:
 
     index = []
     votes_par_groupe: dict[str, list[dict]] = {}
+    votes_par_depute: dict[str, int] = {}
     OUT_DETAIL_DIR.mkdir(parents=True, exist_ok=True)
     numeros_recents = set()
 
@@ -115,6 +117,8 @@ def main() -> None:
                     "contre": ligne["contre"],
                     "abstentions": ligne["abstentions"],
                 })
+            for vote in detail["votesIndividuels"]:
+                votes_par_depute[vote["depute"]] = votes_par_depute.get(vote["depute"], 0) + 1
 
     for fichier in OUT_DETAIL_DIR.glob("*.json"):
         if fichier.stem not in numeros_recents:
@@ -128,6 +132,13 @@ def main() -> None:
     OUT_INDEX.write_text(json.dumps(index, ensure_ascii=False, indent=2), encoding="utf-8")
     OUT_VOTES_GROUPE.write_text(
         json.dumps(votes_par_groupe, ensure_ascii=False, indent=2), encoding="utf-8"
+    )
+    participation = {
+        depute: {"votes": nb, "totalScrutins": len(numeros_recents)}
+        for depute, nb in votes_par_depute.items()
+    }
+    OUT_PARTICIPATION.write_text(
+        json.dumps(participation, ensure_ascii=False, indent=2), encoding="utf-8"
     )
     OUT_META.write_text(
         json.dumps({"genereLe": datetime.now(timezone.utc).isoformat()}, ensure_ascii=False, indent=2),

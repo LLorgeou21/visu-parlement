@@ -10,6 +10,8 @@ let dossiersCalcules = [];
 let votesParGroupeCache = null;
 let moisCourant = new Date();
 let hemicycleCoordonnees = new Map();
+let participationDeputes = new Map();
+let activiteDeputes = new Map();
 
 async function chargerJSON(chemin) {
   const reponse = await fetch(chemin);
@@ -121,11 +123,62 @@ function carteDepute(depute) {
     .filter(Boolean)
     .join(" · ");
   return `
-    <article class="carte-depute">
+    <article class="carte-depute" data-depute-id="${depute.id}">
       <div class="carte-depute-nom">${nomComplet(depute)}</div>
       ${badgeGroupe(depute.groupe)}
       <div class="carte-depute-lieu">${lieu}</div>
     </article>`;
+}
+
+function barreParticipation(pourcentage) {
+  return `
+    <div class="barre-votes">
+      <span class="barre-pour" style="width:${pourcentage}%"></span>
+      <span class="barre-abstention" style="width:${100 - pourcentage}%"></span>
+    </div>`;
+}
+
+function ouvrirFicheDepute(id) {
+  const depute = deputesParId.get(id);
+  if (!depute) return;
+
+  const modal = document.getElementById("fond-modal");
+  const contenu = document.getElementById("contenu-modal");
+  const groupe = groupesParId.get(depute.groupe);
+  const lieu = [depute.departement, depute.numCirconscription ? `${depute.numCirconscription}e circonscription` : null]
+    .filter(Boolean)
+    .join(" · ");
+
+  const participation = participationDeputes.get(id);
+  const tauxParticipation = participation ? Math.round((100 * participation.votes) / participation.totalScrutins) : null;
+
+  const activite = activiteDeputes.get(id) || {
+    amendementsAuteur: 0,
+    amendementsCosignataire: 0,
+    amendementsAdoptes: 0,
+    questionsEcrites: 0,
+  };
+
+  contenu.innerHTML = `
+    ${badgeGroupe(depute.groupe)}
+    <h2>${nomComplet(depute)}</h2>
+    <p class="detail-chiffres">${groupe ? groupe.nom : ""}${lieu ? ` · ${lieu}` : ""}</p>
+
+    <h3>Participation aux scrutins (90 derniers jours)</h3>
+    ${tauxParticipation === null
+      ? `<p class="compteur">Aucun scrutin trouvé pour ce député sur la période.</p>`
+      : `${barreParticipation(tauxParticipation)}
+         <p class="detail-chiffres">${tauxParticipation}% de participation (${participation.votes}/${participation.totalScrutins} scrutins) —
+         absentéisme estimé ${100 - tauxParticipation}%</p>`}
+
+    <h3>Activité législative (législature en cours)</h3>
+    <p class="detail-chiffres">
+      ${activite.amendementsAuteur} amendement(s) déposé(s) en tant qu'auteur
+      (${activite.amendementsAdoptes} adopté(s)) · ${activite.amendementsCosignataire} cosigné(s)<br>
+      ${activite.questionsEcrites} question(s) écrite(s) posée(s) au Gouvernement
+    </p>`;
+
+  modal.classList.remove("masque");
 }
 
 function filtrerEtAfficherDeputes() {
@@ -371,17 +424,21 @@ async function main() {
   initialiserModal();
   afficherDerniereMaj();
 
-  const [groupes, deputes, index, coordonnees] = await Promise.all([
+  const [groupes, deputes, index, coordonnees, participation, activite] = await Promise.all([
     chargerJSON("data/permanent/groupes.json"),
     chargerJSON("data/permanent/deputes.json"),
     chargerJSON("data/actuality/scrutins_index.json"),
     chargerJSON("data/permanent/hemicycle_coordonnees.json"),
+    chargerJSON("data/actuality/participation_deputes.json"),
+    chargerJSON("data/actuality/activite_deputes.json"),
   ]);
 
   groupesParId = new Map(groupes.map((g) => [g.id, g]));
   deputesParId = new Map(deputes.map((d) => [d.id, d]));
   scrutinsIndex = index;
   hemicycleCoordonnees = new Map(coordonnees.sieges.map(([numero, x, y]) => [numero, { x, y }]));
+  participationDeputes = new Map(Object.entries(participation));
+  activiteDeputes = new Map(Object.entries(activite));
   moisCourant = index.length ? new Date(index[0].date) : new Date();
 
   remplirSelectGroupes("filtre-groupe");
@@ -398,8 +455,11 @@ async function main() {
   document.getElementById("filtre-groupe").addEventListener("change", filtrerEtAfficherDeputes);
 
   document.body.addEventListener("click", (e) => {
-    const carte = e.target.closest(".carte-scrutin");
-    if (carte) ouvrirDetailScrutin(carte.dataset.numero);
+    const carteScrutin = e.target.closest(".carte-scrutin");
+    if (carteScrutin) ouvrirDetailScrutin(carteScrutin.dataset.numero);
+
+    const carteDepute = e.target.closest(".carte-depute");
+    if (carteDepute) ouvrirFicheDepute(carteDepute.dataset.deputeId);
   });
 
   document.getElementById("mois-precedent").addEventListener("click", () => {
