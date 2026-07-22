@@ -502,22 +502,17 @@ main {
   color: var(--texte-discret);
 }
 
-.extraits-debat {
-  display: flex;
-  flex-direction: column;
-  gap: 0.6rem;
-  margin-top: 0.5rem;
-}
-
-.extrait-debat {
-  font-size: 0.85rem;
-  line-height: 1.45;
-  margin: 0;
-  padding: 0.6rem 0.8rem;
+.resume-loi {
+  font-size: 0.88rem;
+  line-height: 1.5;
+  margin: 0.4rem 0;
+  padding: 0.75rem 0.9rem;
   background: var(--fond);
   border-radius: 8px;
 }
 
-.extrait-orateur {
-  font-weight: 600;
+.resume-loi-source {
+  font-size: 0.72rem;
+  color: var(--texte-discret);
+  margin: 0.3rem 0 0;
 }

@@ -13,3 +13,9 @@ Interface de suivi quasi temps réel des travaux de l'Assemblée nationale fran�
 ## Hébergement
 
 GitHub Actions (collecte planifiée) + GitHub Pages (front statique).
+
+## Scripts de collecte
+
+La plupart des scripts n'ont aucune dépendance externe (stdlib uniquement).
+`collecte_resumes_lois.py` est l'exception : il lit les textes de loi (PDF) et a
+besoin de `pip install -r requirements.txt`.

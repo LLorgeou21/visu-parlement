@@ -117,17 +117,15 @@ function hemicycleVotes(votesIndividuels) {
     </div>`;
 }
 
-let extraitsDebatsCache = null;
+let resumesLoisCache = null;
 
-function extraitDebat(interventions) {
-  if (!interventions || !interventions.length) return "";
+function resumeLoi(dossierRef) {
+  const resume = dossierRef && resumesLoisCache[dossierRef];
+  if (!resume) return "";
   return `
-    <h3>Contexte du débat (dernières interventions avant le vote)</h3>
-    <div class="extraits-debat">
-      ${interventions
-        .map((i) => `<p class="extrait-debat"><span class="extrait-orateur">${i.orateur}</span> — ${i.texte}</p>`)
-        .join("")}
-    </div>`;
+    <h3>De quoi parle ce texte ?</h3>
+    <p class="resume-loi">${resume}</p>
+    <p class="resume-loi-source">Extrait de l'exposé des motifs du texte déposé à l'Assemblée nationale.</p>`;
 }
 
 async function ouvrirDetailScrutin(numero) {
@@ -137,8 +135,8 @@ async function ouvrirDetailScrutin(numero) {
   modal.classList.remove("masque");
 
   try {
-    if (!extraitsDebatsCache) {
-      extraitsDebatsCache = await chargerJSON("data/actuality/extraits_debats.json");
+    if (!resumesLoisCache) {
+      resumesLoisCache = await chargerJSON("data/actuality/resumes_lois.json");
     }
     const detail = await chargerJSON(`data/actuality/scrutins/${numero}.json`);
 
@@ -151,8 +149,8 @@ async function ouvrirDetailScrutin(numero) {
       <div class="detail-chiffres">
         ${detail.votants} votants · ${detail.pour} pour · ${detail.contre} contre · ${detail.abstentions} abstentions
       </div>
-      ${hemicycleVotes(detail.votesIndividuels)}
-      ${extraitDebat(extraitsDebatsCache[numero])}`;
+      ${resumeLoi(detail.dossierRef)}
+      ${hemicycleVotes(detail.votesIndividuels)}`;
   } catch (erreur) {
     contenu.innerHTML = `<p>Détail indisponible pour ce scrutin (hors fenêtre conservée, ou erreur : ${erreur.message}).</p>`;
   }
