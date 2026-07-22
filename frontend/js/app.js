@@ -9,6 +9,7 @@ let scrutinsParJour = new Map();
 let dossiersCalcules = [];
 let votesParGroupeCache = null;
 let moisCourant = new Date();
+let hemicycleCoordonnees = new Map();
 
 async function chargerJSON(chemin) {
   const reponse = await fetch(chemin);
@@ -291,55 +292,16 @@ function mediane(nombres) {
   return tries.length % 2 ? tries[milieu] : (tries[milieu - 1] + tries[milieu]) / 2;
 }
 
-function ordonnerGroupesParPosition(deputes) {
-  const placesParGroupe = new Map();
+function ordonnerGroupesParPositionReelle(deputes) {
+  const xParGroupe = new Map();
   for (const d of deputes) {
-    if (!placesParGroupe.has(d.groupe)) placesParGroupe.set(d.groupe, []);
-    placesParGroupe.get(d.groupe).push(d.placeHemicycle);
+    const { x } = hemicycleCoordonnees.get(d.placeHemicycle);
+    if (!xParGroupe.has(d.groupe)) xParGroupe.set(d.groupe, []);
+    xParGroupe.get(d.groupe).push(x);
   }
-  return [...placesParGroupe.entries()]
+  return [...xParGroupe.entries()]
     .sort((a, b) => mediane(a[1]) - mediane(b[1]))
     .map(([groupeId]) => groupeId);
-}
-
-function calculerPositionsHemicycle(deputes, ordreGroupes) {
-  // Chaque groupe politique doit occuper un secteur angulaire d'un seul tenant, étalé sur
-  // toutes les rangées (du premier au dernier rang) — pas une rangée entière par groupe, et
-  // pas non plus un petit groupe "englouti" dans la plage de numéros d'un plus grand groupe
-  // voisin. On trie donc d'abord les députés par groupe (dans l'ordre gauche-droite déduit de
-  // la médiane des vrais numéros de place de chaque groupe), puis par numéro de place à
-  // l'intérieur du groupe. Les emplacements (rangée x angle) sont calculés séparément puis
-  // triés par angle, et distribués dans cet ordre.
-  const rangGroupe = new Map(ordreGroupes.map((id, i) => [id, i]));
-  const tries = [...deputes].sort((a, b) => {
-    const diff = rangGroupe.get(a.groupe) - rangGroupe.get(b.groupe);
-    return diff !== 0 ? diff : a.placeHemicycle - b.placeHemicycle;
-  });
-  const total = tries.length;
-
-  const NB_RANGEES = 10;
-  const RAYON_MIN = 90;
-  const RAYON_MAX = 300;
-  const ANGLE_MIN = (165 * Math.PI) / 180;
-  const ANGLE_MAX = (15 * Math.PI) / 180;
-
-  const rayons = Array.from({ length: NB_RANGEES }, (_, i) => RAYON_MIN + ((RAYON_MAX - RAYON_MIN) * i) / (NB_RANGEES - 1));
-  const poidsTotal = rayons.reduce((s, r) => s + r, 0);
-  const tailles = rayons.map((r) => Math.round((total * r) / poidsTotal));
-  tailles[tailles.length - 1] += total - tailles.reduce((s, n) => s + n, 0);
-
-  const emplacements = [];
-  tailles.forEach((taille, i) => {
-    const rayon = rayons[i];
-    for (let j = 0; j < taille; j++) {
-      const t = taille === 1 ? 0.5 : j / (taille - 1);
-      const angle = ANGLE_MIN + (ANGLE_MAX - ANGLE_MIN) * t;
-      emplacements.push({ angle, x: 300 + rayon * Math.cos(angle), y: 320 - rayon * Math.sin(angle) });
-    }
-  });
-  emplacements.sort((a, b) => b.angle - a.angle);
-
-  return tries.map((depute, i) => ({ depute, x: emplacements[i].x, y: emplacements[i].y }));
 }
 
 function legendeHemicycle(ordreGroupes) {
@@ -355,25 +317,27 @@ function legendeHemicycle(ordreGroupes) {
 }
 
 function afficherHemicycle() {
-  const deputesAvecPlace = [...deputesParId.values()].filter((d) => d.placeHemicycle && d.groupe);
-  const ordreGroupes = ordonnerGroupesParPosition(deputesAvecPlace);
-  const positions = calculerPositionsHemicycle(deputesAvecPlace, ordreGroupes);
-  const cercles = positions
-    .map(({ depute, x, y }) => {
+  const deputesAvecSiege = [...deputesParId.values()].filter(
+    (d) => d.placeHemicycle && d.groupe && hemicycleCoordonnees.has(d.placeHemicycle)
+  );
+
+  const cercles = deputesAvecSiege
+    .map((depute) => {
+      const { x, y } = hemicycleCoordonnees.get(depute.placeHemicycle);
       const groupe = groupesParId.get(depute.groupe);
       const couleur = groupe ? groupe.couleur : "#8d949a";
       const etiquette = `${nomComplet(depute)} (${groupe ? groupe.abrev : "NI"})`;
-      return `<circle cx="${x.toFixed(1)}" cy="${y.toFixed(1)}" r="5.5" fill="${couleur}"><title>${etiquette}</title></circle>`;
+      return `<circle cx="${x}" cy="${y}" r="6" fill="${couleur}"><title>${etiquette}</title></circle>`;
     })
     .join("");
 
+  const ordreGroupes = ordonnerGroupesParPositionReelle(deputesAvecSiege);
+
   document.getElementById("hemicycle").innerHTML = `
-    <svg viewBox="0 0 600 340" role="img" aria-label="Hémicycle de l'Assemblée nationale">${cercles}</svg>
+    <svg viewBox="0 0 850 480" role="img" aria-label="Hémicycle de l'Assemblée nationale">${cercles}</svg>
     <div class="legende-hemicycle">${legendeHemicycle(ordreGroupes)}</div>
     <p class="hemicycle-note">
-      Disposition approximative reconstituée à partir des numéros de place réels
-      (les coordonnées exactes des sièges ne sont pas publiées en open data). Les groupes sont
-      ordonnés selon la médiane de leurs numéros de place réels, de gauche à droite.
+      Disposition réelle des sièges, d'après le plan officiel de l'Assemblée nationale.
     </p>`;
 }
 
@@ -407,15 +371,17 @@ async function main() {
   initialiserModal();
   afficherDerniereMaj();
 
-  const [groupes, deputes, index] = await Promise.all([
+  const [groupes, deputes, index, coordonnees] = await Promise.all([
     chargerJSON("data/permanent/groupes.json"),
     chargerJSON("data/permanent/deputes.json"),
     chargerJSON("data/actuality/scrutins_index.json"),
+    chargerJSON("data/permanent/hemicycle_coordonnees.json"),
   ]);
 
   groupesParId = new Map(groupes.map((g) => [g.id, g]));
   deputesParId = new Map(deputes.map((d) => [d.id, d]));
   scrutinsIndex = index;
+  hemicycleCoordonnees = new Map(coordonnees.sieges.map(([numero, x, y]) => [numero, { x, y }]));
   moisCourant = index.length ? new Date(index[0].date) : new Date();
 
   remplirSelectGroupes("filtre-groupe");
