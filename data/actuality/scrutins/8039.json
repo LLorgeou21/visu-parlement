@@ -1,0 +1,600 @@
+{
+  "numero": "8039",
+  "date": "2026-07-08",
+  "titre": "l'amendement n° 882 du Gouvernement et les amendements identiques suivants de rétablissement de l'article 2 bis (supprimé) du projet de loi visant à offrir des réponses immédiates aux phénomènes troublant l'ordre public, la sécurité et la tranquillité de nos concitoyens (première lecture).",
+  "dossier": "Projet de loi visant à offrir des réponses immédiates aux phénomènes troublant l’ordre public, la sécurité et la tranquillité de nos concitoyens",
+  "typeVote": "scrutin public ordinaire",
+  "resultat": "adopté",
+  "votants": 125,
+  "pour": 95,
+  "contre": 30,
+  "abstentions": 0,
+  "parGroupe": [
+    {
+      "groupe": "PO845401",
+      "position": "pour",
+      "pour": 38,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "groupe": "PO845407",
+      "position": "pour",
+      "pour": 26,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "groupe": "PO845413",
+      "position": "contre",
+      "pour": 0,
+      "contre": 12,
+      "abstentions": 0
+    },
+    {
+      "groupe": "PO845419",
+      "position": "contre",
+      "pour": 0,
+      "contre": 11,
+      "abstentions": 0
+    },
+    {
+      "groupe": "PO845425",
+      "position": "pour",
+      "pour": 9,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "groupe": "PO845439",
+      "position": "contre",
+      "pour": 1,
+      "contre": 5,
+      "abstentions": 0
+    },
+    {
+      "groupe": "PO845454",
+      "position": "pour",
+      "pour": 11,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "groupe": "PO845470",
+      "position": "pour",
+      "pour": 7,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "groupe": "PO845485",
+      "position": "pour",
+      "pour": 2,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "groupe": "PO845514",
+      "position": "contre",
+      "pour": 0,
+      "contre": 2,
+      "abstentions": 0
+    },
+    {
+      "groupe": "PO872880",
+      "position": "pour",
+      "pour": 0,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "groupe": "PO840056",
+      "position": "pour",
+      "pour": 1,
+      "contre": 0,
+      "abstentions": 0
+    }
+  ],
+  "votesIndividuels": [
+    {
+      "depute": "PA793374",
+      "position": "pour"
+    },
+    {
+      "depute": "PA795900",
+      "position": "pour"
+    },
+    {
+      "depute": "PA793608",
+      "position": "pour"
+    },
+    {
+      "depute": "PA721932",
+      "position": "pour"
+    },
+    {
+      "depute": "PA794570",
+      "position": "pour"
+    },
+    {
+      "depute": "PA794530",
+      "position": "pour"
+    },
+    {
+      "depute": "PA793656",
+      "position": "pour"
+    },
+    {
+      "depute": "PA841981",
+      "position": "pour"
+    },
+    {
+      "depute": "PA841737",
+      "position": "pour"
+    },
+    {
+      "depute": "PA840869",
+      "position": "pour"
+    },
+    {
+      "depute": "PA840135",
+      "position": "pour"
+    },
+    {
+      "depute": "PA794502",
+      "position": "pour"
+    },
+    {
+      "depute": "PA841451",
+      "position": "pour"
+    },
+    {
+      "depute": "PA841837",
+      "position": "pour"
+    },
+    {
+      "depute": "PA840745",
+      "position": "pour"
+    },
+    {
+      "depute": "PA793928",
+      "position": "pour"
+    },
+    {
+      "depute": "PA793102",
+      "position": "pour"
+    },
+    {
+      "depute": "PA793632",
+      "position": "pour"
+    },
+    {
+      "depute": "PA793146",
+      "position": "pour"
+    },
+    {
+      "depute": "PA794954",
+      "position": "pour"
+    },
+    {
+      "depute": "PA841131",
+      "position": "pour"
+    },
+    {
+      "depute": "PA793548",
+      "position": "pour"
+    },
+    {
+      "depute": "PA840801",
+      "position": "pour"
+    },
+    {
+      "depute": "PA840967",
+      "position": "pour"
+    },
+    {
+      "depute": "PA841563",
+      "position": "pour"
+    },
+    {
+      "depute": "PA842073",
+      "position": "pour"
+    },
+    {
+      "depute": "PA793134",
+      "position": "pour"
+    },
+    {
+      "depute": "PA841613",
+      "position": "pour"
+    },
+    {
+      "depute": "PA840143",
+      "position": "pour"
+    },
+    {
+      "depute": "PA841587",
+      "position": "pour"
+    },
+    {
+      "depute": "PA841059",
+      "position": "pour"
+    },
+    {
+      "depute": "PA842001",
+      "position": "pour"
+    },
+    {
+      "depute": "PA793218",
+      "position": "pour"
+    },
+    {
+      "depute": "PA793334",
+      "position": "pour"
+    },
+    {
+      "depute": "PA841825",
+      "position": "pour"
+    },
+    {
+      "depute": "PA842227",
+      "position": "pour"
+    },
+    {
+      "depute": "PA793362",
+      "position": "pour"
+    },
+    {
+      "depute": "PA842255",
+      "position": "pour"
+    },
+    {
+      "depute": "PA721158",
+      "position": "pour"
+    },
+    {
+      "depute": "PA719218",
+      "position": "pour"
+    },
+    {
+      "depute": "PA794330",
+      "position": "pour"
+    },
+    {
+      "depute": "PA719890",
+      "position": "pour"
+    },
+    {
+      "depute": "PA722000",
+      "position": "pour"
+    },
+    {
+      "depute": "PA794798",
+      "position": "pour"
+    },
+    {
+      "depute": "PA721750",
+      "position": "pour"
+    },
+    {
+      "depute": "PA842311",
+      "position": "pour"
+    },
+    {
+      "depute": "PA720154",
+      "position": "pour"
+    },
+    {
+      "depute": "PA722366",
+      "position": "pour"
+    },
+    {
+      "depute": "PA793270",
+      "position": "pour"
+    },
+    {
+      "depute": "PA794802",
+      "position": "pour"
+    },
+    {
+      "depute": "PA722102",
+      "position": "pour"
+    },
+    {
+      "depute": "PA719512",
+      "position": "pour"
+    },
+    {
+      "depute": "PA842147",
+      "position": "pour"
+    },
+    {
+      "depute": "PA267200",
+      "position": "pour"
+    },
+    {
+      "depute": "PA643184",
+      "position": "pour"
+    },
+    {
+      "depute": "PA720342",
+      "position": "pour"
+    },
+    {
+      "depute": "PA794206",
+      "position": "pour"
+    },
+    {
+      "depute": "PA795664",
+      "position": "pour"
+    },
+    {
+      "depute": "PA719632",
+      "position": "pour"
+    },
+    {
+      "depute": "PA795050",
+      "position": "pour"
+    },
+    {
+      "depute": "PA721426",
+      "position": "pour"
+    },
+    {
+      "depute": "PA795528",
+      "position": "pour"
+    },
+    {
+      "depute": "PA721632",
+      "position": "pour"
+    },
+    {
+      "depute": "PA857021",
+      "position": "pour"
+    },
+    {
+      "depute": "PA720430",
+      "position": "contre"
+    },
+    {
+      "depute": "PA842037",
+      "position": "contre"
+    },
+    {
+      "depute": "PA795136",
+      "position": "contre"
+    },
+    {
+      "depute": "PA794786",
+      "position": "contre"
+    },
+    {
+      "depute": "PA794106",
+      "position": "contre"
+    },
+    {
+      "depute": "PA794082",
+      "position": "contre"
+    },
+    {
+      "depute": "PA794130",
+      "position": "contre"
+    },
+    {
+      "depute": "PA795516",
+      "position": "contre"
+    },
+    {
+      "depute": "PA793532",
+      "position": "contre"
+    },
+    {
+      "depute": "PA342384",
+      "position": "contre"
+    },
+    {
+      "depute": "PA721960",
+      "position": "contre"
+    },
+    {
+      "depute": "PA793872",
+      "position": "contre"
+    },
+    {
+      "depute": "PA608264",
+      "position": "contre"
+    },
+    {
+      "depute": "PA840903",
+      "position": "contre"
+    },
+    {
+      "depute": "PA794854",
+      "position": "contre"
+    },
+    {
+      "depute": "PA841893",
+      "position": "contre"
+    },
+    {
+      "depute": "PA794494",
+      "position": "contre"
+    },
+    {
+      "depute": "PA841853",
+      "position": "contre"
+    },
+    {
+      "depute": "PA643192",
+      "position": "contre"
+    },
+    {
+      "depute": "PA335054",
+      "position": "contre"
+    },
+    {
+      "depute": "PA608172",
+      "position": "contre"
+    },
+    {
+      "depute": "PA607553",
+      "position": "contre"
+    },
+    {
+      "depute": "PA840673",
+      "position": "contre"
+    },
+    {
+      "depute": "PA718884",
+      "position": "pour"
+    },
+    {
+      "depute": "PA721816",
+      "position": "pour"
+    },
+    {
+      "depute": "PA841047",
+      "position": "pour"
+    },
+    {
+      "depute": "PA266797",
+      "position": "pour"
+    },
+    {
+      "depute": "PA840979",
+      "position": "pour"
+    },
+    {
+      "depute": "PA718784",
+      "position": "pour"
+    },
+    {
+      "depute": "PA266808",
+      "position": "pour"
+    },
+    {
+      "depute": "PA642725",
+      "position": "pour"
+    },
+    {
+      "depute": "PA842141",
+      "position": "pour"
+    },
+    {
+      "depute": "PA588884",
+      "position": "pour"
+    },
+    {
+      "depute": "PA841419",
+      "position": "contre"
+    },
+    {
+      "depute": "PA794154",
+      "position": "contre"
+    },
+    {
+      "depute": "PA794778",
+      "position": "contre"
+    },
+    {
+      "depute": "PA796018",
+      "position": "contre"
+    },
+    {
+      "depute": "PA841713",
+      "position": "contre"
+    },
+    {
+      "depute": "PA719024",
+      "position": "pour"
+    },
+    {
+      "depute": "PA793716",
+      "position": "pour"
+    },
+    {
+      "depute": "PA793122",
+      "position": "pour"
+    },
+    {
+      "depute": "PA722374",
+      "position": "pour"
+    },
+    {
+      "depute": "PA721984",
+      "position": "pour"
+    },
+    {
+      "depute": "PA794702",
+      "position": "pour"
+    },
+    {
+      "depute": "PA795100",
+      "position": "pour"
+    },
+    {
+      "depute": "PA719640",
+      "position": "pour"
+    },
+    {
+      "depute": "PA794810",
+      "position": "pour"
+    },
+    {
+      "depute": "PA720334",
+      "position": "pour"
+    },
+    {
+      "depute": "PA721612",
+      "position": "pour"
+    },
+    {
+      "depute": "PA794278",
+      "position": "pour"
+    },
+    {
+      "depute": "PA794658",
+      "position": "pour"
+    },
+    {
+      "depute": "PA794470",
+      "position": "pour"
+    },
+    {
+      "depute": "PA794234",
+      "position": "pour"
+    },
+    {
+      "depute": "PA720230",
+      "position": "pour"
+    },
+    {
+      "depute": "PA720138",
+      "position": "pour"
+    },
+    {
+      "depute": "PA794518",
+      "position": "pour"
+    },
+    {
+      "depute": "PA840817",
+      "position": "pour"
+    },
+    {
+      "depute": "PA841931",
+      "position": "pour"
+    },
+    {
+      "depute": "PA721896",
+      "position": "contre"
+    },
+    {
+      "depute": "PA605745",
+      "position": "contre"
+    },
+    {
+      "depute": "PA569",
+      "position": "pour"
+    }
+  ]
+}
