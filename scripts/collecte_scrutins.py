@@ -3,6 +3,8 @@
 Génère :
 - data/actuality/scrutins_index.json : liste légère de tous les scrutins (pour une timeline)
 - data/actuality/scrutins/<numero>.json : détail (par groupe + par député) des scrutins récents
+- data/actuality/participation_deputes.json : participation par député sur toute la
+  législature (calculée à la volée, sans garder le détail nominatif des vieux scrutins)
 """
 import io
 import json
@@ -56,6 +58,22 @@ def resume_scrutin(scrutin: dict) -> dict:
     }
 
 
+def votants_scrutin(scrutin: dict) -> list[str]:
+    # Version légère de detail_scrutin() : juste qui a voté (peu importe quoi),
+    # pour calculer la participation sur toute la législature sans avoir à
+    # conserver le détail nominatif complet de chaque scrutin.
+    groupes_brut = scrutin["ventilationVotes"]["organe"]["groupes"]["groupe"]
+    if isinstance(groupes_brut, dict):
+        groupes_brut = [groupes_brut]
+
+    resultat = []
+    for groupe in groupes_brut:
+        nominatif = groupe["vote"]["decompteNominatif"]
+        for bloc in ("pours", "contres", "abstentions"):
+            resultat.extend(votants(nominatif.get(bloc)))
+    return resultat
+
+
 def detail_scrutin(scrutin: dict, resume: dict) -> dict:
     groupes_brut = scrutin["ventilationVotes"]["organe"]["groupes"]["groupe"]
     if isinstance(groupes_brut, dict):
@@ -100,6 +118,9 @@ def main() -> None:
         resume = resume_scrutin(scrutin)
         index.append(resume)
 
+        for depute in votants_scrutin(scrutin):
+            votes_par_depute[depute] = votes_par_depute.get(depute, 0) + 1
+
         if date.fromisoformat(resume["date"]) >= cutoff:
             numeros_recents.add(resume["numero"])
             detail = detail_scrutin(scrutin, resume)
@@ -117,8 +138,6 @@ def main() -> None:
                     "contre": ligne["contre"],
                     "abstentions": ligne["abstentions"],
                 })
-            for vote in detail["votesIndividuels"]:
-                votes_par_depute[vote["depute"]] = votes_par_depute.get(vote["depute"], 0) + 1
 
     for fichier in OUT_DETAIL_DIR.glob("*.json"):
         if fichier.stem not in numeros_recents:
@@ -134,7 +153,7 @@ def main() -> None:
         json.dumps(votes_par_groupe, ensure_ascii=False, indent=2), encoding="utf-8"
     )
     participation = {
-        depute: {"votes": nb, "totalScrutins": len(numeros_recents)}
+        depute: {"votes": nb, "totalScrutins": len(index)}
         for depute, nb in votes_par_depute.items()
     }
     OUT_PARTICIPATION.write_text(

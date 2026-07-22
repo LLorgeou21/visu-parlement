@@ -164,12 +164,13 @@ function ouvrirFicheDepute(id) {
     <h2>${nomComplet(depute)}</h2>
     <p class="detail-chiffres">${groupe ? groupe.nom : ""}${lieu ? ` · ${lieu}` : ""}</p>
 
-    <h3>Participation aux scrutins (90 derniers jours)</h3>
+    <h3>Participation aux scrutins (législature en cours)</h3>
     ${tauxParticipation === null
-      ? `<p class="compteur">Aucun scrutin trouvé pour ce député sur la période.</p>`
+      ? `<p class="compteur">Aucun scrutin trouvé pour ce député.</p>`
       : `${barreParticipation(tauxParticipation)}
          <p class="detail-chiffres">${tauxParticipation}% de participation (${participation.votes}/${participation.totalScrutins} scrutins) —
-         absentéisme estimé ${100 - tauxParticipation}%</p>`}
+         absentéisme estimé ${100 - tauxParticipation}%. Sous-estimé pour les députés arrivés en
+         cours de législature (remplacements), le total inclut les scrutins avant leur entrée en fonction.</p>`}
 
     <h3>Activité législative (législature en cours)</h3>
     <p class="detail-chiffres">
