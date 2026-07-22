@@ -7,7 +7,8 @@
     "groupe": "PO845485",
     "departement": "Ariège",
     "numCirconscription": "2",
-    "region": "Occitanie"
+    "region": "Occitanie",
+    "placeHemicycle": 466
   },
   {
     "id": "PA795228",
@@ -17,7 +18,8 @@
     "groupe": "PO845413",
     "departement": "Seine-Saint-Denis",
     "numCirconscription": "10",
-    "region": "Ile-de-France"
+    "region": "Ile-de-France",
+    "placeHemicycle": 627
   },
   {
     "id": "PA794278",
@@ -27,7 +29,8 @@
     "groupe": "PO845470",
     "departement": "Marne",
     "numCirconscription": "1",
-    "region": "Grand Est"
+    "region": "Grand Est",
+    "placeHemicycle": 216
   },
   {
     "id": "PA793262",
@@ -37,7 +40,8 @@
     "groupe": "PO845413",
     "departement": "Aveyron",
     "numCirconscription": "2",
-    "region": "Occitanie"
+    "region": "Occitanie",
+    "placeHemicycle": 571
   },
   {
     "id": "PA793992",
@@ -47,7 +51,8 @@
     "groupe": "PO845470",
     "departement": "Indre-et-Loire",
     "numCirconscription": "3",
-    "region": "Centre-Val de Loire"
+    "region": "Centre-Val de Loire",
+    "placeHemicycle": 244
   },
   {
     "id": "PA841067",
@@ -57,7 +62,8 @@
     "groupe": "PO872880",
     "departement": "Gard",
     "numCirconscription": "5",
-    "region": "Occitanie"
+    "region": "Occitanie",
+    "placeHemicycle": 113
   },
   {
     "id": "PA840665",
@@ -67,7 +73,8 @@
     "groupe": "PO845419",
     "departement": "Hautes-Alpes",
     "numCirconscription": "1",
-    "region": "Provence-Alpes-Côte d'Azur"
+    "region": "Provence-Alpes-Côte d'Azur",
+    "placeHemicycle": 471
   },
   {
     "id": "PA793432",
@@ -77,7 +84,8 @@
     "groupe": "PO845401",
     "departement": "Bouches-du-Rhône",
     "numCirconscription": "12",
-    "region": "Provence-Alpes-Côte d'Azur"
+    "region": "Provence-Alpes-Côte d'Azur",
+    "placeHemicycle": 63
   },
   {
     "id": "PA841207",
@@ -87,7 +95,8 @@
     "groupe": "PO872880",
     "departement": "Hérault",
     "numCirconscription": "9",
-    "region": "Occitanie"
+    "region": "Occitanie",
+    "placeHemicycle": 106
   },
   {
     "id": "PA794906",
@@ -97,7 +106,8 @@
     "groupe": "PO845413",
     "departement": "Rhône",
     "numCirconscription": "6",
-    "region": "Auvergne-Rhône-Alpes"
+    "region": "Auvergne-Rhône-Alpes",
+    "placeHemicycle": 544
   },
   {
     "id": "PA841495",
@@ -107,7 +117,8 @@
     "groupe": "PO845401",
     "departement": "Meuse",
     "numCirconscription": "1",
-    "region": "Grand Est"
+    "region": "Grand Est",
+    "placeHemicycle": 10
   },
   {
     "id": "PA794138",
@@ -117,7 +128,8 @@
     "groupe": "PO845413",
     "departement": "Loire-Atlantique",
     "numCirconscription": "3",
-    "region": "Pays de la Loire"
+    "region": "Pays de la Loire",
+    "placeHemicycle": 526
   },
   {
     "id": "PA610968",
@@ -127,7 +139,8 @@
     "groupe": "PO845439",
     "departement": "Paris",
     "numCirconscription": "5",
-    "region": "Ile-de-France"
+    "region": "Ile-de-France",
+    "placeHemicycle": 516
   },
   {
     "id": "PA795588",
@@ -137,7 +150,8 @@
     "groupe": "PO845413",
     "departement": "Essonne",
     "numCirconscription": "1",
-    "region": "Ile-de-France"
+    "region": "Ile-de-France",
+    "placeHemicycle": 643
   },
   {
     "id": "PA721158",
@@ -147,7 +161,8 @@
     "groupe": "PO845407",
     "departement": "Français établis hors de France",
     "numCirconscription": "4",
-    "region": "Français établis hors de France"
+    "region": "Français établis hors de France",
+    "placeHemicycle": 281
   },
   {
     "id": "PA795084",
@@ -157,7 +172,8 @@
     "groupe": "PO845413",
     "departement": "Paris",
     "numCirconscription": "10",
-    "region": "Ile-de-France"
+    "region": "Ile-de-France",
+    "placeHemicycle": 610
   },
   {
     "id": "PA842105",
@@ -167,7 +183,8 @@
     "groupe": "PO845413",
     "departement": "Vaucluse",
     "numCirconscription": "1",
-    "region": "Provence-Alpes-Côte d'Azur"
+    "region": "Provence-Alpes-Côte d'Azur",
+    "placeHemicycle": 560
   },
   {
     "id": "PA793780",
@@ -177,7 +194,8 @@
     "groupe": "PO845439",
     "departement": "Haute-Garonne",
     "numCirconscription": "9",
-    "region": "Occitanie"
+    "region": "Occitanie",
+    "placeHemicycle": 517
   },
   {
     "id": "PA722190",
@@ -187,7 +205,8 @@
     "groupe": "PO845407",
     "departement": "Hauts-de-Seine",
     "numCirconscription": "10",
-    "region": "Ile-de-France"
+    "region": "Ile-de-France",
+    "placeHemicycle": 267
   },
   {
     "id": "PA588884",
@@ -197,7 +216,8 @@
     "groupe": "PO845439",
     "departement": "Seine-Saint-Denis",
     "numCirconscription": "11",
-    "region": "Ile-de-France"
+    "region": "Ile-de-France",
+    "placeHemicycle": 510
   },
   {
     "id": "PA796118",
@@ -207,7 +227,8 @@
     "groupe": "PO845401",
     "departement": "Vaucluse",
     "numCirconscription": "2",
-    "region": "Provence-Alpes-Côte d'Azur"
+    "region": "Provence-Alpes-Côte d'Azur",
+    "placeHemicycle": 79
   },
   {
     "id": "PA642764",
@@ -217,7 +238,8 @@
     "groupe": "PO845419",
     "departement": "Haute-Garonne",
     "numCirconscription": "8",
-    "region": "Occitanie"
+    "region": "Occitanie",
+    "placeHemicycle": 428
   },
   {
     "id": "PA841701",
@@ -227,7 +249,8 @@
     "groupe": "PO845439",
     "departement": "Paris",
     "numCirconscription": "3",
-    "region": "Ile-de-France"
+    "region": "Ile-de-France",
+    "placeHemicycle": 523
   },
   {
     "id": "PA719558",
@@ -237,7 +260,8 @@
     "groupe": "PO845454",
     "departement": "Finistère",
     "numCirconscription": "8",
-    "region": "Bretagne"
+    "region": "Bretagne",
+    "placeHemicycle": 333
   },
   {
     "id": "PA794562",
@@ -247,7 +271,8 @@
     "groupe": "PO845401",
     "departement": "Oise",
     "numCirconscription": "2",
-    "region": "Hauts-de-France"
+    "region": "Hauts-de-France",
+    "placeHemicycle": 94
   },
   {
     "id": "PA842279",
@@ -257,7 +282,8 @@
     "groupe": "PO845401",
     "departement": "Mayotte",
     "numCirconscription": "2",
-    "region": "Mayotte"
+    "region": "Mayotte",
+    "placeHemicycle": 25
   },
   {
     "id": "PA720256",
@@ -267,7 +293,8 @@
     "groupe": "PO845454",
     "departement": "Mayenne",
     "numCirconscription": "2",
-    "region": "Pays de la Loire"
+    "region": "Pays de la Loire",
+    "placeHemicycle": 371
   },
   {
     "id": "PA643143",
@@ -277,7 +304,8 @@
     "groupe": "PO845419",
     "departement": "Guadeloupe",
     "numCirconscription": "2",
-    "region": "Guadeloupe"
+    "region": "Guadeloupe",
+    "placeHemicycle": 440
   },
   {
     "id": "PA368",
@@ -287,7 +315,8 @@
     "groupe": "PO845425",
     "departement": "Paris",
     "numCirconscription": "2",
-    "region": "Ile-de-France"
+    "region": "Ile-de-France",
+    "placeHemicycle": 180
   },
   {
     "id": "PA840829",
@@ -297,7 +326,8 @@
     "groupe": "PO845419",
     "departement": "Charente-Maritime",
     "numCirconscription": "3",
-    "region": "Nouvelle-Aquitaine"
+    "region": "Nouvelle-Aquitaine",
+    "placeHemicycle": 567
   },
   {
     "id": "PA267763",
@@ -307,7 +337,8 @@
     "groupe": "PO845485",
     "departement": "Nord",
     "numCirconscription": "15",
-    "region": "Hauts-de-France"
+    "region": "Hauts-de-France",
+    "placeHemicycle": 479
   },
   {
     "id": "PA335999",
@@ -317,7 +348,8 @@
     "groupe": "PO845439",
     "departement": "Deux-Sèvres",
     "numCirconscription": "2",
-    "region": "Nouvelle-Aquitaine"
+    "region": "Nouvelle-Aquitaine",
+    "placeHemicycle": 504
   },
   {
     "id": "PA342415",
@@ -327,7 +359,8 @@
     "groupe": "PO845419",
     "departement": "Isère",
     "numCirconscription": "4",
-    "region": "Auvergne-Rhône-Alpes"
+    "region": "Auvergne-Rhône-Alpes",
+    "placeHemicycle": 442
   },
   {
     "id": "PA793374",
@@ -337,7 +370,8 @@
     "groupe": "PO845401",
     "departement": "Bouches-du-Rhône",
     "numCirconscription": "15",
-    "region": "Provence-Alpes-Côte d'Azur"
+    "region": "Provence-Alpes-Côte d'Azur",
+    "placeHemicycle": 52
   },
   {
     "id": "PA606793",
@@ -347,7 +381,8 @@
     "groupe": "PO845419",
     "departement": "Indre-et-Loire",
     "numCirconscription": "4",
-    "region": "Centre-Val de Loire"
+    "region": "Centre-Val de Loire",
+    "placeHemicycle": 451
   },
   {
     "id": "PA642847",
@@ -357,7 +392,8 @@
     "groupe": "PO845425",
     "departement": "Meurthe-et-Moselle",
     "numCirconscription": "4",
-    "region": "Grand Est"
+    "region": "Grand Est",
+    "placeHemicycle": 165
   },
   {
     "id": "PA718884",
@@ -367,7 +403,8 @@
     "groupe": "PO845425",
     "departement": "Aube",
     "numCirconscription": "2",
-    "region": "Grand Est"
+    "region": "Grand Est",
+    "placeHemicycle": 199
   },
   {
     "id": "PA793158",
@@ -377,7 +414,8 @@
     "groupe": "PO845401",
     "departement": "Aisne",
     "numCirconscription": "4",
-    "region": "Hauts-de-France"
+    "region": "Hauts-de-France",
+    "placeHemicycle": 75
   },
   {
     "id": "PA642935",
@@ -387,7 +425,8 @@
     "groupe": "PO845407",
     "departement": "Haut-Rhin",
     "numCirconscription": "5",
-    "region": "Grand Est"
+    "region": "Grand Est",
+    "placeHemicycle": 367
   },
   {
     "id": "PA720362",
@@ -397,7 +436,8 @@
     "groupe": "PO845419",
     "departement": "Moselle",
     "numCirconscription": "1",
-    "region": "Grand Est"
+    "region": "Grand Est",
+    "placeHemicycle": 484
   },
   {
     "id": "PA842211",
@@ -407,7 +447,8 @@
     "groupe": "PO845419",
     "departement": "Martinique",
     "numCirconscription": "3",
-    "region": "Martinique"
+    "region": "Martinique",
+    "placeHemicycle": 418
   },
   {
     "id": "PA795362",
@@ -417,7 +458,8 @@
     "groupe": "PO845439",
     "departement": "Vienne",
     "numCirconscription": "1",
-    "region": "Nouvelle-Aquitaine"
+    "region": "Nouvelle-Aquitaine",
+    "placeHemicycle": 532
   },
   {
     "id": "PA841657",
@@ -427,7 +469,8 @@
     "groupe": "PO845413",
     "departement": "Rhône",
     "numCirconscription": "1",
-    "region": "Auvergne-Rhône-Alpes"
+    "region": "Auvergne-Rhône-Alpes",
+    "placeHemicycle": 518
   },
   {
     "id": "PA795454",
@@ -437,7 +480,8 @@
     "groupe": "PO845439",
     "departement": "Français établis hors de France",
     "numCirconscription": "9",
-    "region": "Français établis hors de France"
+    "region": "Français établis hors de France",
+    "placeHemicycle": 542
   },
   {
     "id": "PA841315",
@@ -447,7 +491,8 @@
     "groupe": "PO845419",
     "departement": "Loire-Atlantique",
     "numCirconscription": "1",
-    "region": "Pays de la Loire"
+    "region": "Pays de la Loire",
+    "placeHemicycle": 565
   },
   {
     "id": "PA332228",
@@ -457,7 +502,8 @@
     "groupe": "PO845470",
     "departement": "Ille-et-Vilaine",
     "numCirconscription": "6",
-    "region": "Bretagne"
+    "region": "Bretagne",
+    "placeHemicycle": 223
   },
   {
     "id": "PA841531",
@@ -467,7 +513,8 @@
     "groupe": "PO845413",
     "departement": "Nord",
     "numCirconscription": "8",
-    "region": "Hauts-de-France"
+    "region": "Hauts-de-France",
+    "placeHemicycle": 625
   },
   {
     "id": "PA794434",
@@ -477,7 +524,8 @@
     "groupe": "PO845401",
     "departement": "Haute-Marne",
     "numCirconscription": "1",
-    "region": "Grand Est"
+    "region": "Grand Est",
+    "placeHemicycle": 9
   },
   {
     "id": "PA805166",
@@ -487,7 +535,8 @@
     "groupe": "PO845454",
     "departement": "Yvelines",
     "numCirconscription": "2",
-    "region": "Ile-de-France"
+    "region": "Ile-de-France",
+    "placeHemicycle": 358
   },
   {
     "id": "PA793924",
@@ -497,7 +546,8 @@
     "groupe": "PO845407",
     "departement": "Gironde",
     "numCirconscription": "10",
-    "region": "Nouvelle-Aquitaine"
+    "region": "Nouvelle-Aquitaine",
+    "placeHemicycle": null
   },
   {
     "id": "PA720430",
@@ -507,7 +557,8 @@
     "groupe": "PO845413",
     "departement": "Nord",
     "numCirconscription": "2",
-    "region": "Hauts-de-France"
+    "region": "Hauts-de-France",
+    "placeHemicycle": 601
   },
   {
     "id": "PA841645",
@@ -517,7 +568,8 @@
     "groupe": "PO845401",
     "departement": "Bas-Rhin",
     "numCirconscription": "8",
-    "region": "Grand Est"
+    "region": "Grand Est",
+    "placeHemicycle": 86
   },
   {
     "id": "PA687214",
@@ -527,7 +579,8 @@
     "groupe": "PO845470",
     "departement": "Val-de-Marne",
     "numCirconscription": "1",
-    "region": "Ile-de-France"
+    "region": "Ile-de-France",
+    "placeHemicycle": 220
   },
   {
     "id": "PA719218",
@@ -537,7 +590,8 @@
     "groupe": "PO845407",
     "departement": "Côtes-d'Armor",
     "numCirconscription": "2",
-    "region": "Bretagne"
+    "region": "Bretagne",
+    "placeHemicycle": 295
   },
   {
     "id": "PA309643",
@@ -547,7 +601,8 @@
     "groupe": "PO840056",
     "departement": "Vendée",
     "numCirconscription": "4",
-    "region": "Pays de la Loire"
+    "region": "Pays de la Loire",
+    "placeHemicycle": 111
   },
   {
     "id": "PA793772",
@@ -557,7 +612,8 @@
     "groupe": "PO845413",
     "departement": "Haute-Garonne",
     "numCirconscription": "7",
-    "region": "Occitanie"
+    "region": "Occitanie",
+    "placeHemicycle": 557
   },
   {
     "id": "PA842001",
@@ -567,7 +623,8 @@
     "groupe": "PO845401",
     "departement": "Territoire de Belfort",
     "numCirconscription": "2",
-    "region": "Bourgogne-Franche-Comté"
+    "region": "Bourgogne-Franche-Comté",
+    "placeHemicycle": 110
   },
   {
     "id": "PA720822",
@@ -577,7 +634,8 @@
     "groupe": "PO845401",
     "departement": "Pas-de-Calais",
     "numCirconscription": "12",
-    "region": "Hauts-de-France"
+    "region": "Hauts-de-France",
+    "placeHemicycle": 45
   },
   {
     "id": "PA795616",
@@ -587,7 +645,8 @@
     "groupe": "PO845413",
     "departement": "Val-d'Oise",
     "numCirconscription": "8",
-    "region": "Ile-de-France"
+    "region": "Ile-de-France",
+    "placeHemicycle": 604
   },
   {
     "id": "PA840997",
@@ -597,7 +656,8 @@
     "groupe": "PO845439",
     "departement": "Charente-Maritime",
     "numCirconscription": "2",
-    "region": "Nouvelle-Aquitaine"
+    "region": "Nouvelle-Aquitaine",
+    "placeHemicycle": 533
   },
   {
     "id": "PA720668",
@@ -607,7 +667,8 @@
     "groupe": "PO845401",
     "departement": "Pas-de-Calais",
     "numCirconscription": "1",
-    "region": "Hauts-de-France"
+    "region": "Hauts-de-France",
+    "placeHemicycle": 60
   },
   {
     "id": "PA794886",
@@ -617,7 +678,8 @@
     "groupe": "PO845401",
     "departement": "Pyrénées-Orientales",
     "numCirconscription": "1",
-    "region": "Occitanie"
+    "region": "Occitanie",
+    "placeHemicycle": 117
   },
   {
     "id": "PA842183",
@@ -627,7 +689,8 @@
     "groupe": "PO845470",
     "departement": "Val-d'Oise",
     "numCirconscription": "4",
-    "region": "Ile-de-France"
+    "region": "Ile-de-France",
+    "placeHemicycle": 239
   },
   {
     "id": "PA719024",
@@ -637,7 +700,8 @@
     "groupe": "PO845454",
     "departement": "Calvados",
     "numCirconscription": "4",
-    "region": "Normandie"
+    "region": "Normandie",
+    "placeHemicycle": 344
   },
   {
     "id": "PA774954",
@@ -647,7 +711,8 @@
     "groupe": "PO845425",
     "departement": "Maine-et-Loire",
     "numCirconscription": "3",
-    "region": "Pays de la Loire"
+    "region": "Pays de la Loire",
+    "placeHemicycle": 183
   },
   {
     "id": "PA840889",
@@ -657,7 +722,8 @@
     "groupe": "PO872880",
     "departement": "Doubs",
     "numCirconscription": "3",
-    "region": "Bourgogne-Franche-Comté"
+    "region": "Bourgogne-Franche-Comté",
+    "placeHemicycle": 91
   },
   {
     "id": "PA796042",
@@ -667,7 +733,8 @@
     "groupe": "PO845401",
     "departement": "Var",
     "numCirconscription": "7",
-    "region": "Provence-Alpes-Côte d'Azur"
+    "region": "Provence-Alpes-Côte d'Azur",
+    "placeHemicycle": 12
   },
   {
     "id": "PA841543",
@@ -677,7 +744,8 @@
     "groupe": "PO845485",
     "departement": "Nord",
     "numCirconscription": "13",
-    "region": "Hauts-de-France"
+    "region": "Hauts-de-France",
+    "placeHemicycle": 457
   },
   {
     "id": "PA793444",
@@ -687,7 +755,8 @@
     "groupe": "PO845413",
     "departement": "Bouches-du-Rhône",
     "numCirconscription": "4",
-    "region": "Provence-Alpes-Côte d'Azur"
+    "region": "Provence-Alpes-Côte d'Azur",
+    "placeHemicycle": 539
   },
   {
     "id": "PA569",
@@ -697,7 +766,8 @@
     "groupe": "PO840056",
     "departement": "Tarn",
     "numCirconscription": "1",
-    "region": "Occitanie"
+    "region": "Occitanie",
+    "placeHemicycle": 392
   },
   {
     "id": "PA794182",
@@ -707,7 +777,8 @@
     "groupe": "PO845425",
     "departement": "Loire",
     "numCirconscription": "6",
-    "region": "Auvergne-Rhône-Alpes"
+    "region": "Auvergne-Rhône-Alpes",
+    "placeHemicycle": 197
   },
   {
     "id": "PA841885",
@@ -717,7 +788,8 @@
     "groupe": "PO845439",
     "departement": "Seine-et-Marne",
     "numCirconscription": "8",
-    "region": "Ile-de-France"
+    "region": "Ile-de-France",
+    "placeHemicycle": 534
   },
   {
     "id": "PA719968",
@@ -727,7 +799,8 @@
     "groupe": "PO845425",
     "departement": "Loire",
     "numCirconscription": "4",
-    "region": "Auvergne-Rhône-Alpes"
+    "region": "Auvergne-Rhône-Alpes",
+    "placeHemicycle": 210
   },
   {
     "id": "PA841507",
@@ -737,7 +810,8 @@
     "groupe": "PO845439",
     "departement": "Puy-de-Dôme",
     "numCirconscription": "3",
-    "region": "Auvergne-Rhône-Alpes"
+    "region": "Auvergne-Rhône-Alpes",
+    "placeHemicycle": 500
   },
   {
     "id": "PA721410",
@@ -747,7 +821,8 @@
     "groupe": "PO845425",
     "departement": "Savoie",
     "numCirconscription": "3",
-    "region": "Auvergne-Rhône-Alpes"
+    "region": "Auvergne-Rhône-Alpes",
+    "placeHemicycle": 174
   },
   {
     "id": "PA266793",
@@ -757,7 +832,8 @@
     "groupe": "PO845425",
     "departement": "Cantal",
     "numCirconscription": "2",
-    "region": "Auvergne-Rhône-Alpes"
+    "region": "Auvergne-Rhône-Alpes",
+    "placeHemicycle": 163
   },
   {
     "id": "PA717161",
@@ -767,7 +843,8 @@
     "groupe": "PO845407",
     "departement": "Calvados",
     "numCirconscription": "6",
-    "region": "Normandie"
+    "region": "Normandie",
+    "placeHemicycle": 253
   },
   {
     "id": "PA642695",
@@ -777,7 +854,8 @@
     "groupe": "PO845407",
     "departement": "Côtes-d'Armor",
     "numCirconscription": "5",
-    "region": "Bretagne"
+    "region": "Bretagne",
+    "placeHemicycle": 286
   },
   {
     "id": "PA721816",
@@ -787,7 +865,8 @@
     "groupe": "PO845425",
     "departement": "Territoire de Belfort",
     "numCirconscription": "1",
-    "region": "Bourgogne-Franche-Comté"
+    "region": "Bourgogne-Franche-Comté",
+    "placeHemicycle": 176
   },
   {
     "id": "PA841487",
@@ -797,7 +876,8 @@
     "groupe": "PO845401",
     "departement": "Meurthe-et-Moselle",
     "numCirconscription": "6",
-    "region": "Grand Est"
+    "region": "Grand Est",
+    "placeHemicycle": 137
   },
   {
     "id": "PA794094",
@@ -807,7 +887,8 @@
     "groupe": "PO845419",
     "departement": "Ille-et-Vilaine",
     "numCirconscription": "8",
-    "region": "Bretagne"
+    "region": "Bretagne",
+    "placeHemicycle": 436
   },
   {
     "id": "PA794938",
@@ -817,7 +898,8 @@
     "groupe": "PO845413",
     "departement": "Rhône",
     "numCirconscription": "14",
-    "region": "Auvergne-Rhône-Alpes"
+    "region": "Auvergne-Rhône-Alpes",
+    "placeHemicycle": 619
   },
   {
     "id": "PA841131",
@@ -827,7 +909,8 @@
     "groupe": "PO845401",
     "departement": "Hérault",
     "numCirconscription": "4",
-    "region": "Occitanie"
+    "region": "Occitanie",
+    "placeHemicycle": 124
   },
   {
     "id": "PA342240",
@@ -837,7 +920,8 @@
     "groupe": "PO845425",
     "departement": "Ille-et-Vilaine",
     "numCirconscription": "7",
-    "region": "Bretagne"
+    "region": "Bretagne",
+    "placeHemicycle": 192
   },
   {
     "id": "PA720838",
@@ -847,7 +931,8 @@
     "groupe": "PO845514",
     "departement": "Seine-Saint-Denis",
     "numCirconscription": "4",
-    "region": "Ile-de-France"
+    "region": "Ile-de-France",
+    "placeHemicycle": 589
   },
   {
     "id": "PA719032",
@@ -857,7 +942,8 @@
     "groupe": "PO845470",
     "departement": "Calvados",
     "numCirconscription": "5",
-    "region": "Normandie"
+    "region": "Normandie",
+    "placeHemicycle": 241
   },
   {
     "id": "PA793182",
@@ -867,7 +953,8 @@
     "groupe": "PO845401",
     "departement": "Allier",
     "numCirconscription": "2",
-    "region": "Auvergne-Rhône-Alpes"
+    "region": "Auvergne-Rhône-Alpes",
+    "placeHemicycle": 56
   },
   {
     "id": "PA795318",
@@ -877,7 +964,8 @@
     "groupe": "PO845413",
     "departement": "Val-de-Marne",
     "numCirconscription": "3",
-    "region": "Ile-de-France"
+    "region": "Ile-de-France",
+    "placeHemicycle": 630
   },
   {
     "id": "PA841339",
@@ -887,7 +975,8 @@
     "groupe": "PO845470",
     "departement": "Loire-Atlantique",
     "numCirconscription": "9",
-    "region": "Pays de la Loire"
+    "region": "Pays de la Loire",
+    "placeHemicycle": 235
   },
   {
     "id": "PA721908",
@@ -897,7 +986,8 @@
     "groupe": "PO845407",
     "departement": "Yvelines",
     "numCirconscription": "5",
-    "region": "Ile-de-France"
+    "region": "Ile-de-France",
+    "placeHemicycle": 391
   },
   {
     "id": "PA840175",
@@ -907,7 +997,8 @@
     "groupe": "PO845419",
     "departement": "Paris",
     "numCirconscription": "7",
-    "region": "Ile-de-France"
+    "region": "Ile-de-France",
+    "placeHemicycle": 568
   },
   {
     "id": "PA330008",
@@ -917,7 +1008,8 @@
     "groupe": "PO845425",
     "departement": "Ain",
     "numCirconscription": "1",
-    "region": "Auvergne-Rhône-Alpes"
+    "region": "Auvergne-Rhône-Alpes",
+    "placeHemicycle": 171
   },
   {
     "id": "PA793508",
@@ -927,7 +1019,8 @@
     "groupe": "PO845425",
     "departement": "Côte-d'Or",
     "numCirconscription": "4",
-    "region": "Bourgogne-Franche-Comté"
+    "region": "Bourgogne-Franche-Comté",
+    "placeHemicycle": 195
   },
   {
     "id": "PA721336",
@@ -937,7 +1030,8 @@
     "groupe": "PO845454",
     "departement": "Rhône",
     "numCirconscription": "5",
-    "region": "Auvergne-Rhône-Alpes"
+    "region": "Auvergne-Rhône-Alpes",
+    "placeHemicycle": 343
   },
   {
     "id": "PA794330",
@@ -947,7 +1041,8 @@
     "groupe": "PO845407",
     "departement": "Loiret",
     "numCirconscription": "5",
-    "region": "Centre-Val de Loire"
+    "region": "Centre-Val de Loire",
+    "placeHemicycle": 388
   },
   {
     "id": "PA794710",
@@ -957,7 +1052,8 @@
     "groupe": "PO845514",
     "departement": "Puy-de-Dôme",
     "numCirconscription": "5",
-    "region": "Auvergne-Rhône-Alpes"
+    "region": "Auvergne-Rhône-Alpes",
+    "placeHemicycle": 587
   },
   {
     "id": "PA719890",
@@ -967,7 +1063,8 @@
     "groupe": "PO845407",
     "departement": "Jura",
     "numCirconscription": "1",
-    "region": "Bourgogne-Franche-Comté"
+    "region": "Bourgogne-Franche-Comté",
+    "placeHemicycle": 257
   },
   {
     "id": "PA718838",
@@ -977,7 +1074,8 @@
     "groupe": "PO845425",
     "departement": "Ardèche",
     "numCirconscription": "3",
-    "region": "Auvergne-Rhône-Alpes"
+    "region": "Auvergne-Rhône-Alpes",
+    "placeHemicycle": 187
   },
   {
     "id": "PA793624",
@@ -987,7 +1085,8 @@
     "groupe": "PO845419",
     "departement": "Eure",
     "numCirconscription": "4",
-    "region": "Normandie"
+    "region": "Normandie",
+    "placeHemicycle": 422
   },
   {
     "id": "PA840817",
@@ -997,7 +1096,8 @@
     "groupe": "PO845485",
     "departement": "Calvados",
     "numCirconscription": "1",
-    "region": "Normandie"
+    "region": "Normandie",
+    "placeHemicycle": 393
   },
   {
     "id": "PA722000",
@@ -1007,7 +1107,8 @@
     "groupe": "PO845407",
     "departement": "Vendée",
     "numCirconscription": "3",
-    "region": "Pays de la Loire"
+    "region": "Pays de la Loire",
+    "placeHemicycle": 293
   },
   {
     "id": "PA794798",
@@ -1017,7 +1118,8 @@
     "groupe": "PO845407",
     "departement": "Bas-Rhin",
     "numCirconscription": "4",
-    "region": "Grand Est"
+    "region": "Grand Est",
+    "placeHemicycle": 365
   },
   {
     "id": "PA793134",
@@ -1027,7 +1129,8 @@
     "groupe": "PO845401",
     "departement": "Ain",
     "numCirconscription": "4",
-    "region": "Auvergne-Rhône-Alpes"
+    "region": "Auvergne-Rhône-Alpes",
+    "placeHemicycle": 132
   },
   {
     "id": "PA796106",
@@ -1037,7 +1140,8 @@
     "groupe": "PO845514",
     "departement": "Seine-Maritime",
     "numCirconscription": "3",
-    "region": "Normandie"
+    "region": "Normandie",
+    "placeHemicycle": 585
   },
   {
     "id": "PA841023",
@@ -1047,7 +1151,8 @@
     "groupe": "PO845413",
     "departement": "Finistère",
     "numCirconscription": "2",
-    "region": "Bretagne"
+    "region": "Bretagne",
+    "placeHemicycle": 570
   },
   {
     "id": "PA795762",
@@ -1057,7 +1162,8 @@
     "groupe": "PO845419",
     "departement": "Guadeloupe",
     "numCirconscription": "4",
-    "region": "Guadeloupe"
+    "region": "Guadeloupe",
+    "placeHemicycle": 437
   },
   {
     "id": "PA721750",
@@ -1067,7 +1173,8 @@
     "groupe": "PO845407",
     "departement": "Hauts-de-Seine",
     "numCirconscription": "5",
-    "region": "Ile-de-France"
+    "region": "Ile-de-France",
+    "placeHemicycle": 374
   },
   {
     "id": "PA608264",
@@ -1077,7 +1184,8 @@
     "groupe": "PO845419",
     "departement": "Pyrénées-Atlantiques",
     "numCirconscription": "5",
-    "region": "Nouvelle-Aquitaine"
+    "region": "Nouvelle-Aquitaine",
+    "placeHemicycle": 475
   },
   {
     "id": "PA841973",
@@ -1087,7 +1195,8 @@
     "groupe": "PO872880",
     "departement": "Tarn-et-Garonne",
     "numCirconscription": "1",
-    "region": "Occitanie"
+    "region": "Occitanie",
+    "placeHemicycle": 98
   },
   {
     "id": "PA796090",
@@ -1097,7 +1206,8 @@
     "groupe": "PO845413",
     "departement": "Paris",
     "numCirconscription": "18",
-    "region": "Ile-de-France"
+    "region": "Ile-de-France",
+    "placeHemicycle": 528
   },
   {
     "id": "PA793912",
@@ -1107,7 +1217,8 @@
     "groupe": "PO845413",
     "departement": "Hérault",
     "numCirconscription": "8",
-    "region": "Occitanie"
+    "region": "Occitanie",
+    "placeHemicycle": 621
   },
   {
     "id": "PA841801",
@@ -1117,7 +1228,8 @@
     "groupe": "PO845407",
     "departement": "Haute-Savoie",
     "numCirconscription": "2",
-    "region": "Auvergne-Rhône-Alpes"
+    "region": "Auvergne-Rhône-Alpes",
+    "placeHemicycle": 298
   },
   {
     "id": "PA719138",
@@ -1127,7 +1239,8 @@
     "groupe": "PO845485",
     "departement": "Haute-Corse",
     "numCirconscription": "1",
-    "region": "Corse"
+    "region": "Corse",
+    "placeHemicycle": 467
   },
   {
     "id": "PA840075",
@@ -1137,7 +1250,8 @@
     "groupe": "PO845401",
     "departement": "Aisne",
     "numCirconscription": "3",
-    "region": "Hauts-de-France"
+    "region": "Hauts-de-France",
+    "placeHemicycle": 67
   },
   {
     "id": "PA795868",
@@ -1147,7 +1261,8 @@
     "groupe": "PO845514",
     "departement": "Guyane",
     "numCirconscription": "1",
-    "region": "Guyane"
+    "region": "Guyane",
+    "placeHemicycle": 591
   },
   {
     "id": "PA842187",
@@ -1157,7 +1272,8 @@
     "groupe": "PO845413",
     "departement": "Val-d'Oise",
     "numCirconscription": "6",
-    "region": "Ile-de-France"
+    "region": "Ile-de-France",
+    "placeHemicycle": 595
   },
   {
     "id": "PA842311",
@@ -1167,7 +1283,8 @@
     "groupe": "PO845407",
     "departement": "Français établis hors de France",
     "numCirconscription": "3",
-    "region": "Français établis hors de France"
+    "region": "Français établis hors de France",
+    "placeHemicycle": 384
   },
   {
     "id": "PA719922",
@@ -1177,7 +1294,8 @@
     "groupe": "PO845407",
     "departement": "Landes",
     "numCirconscription": "2",
-    "region": "Nouvelle-Aquitaine"
+    "region": "Nouvelle-Aquitaine",
+    "placeHemicycle": 305
   },
   {
     "id": "PA795864",
@@ -1187,7 +1305,8 @@
     "groupe": "PO845407",
     "departement": "Hauts-de-Seine",
     "numCirconscription": "7",
-    "region": "Ile-de-France"
+    "region": "Ile-de-France",
+    "placeHemicycle": 284
   },
   {
     "id": "PA719472",
@@ -1197,7 +1316,8 @@
     "groupe": "PO845407",
     "departement": "Gers",
     "numCirconscription": "1",
-    "region": "Occitanie"
+    "region": "Occitanie",
+    "placeHemicycle": 282
   },
   {
     "id": "PA841047",
@@ -1207,7 +1327,8 @@
     "groupe": "PO845425",
     "departement": "Haute-Corse",
     "numCirconscription": "2",
-    "region": "Corse"
+    "region": "Corse",
+    "placeHemicycle": 203
   },
   {
     "id": "PA842037",
@@ -1217,7 +1338,8 @@
     "groupe": "PO845413",
     "departement": "Essonne",
     "numCirconscription": "8",
-    "region": "Ile-de-France"
+    "region": "Ile-de-France",
+    "placeHemicycle": 620
   },
   {
     "id": "PA718820",
@@ -1227,7 +1349,8 @@
     "groupe": "PO845407",
     "departement": "Aveyron",
     "numCirconscription": "1",
-    "region": "Occitanie"
+    "region": "Occitanie",
+    "placeHemicycle": 386
   },
   {
     "id": "PA840701",
@@ -1237,7 +1360,8 @@
     "groupe": "PO872880",
     "departement": "Alpes-Maritimes",
     "numCirconscription": "3",
-    "region": "Provence-Alpes-Côte d'Azur"
+    "region": "Provence-Alpes-Côte d'Azur",
+    "placeHemicycle": 87
   },
   {
     "id": "PA794008",
@@ -1247,7 +1371,8 @@
     "groupe": "PO845439",
     "departement": "Isère",
     "numCirconscription": "2",
-    "region": "Auvergne-Rhône-Alpes"
+    "region": "Auvergne-Rhône-Alpes",
+    "placeHemicycle": 515
   },
   {
     "id": "PA840107",
@@ -1257,7 +1382,8 @@
     "groupe": "PO845401",
     "departement": "Hérault",
     "numCirconscription": "7",
-    "region": "Occitanie"
+    "region": "Occitanie",
+    "placeHemicycle": 125
   },
   {
     "id": "PA840721",
@@ -1267,7 +1393,8 @@
     "groupe": "PO872880",
     "departement": "Ain",
     "numCirconscription": "5",
-    "region": "Auvergne-Rhône-Alpes"
+    "region": "Auvergne-Rhône-Alpes",
+    "placeHemicycle": 104
   },
   {
     "id": "PA841595",
@@ -1277,7 +1404,8 @@
     "groupe": "PO845425",
     "departement": "Orne",
     "numCirconscription": "3",
-    "region": "Normandie"
+    "region": "Normandie",
+    "placeHemicycle": 200
   },
   {
     "id": "PA795908",
@@ -1287,7 +1415,8 @@
     "groupe": "PO845407",
     "departement": "Var",
     "numCirconscription": "1",
-    "region": "Provence-Alpes-Côte d'Azur"
+    "region": "Provence-Alpes-Côte d'Azur",
+    "placeHemicycle": 311
   },
   {
     "id": "PA720468",
@@ -1297,7 +1426,8 @@
     "groupe": "PO845401",
     "departement": "Nord",
     "numCirconscription": "19",
-    "region": "Hauts-de-France"
+    "region": "Hauts-de-France",
+    "placeHemicycle": 27
   },
   {
     "id": "PA791812",
@@ -1307,7 +1437,8 @@
     "groupe": "PO845413",
     "departement": "Paris",
     "numCirconscription": "6",
-    "region": "Ile-de-France"
+    "region": "Ile-de-France",
+    "placeHemicycle": 527
   },
   {
     "id": "PA840903",
@@ -1317,7 +1448,8 @@
     "groupe": "PO845419",
     "departement": "Drôme",
     "numCirconscription": "1",
-    "region": "Auvergne-Rhône-Alpes"
+    "region": "Auvergne-Rhône-Alpes",
+    "placeHemicycle": 553
   },
   {
     "id": "PA794198",
@@ -1327,7 +1459,8 @@
     "groupe": "PO845401",
     "departement": "Loir-et-Cher",
     "numCirconscription": "2",
-    "region": "Centre-Val de Loire"
+    "region": "Centre-Val de Loire",
+    "placeHemicycle": 7
   },
   {
     "id": "PA330240",
@@ -1337,7 +1470,8 @@
     "groupe": "PO872880",
     "departement": "Alpes-Maritimes",
     "numCirconscription": "1",
-    "region": "Provence-Alpes-Côte d'Azur"
+    "region": "Provence-Alpes-Côte d'Azur",
+    "placeHemicycle": 99
   },
   {
     "id": "PA840159",
@@ -1347,7 +1481,8 @@
     "groupe": "PO845401",
     "departement": "Pas-de-Calais",
     "numCirconscription": "3",
-    "region": "Hauts-de-France"
+    "region": "Hauts-de-France",
+    "placeHemicycle": 44
   },
   {
     "id": "PA793736",
@@ -1357,7 +1492,8 @@
     "groupe": "PO845413",
     "departement": "Haute-Garonne",
     "numCirconscription": "1",
-    "region": "Occitanie"
+    "region": "Occitanie",
+    "placeHemicycle": 636
   },
   {
     "id": "PA795402",
@@ -1367,7 +1503,8 @@
     "groupe": "PO845407",
     "departement": "Français établis hors de France",
     "numCirconscription": "5",
-    "region": "Français établis hors de France"
+    "region": "Français établis hors de France",
+    "placeHemicycle": 326
   },
   {
     "id": "PA841431",
@@ -1377,7 +1514,8 @@
     "groupe": "PO845470",
     "departement": "Moselle",
     "numCirconscription": "3",
-    "region": "Grand Est"
+    "region": "Grand Est",
+    "placeHemicycle": 243
   },
   {
     "id": "PA719286",
@@ -1387,7 +1525,8 @@
     "groupe": "PO845485",
     "departement": "Corse-du-Sud",
     "numCirconscription": "2",
-    "region": "Corse"
+    "region": "Corse",
+    "placeHemicycle": 468
   },
   {
     "id": "PA793548",
@@ -1397,7 +1536,8 @@
     "groupe": "PO845401",
     "departement": "Charente",
     "numCirconscription": "3",
-    "region": "Nouvelle-Aquitaine"
+    "region": "Nouvelle-Aquitaine",
+    "placeHemicycle": 78
   },
   {
     "id": "PA721202",
@@ -1407,7 +1547,8 @@
     "groupe": "PO845413",
     "departement": "Seine-Saint-Denis",
     "numCirconscription": "1",
-    "region": "Ile-de-France"
+    "region": "Ile-de-France",
+    "placeHemicycle": 549
   },
   {
     "id": "PA721210",
@@ -1417,7 +1558,8 @@
     "groupe": "PO845439",
     "departement": "Seine-Saint-Denis",
     "numCirconscription": "7",
-    "region": "Ile-de-France"
+    "region": "Ile-de-France",
+    "placeHemicycle": 497
   },
   {
     "id": "PA718850",
@@ -1427,7 +1569,8 @@
     "groupe": "PO845425",
     "departement": "Ardennes",
     "numCirconscription": "2",
-    "region": "Grand Est"
+    "region": "Grand Est",
+    "placeHemicycle": 166
   },
   {
     "id": "PA719118",
@@ -1437,7 +1580,8 @@
     "groupe": "PO845407",
     "departement": "Cher",
     "numCirconscription": "1",
-    "region": "Centre-Val de Loire"
+    "region": "Centre-Val de Loire",
+    "placeHemicycle": 290
   },
   {
     "id": "PA722390",
@@ -1447,7 +1591,8 @@
     "groupe": "PO845425",
     "departement": "Saône-et-Loire",
     "numCirconscription": "2",
-    "region": "Bourgogne-Franche-Comté"
+    "region": "Bourgogne-Franche-Comté",
+    "placeHemicycle": 181
   },
   {
     "id": "PA793520",
@@ -1457,7 +1602,8 @@
     "groupe": "PO845454",
     "departement": "Côtes-d'Armor",
     "numCirconscription": "1",
-    "region": "Bretagne"
+    "region": "Bretagne",
+    "placeHemicycle": 360
   },
   {
     "id": "PA795136",
@@ -1467,7 +1613,8 @@
     "groupe": "PO845413",
     "departement": "Savoie",
     "numCirconscription": "4",
-    "region": "Auvergne-Rhône-Alpes"
+    "region": "Auvergne-Rhône-Alpes",
+    "placeHemicycle": 637
   },
   {
     "id": "PA841295",
@@ -1477,7 +1624,8 @@
     "groupe": "PO845419",
     "departement": "Loire",
     "numCirconscription": "1",
-    "region": "Auvergne-Rhône-Alpes"
+    "region": "Auvergne-Rhône-Alpes",
+    "placeHemicycle": 554
   },
   {
     "id": "PA794430",
@@ -1487,7 +1635,8 @@
     "groupe": "PO845470",
     "departement": "Morbihan",
     "numCirconscription": "1",
-    "region": "Bretagne"
+    "region": "Bretagne",
+    "placeHemicycle": 245
   },
   {
     "id": "PA793716",
@@ -1497,7 +1646,8 @@
     "groupe": "PO845454",
     "departement": "Doubs",
     "numCirconscription": "1",
-    "region": "Bourgogne-Franche-Comté"
+    "region": "Bourgogne-Franche-Comté",
+    "placeHemicycle": 329
   },
   {
     "id": "PA793322",
@@ -1507,7 +1657,8 @@
     "groupe": "PO872880",
     "departement": "Alpes-Maritimes",
     "numCirconscription": "5",
-    "region": "Provence-Alpes-Côte d'Azur"
+    "region": "Provence-Alpes-Côte d'Azur",
+    "placeHemicycle": 93
   },
   {
     "id": "PA795644",
@@ -1517,7 +1668,8 @@
     "groupe": "PO845401",
     "departement": "Essonne",
     "numCirconscription": "2",
-    "region": "Ile-de-France"
+    "region": "Ile-de-France",
+    "placeHemicycle": 140
   },
   {
     "id": "PA332523",
@@ -1527,7 +1679,8 @@
     "groupe": "PO845425",
     "departement": "Jura",
     "numCirconscription": "2",
-    "region": "Bourgogne-Franche-Comté"
+    "region": "Bourgogne-Franche-Comté",
+    "placeHemicycle": 168
   },
   {
     "id": "PA719914",
@@ -1537,7 +1690,8 @@
     "groupe": "PO845454",
     "departement": "Landes",
     "numCirconscription": "1",
-    "region": "Nouvelle-Aquitaine"
+    "region": "Nouvelle-Aquitaine",
+    "placeHemicycle": 350
   },
   {
     "id": "PA793122",
@@ -1547,7 +1701,8 @@
     "groupe": "PO845454",
     "departement": "Ain",
     "numCirconscription": "2",
-    "region": "Auvergne-Rhône-Alpes"
+    "region": "Auvergne-Rhône-Alpes",
+    "placeHemicycle": 357
   },
   {
     "id": "PA793452",
@@ -1557,7 +1712,8 @@
     "groupe": "PO845439",
     "departement": "Bouches-du-Rhône",
     "numCirconscription": "5",
-    "region": "Provence-Alpes-Côte d'Azur"
+    "region": "Provence-Alpes-Côte d'Azur",
+    "placeHemicycle": 524
   },
   {
     "id": "PA1008",
@@ -1567,7 +1723,8 @@
     "groupe": "PO845419",
     "departement": "Gironde",
     "numCirconscription": "4",
-    "region": "Nouvelle-Aquitaine"
+    "region": "Nouvelle-Aquitaine",
+    "placeHemicycle": 410
   },
   {
     "id": "PA840119",
@@ -1577,7 +1734,8 @@
     "groupe": "PO840056",
     "departement": "Nord",
     "numCirconscription": "3",
-    "region": "Hauts-de-France"
+    "region": "Hauts-de-France",
+    "placeHemicycle": 321
   },
   {
     "id": "PA793394",
@@ -1587,7 +1745,8 @@
     "groupe": "PO845419",
     "departement": "Calvados",
     "numCirconscription": "2",
-    "region": "Normandie"
+    "region": "Normandie",
+    "placeHemicycle": 453
   },
   {
     "id": "PA795430",
@@ -1597,7 +1756,8 @@
     "groupe": "PO845419",
     "departement": "Haute-Vienne",
     "numCirconscription": "2",
-    "region": "Nouvelle-Aquitaine"
+    "region": "Nouvelle-Aquitaine",
+    "placeHemicycle": 432
   },
   {
     "id": "PA841059",
@@ -1607,7 +1767,8 @@
     "groupe": "PO845401",
     "departement": "Gard",
     "numCirconscription": "3",
-    "region": "Occitanie"
+    "region": "Occitanie",
+    "placeHemicycle": 80
   },
   {
     "id": "PA793464",
@@ -1617,7 +1778,8 @@
     "groupe": "PO845413",
     "departement": "Bouches-du-Rhône",
     "numCirconscription": "7",
-    "region": "Provence-Alpes-Côte d'Azur"
+    "region": "Provence-Alpes-Côte d'Azur",
+    "placeHemicycle": 606
   },
   {
     "id": "PA794982",
@@ -1627,7 +1789,8 @@
     "groupe": "PO845407",
     "departement": "Sarthe",
     "numCirconscription": "1",
-    "region": "Pays de la Loire"
+    "region": "Pays de la Loire",
+    "placeHemicycle": 273
   },
   {
     "id": "PA330909",
@@ -1637,7 +1800,8 @@
     "groupe": "PO845425",
     "departement": "Cantal",
     "numCirconscription": "1",
-    "region": "Auvergne-Rhône-Alpes"
+    "region": "Auvergne-Rhône-Alpes",
+    "placeHemicycle": 170
   },
   {
     "id": "PA793166",
@@ -1647,7 +1811,8 @@
     "groupe": "PO845401",
     "departement": "Aisne",
     "numCirconscription": "5",
-    "region": "Hauts-de-France"
+    "region": "Hauts-de-France",
+    "placeHemicycle": 11
   },
   {
     "id": "PA793928",
@@ -1657,7 +1822,8 @@
     "groupe": "PO845401",
     "departement": "Gironde",
     "numCirconscription": "11",
-    "region": "Nouvelle-Aquitaine"
+    "region": "Nouvelle-Aquitaine",
+    "placeHemicycle": 33
   },
   {
     "id": "PA841919",
@@ -1667,7 +1833,8 @@
     "groupe": "PO845419",
     "departement": "Yvelines",
     "numCirconscription": "9",
-    "region": "Ile-de-France"
+    "region": "Ile-de-France",
+    "placeHemicycle": 420
   },
   {
     "id": "PA842155",
@@ -1677,7 +1844,8 @@
     "groupe": "PO845413",
     "departement": "Seine-Saint-Denis",
     "numCirconscription": "5",
-    "region": "Ile-de-France"
+    "region": "Ile-de-France",
+    "placeHemicycle": 616
   },
   {
     "id": "PA722382",
@@ -1687,7 +1855,8 @@
     "groupe": "PO845407",
     "departement": "Saône-et-Loire",
     "numCirconscription": "1",
-    "region": "Bourgogne-Franche-Comté"
+    "region": "Bourgogne-Franche-Comté",
+    "placeHemicycle": 285
   },
   {
     "id": "PA712015",
@@ -1697,7 +1866,8 @@
     "groupe": "PO845425",
     "departement": "Aisne",
     "numCirconscription": "2",
-    "region": "Hauts-de-France"
+    "region": "Hauts-de-France",
+    "placeHemicycle": 193
   },
   {
     "id": "PA794762",
@@ -1707,7 +1877,8 @@
     "groupe": "PO845401",
     "departement": "Pyrénées-Orientales",
     "numCirconscription": "3",
-    "region": "Occitanie"
+    "region": "Occitanie",
+    "placeHemicycle": 59
   },
   {
     "id": "PA606573",
@@ -1717,7 +1888,8 @@
     "groupe": "PO845419",
     "departement": "Hérault",
     "numCirconscription": "3",
-    "region": "Occitanie"
+    "region": "Occitanie",
+    "placeHemicycle": 447
   },
   {
     "id": "PA793146",
@@ -1727,7 +1899,8 @@
     "groupe": "PO845401",
     "departement": "Aisne",
     "numCirconscription": "1",
-    "region": "Hauts-de-France"
+    "region": "Hauts-de-France",
+    "placeHemicycle": 120
   },
   {
     "id": "PA720154",
@@ -1737,7 +1910,8 @@
     "groupe": "PO845407",
     "departement": "Maine-et-Loire",
     "numCirconscription": "6",
-    "region": "Pays de la Loire"
+    "region": "Pays de la Loire",
+    "placeHemicycle": 314
   },
   {
     "id": "PA608826",
@@ -1747,7 +1921,8 @@
     "groupe": "PO845425",
     "departement": "Haute-Savoie",
     "numCirconscription": "4",
-    "region": "Auvergne-Rhône-Alpes"
+    "region": "Auvergne-Rhône-Alpes",
+    "placeHemicycle": 185
   },
   {
     "id": "PA841633",
@@ -1757,7 +1932,8 @@
     "groupe": "PO845419",
     "departement": "Pyrénées-Atlantiques",
     "numCirconscription": "6",
-    "region": "Nouvelle-Aquitaine"
+    "region": "Nouvelle-Aquitaine",
+    "placeHemicycle": 551
   },
   {
     "id": "PA840135",
@@ -1767,7 +1943,8 @@
     "groupe": "PO845401",
     "departement": "Nord",
     "numCirconscription": "18",
-    "region": "Hauts-de-France"
+    "region": "Hauts-de-France",
+    "placeHemicycle": 38
   },
   {
     "id": "PA795200",
@@ -1777,7 +1954,8 @@
     "groupe": "PO845413",
     "departement": "Seine-Maritime",
     "numCirconscription": "4",
-    "region": "Normandie"
+    "region": "Normandie",
+    "placeHemicycle": 536
   },
   {
     "id": "PA870009",
@@ -1787,7 +1965,8 @@
     "groupe": "PO845425",
     "departement": "Saône-et-Loire",
     "numCirconscription": "5",
-    "region": "Bourgogne-Franche-Comté"
+    "region": "Bourgogne-Franche-Comté",
+    "placeHemicycle": 209
   },
   {
     "id": "PA841351",
@@ -1797,7 +1976,8 @@
     "groupe": "PO845439",
     "departement": "Loiret",
     "numCirconscription": "2",
-    "region": "Centre-Val de Loire"
+    "region": "Centre-Val de Loire",
+    "placeHemicycle": 543
   },
   {
     "id": "PA643175",
@@ -1807,7 +1987,8 @@
     "groupe": "PO840056",
     "departement": "Maine-et-Loire",
     "numCirconscription": "2",
-    "region": "Pays de la Loire"
+    "region": "Pays de la Loire",
+    "placeHemicycle": 403
   },
   {
     "id": "PA842073",
@@ -1817,7 +1998,8 @@
     "groupe": "PO845401",
     "departement": "Vosges",
     "numCirconscription": "2",
-    "region": "Grand Est"
+    "region": "Grand Est",
+    "placeHemicycle": 26
   },
   {
     "id": "PA841761",
@@ -1827,7 +2009,8 @@
     "groupe": "PO845401",
     "departement": "Saône-et-Loire",
     "numCirconscription": "3",
-    "region": "Bourgogne-Franche-Comté"
+    "region": "Bourgogne-Franche-Comté",
+    "placeHemicycle": 128
   },
   {
     "id": "PA794854",
@@ -1837,7 +2020,8 @@
     "groupe": "PO845419",
     "departement": "Pyrénées-Atlantiques",
     "numCirconscription": "4",
-    "region": "Nouvelle-Aquitaine"
+    "region": "Nouvelle-Aquitaine",
+    "placeHemicycle": 550
   },
   {
     "id": "PA720390",
@@ -1847,7 +2031,8 @@
     "groupe": "PO845425",
     "departement": "Moselle",
     "numCirconscription": "4",
-    "region": "Grand Est"
+    "region": "Grand Est",
+    "placeHemicycle": 167
   },
   {
     "id": "PA794718",
@@ -1857,7 +2042,8 @@
     "groupe": "PO840056",
     "departement": "Pas-de-Calais",
     "numCirconscription": "6",
-    "region": "Hauts-de-France"
+    "region": "Hauts-de-France",
+    "placeHemicycle": 158
   },
   {
     "id": "PA795844",
@@ -1867,7 +2053,8 @@
     "groupe": "PO845413",
     "departement": "Tarn",
     "numCirconscription": "2",
-    "region": "Occitanie"
+    "region": "Occitanie",
+    "placeHemicycle": 546
   },
   {
     "id": "PA607193",
@@ -1877,7 +2064,8 @@
     "groupe": "PO840056",
     "departement": "Loire-Atlantique",
     "numCirconscription": "10",
-    "region": "Pays de la Loire"
+    "region": "Pays de la Loire",
+    "placeHemicycle": 401
   },
   {
     "id": "PA842195",
@@ -1887,7 +2075,8 @@
     "groupe": "PO845419",
     "departement": "Val-d'Oise",
     "numCirconscription": "7",
-    "region": "Ile-de-France"
+    "region": "Ile-de-France",
+    "placeHemicycle": 458
   },
   {
     "id": "PA841621",
@@ -1897,7 +2086,8 @@
     "groupe": "PO845401",
     "departement": "Pas-de-Calais",
     "numCirconscription": "8",
-    "region": "Hauts-de-France"
+    "region": "Hauts-de-France",
+    "placeHemicycle": 143
   },
   {
     "id": "PA794658",
@@ -1907,7 +2097,8 @@
     "groupe": "PO845470",
     "departement": "Pas-de-Calais",
     "numCirconscription": "4",
-    "region": "Hauts-de-France"
+    "region": "Hauts-de-France",
+    "placeHemicycle": 319
   },
   {
     "id": "PA793246",
@@ -1917,7 +2108,8 @@
     "groupe": "PO845401",
     "departement": "Aude",
     "numCirconscription": "2",
-    "region": "Occitanie"
+    "region": "Occitanie",
+    "placeHemicycle": 43
   },
   {
     "id": "PA721896",
@@ -1927,7 +2119,8 @@
     "groupe": "PO845514",
     "departement": "Hauts-de-Seine",
     "numCirconscription": "1",
-    "region": "Ile-de-France"
+    "region": "Ile-de-France",
+    "placeHemicycle": 593
   },
   {
     "id": "PA609332",
@@ -1937,7 +2130,8 @@
     "groupe": "PO845419",
     "departement": "Seine-et-Marne",
     "numCirconscription": "11",
-    "region": "Ile-de-France"
+    "region": "Ile-de-France",
+    "placeHemicycle": 421
   },
   {
     "id": "PA267042",
@@ -1947,7 +2141,8 @@
     "groupe": "PO845485",
     "departement": "Mayenne",
     "numCirconscription": "3",
-    "region": "Pays de la Loire"
+    "region": "Pays de la Loire",
+    "placeHemicycle": 454
   },
   {
     "id": "PA840773",
@@ -1957,7 +2152,8 @@
     "groupe": "PO872880",
     "departement": "Bouches-du-Rhône",
     "numCirconscription": "6",
-    "region": "Provence-Alpes-Côte d'Azur"
+    "region": "Provence-Alpes-Côte d'Azur",
+    "placeHemicycle": 103
   },
   {
     "id": "PA841251",
@@ -1967,7 +2163,8 @@
     "groupe": "PO845413",
     "departement": "Gironde",
     "numCirconscription": "12",
-    "region": "Nouvelle-Aquitaine"
+    "region": "Nouvelle-Aquitaine",
+    "placeHemicycle": 629
   },
   {
     "id": "PA794786",
@@ -1977,7 +2174,8 @@
     "groupe": "PO845413",
     "departement": "Bas-Rhin",
     "numCirconscription": "2",
-    "region": "Grand Est"
+    "region": "Grand Est",
+    "placeHemicycle": 547
   },
   {
     "id": "PA795884",
@@ -1987,7 +2185,8 @@
     "groupe": "PO845407",
     "departement": "Français établis hors de France",
     "numCirconscription": "6",
-    "region": "Français établis hors de France"
+    "region": "Français établis hors de France",
+    "placeHemicycle": 270
   },
   {
     "id": "PA794870",
@@ -1997,7 +2196,8 @@
     "groupe": "PO845413",
     "departement": "Hautes-Pyrénées",
     "numCirconscription": "1",
-    "region": "Occitanie"
+    "region": "Occitanie",
+    "placeHemicycle": 624
   },
   {
     "id": "PA719938",
@@ -2007,7 +2207,8 @@
     "groupe": "PO845454",
     "departement": "Loir-et-Cher",
     "numCirconscription": "1",
-    "region": "Centre-Val de Loire"
+    "region": "Centre-Val de Loire",
+    "placeHemicycle": 342
   },
   {
     "id": "PA267780",
@@ -2017,7 +2218,8 @@
     "groupe": "PO845470",
     "departement": "Seine-Maritime",
     "numCirconscription": "7",
-    "region": "Normandie"
+    "region": "Normandie",
+    "placeHemicycle": 234
   },
   {
     "id": "PA722134",
@@ -2027,7 +2229,8 @@
     "groupe": "PO845407",
     "departement": "Deux-Sèvres",
     "numCirconscription": "3",
-    "region": "Nouvelle-Aquitaine"
+    "region": "Nouvelle-Aquitaine",
+    "placeHemicycle": 309
   },
   {
     "id": "PA840143",
@@ -2037,7 +2240,8 @@
     "groupe": "PO845401",
     "departement": "Nord",
     "numCirconscription": "20",
-    "region": "Hauts-de-France"
+    "region": "Hauts-de-France",
+    "placeHemicycle": 130
   },
   {
     "id": "PA840801",
@@ -2047,7 +2251,8 @@
     "groupe": "PO845401",
     "departement": "Bouches-du-Rhône",
     "numCirconscription": "13",
-    "region": "Provence-Alpes-Côte d'Azur"
+    "region": "Provence-Alpes-Côte d'Azur",
+    "placeHemicycle": 14
   },
   {
     "id": "PA793980",
@@ -2057,7 +2262,8 @@
     "groupe": "PO845439",
     "departement": "Indre-et-Loire",
     "numCirconscription": "1",
-    "region": "Centre-Val de Loire"
+    "region": "Centre-Val de Loire",
+    "placeHemicycle": 530
   },
   {
     "id": "PA794678",
@@ -2067,7 +2273,8 @@
     "groupe": "PO845401",
     "departement": "Pas-de-Calais",
     "numCirconscription": "10",
-    "region": "Hauts-de-France"
+    "region": "Hauts-de-France",
+    "placeHemicycle": 48
   },
   {
     "id": "PA822617",
@@ -2077,7 +2284,8 @@
     "groupe": "PO845419",
     "departement": "Ariège",
     "numCirconscription": "1",
-    "region": "Occitanie"
+    "region": "Occitanie",
+    "placeHemicycle": 485
   },
   {
     "id": "PA841151",
@@ -2087,7 +2295,8 @@
     "groupe": "PO845425",
     "departement": "Indre",
     "numCirconscription": "2",
-    "region": "Centre-Val de Loire"
+    "region": "Centre-Val de Loire",
+    "placeHemicycle": 206
   },
   {
     "id": "PA840235",
@@ -2097,7 +2306,8 @@
     "groupe": "PO845407",
     "departement": "Polynésie Française",
     "numCirconscription": "1",
-    "region": "Polynésie française"
+    "region": "Polynésie française",
+    "placeHemicycle": 399
   },
   {
     "id": "PA722284",
@@ -2107,7 +2317,8 @@
     "groupe": "PO845454",
     "departement": "Haut-Rhin",
     "numCirconscription": "6",
-    "region": "Grand Est"
+    "region": "Grand Est",
+    "placeHemicycle": 362
   },
   {
     "id": "PA722366",
@@ -2117,7 +2328,8 @@
     "groupe": "PO845407",
     "departement": "Rhône",
     "numCirconscription": "11",
-    "region": "Auvergne-Rhône-Alpes"
+    "region": "Auvergne-Rhône-Alpes",
+    "placeHemicycle": 272
   },
   {
     "id": "PA841665",
@@ -2127,7 +2339,8 @@
     "groupe": "PO845419",
     "departement": "Hautes-Pyrénées",
     "numCirconscription": "2",
-    "region": "Occitanie"
+    "region": "Occitanie",
+    "placeHemicycle": 487
   },
   {
     "id": "PA841139",
@@ -2137,7 +2350,8 @@
     "groupe": "PO845401",
     "departement": "Hérault",
     "numCirconscription": "6",
-    "region": "Occitanie"
+    "region": "Occitanie",
+    "placeHemicycle": 49
   },
   {
     "id": "PA796070",
@@ -2147,7 +2361,8 @@
     "groupe": "PO845413",
     "departement": "Réunion",
     "numCirconscription": "7",
-    "region": "Réunion"
+    "region": "Réunion",
+    "placeHemicycle": 638
   },
   {
     "id": "PA793892",
@@ -2157,7 +2372,8 @@
     "groupe": "PO845401",
     "departement": "Hérault",
     "numCirconscription": "5",
-    "region": "Occitanie"
+    "region": "Occitanie",
+    "placeHemicycle": 64
   },
   {
     "id": "PA795010",
@@ -2167,7 +2383,8 @@
     "groupe": "PO845439",
     "departement": "Rhône",
     "numCirconscription": "3",
-    "region": "Auvergne-Rhône-Alpes"
+    "region": "Auvergne-Rhône-Alpes",
+    "placeHemicycle": 507
   },
   {
     "id": "PA333285",
@@ -2177,7 +2394,8 @@
     "groupe": "PO845419",
     "departement": "Mayenne",
     "numCirconscription": "1",
-    "region": "Pays de la Loire"
+    "region": "Pays de la Loire",
+    "placeHemicycle": 434
   },
   {
     "id": "PA722358",
@@ -2187,7 +2405,8 @@
     "groupe": "PO845407",
     "departement": "Rhône",
     "numCirconscription": "10",
-    "region": "Auvergne-Rhône-Alpes"
+    "region": "Auvergne-Rhône-Alpes",
+    "placeHemicycle": 306
   },
   {
     "id": "PA721024",
@@ -2197,7 +2416,8 @@
     "groupe": "PO845407",
     "departement": "Français établis hors de France",
     "numCirconscription": "11",
-    "region": "Français établis hors de France"
+    "region": "Français établis hors de France",
+    "placeHemicycle": 255
   },
   {
     "id": "PA794234",
@@ -2207,7 +2427,8 @@
     "groupe": "PO845470",
     "departement": "Maine-et-Loire",
     "numCirconscription": "1",
-    "region": "Pays de la Loire"
+    "region": "Pays de la Loire",
+    "placeHemicycle": 231
   },
   {
     "id": "PA793556",
@@ -2217,7 +2438,8 @@
     "groupe": "PO845454",
     "departement": "Charente-Maritime",
     "numCirconscription": "1",
-    "region": "Nouvelle-Aquitaine"
+    "region": "Nouvelle-Aquitaine",
+    "placeHemicycle": 336
   },
   {
     "id": "PA841737",
@@ -2227,7 +2449,8 @@
     "groupe": "PO845401",
     "departement": "Rhône",
     "numCirconscription": "8",
-    "region": "Auvergne-Rhône-Alpes"
+    "region": "Auvergne-Rhône-Alpes",
+    "placeHemicycle": 16
   },
   {
     "id": "PA796034",
@@ -2237,7 +2460,8 @@
     "groupe": "PO845401",
     "departement": "Var",
     "numCirconscription": "6",
-    "region": "Provence-Alpes-Côte d'Azur"
+    "region": "Provence-Alpes-Côte d'Azur",
+    "placeHemicycle": 148
   },
   {
     "id": "PA793832",
@@ -2247,7 +2471,8 @@
     "groupe": "PO845401",
     "departement": "Gard",
     "numCirconscription": "1",
-    "region": "Occitanie"
+    "region": "Occitanie",
+    "placeHemicycle": 126
   },
   {
     "id": "PA841419",
@@ -2257,7 +2482,8 @@
     "groupe": "PO845439",
     "departement": "Morbihan",
     "numCirconscription": "5",
-    "region": "Bretagne"
+    "region": "Bretagne",
+    "placeHemicycle": 496
   },
   {
     "id": "PA793102",
@@ -2267,7 +2493,8 @@
     "groupe": "PO845401",
     "departement": "Alpes-de-Haute-Provence",
     "numCirconscription": "1",
-    "region": "Provence-Alpes-Côte d'Azur"
+    "region": "Provence-Alpes-Côte d'Azur",
+    "placeHemicycle": 153
   },
   {
     "id": "PA718674",
@@ -2277,7 +2504,8 @@
     "groupe": "PO845407",
     "departement": "Ain",
     "numCirconscription": "3",
-    "region": "Auvergne-Rhône-Alpes"
+    "region": "Auvergne-Rhône-Alpes",
+    "placeHemicycle": 301
   },
   {
     "id": "PA840939",
@@ -2287,7 +2515,8 @@
     "groupe": "PO845419",
     "departement": "Côte-d'Or",
     "numCirconscription": "1",
-    "region": "Bourgogne-Franche-Comté"
+    "region": "Bourgogne-Franche-Comté",
+    "placeHemicycle": 450
   },
   {
     "id": "PA841605",
@@ -2297,7 +2526,8 @@
     "groupe": "PO845401",
     "departement": "Pas-de-Calais",
     "numCirconscription": "5",
-    "region": "Hauts-de-France"
+    "region": "Hauts-de-France",
+    "placeHemicycle": 77
   },
   {
     "id": "PA793362",
@@ -2307,7 +2537,8 @@
     "groupe": "PO845401",
     "departement": "Bouches-du-Rhône",
     "numCirconscription": "10",
-    "region": "Provence-Alpes-Côte d'Azur"
+    "region": "Provence-Alpes-Côte d'Azur",
+    "placeHemicycle": 3
   },
   {
     "id": "PA266797",
@@ -2317,7 +2548,8 @@
     "groupe": "PO845425",
     "departement": "Manche",
     "numCirconscription": "1",
-    "region": "Normandie"
+    "region": "Normandie",
+    "placeHemicycle": 169
   },
   {
     "id": "PA331973",
@@ -2327,7 +2559,8 @@
     "groupe": "PO845419",
     "departement": "Gironde",
     "numCirconscription": "5",
-    "region": "Nouvelle-Aquitaine"
+    "region": "Nouvelle-Aquitaine",
+    "placeHemicycle": 441
   },
   {
     "id": "PA721296",
@@ -2337,7 +2570,8 @@
     "groupe": "PO845407",
     "departement": "Val-de-Marne",
     "numCirconscription": "6",
-    "region": "Ile-de-France"
+    "region": "Ile-de-France",
+    "placeHemicycle": 313
   },
   {
     "id": "PA720560",
@@ -2347,7 +2581,8 @@
     "groupe": "PO845454",
     "departement": "Nièvre",
     "numCirconscription": "1",
-    "region": "Bourgogne-Franche-Comté"
+    "region": "Bourgogne-Franche-Comté",
+    "placeHemicycle": 338
   },
   {
     "id": "PA794418",
@@ -2357,7 +2592,8 @@
     "groupe": "PO845401",
     "departement": "Meuse",
     "numCirconscription": "2",
-    "region": "Grand Est"
+    "region": "Grand Est",
+    "placeHemicycle": 24
   },
   {
     "id": "PA793592",
@@ -2367,7 +2603,8 @@
     "groupe": "PO845401",
     "departement": "Doubs",
     "numCirconscription": "4",
-    "region": "Bourgogne-Franche-Comté"
+    "region": "Bourgogne-Franche-Comté",
+    "placeHemicycle": 72
   },
   {
     "id": "PA267318",
@@ -2377,7 +2614,8 @@
     "groupe": "PO845454",
     "departement": "Sarthe",
     "numCirconscription": "5",
-    "region": "Pays de la Loire"
+    "region": "Pays de la Loire",
+    "placeHemicycle": 347
   },
   {
     "id": "PA795540",
@@ -2387,7 +2625,8 @@
     "groupe": "PO840056",
     "departement": "Yonne",
     "numCirconscription": "1",
-    "region": "Bourgogne-Franche-Comté"
+    "region": "Bourgogne-Franche-Comté",
+    "placeHemicycle": 157
   },
   {
     "id": "PA840757",
@@ -2397,7 +2636,8 @@
     "groupe": "PO845401",
     "departement": "Bouches-du-Rhône",
     "numCirconscription": "1",
-    "region": "Provence-Alpes-Côte d'Azur"
+    "region": "Provence-Alpes-Côte d'Azur",
+    "placeHemicycle": 135
   },
   {
     "id": "PA794058",
@@ -2407,7 +2647,8 @@
     "groupe": "PO845425",
     "departement": "Jura",
     "numCirconscription": "3",
-    "region": "Bourgogne-Franche-Comté"
+    "region": "Bourgogne-Franche-Comté",
+    "placeHemicycle": 177
   },
   {
     "id": "PA721764",
@@ -2417,7 +2658,8 @@
     "groupe": "PO845407",
     "departement": "Paris",
     "numCirconscription": "12",
-    "region": "Ile-de-France"
+    "region": "Ile-de-France",
+    "placeHemicycle": 271
   },
   {
     "id": "PA1567",
@@ -2427,7 +2669,8 @@
     "groupe": "PO845419",
     "departement": "Essonne",
     "numCirconscription": "6",
-    "region": "Ile-de-France"
+    "region": "Ile-de-France",
+    "placeHemicycle": 417
   },
   {
     "id": "PA795310",
@@ -2437,7 +2680,8 @@
     "groupe": "PO845413",
     "departement": "Val-de-Marne",
     "numCirconscription": "2",
-    "region": "Ile-de-France"
+    "region": "Ile-de-France",
+    "placeHemicycle": 634
   },
   {
     "id": "PA841451",
@@ -2447,7 +2691,8 @@
     "groupe": "PO845401",
     "departement": "Nièvre",
     "numCirconscription": "2",
-    "region": "Bourgogne-Franche-Comté"
+    "region": "Bourgogne-Franche-Comté",
+    "placeHemicycle": 5
   },
   {
     "id": "PA721612",
@@ -2457,7 +2702,8 @@
     "groupe": "PO845454",
     "departement": "Hauts-de-Seine",
     "numCirconscription": "12",
-    "region": "Ile-de-France"
+    "region": "Ile-de-France",
+    "placeHemicycle": 370
   },
   {
     "id": "PA794734",
@@ -2467,7 +2713,8 @@
     "groupe": "PO845401",
     "departement": "Oise",
     "numCirconscription": "6",
-    "region": "Hauts-de-France"
+    "region": "Hauts-de-France",
+    "placeHemicycle": 8
   },
   {
     "id": "PA793218",
@@ -2477,7 +2724,8 @@
     "groupe": "PO845401",
     "departement": "Aube",
     "numCirconscription": "1",
-    "region": "Grand Est"
+    "region": "Grand Est",
+    "placeHemicycle": 127
   },
   {
     "id": "PA795258",
@@ -2487,7 +2735,8 @@
     "groupe": "PO845454",
     "departement": "Saint-Barthélemy et Saint-Martin",
     "numCirconscription": "1",
-    "region": "Saint-Barthélemy et Saint-Martin"
+    "region": "Saint-Barthélemy et Saint-Martin",
+    "placeHemicycle": 348
   },
   {
     "id": "PA842013",
@@ -2497,7 +2746,8 @@
     "groupe": "PO845439",
     "departement": "Essonne",
     "numCirconscription": "3",
-    "region": "Ile-de-France"
+    "region": "Ile-de-France",
+    "placeHemicycle": 541
   },
   {
     "id": "PA794470",
@@ -2507,7 +2757,8 @@
     "groupe": "PO845470",
     "departement": "Nord",
     "numCirconscription": "7",
-    "region": "Hauts-de-France"
+    "region": "Hauts-de-France",
+    "placeHemicycle": 226
   },
   {
     "id": "PA1592",
@@ -2517,7 +2768,8 @@
     "groupe": "PO845485",
     "departement": "Pyrénées-Atlantiques",
     "numCirconscription": "3",
-    "region": "Nouvelle-Aquitaine"
+    "region": "Nouvelle-Aquitaine",
+    "placeHemicycle": 455
   },
   {
     "id": "PA841471",
@@ -2527,7 +2779,8 @@
     "groupe": "PO845419",
     "departement": "Meurthe-et-Moselle",
     "numCirconscription": "2",
-    "region": "Grand Est"
+    "region": "Grand Est",
+    "placeHemicycle": 569
   },
   {
     "id": "PA842263",
@@ -2537,7 +2790,8 @@
     "groupe": "PO845419",
     "departement": "Val-d'Oise",
     "numCirconscription": "2",
-    "region": "Ile-de-France"
+    "region": "Ile-de-France",
+    "placeHemicycle": 423
   },
   {
     "id": "PA841947",
@@ -2547,7 +2801,8 @@
     "groupe": "PO845413",
     "departement": "Somme",
     "numCirconscription": "2",
-    "region": "Hauts-de-France"
+    "region": "Hauts-de-France",
+    "placeHemicycle": 559
   },
   {
     "id": "PA795900",
@@ -2557,7 +2812,8 @@
     "groupe": "PO845401",
     "departement": "Tarn-et-Garonne",
     "numCirconscription": "2",
-    "region": "Occitanie"
+    "region": "Occitanie",
+    "placeHemicycle": 6
   },
   {
     "id": "PA722070",
@@ -2567,7 +2823,8 @@
     "groupe": "PO845470",
     "departement": "Vendée",
     "numCirconscription": "5",
-    "region": "Pays de la Loire"
+    "region": "Pays de la Loire",
+    "placeHemicycle": 215
   },
   {
     "id": "PA1630",
@@ -2577,7 +2834,8 @@
     "groupe": "PO845425",
     "departement": "Val-de-Marne",
     "numCirconscription": "8",
-    "region": "Ile-de-France"
+    "region": "Ile-de-France",
+    "placeHemicycle": 175
   },
   {
     "id": "PA841813",
@@ -2587,7 +2845,8 @@
     "groupe": "PO845419",
     "departement": "Seine-Maritime",
     "numCirconscription": "1",
-    "region": "Normandie"
+    "region": "Normandie",
+    "placeHemicycle": 461
   },
   {
     "id": "PA840947",
@@ -2597,7 +2856,8 @@
     "groupe": "PO845439",
     "departement": "Côte-d'Or",
     "numCirconscription": "2",
-    "region": "Bourgogne-Franche-Comté"
+    "region": "Bourgogne-Franche-Comté",
+    "placeHemicycle": 531
   },
   {
     "id": "PA841853",
@@ -2607,7 +2867,8 @@
     "groupe": "PO845419",
     "departement": "Paris",
     "numCirconscription": "11",
-    "region": "Ile-de-France"
+    "region": "Ile-de-France",
+    "placeHemicycle": 430
   },
   {
     "id": "PA608416",
@@ -2617,7 +2878,8 @@
     "groupe": "PO845425",
     "departement": "Bas-Rhin",
     "numCirconscription": "7",
-    "region": "Grand Est"
+    "region": "Grand Est",
+    "placeHemicycle": 164
   },
   {
     "id": "PA794082",
@@ -2627,7 +2889,8 @@
     "groupe": "PO845413",
     "departement": "Ille-et-Vilaine",
     "numCirconscription": "4",
-    "region": "Bretagne"
+    "region": "Bretagne",
+    "placeHemicycle": 611
   },
   {
     "id": "PA1654",
@@ -2637,7 +2900,8 @@
     "groupe": "PO845419",
     "departement": "Corrèze",
     "numCirconscription": "1",
-    "region": "Nouvelle-Aquitaine"
+    "region": "Nouvelle-Aquitaine",
+    "placeHemicycle": 424
   },
   {
     "id": "PA722150",
@@ -2647,7 +2911,8 @@
     "groupe": "PO845419",
     "departement": "Vienne",
     "numCirconscription": "2",
-    "region": "Nouvelle-Aquitaine"
+    "region": "Nouvelle-Aquitaine",
+    "placeHemicycle": 486
   },
   {
     "id": "PA793632",
@@ -2657,7 +2922,8 @@
     "groupe": "PO845401",
     "departement": "Eure",
     "numCirconscription": "5",
-    "region": "Normandie"
+    "region": "Normandie",
+    "placeHemicycle": 82
   },
   {
     "id": "PA842085",
@@ -2667,7 +2933,8 @@
     "groupe": "PO845401",
     "departement": "Vosges",
     "numCirconscription": "4",
-    "region": "Grand Est"
+    "region": "Grand Est",
+    "placeHemicycle": 81
   },
   {
     "id": "PA841017",
@@ -2677,7 +2944,8 @@
     "groupe": "PO845485",
     "departement": "Eure-et-Loir",
     "numCirconscription": "3",
-    "region": "Centre-Val de Loire"
+    "region": "Centre-Val de Loire",
+    "placeHemicycle": 480
   },
   {
     "id": "PA267200",
@@ -2687,7 +2955,8 @@
     "groupe": "PO845407",
     "departement": "Nord",
     "numCirconscription": "5",
-    "region": "Hauts-de-France"
+    "region": "Hauts-de-France",
+    "placeHemicycle": 277
   },
   {
     "id": "PA795954",
@@ -2697,7 +2966,8 @@
     "groupe": "PO845407",
     "departement": "Paris",
     "numCirconscription": "13",
-    "region": "Ile-de-France"
+    "region": "Ile-de-France",
+    "placeHemicycle": 322
   },
   {
     "id": "PA794022",
@@ -2707,7 +2977,8 @@
     "groupe": "PO845439",
     "departement": "Isère",
     "numCirconscription": "5",
-    "region": "Auvergne-Rhône-Alpes"
+    "region": "Auvergne-Rhône-Alpes",
+    "placeHemicycle": 509
   },
   {
     "id": "PA722374",
@@ -2717,7 +2988,8 @@
     "groupe": "PO845454",
     "departement": "Rhône",
     "numCirconscription": "12",
-    "region": "Auvergne-Rhône-Alpes"
+    "region": "Auvergne-Rhône-Alpes",
+    "placeHemicycle": 353
   },
   {
     "id": "PA794598",
@@ -2727,7 +2999,8 @@
     "groupe": "PO845401",
     "departement": "Moselle",
     "numCirconscription": "8",
-    "region": "Grand Est"
+    "region": "Grand Est",
+    "placeHemicycle": 54
   },
   {
     "id": "PA720354",
@@ -2737,7 +3010,8 @@
     "groupe": "PO845407",
     "departement": "Morbihan",
     "numCirconscription": "6",
-    "region": "Bretagne"
+    "region": "Bretagne",
+    "placeHemicycle": 263
   },
   {
     "id": "PA841439",
@@ -2747,7 +3021,8 @@
     "groupe": "PO845401",
     "departement": "Moselle",
     "numCirconscription": "5",
-    "region": "Grand Est"
+    "region": "Grand Est",
+    "placeHemicycle": 149
   },
   {
     "id": "PA719778",
@@ -2757,7 +3032,8 @@
     "groupe": "PO845470",
     "departement": "Indre",
     "numCirconscription": "1",
-    "region": "Centre-Val de Loire"
+    "region": "Centre-Val de Loire",
+    "placeHemicycle": 233
   },
   {
     "id": "PA794030",
@@ -2767,7 +3043,8 @@
     "groupe": "PO845401",
     "departement": "Isère",
     "numCirconscription": "6",
-    "region": "Auvergne-Rhône-Alpes"
+    "region": "Auvergne-Rhône-Alpes",
+    "placeHemicycle": 39
   },
   {
     "id": "PA841749",
@@ -2777,7 +3054,8 @@
     "groupe": "PO845401",
     "departement": "Rhône",
     "numCirconscription": "13",
-    "region": "Auvergne-Rhône-Alpes"
+    "region": "Auvergne-Rhône-Alpes",
+    "placeHemicycle": 83
   },
   {
     "id": "PA840745",
@@ -2787,7 +3065,8 @@
     "groupe": "PO845401",
     "departement": "Aude",
     "numCirconscription": "1",
-    "region": "Occitanie"
+    "region": "Occitanie",
+    "placeHemicycle": 57
   },
   {
     "id": "PA841075",
@@ -2797,7 +3076,8 @@
     "groupe": "PO845401",
     "departement": "Gard",
     "numCirconscription": "6",
-    "region": "Occitanie"
+    "region": "Occitanie",
+    "placeHemicycle": 18
   },
   {
     "id": "PA720038",
@@ -2807,7 +3087,8 @@
     "groupe": "PO845454",
     "departement": "Loire-Atlantique",
     "numCirconscription": "7",
-    "region": "Pays de la Loire"
+    "region": "Pays de la Loire",
+    "placeHemicycle": 346
   },
   {
     "id": "PA840869",
@@ -2817,7 +3098,8 @@
     "groupe": "PO845401",
     "departement": "Dordogne",
     "numCirconscription": "3",
-    "region": "Nouvelle-Aquitaine"
+    "region": "Nouvelle-Aquitaine",
+    "placeHemicycle": 47
   },
   {
     "id": "PA643192",
@@ -2827,7 +3109,8 @@
     "groupe": "PO845419",
     "departement": "Orne",
     "numCirconscription": "1",
-    "region": "Normandie"
+    "region": "Normandie",
+    "placeHemicycle": 409
   },
   {
     "id": "PA346782",
@@ -2837,7 +3120,8 @@
     "groupe": "PO845425",
     "departement": "Hauts-de-Seine",
     "numCirconscription": "3",
-    "region": "Ile-de-France"
+    "region": "Ile-de-France",
+    "placeHemicycle": 172
   },
   {
     "id": "PA795998",
@@ -2847,7 +3131,8 @@
     "groupe": "PO845514",
     "departement": "Réunion",
     "numCirconscription": "4",
-    "region": "Réunion"
+    "region": "Réunion",
+    "placeHemicycle": 578
   },
   {
     "id": "PA335054",
@@ -2857,7 +3142,8 @@
     "groupe": "PO845419",
     "departement": "Sarthe",
     "numCirconscription": "2",
-    "region": "Pays de la Loire"
+    "region": "Pays de la Loire",
+    "placeHemicycle": 411
   },
   {
     "id": "PA719372",
@@ -2867,7 +3153,8 @@
     "groupe": "PO845407",
     "departement": "Eure-et-Loir",
     "numCirconscription": "1",
-    "region": "Centre-Val de Loire"
+    "region": "Centre-Val de Loire",
+    "placeHemicycle": 266
   },
   {
     "id": "PA795156",
@@ -2877,7 +3164,8 @@
     "groupe": "PO845419",
     "departement": "Seine-Saint-Denis",
     "numCirconscription": "8",
-    "region": "Ile-de-France"
+    "region": "Ile-de-France",
+    "placeHemicycle": 416
   },
   {
     "id": "PA794130",
@@ -2887,7 +3175,8 @@
     "groupe": "PO845413",
     "departement": "Loire-Atlantique",
     "numCirconscription": "2",
-    "region": "Pays de la Loire"
+    "region": "Pays de la Loire",
+    "placeHemicycle": 537
   },
   {
     "id": "PA719052",
@@ -2897,7 +3186,8 @@
     "groupe": "PO845470",
     "departement": "Cher",
     "numCirconscription": "3",
-    "region": "Centre-Val de Loire"
+    "region": "Centre-Val de Loire",
+    "placeHemicycle": 227
   },
   {
     "id": "PA643184",
@@ -2907,7 +3197,8 @@
     "groupe": "PO845407",
     "departement": "Haut-Rhin",
     "numCirconscription": "1",
-    "region": "Grand Est"
+    "region": "Grand Est",
+    "placeHemicycle": 366
   },
   {
     "id": "PA719798",
@@ -2917,7 +3208,8 @@
     "groupe": "PO845407",
     "departement": "Indre-et-Loire",
     "numCirconscription": "2",
-    "region": "Centre-Val de Loire"
+    "region": "Centre-Val de Loire",
+    "placeHemicycle": 262
   },
   {
     "id": "PA720846",
@@ -2927,7 +3219,8 @@
     "groupe": "PO845413",
     "departement": "Seine-Saint-Denis",
     "numCirconscription": "6",
-    "region": "Ile-de-France"
+    "region": "Ile-de-France",
+    "placeHemicycle": 614
   },
   {
     "id": "PA794146",
@@ -2937,7 +3230,8 @@
     "groupe": "PO845439",
     "departement": "Loire-Atlantique",
     "numCirconscription": "4",
-    "region": "Pays de la Loire"
+    "region": "Pays de la Loire",
+    "placeHemicycle": 511
   },
   {
     "id": "PA841223",
@@ -2947,7 +3241,8 @@
     "groupe": "PO845439",
     "departement": "Ille-et-Vilaine",
     "numCirconscription": "2",
-    "region": "Bretagne"
+    "region": "Bretagne",
+    "placeHemicycle": 525
   },
   {
     "id": "PA841729",
@@ -2957,7 +3252,8 @@
     "groupe": "PO845413",
     "departement": "Rhône",
     "numCirconscription": "7",
-    "region": "Auvergne-Rhône-Alpes"
+    "region": "Auvergne-Rhône-Alpes",
+    "placeHemicycle": 519
   },
   {
     "id": "PA795516",
@@ -2967,7 +3263,8 @@
     "groupe": "PO845413",
     "departement": "Seine-et-Marne",
     "numCirconscription": "10",
-    "region": "Ile-de-France"
+    "region": "Ile-de-France",
+    "placeHemicycle": 596
   },
   {
     "id": "PA721004",
@@ -2977,7 +3274,8 @@
     "groupe": "PO845407",
     "departement": "Français établis hors de France",
     "numCirconscription": "10",
-    "region": "Français établis hors de France"
+    "region": "Français établis hors de France",
+    "placeHemicycle": 380
   },
   {
     "id": "PA795390",
@@ -2987,7 +3285,8 @@
     "groupe": "PO845407",
     "departement": "Val-de-Marne",
     "numCirconscription": "5",
-    "region": "Ile-de-France"
+    "region": "Ile-de-France",
+    "placeHemicycle": 389
   },
   {
     "id": "PA842125",
@@ -2997,7 +3296,8 @@
     "groupe": "PO845470",
     "departement": "Hauts-de-Seine",
     "numCirconscription": "2",
-    "region": "Ile-de-France"
+    "region": "Ile-de-France",
+    "placeHemicycle": 230
   },
   {
     "id": "PA794354",
@@ -3007,7 +3307,8 @@
     "groupe": "PO845401",
     "departement": "Lot-et-Garonne",
     "numCirconscription": "2",
-    "region": "Nouvelle-Aquitaine"
+    "region": "Nouvelle-Aquitaine",
+    "placeHemicycle": 28
   },
   {
     "id": "PA795334",
@@ -3017,7 +3318,8 @@
     "groupe": "PO845407",
     "departement": "Français établis hors de France",
     "numCirconscription": "2",
-    "region": "Français établis hors de France"
+    "region": "Français établis hors de France",
+    "placeHemicycle": 368
   },
   {
     "id": "PA721984",
@@ -3027,7 +3329,8 @@
     "groupe": "PO845454",
     "departement": "Vendée",
     "numCirconscription": "1",
-    "region": "Pays de la Loire"
+    "region": "Pays de la Loire",
+    "placeHemicycle": 359
   },
   {
     "id": "PA857021",
@@ -3037,7 +3340,8 @@
     "groupe": "PO845407",
     "departement": "Isère",
     "numCirconscription": "1",
-    "region": "Auvergne-Rhône-Alpes"
+    "region": "Auvergne-Rhône-Alpes",
+    "placeHemicycle": 490
   },
   {
     "id": "PA720022",
@@ -3047,7 +3351,8 @@
     "groupe": "PO845407",
     "departement": "Lot-et-Garonne",
     "numCirconscription": "1",
-    "region": "Nouvelle-Aquitaine"
+    "region": "Nouvelle-Aquitaine",
+    "placeHemicycle": 294
   },
   {
     "id": "PA795912",
@@ -3057,7 +3362,8 @@
     "groupe": "PO845401",
     "departement": "Var",
     "numCirconscription": "2",
-    "region": "Provence-Alpes-Côte d'Azur"
+    "region": "Provence-Alpes-Côte d'Azur",
+    "placeHemicycle": 108
   },
   {
     "id": "PA841837",
@@ -3067,7 +3373,8 @@
     "groupe": "PO845401",
     "departement": "Seine-Maritime",
     "numCirconscription": "10",
-    "region": "Normandie"
+    "region": "Normandie",
+    "placeHemicycle": 31
   },
   {
     "id": "PA841515",
@@ -3077,7 +3384,8 @@
     "groupe": "PO845413",
     "departement": "Nord",
     "numCirconscription": "1",
-    "region": "Hauts-de-France"
+    "region": "Hauts-de-France",
+    "placeHemicycle": 594
   },
   {
     "id": "PA719412",
@@ -3087,7 +3395,8 @@
     "groupe": "PO845407",
     "departement": "Finistère",
     "numCirconscription": "4",
-    "region": "Bretagne"
+    "region": "Bretagne",
+    "placeHemicycle": 269
   },
   {
     "id": "PA840979",
@@ -3097,7 +3406,8 @@
     "groupe": "PO845425",
     "departement": "Côtes-d'Armor",
     "numCirconscription": "3",
-    "region": "Bretagne"
+    "region": "Bretagne",
+    "placeHemicycle": 211
   },
   {
     "id": "PA719404",
@@ -3107,7 +3417,8 @@
     "groupe": "PO845407",
     "departement": "Finistère",
     "numCirconscription": "3",
-    "region": "Bretagne"
+    "region": "Bretagne",
+    "placeHemicycle": 288
   },
   {
     "id": "PA795672",
@@ -3117,7 +3428,8 @@
     "groupe": "PO845413",
     "departement": "Val-d'Oise",
     "numCirconscription": "9",
-    "region": "Ile-de-France"
+    "region": "Ile-de-France",
+    "placeHemicycle": 612
   },
   {
     "id": "PA345722",
@@ -3127,7 +3439,8 @@
     "groupe": "PO845407",
     "departement": "Hauts-de-Seine",
     "numCirconscription": "6",
-    "region": "Ile-de-France"
+    "region": "Ile-de-France",
+    "placeHemicycle": 258
   },
   {
     "id": "PA719388",
@@ -3137,7 +3450,8 @@
     "groupe": "PO845407",
     "departement": "Finistère",
     "numCirconscription": "1",
-    "region": "Bretagne"
+    "region": "Bretagne",
+    "placeHemicycle": 254
   },
   {
     "id": "PA719756",
@@ -3147,7 +3461,8 @@
     "groupe": "PO845407",
     "departement": "Ille-et-Vilaine",
     "numCirconscription": "5",
-    "region": "Bretagne"
+    "region": "Bretagne",
+    "placeHemicycle": 280
   },
   {
     "id": "PA720342",
@@ -3157,7 +3472,8 @@
     "groupe": "PO845407",
     "departement": "Morbihan",
     "numCirconscription": "3",
-    "region": "Bretagne"
+    "region": "Bretagne",
+    "placeHemicycle": 278
   },
   {
     "id": "PA720614",
@@ -3167,7 +3483,8 @@
     "groupe": "PO845401",
     "departement": "Pas-de-Calais",
     "numCirconscription": "11",
-    "region": "Hauts-de-France"
+    "region": "Hauts-de-France",
+    "placeHemicycle": 36
   },
   {
     "id": "PA721852",
@@ -3177,7 +3494,8 @@
     "groupe": "PO845407",
     "departement": "Yvelines",
     "numCirconscription": "4",
-    "region": "Ile-de-France"
+    "region": "Ile-de-France",
+    "placeHemicycle": 264
   },
   {
     "id": "PA774962",
@@ -3187,7 +3505,8 @@
     "groupe": "PO845514",
     "departement": "Réunion",
     "numCirconscription": "2",
-    "region": "Réunion"
+    "region": "Réunion",
+    "placeHemicycle": 576
   },
   {
     "id": "PA795108",
@@ -3197,7 +3516,8 @@
     "groupe": "PO845413",
     "departement": "Sarthe",
     "numCirconscription": "4",
-    "region": "Pays de la Loire"
+    "region": "Pays de la Loire",
+    "placeHemicycle": 538
   },
   {
     "id": "PA795374",
@@ -3207,7 +3527,8 @@
     "groupe": "PO845454",
     "departement": "Vienne",
     "numCirconscription": "3",
-    "region": "Nouvelle-Aquitaine"
+    "region": "Nouvelle-Aquitaine",
+    "placeHemicycle": 341
   },
   {
     "id": "PA796026",
@@ -3217,7 +3538,8 @@
     "groupe": "PO845401",
     "departement": "Var",
     "numCirconscription": "5",
-    "region": "Provence-Alpes-Côte d'Azur"
+    "region": "Provence-Alpes-Côte d'Azur",
+    "placeHemicycle": 53
   },
   {
     "id": "PA840857",
@@ -3227,7 +3549,8 @@
     "groupe": "PO845401",
     "departement": "Dordogne",
     "numCirconscription": "1",
-    "region": "Nouvelle-Aquitaine"
+    "region": "Nouvelle-Aquitaine",
+    "placeHemicycle": 119
   },
   {
     "id": "PA335612",
@@ -3237,7 +3560,8 @@
     "groupe": "PO845514",
     "departement": "Seine-Maritime",
     "numCirconscription": "8",
-    "region": "Normandie"
+    "region": "Normandie",
+    "placeHemicycle": 586
   },
   {
     "id": "PA712014",
@@ -3247,7 +3571,8 @@
     "groupe": "PO845407",
     "departement": "Nord",
     "numCirconscription": "10",
-    "region": "Hauts-de-France"
+    "region": "Hauts-de-France",
+    "placeHemicycle": 308
   },
   {
     "id": "PA795298",
@@ -3257,7 +3582,8 @@
     "groupe": "PO845413",
     "departement": "Seine-Saint-Denis",
     "numCirconscription": "12",
-    "region": "Ile-de-France"
+    "region": "Ile-de-France",
+    "placeHemicycle": 649
   },
   {
     "id": "PA791824",
@@ -3267,7 +3593,8 @@
     "groupe": "PO845413",
     "departement": "Paris",
     "numCirconscription": "16",
-    "region": "Ile-de-France"
+    "region": "Ile-de-France",
+    "placeHemicycle": 602
   },
   {
     "id": "PA842029",
@@ -3277,7 +3604,8 @@
     "groupe": "PO845413",
     "departement": "Essonne",
     "numCirconscription": "7",
-    "region": "Ile-de-France"
+    "region": "Ile-de-France",
+    "placeHemicycle": 607
   },
   {
     "id": "PA793290",
@@ -3287,7 +3615,8 @@
     "groupe": "PO845401",
     "departement": "Bouches-du-Rhône",
     "numCirconscription": "3",
-    "region": "Provence-Alpes-Côte d'Azur"
+    "region": "Provence-Alpes-Côte d'Azur",
+    "placeHemicycle": 146
   },
   {
     "id": "PA794838",
@@ -3297,7 +3626,8 @@
     "groupe": "PO845470",
     "departement": "Haut-Rhin",
     "numCirconscription": "3",
-    "region": "Grand Est"
+    "region": "Grand Est",
+    "placeHemicycle": 242
   },
   {
     "id": "PA721632",
@@ -3307,7 +3637,8 @@
     "groupe": "PO845407",
     "departement": "Seine-et-Marne",
     "numCirconscription": "5",
-    "region": "Ile-de-France"
+    "region": "Ile-de-France",
+    "placeHemicycle": 279
   },
   {
     "id": "PA840983",
@@ -3317,7 +3648,8 @@
     "groupe": "PO872880",
     "departement": "Creuse",
     "numCirconscription": "1",
-    "region": "Nouvelle-Aquitaine"
+    "region": "Nouvelle-Aquitaine",
+    "placeHemicycle": 114
   },
   {
     "id": "PA795244",
@@ -3327,7 +3659,8 @@
     "groupe": "PO845485",
     "departement": "Saint-Pierre-et-Miquelon",
     "numCirconscription": "1",
-    "region": "Saint-Pierre-et-Miquelon"
+    "region": "Saint-Pierre-et-Miquelon",
+    "placeHemicycle": 456
   },
   {
     "id": "PA793532",
@@ -3337,7 +3670,8 @@
     "groupe": "PO845413",
     "departement": "Côtes-d'Armor",
     "numCirconscription": "4",
-    "region": "Bretagne"
+    "region": "Bretagne",
+    "placeHemicycle": 650
   },
   {
     "id": "PA774958",
@@ -3347,7 +3681,8 @@
     "groupe": "PO845419",
     "departement": "Seine-Maritime",
     "numCirconscription": "5",
-    "region": "Normandie"
+    "region": "Normandie",
+    "placeHemicycle": 415
   },
   {
     "id": "PA793608",
@@ -3357,7 +3692,8 @@
     "groupe": "PO845401",
     "departement": "Eure",
     "numCirconscription": "2",
-    "region": "Normandie"
+    "region": "Normandie",
+    "placeHemicycle": 156
   },
   {
     "id": "PA840765",
@@ -3367,7 +3703,8 @@
     "groupe": "PO845419",
     "departement": "Bouches-du-Rhône",
     "numCirconscription": "2",
-    "region": "Provence-Alpes-Côte d'Azur"
+    "region": "Provence-Alpes-Côte d'Azur",
+    "placeHemicycle": 445
   },
   {
     "id": "PA794750",
@@ -3377,7 +3714,8 @@
     "groupe": "PO845425",
     "departement": "Orne",
     "numCirconscription": "2",
-    "region": "Normandie"
+    "region": "Normandie",
+    "placeHemicycle": 196
   },
   {
     "id": "PA841873",
@@ -3387,7 +3725,8 @@
     "groupe": "PO845401",
     "departement": "Seine-et-Marne",
     "numCirconscription": "4",
-    "region": "Ile-de-France"
+    "region": "Ile-de-France",
+    "placeHemicycle": 122
   },
   {
     "id": "PA794702",
@@ -3397,7 +3736,8 @@
     "groupe": "PO845454",
     "departement": "Puy-de-Dôme",
     "numCirconscription": "4",
-    "region": "Auvergne-Rhône-Alpes"
+    "region": "Auvergne-Rhône-Alpes",
+    "placeHemicycle": 340
   },
   {
     "id": "PA840967",
@@ -3407,7 +3747,8 @@
     "groupe": "PO845401",
     "departement": "Côte-d'Or",
     "numCirconscription": "5",
-    "region": "Bourgogne-Franche-Comté"
+    "region": "Bourgogne-Franche-Comté",
+    "placeHemicycle": 154
   },
   {
     "id": "PA720446",
@@ -3417,7 +3758,8 @@
     "groupe": "PO845407",
     "departement": "Nord",
     "numCirconscription": "4",
-    "region": "Hauts-de-France"
+    "region": "Hauts-de-France",
+    "placeHemicycle": 261
   },
   {
     "id": "PA642725",
@@ -3427,7 +3769,8 @@
     "groupe": "PO845425",
     "departement": "Doubs",
     "numCirconscription": "5",
-    "region": "Bourgogne-Franche-Comté"
+    "region": "Bourgogne-Franche-Comté",
+    "placeHemicycle": 205
   },
   {
     "id": "PA793672",
@@ -3437,7 +3780,8 @@
     "groupe": "PO845401",
     "departement": "Eure",
     "numCirconscription": "1",
-    "region": "Normandie"
+    "region": "Normandie",
+    "placeHemicycle": 116
   },
   {
     "id": "PA721932",
@@ -3447,7 +3791,8 @@
     "groupe": "PO845401",
     "departement": "Vaucluse",
     "numCirconscription": "4",
-    "region": "Provence-Alpes-Côte d'Azur"
+    "region": "Provence-Alpes-Côte d'Azur",
+    "placeHemicycle": 147
   },
   {
     "id": "PA795974",
@@ -3457,7 +3802,8 @@
     "groupe": "PO845401",
     "departement": "Var",
     "numCirconscription": "4",
-    "region": "Provence-Alpes-Côte d'Azur"
+    "region": "Provence-Alpes-Côte d'Azur",
+    "placeHemicycle": 22
   },
   {
     "id": "PA794590",
@@ -3467,7 +3813,8 @@
     "groupe": "PO845401",
     "departement": "Moselle",
     "numCirconscription": "7",
-    "region": "Grand Est"
+    "region": "Grand Est",
+    "placeHemicycle": 123
   },
   {
     "id": "PA879389",
@@ -3477,7 +3824,8 @@
     "groupe": "PO845407",
     "departement": "Loiret",
     "numCirconscription": "1",
-    "region": "Centre-Val de Loire"
+    "region": "Centre-Val de Loire",
+    "placeHemicycle": 304
   },
   {
     "id": "PA795636",
@@ -3487,7 +3835,8 @@
     "groupe": "PO845439",
     "departement": "Yvelines",
     "numCirconscription": "8",
-    "region": "Ile-de-France"
+    "region": "Ile-de-France",
+    "placeHemicycle": 514
   },
   {
     "id": "PA794578",
@@ -3497,7 +3846,8 @@
     "groupe": "PO845470",
     "departement": "Oise",
     "numCirconscription": "4",
-    "region": "Hauts-de-France"
+    "region": "Hauts-de-France",
+    "placeHemicycle": 320
   },
   {
     "id": "PA795746",
@@ -3507,7 +3857,8 @@
     "groupe": "PO845413",
     "departement": "Essonne",
     "numCirconscription": "10",
-    "region": "Ile-de-France"
+    "region": "Ile-de-France",
+    "placeHemicycle": 645
   },
   {
     "id": "PA227089",
@@ -3517,7 +3868,8 @@
     "groupe": "PO845485",
     "departement": "Nord",
     "numCirconscription": "21",
-    "region": "Hauts-de-France"
+    "region": "Hauts-de-France",
+    "placeHemicycle": 395
   },
   {
     "id": "PA720230",
@@ -3527,7 +3879,8 @@
     "groupe": "PO845470",
     "departement": "Marne",
     "numCirconscription": "4",
-    "region": "Grand Est"
+    "region": "Grand Est",
+    "placeHemicycle": 238
   },
   {
     "id": "PA841587",
@@ -3537,7 +3890,8 @@
     "groupe": "PO845401",
     "departement": "Oise",
     "numCirconscription": "7",
-    "region": "Hauts-de-France"
+    "region": "Hauts-de-France",
+    "placeHemicycle": 13
   },
   {
     "id": "PA717379",
@@ -3547,7 +3901,8 @@
     "groupe": "PO845407",
     "departement": "Paris",
     "numCirconscription": "1",
-    "region": "Ile-de-France"
+    "region": "Ile-de-France",
+    "placeHemicycle": 256
   },
   {
     "id": "PA796010",
@@ -3557,7 +3912,8 @@
     "groupe": "PO845514",
     "departement": "Réunion",
     "numCirconscription": "6",
-    "region": "Réunion"
+    "region": "Réunion",
+    "placeHemicycle": 577
   },
   {
     "id": "PA794114",
@@ -3567,7 +3923,8 @@
     "groupe": "PO845454",
     "departement": "Loire",
     "numCirconscription": "3",
-    "region": "Auvergne-Rhône-Alpes"
+    "region": "Auvergne-Rhône-Alpes",
+    "placeHemicycle": 332
   },
   {
     "id": "PA841183",
@@ -3577,7 +3934,8 @@
     "groupe": "PO872880",
     "departement": "Isère",
     "numCirconscription": "8",
-    "region": "Auvergne-Rhône-Alpes"
+    "region": "Auvergne-Rhône-Alpes",
+    "placeHemicycle": 97
   },
   {
     "id": "PA841563",
@@ -3587,7 +3945,8 @@
     "groupe": "PO845401",
     "departement": "Oise",
     "numCirconscription": "1",
-    "region": "Hauts-de-France"
+    "region": "Hauts-de-France",
+    "placeHemicycle": 133
   },
   {
     "id": "PA605782",
@@ -3597,7 +3956,8 @@
     "groupe": "PO845470",
     "departement": "Corse-du-Sud",
     "numCirconscription": "1",
-    "region": "Corse"
+    "region": "Corse",
+    "placeHemicycle": 222
   },
   {
     "id": "PA794530",
@@ -3607,7 +3967,8 @@
     "groupe": "PO845401",
     "departement": "Nord",
     "numCirconscription": "16",
-    "region": "Hauts-de-France"
+    "region": "Hauts-de-France",
+    "placeHemicycle": 51
   },
   {
     "id": "PA795730",
@@ -3617,7 +3978,8 @@
     "groupe": "PO845407",
     "departement": "Deux-Sèvres",
     "numCirconscription": "1",
-    "region": "Nouvelle-Aquitaine"
+    "region": "Nouvelle-Aquitaine",
+    "placeHemicycle": 377
   },
   {
     "id": "PA794206",
@@ -3627,7 +3989,8 @@
     "groupe": "PO845407",
     "departement": "Loir-et-Cher",
     "numCirconscription": "3",
-    "region": "Centre-Val de Loire"
+    "region": "Centre-Val de Loire",
+    "placeHemicycle": 307
   },
   {
     "id": "PA840837",
@@ -3637,7 +4000,8 @@
     "groupe": "PO845401",
     "departement": "Charente-Maritime",
     "numCirconscription": "4",
-    "region": "Nouvelle-Aquitaine"
+    "region": "Nouvelle-Aquitaine",
+    "placeHemicycle": 23
   },
   {
     "id": "PA794518",
@@ -3647,7 +4011,8 @@
     "groupe": "PO845470",
     "departement": "Nord",
     "numCirconscription": "14",
-    "region": "Hauts-de-France"
+    "region": "Hauts-de-France",
+    "placeHemicycle": 318
   },
   {
     "id": "PA719080",
@@ -3657,7 +4022,8 @@
     "groupe": "PO845407",
     "departement": "Charente",
     "numCirconscription": "2",
-    "region": "Nouvelle-Aquitaine"
+    "region": "Nouvelle-Aquitaine",
+    "placeHemicycle": 287
   },
   {
     "id": "PA342384",
@@ -3667,7 +4033,8 @@
     "groupe": "PO845413",
     "departement": "Isère",
     "numCirconscription": "3",
-    "region": "Auvergne-Rhône-Alpes"
+    "region": "Auvergne-Rhône-Alpes",
+    "placeHemicycle": 599
   },
   {
     "id": "PA841825",
@@ -3677,7 +4044,8 @@
     "groupe": "PO845401",
     "departement": "Seine-Maritime",
     "numCirconscription": "6",
-    "region": "Normandie"
+    "region": "Normandie",
+    "placeHemicycle": 71
   },
   {
     "id": "PA793342",
@@ -3687,7 +4055,8 @@
     "groupe": "PO845425",
     "departement": "Alpes-Maritimes",
     "numCirconscription": "8",
-    "region": "Provence-Alpes-Côte d'Azur"
+    "region": "Provence-Alpes-Côte d'Azur",
+    "placeHemicycle": 204
   },
   {
     "id": "PA793944",
@@ -3697,7 +4066,8 @@
     "groupe": "PO845407",
     "departement": "Gironde",
     "numCirconscription": "1",
-    "region": "Nouvelle-Aquitaine"
+    "region": "Nouvelle-Aquitaine",
+    "placeHemicycle": 381
   },
   {
     "id": "PA795100",
@@ -3707,7 +4077,8 @@
     "groupe": "PO845454",
     "departement": "Sarthe",
     "numCirconscription": "3",
-    "region": "Pays de la Loire"
+    "region": "Pays de la Loire",
+    "placeHemicycle": 351
   },
   {
     "id": "PA794770",
@@ -3717,7 +4088,8 @@
     "groupe": "PO845401",
     "departement": "Pyrénées-Orientales",
     "numCirconscription": "4",
-    "region": "Occitanie"
+    "region": "Occitanie",
+    "placeHemicycle": 129
   },
   {
     "id": "PA720146",
@@ -3727,7 +4099,8 @@
     "groupe": "PO845407",
     "departement": "Maine-et-Loire",
     "numCirconscription": "5",
-    "region": "Pays de la Loire"
+    "region": "Pays de la Loire",
+    "placeHemicycle": 376
   },
   {
     "id": "PA720976",
@@ -3737,7 +4110,8 @@
     "groupe": "PO845485",
     "departement": "Guadeloupe",
     "numCirconscription": "3",
-    "region": "Guadeloupe"
+    "region": "Guadeloupe",
+    "placeHemicycle": 483
   },
   {
     "id": "PA720728",
@@ -3747,7 +4121,8 @@
     "groupe": "PO845454",
     "departement": "Pyrénées-Atlantiques",
     "numCirconscription": "2",
-    "region": "Nouvelle-Aquitaine"
+    "region": "Nouvelle-Aquitaine",
+    "placeHemicycle": 339
   },
   {
     "id": "PA795422",
@@ -3757,7 +4132,8 @@
     "groupe": "PO845413",
     "departement": "Haute-Vienne",
     "numCirconscription": "1",
-    "region": "Nouvelle-Aquitaine"
+    "region": "Nouvelle-Aquitaine",
+    "placeHemicycle": 644
   },
   {
     "id": "PA842271",
@@ -3767,7 +4143,8 @@
     "groupe": "PO845514",
     "departement": "Val-d'Oise",
     "numCirconscription": "3",
-    "region": "Ile-de-France"
+    "region": "Ile-de-France",
+    "placeHemicycle": 584
   },
   {
     "id": "PA794262",
@@ -3777,7 +4154,8 @@
     "groupe": "PO845454",
     "departement": "Maine-et-Loire",
     "numCirconscription": "7",
-    "region": "Pays de la Loire"
+    "region": "Pays de la Loire",
+    "placeHemicycle": 349
   },
   {
     "id": "PA793616",
@@ -3787,7 +4165,8 @@
     "groupe": "PO845401",
     "departement": "Eure",
     "numCirconscription": "3",
-    "region": "Normandie"
+    "region": "Normandie",
+    "placeHemicycle": 73
   },
   {
     "id": "PA794686",
@@ -3797,7 +4176,8 @@
     "groupe": "PO845413",
     "departement": "Puy-de-Dôme",
     "numCirconscription": "1",
-    "region": "Auvergne-Rhône-Alpes"
+    "region": "Auvergne-Rhône-Alpes",
+    "placeHemicycle": 628
   },
   {
     "id": "PA841931",
@@ -3807,7 +4187,8 @@
     "groupe": "PO845485",
     "departement": "Yvelines",
     "numCirconscription": "11",
-    "region": "Ile-de-France"
+    "region": "Ile-de-France",
+    "placeHemicycle": 394
   },
   {
     "id": "PA719436",
@@ -3817,7 +4198,8 @@
     "groupe": "PO845401",
     "departement": "Gard",
     "numCirconscription": "2",
-    "region": "Occitanie"
+    "region": "Occitanie",
+    "placeHemicycle": 20
   },
   {
     "id": "PA719338",
@@ -3827,7 +4209,8 @@
     "groupe": "PO845407",
     "departement": "Finistère",
     "numCirconscription": "5",
-    "region": "Bretagne"
+    "region": "Bretagne",
+    "placeHemicycle": 387
   },
   {
     "id": "PA720370",
@@ -3837,7 +4220,8 @@
     "groupe": "PO845407",
     "departement": "Moselle",
     "numCirconscription": "2",
-    "region": "Grand Est"
+    "region": "Grand Est",
+    "placeHemicycle": 398
   },
   {
     "id": "PA841463",
@@ -3847,7 +4231,8 @@
     "groupe": "PO845419",
     "departement": "Meurthe-et-Moselle",
     "numCirconscription": "1",
-    "region": "Grand Est"
+    "region": "Grand Est",
+    "placeHemicycle": 419
   },
   {
     "id": "PA841215",
@@ -3857,7 +4242,8 @@
     "groupe": "PO845413",
     "departement": "Ille-et-Vilaine",
     "numCirconscription": "1",
-    "region": "Bretagne"
+    "region": "Bretagne",
+    "placeHemicycle": 597
   },
   {
     "id": "PA719640",
@@ -3867,7 +4253,8 @@
     "groupe": "PO845454",
     "departement": "Gironde",
     "numCirconscription": "9",
-    "region": "Nouvelle-Aquitaine"
+    "region": "Nouvelle-Aquitaine",
+    "placeHemicycle": 331
   },
   {
     "id": "PA795176",
@@ -3877,7 +4264,8 @@
     "groupe": "PO845407",
     "departement": "Nouvelle-Calédonie",
     "numCirconscription": "1",
-    "region": "Nouvelle-Calédonie"
+    "region": "Nouvelle-Calédonie",
+    "placeHemicycle": 385
   },
   {
     "id": "PA719272",
@@ -3887,7 +4275,8 @@
     "groupe": "PO845425",
     "departement": "Corrèze",
     "numCirconscription": "2",
-    "region": "Nouvelle-Aquitaine"
+    "region": "Nouvelle-Aquitaine",
+    "placeHemicycle": 198
   },
   {
     "id": "PA795482",
@@ -3897,7 +4286,8 @@
     "groupe": "PO845413",
     "departement": "Haute-Vienne",
     "numCirconscription": "3",
-    "region": "Nouvelle-Aquitaine"
+    "region": "Nouvelle-Aquitaine",
+    "placeHemicycle": 642
   },
   {
     "id": "PA793852",
@@ -3907,7 +4297,8 @@
     "groupe": "PO845401",
     "departement": "Gard",
     "numCirconscription": "4",
-    "region": "Occitanie"
+    "region": "Occitanie",
+    "placeHemicycle": 145
   },
   {
     "id": "PA841395",
@@ -3917,7 +4308,8 @@
     "groupe": "PO872880",
     "departement": "Marne",
     "numCirconscription": "3",
-    "region": "Grand Est"
+    "region": "Grand Est",
+    "placeHemicycle": 112
   },
   {
     "id": "PA841769",
@@ -3927,7 +4319,8 @@
     "groupe": "PO872880",
     "departement": "Saône-et-Loire",
     "numCirconscription": "4",
-    "region": "Bourgogne-Franche-Comté"
+    "region": "Bourgogne-Franche-Comté",
+    "placeHemicycle": 96
   },
   {
     "id": "PA795664",
@@ -3937,7 +4330,8 @@
     "groupe": "PO845407",
     "departement": "Essonne",
     "numCirconscription": "5",
-    "region": "Ile-de-France"
+    "region": "Ile-de-France",
+    "placeHemicycle": 268
   },
   {
     "id": "PA817203",
@@ -3947,7 +4341,8 @@
     "groupe": "PO845407",
     "departement": "Marne",
     "numCirconscription": "2",
-    "region": "Grand Est"
+    "region": "Grand Est",
+    "placeHemicycle": 250
   },
   {
     "id": "PA643104",
@@ -3957,7 +4352,8 @@
     "groupe": "PO845425",
     "departement": "Eure-et-Loir",
     "numCirconscription": "2",
-    "region": "Centre-Val de Loire"
+    "region": "Centre-Val de Loire",
+    "placeHemicycle": 182
   },
   {
     "id": "PA795962",
@@ -3967,7 +4363,8 @@
     "groupe": "PO845407",
     "departement": "Paris",
     "numCirconscription": "14",
-    "region": "Ile-de-France"
+    "region": "Ile-de-France",
+    "placeHemicycle": 323
   },
   {
     "id": "PA607619",
@@ -3977,7 +4374,8 @@
     "groupe": "PO845485",
     "departement": "Morbihan",
     "numCirconscription": "4",
-    "region": "Bretagne"
+    "region": "Bretagne",
+    "placeHemicycle": 464
   },
   {
     "id": "PA842147",
@@ -3987,7 +4385,8 @@
     "groupe": "PO845407",
     "departement": "Hauts-de-Seine",
     "numCirconscription": "13",
-    "region": "Ile-de-France"
+    "region": "Ile-de-France",
+    "placeHemicycle": 325
   },
   {
     "id": "PA793174",
@@ -3997,7 +4396,8 @@
     "groupe": "PO845514",
     "departement": "Allier",
     "numCirconscription": "1",
-    "region": "Auvergne-Rhône-Alpes"
+    "region": "Auvergne-Rhône-Alpes",
+    "placeHemicycle": 588
   },
   {
     "id": "PA840915",
@@ -4007,7 +4407,8 @@
     "groupe": "PO845401",
     "departement": "Drôme",
     "numCirconscription": "4",
-    "region": "Auvergne-Rhône-Alpes"
+    "region": "Auvergne-Rhône-Alpes",
+    "placeHemicycle": 68
   },
   {
     "id": "PA794810",
@@ -4017,7 +4418,8 @@
     "groupe": "PO845454",
     "departement": "Bas-Rhin",
     "numCirconscription": "6",
-    "region": "Grand Est"
+    "region": "Grand Est",
+    "placeHemicycle": 335
   },
   {
     "id": "PA793696",
@@ -4027,7 +4429,8 @@
     "groupe": "PO845401",
     "departement": "Dordogne",
     "numCirconscription": "2",
-    "region": "Nouvelle-Aquitaine"
+    "region": "Nouvelle-Aquitaine",
+    "placeHemicycle": 58
   },
   {
     "id": "PA793354",
@@ -4037,7 +4440,8 @@
     "groupe": "PO845401",
     "departement": "Bouches-du-Rhône",
     "numCirconscription": "9",
-    "region": "Provence-Alpes-Côte d'Azur"
+    "region": "Provence-Alpes-Côte d'Azur",
+    "placeHemicycle": 17
   },
   {
     "id": "PA795786",
@@ -4047,7 +4451,8 @@
     "groupe": "PO845401",
     "departement": "Somme",
     "numCirconscription": "5",
-    "region": "Hauts-de-France"
+    "region": "Hauts-de-France",
+    "placeHemicycle": 155
   },
   {
     "id": "PA794322",
@@ -4057,7 +4462,8 @@
     "groupe": "PO845401",
     "departement": "Loiret",
     "numCirconscription": "4",
-    "region": "Centre-Val de Loire"
+    "region": "Centre-Val de Loire",
+    "placeHemicycle": 40
   },
   {
     "id": "PA795820",
@@ -4067,7 +4473,8 @@
     "groupe": "PO845514",
     "departement": "Martinique",
     "numCirconscription": "2",
-    "region": "Martinique"
+    "region": "Martinique",
+    "placeHemicycle": 581
   },
   {
     "id": "PA721486",
@@ -4077,7 +4484,8 @@
     "groupe": "PO845485",
     "departement": "Vosges",
     "numCirconscription": "3",
-    "region": "Grand Est"
+    "region": "Grand Est",
+    "placeHemicycle": 407
   },
   {
     "id": "PA643157",
@@ -4087,7 +4495,8 @@
     "groupe": "PO845419",
     "departement": "Réunion",
     "numCirconscription": "1",
-    "region": "Réunion"
+    "region": "Réunion",
+    "placeHemicycle": 429
   },
   {
     "id": "PA794038",
@@ -4097,7 +4506,8 @@
     "groupe": "PO845425",
     "departement": "Isère",
     "numCirconscription": "7",
-    "region": "Auvergne-Rhône-Alpes"
+    "region": "Auvergne-Rhône-Alpes",
+    "placeHemicycle": 190
   },
   {
     "id": "PA610654",
@@ -4107,7 +4517,8 @@
     "groupe": "PO845413",
     "departement": "Martinique",
     "numCirconscription": "4",
-    "region": "Martinique"
+    "region": "Martinique",
+    "placeHemicycle": 632
   },
   {
     "id": "PA841191",
@@ -4117,7 +4528,8 @@
     "groupe": "PO845413",
     "departement": "Isère",
     "numCirconscription": "9",
-    "region": "Auvergne-Rhône-Alpes"
+    "region": "Auvergne-Rhône-Alpes",
+    "placeHemicycle": 639
   },
   {
     "id": "PA841107",
@@ -4127,7 +4539,8 @@
     "groupe": "PO845419",
     "departement": "Haute-Garonne",
     "numCirconscription": "10",
-    "region": "Occitanie"
+    "region": "Occitanie",
+    "placeHemicycle": 474
   },
   {
     "id": "PA721960",
@@ -4137,7 +4550,8 @@
     "groupe": "PO845413",
     "departement": "Paris",
     "numCirconscription": "17",
-    "region": "Ile-de-France"
+    "region": "Ile-de-France",
+    "placeHemicycle": 600
   },
   {
     "id": "PA795552",
@@ -4147,7 +4561,8 @@
     "groupe": "PO845401",
     "departement": "Yonne",
     "numCirconscription": "3",
-    "region": "Bourgogne-Franche-Comté"
+    "region": "Bourgogne-Franche-Comté",
+    "placeHemicycle": 90
   },
   {
     "id": "PA795722",
@@ -4157,7 +4572,8 @@
     "groupe": "PO845407",
     "departement": "Yvelines",
     "numCirconscription": "12",
-    "region": "Ile-de-France"
+    "region": "Ile-de-France",
+    "placeHemicycle": 375
   },
   {
     "id": "PA794830",
@@ -4167,7 +4583,8 @@
     "groupe": "PO845454",
     "departement": "Haut-Rhin",
     "numCirconscription": "2",
-    "region": "Grand Est"
+    "region": "Grand Est",
+    "placeHemicycle": 356
   },
   {
     "id": "PA842045",
@@ -4177,7 +4594,8 @@
     "groupe": "PO845439",
     "departement": "Essonne",
     "numCirconscription": "9",
-    "region": "Ile-de-France"
+    "region": "Ile-de-France",
+    "placeHemicycle": 506
   },
   {
     "id": "PA793872",
@@ -4187,7 +4605,8 @@
     "groupe": "PO845413",
     "departement": "Hérault",
     "numCirconscription": "2",
-    "region": "Occitanie"
+    "region": "Occitanie",
+    "placeHemicycle": 548
   },
   {
     "id": "PA795124",
@@ -4197,7 +4616,8 @@
     "groupe": "PO845454",
     "departement": "Savoie",
     "numCirconscription": "1",
-    "region": "Auvergne-Rhône-Alpes"
+    "region": "Auvergne-Rhône-Alpes",
+    "placeHemicycle": 372
   },
   {
     "id": "PA720334",
@@ -4207,7 +4627,8 @@
     "groupe": "PO845454",
     "departement": "Morbihan",
     "numCirconscription": "2",
-    "region": "Bretagne"
+    "region": "Bretagne",
+    "placeHemicycle": 373
   },
   {
     "id": "PA841993",
@@ -4217,7 +4638,8 @@
     "groupe": "PO845470",
     "departement": "Vendée",
     "numCirconscription": "2",
-    "region": "Pays de la Loire"
+    "region": "Pays de la Loire",
+    "placeHemicycle": 219
   },
   {
     "id": "PA759832",
@@ -4227,7 +4649,8 @@
     "groupe": "PO845407",
     "departement": "Pas-de-Calais",
     "numCirconscription": "2",
-    "region": "Hauts-de-France"
+    "region": "Hauts-de-France",
+    "placeHemicycle": 259
   },
   {
     "id": "PA719632",
@@ -4237,7 +4660,8 @@
     "groupe": "PO845407",
     "departement": "Gironde",
     "numCirconscription": "8",
-    "region": "Nouvelle-Aquitaine"
+    "region": "Nouvelle-Aquitaine",
+    "placeHemicycle": 378
   },
   {
     "id": "PA795050",
@@ -4247,7 +4671,8 @@
     "groupe": "PO845407",
     "departement": "Paris",
     "numCirconscription": "4",
-    "region": "Ile-de-France"
+    "region": "Ile-de-France",
+    "placeHemicycle": 312
   },
   {
     "id": "PA720892",
@@ -4257,7 +4682,8 @@
     "groupe": "PO845413",
     "departement": "Val-de-Marne",
     "numCirconscription": "10",
-    "region": "Ile-de-France"
+    "region": "Ile-de-France",
+    "placeHemicycle": 623
   },
   {
     "id": "PA841381",
@@ -4267,7 +4693,8 @@
     "groupe": "PO845419",
     "departement": "Lozère",
     "numCirconscription": "1",
-    "region": "Occitanie"
+    "region": "Occitanie",
+    "placeHemicycle": 463
   },
   {
     "id": "PA794670",
@@ -4277,7 +4704,8 @@
     "groupe": "PO845401",
     "departement": "Pas-de-Calais",
     "numCirconscription": "9",
-    "region": "Hauts-de-France"
+    "region": "Hauts-de-France",
+    "placeHemicycle": 101
   },
   {
     "id": "PA720480",
@@ -4287,7 +4715,8 @@
     "groupe": "PO845470",
     "departement": "Nord",
     "numCirconscription": "6",
-    "region": "Hauts-de-France"
+    "region": "Hauts-de-France",
+    "placeHemicycle": 221
   },
   {
     "id": "PA793398",
@@ -4297,7 +4726,8 @@
     "groupe": "PO845470",
     "departement": "Calvados",
     "numCirconscription": "3",
-    "region": "Normandie"
+    "region": "Normandie",
+    "placeHemicycle": 240
   },
   {
     "id": "PA718784",
@@ -4307,7 +4737,8 @@
     "groupe": "PO845425",
     "departement": "Alpes-Maritimes",
     "numCirconscription": "7",
-    "region": "Provence-Alpes-Côte d'Azur"
+    "region": "Provence-Alpes-Côte d'Azur",
+    "placeHemicycle": 191
   },
   {
     "id": "PA840793",
@@ -4317,7 +4748,8 @@
     "groupe": "PO845419",
     "departement": "Bouches-du-Rhône",
     "numCirconscription": "11",
-    "region": "Provence-Alpes-Côte d'Azur"
+    "region": "Provence-Alpes-Côte d'Azur",
+    "placeHemicycle": 446
   },
   {
     "id": "PA841199",
@@ -4327,7 +4759,8 @@
     "groupe": "PO845401",
     "departement": "Isère",
     "numCirconscription": "10",
-    "region": "Auvergne-Rhône-Alpes"
+    "region": "Auvergne-Rhône-Alpes",
+    "placeHemicycle": 139
   },
   {
     "id": "PA721182",
@@ -4337,7 +4770,8 @@
     "groupe": "PO845454",
     "departement": "Français établis hors de France",
     "numCirconscription": "7",
-    "region": "Français établis hors de France"
+    "region": "Français établis hors de France",
+    "placeHemicycle": 345
   },
   {
     "id": "PA721234",
@@ -4347,7 +4781,8 @@
     "groupe": "PO845454",
     "departement": "Val-de-Marne",
     "numCirconscription": "4",
-    "region": "Ile-de-France"
+    "region": "Ile-de-France",
+    "placeHemicycle": 352
   },
   {
     "id": "PA721270",
@@ -4357,7 +4792,8 @@
     "groupe": "PO845514",
     "departement": "Seine-Saint-Denis",
     "numCirconscription": "2",
-    "region": "Ile-de-France"
+    "region": "Ile-de-France",
+    "placeHemicycle": 583
   },
   {
     "id": "PA793708",
@@ -4367,7 +4803,8 @@
     "groupe": "PO845439",
     "departement": "Dordogne",
     "numCirconscription": "4",
-    "region": "Nouvelle-Aquitaine"
+    "region": "Nouvelle-Aquitaine",
+    "placeHemicycle": 491
   },
   {
     "id": "PA794582",
@@ -4377,7 +4814,8 @@
     "groupe": "PO845401",
     "departement": "Moselle",
     "numCirconscription": "6",
-    "region": "Grand Est"
+    "region": "Grand Est",
+    "placeHemicycle": 100
   },
   {
     "id": "PA794270",
@@ -4387,7 +4825,8 @@
     "groupe": "PO845419",
     "departement": "Manche",
     "numCirconscription": "4",
-    "region": "Normandie"
+    "region": "Normandie",
+    "placeHemicycle": 452
   },
   {
     "id": "PA817211",
@@ -4397,7 +4836,8 @@
     "groupe": "PO845413",
     "departement": "Charente",
     "numCirconscription": "1",
-    "region": "Nouvelle-Aquitaine"
+    "region": "Nouvelle-Aquitaine",
+    "placeHemicycle": 520
   },
   {
     "id": "PA793756",
@@ -4407,7 +4847,8 @@
     "groupe": "PO845413",
     "departement": "Haute-Garonne",
     "numCirconscription": "4",
-    "region": "Occitanie"
+    "region": "Occitanie",
+    "placeHemicycle": 555
   },
   {
     "id": "PA721844",
@@ -4417,7 +4858,8 @@
     "groupe": "PO845470",
     "departement": "Yvelines",
     "numCirconscription": "3",
-    "region": "Ile-de-France"
+    "region": "Ile-de-France",
+    "placeHemicycle": 236
   },
   {
     "id": "PA608172",
@@ -4427,7 +4869,8 @@
     "groupe": "PO845419",
     "departement": "Puy-de-Dôme",
     "numCirconscription": "2",
-    "region": "Auvergne-Rhône-Alpes"
+    "region": "Auvergne-Rhône-Alpes",
+    "placeHemicycle": 426
   },
   {
     "id": "PA793572",
@@ -4437,7 +4880,8 @@
     "groupe": "PO845470",
     "departement": "Charente-Maritime",
     "numCirconscription": "5",
-    "region": "Nouvelle-Aquitaine"
+    "region": "Nouvelle-Aquitaine",
+    "placeHemicycle": 225
   },
   {
     "id": "PA793664",
@@ -4447,7 +4891,8 @@
     "groupe": "PO845439",
     "departement": "Drôme",
     "numCirconscription": "3",
-    "region": "Auvergne-Rhône-Alpes"
+    "region": "Auvergne-Rhône-Alpes",
+    "placeHemicycle": 522
   },
   {
     "id": "PA793656",
@@ -4457,7 +4902,8 @@
     "groupe": "PO845401",
     "departement": "Drôme",
     "numCirconscription": "2",
-    "region": "Auvergne-Rhône-Alpes"
+    "region": "Auvergne-Rhône-Alpes",
+    "placeHemicycle": 84
   },
   {
     "id": "PA719528",
@@ -4467,7 +4913,8 @@
     "groupe": "PO845470",
     "departement": "Haute-Garonne",
     "numCirconscription": "5",
-    "region": "Occitanie"
+    "region": "Occitanie",
+    "placeHemicycle": 237
   },
   {
     "id": "PA796062",
@@ -4477,7 +4924,8 @@
     "groupe": "PO845413",
     "departement": "Seine-Saint-Denis",
     "numCirconscription": "3",
-    "region": "Ile-de-France"
+    "region": "Ile-de-France",
+    "placeHemicycle": 633
   },
   {
     "id": "PA794994",
@@ -4487,7 +4935,8 @@
     "groupe": "PO845425",
     "departement": "Rhône",
     "numCirconscription": "9",
-    "region": "Auvergne-Rhône-Alpes"
+    "region": "Auvergne-Rhône-Alpes",
+    "placeHemicycle": 173
   },
   {
     "id": "PA607553",
@@ -4497,7 +4946,8 @@
     "groupe": "PO845419",
     "departement": "Meurthe-et-Moselle",
     "numCirconscription": "5",
-    "region": "Grand Est"
+    "region": "Grand Est",
+    "placeHemicycle": 413
   },
   {
     "id": "PA720720",
@@ -4507,7 +4957,8 @@
     "groupe": "PO845454",
     "departement": "Pyrénées-Atlantiques",
     "numCirconscription": "1",
-    "region": "Nouvelle-Aquitaine"
+    "region": "Nouvelle-Aquitaine",
+    "placeHemicycle": 330
   },
   {
     "id": "PA795270",
@@ -4517,7 +4968,8 @@
     "groupe": "PO845470",
     "departement": "Seine-Maritime",
     "numCirconscription": "9",
-    "region": "Normandie"
+    "region": "Normandie",
+    "placeHemicycle": 217
   },
   {
     "id": "PA721916",
@@ -4527,7 +4979,8 @@
     "groupe": "PO845407",
     "departement": "Yvelines",
     "numCirconscription": "6",
-    "region": "Ile-de-France"
+    "region": "Ile-de-France",
+    "placeHemicycle": 315
   },
   {
     "id": "PA720100",
@@ -4537,7 +4990,8 @@
     "groupe": "PO840056",
     "departement": "Lot",
     "numCirconscription": "1",
-    "region": "Occitanie"
+    "region": "Occitanie",
+    "placeHemicycle": 404
   },
   {
     "id": "PA840955",
@@ -4547,7 +5001,8 @@
     "groupe": "PO845419",
     "departement": "Côte-d'Or",
     "numCirconscription": "3",
-    "region": "Bourgogne-Franche-Comté"
+    "region": "Bourgogne-Franche-Comté",
+    "placeHemicycle": 444
   },
   {
     "id": "PA841367",
@@ -4557,7 +5012,8 @@
     "groupe": "PO845419",
     "departement": "Lot",
     "numCirconscription": "2",
-    "region": "Occitanie"
+    "region": "Occitanie",
+    "placeHemicycle": 488
   },
   {
     "id": "PA719578",
@@ -4567,7 +5023,8 @@
     "groupe": "PO845413",
     "departement": "Gironde",
     "numCirconscription": "3",
-    "region": "Nouvelle-Aquitaine"
+    "region": "Nouvelle-Aquitaine",
+    "placeHemicycle": 626
   },
   {
     "id": "PA795966",
@@ -4577,7 +5034,8 @@
     "groupe": "PO845401",
     "departement": "Var",
     "numCirconscription": "3",
-    "region": "Provence-Alpes-Côte d'Azur"
+    "region": "Provence-Alpes-Côte d'Azur",
+    "placeHemicycle": 76
   },
   {
     "id": "PA720092",
@@ -4587,7 +5045,8 @@
     "groupe": "PO845454",
     "departement": "Loiret",
     "numCirconscription": "6",
-    "region": "Centre-Val de Loire"
+    "region": "Centre-Val de Loire",
+    "placeHemicycle": 361
   },
   {
     "id": "PA793230",
@@ -4597,7 +5056,8 @@
     "groupe": "PO845401",
     "departement": "Aube",
     "numCirconscription": "3",
-    "region": "Grand Est"
+    "region": "Grand Est",
+    "placeHemicycle": 19
   },
   {
     "id": "PA793254",
@@ -4607,7 +5067,8 @@
     "groupe": "PO845401",
     "departement": "Aude",
     "numCirconscription": "3",
-    "region": "Occitanie"
+    "region": "Occitanie",
+    "placeHemicycle": 136
   },
   {
     "id": "PA721062",
@@ -4617,7 +5078,8 @@
     "groupe": "PO845413",
     "departement": "Réunion",
     "numCirconscription": "5",
-    "region": "Réunion"
+    "region": "Réunion",
+    "placeHemicycle": 615
   },
   {
     "id": "PA720552",
@@ -4627,7 +5089,8 @@
     "groupe": "PO845470",
     "departement": "Moselle",
     "numCirconscription": "9",
-    "region": "Grand Est"
+    "region": "Grand Est",
+    "placeHemicycle": 232
   },
   {
     "id": "PA794154",
@@ -4637,7 +5100,8 @@
     "groupe": "PO845439",
     "departement": "Loire-Atlantique",
     "numCirconscription": "6",
-    "region": "Pays de la Loire"
+    "region": "Pays de la Loire",
+    "placeHemicycle": 498
   },
   {
     "id": "PA793094",
@@ -4647,7 +5111,8 @@
     "groupe": "PO845425",
     "departement": "Allier",
     "numCirconscription": "3",
-    "region": "Auvergne-Rhône-Alpes"
+    "region": "Auvergne-Rhône-Alpes",
+    "placeHemicycle": 189
   },
   {
     "id": "PA794778",
@@ -4657,7 +5122,8 @@
     "groupe": "PO845439",
     "departement": "Bas-Rhin",
     "numCirconscription": "1",
-    "region": "Grand Est"
+    "region": "Grand Est",
+    "placeHemicycle": 501
   },
   {
     "id": "PA795240",
@@ -4667,7 +5133,8 @@
     "groupe": "PO845514",
     "departement": "Polynésie Française",
     "numCirconscription": "3",
-    "region": "Polynésie française"
+    "region": "Polynésie française",
+    "placeHemicycle": 580
   },
   {
     "id": "PA841955",
@@ -4677,7 +5144,8 @@
     "groupe": "PO845401",
     "departement": "Somme",
     "numCirconscription": "3",
-    "region": "Hauts-de-France"
+    "region": "Hauts-de-France",
+    "placeHemicycle": 89
   },
   {
     "id": "PA841377",
@@ -4687,7 +5155,8 @@
     "groupe": "PO845425",
     "departement": "Lot-et-Garonne",
     "numCirconscription": "3",
-    "region": "Nouvelle-Aquitaine"
+    "region": "Nouvelle-Aquitaine",
+    "placeHemicycle": 207
   },
   {
     "id": "PA840657",
@@ -4697,7 +5166,8 @@
     "groupe": "PO872880",
     "departement": "Alpes-de-Haute-Provence",
     "numCirconscription": "2",
-    "region": "Provence-Alpes-Côte d'Azur"
+    "region": "Provence-Alpes-Côte d'Azur",
+    "placeHemicycle": 92
   },
   {
     "id": "PA795876",
@@ -4707,7 +5177,8 @@
     "groupe": "PO845514",
     "departement": "Guyane",
     "numCirconscription": "2",
-    "region": "Guyane"
+    "region": "Guyane",
+    "placeHemicycle": 590
   },
   {
     "id": "PA841981",
@@ -4717,7 +5188,8 @@
     "groupe": "PO845401",
     "departement": "Vaucluse",
     "numCirconscription": "5",
-    "region": "Provence-Alpes-Côte d'Azur"
+    "region": "Provence-Alpes-Côte d'Azur",
+    "placeHemicycle": 41
   },
   {
     "id": "PA721426",
@@ -4727,7 +5199,8 @@
     "groupe": "PO845407",
     "departement": "Haute-Savoie",
     "numCirconscription": "1",
-    "region": "Auvergne-Rhône-Alpes"
+    "region": "Auvergne-Rhône-Alpes",
+    "placeHemicycle": 302
   },
   {
     "id": "PA842227",
@@ -4737,7 +5210,8 @@
     "groupe": "PO845401",
     "departement": "Réunion",
     "numCirconscription": "3",
-    "region": "Réunion"
+    "region": "Réunion",
+    "placeHemicycle": 32
   },
   {
     "id": "PA722252",
@@ -4747,7 +5221,8 @@
     "groupe": "PO845407",
     "departement": "Essonne",
     "numCirconscription": "4",
-    "region": "Ile-de-France"
+    "region": "Ile-de-France",
+    "placeHemicycle": 296
   },
   {
     "id": "PA794442",
@@ -4757,7 +5232,8 @@
     "groupe": "PO845401",
     "departement": "Haute-Marne",
     "numCirconscription": "2",
-    "region": "Grand Est"
+    "region": "Grand Est",
+    "placeHemicycle": 141
   },
   {
     "id": "PA795528",
@@ -4767,7 +5243,8 @@
     "groupe": "PO845407",
     "departement": "Yvelines",
     "numCirconscription": "1",
-    "region": "Ile-de-France"
+    "region": "Ile-de-France",
+    "placeHemicycle": 276
   },
   {
     "id": "PA266808",
@@ -4777,7 +5254,8 @@
     "groupe": "PO845425",
     "departement": "Savoie",
     "numCirconscription": "2",
-    "region": "Auvergne-Rhône-Alpes"
+    "region": "Auvergne-Rhône-Alpes",
+    "placeHemicycle": 201
   },
   {
     "id": "PA841927",
@@ -4787,7 +5265,8 @@
     "groupe": "PO845407",
     "departement": "Yvelines",
     "numCirconscription": "10",
-    "region": "Ile-de-France"
+    "region": "Ile-de-France",
+    "placeHemicycle": 292
   },
   {
     "id": "PA721458",
@@ -4797,7 +5276,8 @@
     "groupe": "PO845470",
     "departement": "Haute-Savoie",
     "numCirconscription": "6",
-    "region": "Auvergne-Rhône-Alpes"
+    "region": "Auvergne-Rhône-Alpes",
+    "placeHemicycle": 317
   },
   {
     "id": "PA840673",
@@ -4807,7 +5287,8 @@
     "groupe": "PO845419",
     "departement": "Hautes-Alpes",
     "numCirconscription": "2",
-    "region": "Provence-Alpes-Côte d'Azur"
+    "region": "Provence-Alpes-Côte d'Azur",
+    "placeHemicycle": 472
   },
   {
     "id": "PA342196",
@@ -4817,7 +5298,8 @@
     "groupe": "PO845419",
     "departement": "Ille-et-Vilaine",
     "numCirconscription": "3",
-    "region": "Bretagne"
+    "region": "Bretagne",
+    "placeHemicycle": 431
   },
   {
     "id": "PA795410",
@@ -4827,7 +5309,8 @@
     "groupe": "PO845401",
     "departement": "Seine-et-Marne",
     "numCirconscription": "6",
-    "region": "Ile-de-France"
+    "region": "Ile-de-France",
+    "placeHemicycle": 152
   },
   {
     "id": "PA606545",
@@ -4837,7 +5320,8 @@
     "groupe": "PO845439",
     "departement": "Hérault",
     "numCirconscription": "1",
-    "region": "Occitanie"
+    "region": "Occitanie",
+    "placeHemicycle": 513
   },
   {
     "id": "PA826635",
@@ -4847,7 +5331,8 @@
     "groupe": "PO845419",
     "departement": "Yvelines",
     "numCirconscription": "7",
-    "region": "Ile-de-France"
+    "region": "Ile-de-France",
+    "placeHemicycle": 425
   },
   {
     "id": "PA795076",
@@ -4857,7 +5342,8 @@
     "groupe": "PO845439",
     "departement": "Paris",
     "numCirconscription": "9",
-    "region": "Ile-de-France"
+    "region": "Ile-de-France",
+    "placeHemicycle": 508
   },
   {
     "id": "PA841327",
@@ -4867,7 +5353,8 @@
     "groupe": "PO845419",
     "departement": "Loire-Atlantique",
     "numCirconscription": "5",
-    "region": "Pays de la Loire"
+    "region": "Pays de la Loire",
+    "placeHemicycle": 460
   },
   {
     "id": "PA793270",
@@ -4877,7 +5364,8 @@
     "groupe": "PO845407",
     "departement": "Aveyron",
     "numCirconscription": "3",
-    "region": "Occitanie"
+    "region": "Occitanie",
+    "placeHemicycle": 303
   },
   {
     "id": "PA842097",
@@ -4887,7 +5375,8 @@
     "groupe": "PO845401",
     "departement": "Yonne",
     "numCirconscription": "2",
-    "region": "Bourgogne-Franche-Comté"
+    "region": "Bourgogne-Franche-Comté",
+    "placeHemicycle": 2
   },
   {
     "id": "PA722142",
@@ -4897,7 +5386,8 @@
     "groupe": "PO845439",
     "departement": "Somme",
     "numCirconscription": "1",
-    "region": "Hauts-de-France"
+    "region": "Hauts-de-France",
+    "placeHemicycle": 505
   },
   {
     "id": "PA841717",
@@ -4907,7 +5397,8 @@
     "groupe": "PO845419",
     "departement": "Rhône",
     "numCirconscription": "4",
-    "region": "Auvergne-Rhône-Alpes"
+    "region": "Auvergne-Rhône-Alpes",
+    "placeHemicycle": 564
   },
   {
     "id": "PA341981",
@@ -4917,7 +5408,8 @@
     "groupe": "PO845419",
     "departement": "Gironde",
     "numCirconscription": "6",
-    "region": "Nouvelle-Aquitaine"
+    "region": "Nouvelle-Aquitaine",
+    "placeHemicycle": 438
   },
   {
     "id": "PA794894",
@@ -4927,7 +5419,8 @@
     "groupe": "PO845401",
     "departement": "Pyrénées-Orientales",
     "numCirconscription": "2",
-    "region": "Occitanie"
+    "region": "Occitanie",
+    "placeHemicycle": 138
   },
   {
     "id": "PA794570",
@@ -4937,7 +5430,8 @@
     "groupe": "PO845401",
     "departement": "Oise",
     "numCirconscription": "3",
-    "region": "Hauts-de-France"
+    "region": "Hauts-de-France",
+    "placeHemicycle": 62
   },
   {
     "id": "PA841845",
@@ -4947,7 +5441,8 @@
     "groupe": "PO845413",
     "departement": "Seine-et-Marne",
     "numCirconscription": "1",
-    "region": "Ile-de-France"
+    "region": "Ile-de-France",
+    "placeHemicycle": 648
   },
   {
     "id": "PA841243",
@@ -4957,7 +5452,8 @@
     "groupe": "PO845419",
     "departement": "Gironde",
     "numCirconscription": "7",
-    "region": "Nouvelle-Aquitaine"
+    "region": "Nouvelle-Aquitaine",
+    "placeHemicycle": 566
   },
   {
     "id": "PA720138",
@@ -4967,7 +5463,8 @@
     "groupe": "PO845470",
     "departement": "Maine-et-Loire",
     "numCirconscription": "4",
-    "region": "Pays de la Loire"
+    "region": "Pays de la Loire",
+    "placeHemicycle": 228
   },
   {
     "id": "PA795982",
@@ -4977,7 +5474,8 @@
     "groupe": "PO845413",
     "departement": "Hauts-de-Seine",
     "numCirconscription": "11",
-    "region": "Ile-de-France"
+    "region": "Ile-de-France",
+    "placeHemicycle": 558
   },
   {
     "id": "PA794954",
@@ -4987,7 +5485,8 @@
     "groupe": "PO845401",
     "departement": "Haute-Saône",
     "numCirconscription": "2",
-    "region": "Bourgogne-Franche-Comté"
+    "region": "Bourgogne-Franche-Comté",
+    "placeHemicycle": 1
   },
   {
     "id": "PA721110",
@@ -4997,7 +5496,8 @@
     "groupe": "PO845485",
     "departement": "Polynésie Française",
     "numCirconscription": "2",
-    "region": "Polynésie française"
+    "region": "Polynésie française",
+    "placeHemicycle": 482
   },
   {
     "id": "PA605745",
@@ -5007,7 +5507,8 @@
     "groupe": "PO845514",
     "departement": "Cher",
     "numCirconscription": "2",
-    "region": "Centre-Val de Loire"
+    "region": "Centre-Val de Loire",
+    "placeHemicycle": 592
   },
   {
     "id": "PA774960",
@@ -5017,7 +5518,8 @@
     "groupe": "PO845419",
     "departement": "Val-de-Marne",
     "numCirconscription": "9",
-    "region": "Ile-de-France"
+    "region": "Ile-de-France",
+    "placeHemicycle": 414
   },
   {
     "id": "PA610002",
@@ -5027,7 +5529,8 @@
     "groupe": "PO845439",
     "departement": "Paris",
     "numCirconscription": "8",
-    "region": "Ile-de-France"
+    "region": "Ile-de-France",
+    "placeHemicycle": 512
   },
   {
     "id": "PA340343",
@@ -5037,7 +5540,8 @@
     "groupe": "PO845419",
     "departement": "Ardèche",
     "numCirconscription": "1",
-    "region": "Auvergne-Rhône-Alpes"
+    "region": "Auvergne-Rhône-Alpes",
+    "placeHemicycle": 412
   },
   {
     "id": "PA721314",
@@ -5047,7 +5551,8 @@
     "groupe": "PO840056",
     "departement": "Haut-Rhin",
     "numCirconscription": "4",
-    "region": "Grand Est"
+    "region": "Grand Est",
+    "placeHemicycle": 405
   },
   {
     "id": "PA796050",
@@ -5057,7 +5562,8 @@
     "groupe": "PO845401",
     "departement": "Var",
     "numCirconscription": "8",
-    "region": "Provence-Alpes-Côte d'Azur"
+    "region": "Provence-Alpes-Côte d'Azur",
+    "placeHemicycle": 15
   },
   {
     "id": "PA795808",
@@ -5067,7 +5573,8 @@
     "groupe": "PO845439",
     "departement": "Hauts-de-Seine",
     "numCirconscription": "4",
-    "region": "Ile-de-France"
+    "region": "Ile-de-France",
+    "placeHemicycle": 499
   },
   {
     "id": "PA757225",
@@ -5077,7 +5584,8 @@
     "groupe": "PO845407",
     "departement": "Wallis-et-Futuna",
     "numCirconscription": "1",
-    "region": "Wallis-et-Futuna"
+    "region": "Wallis-et-Futuna",
+    "placeHemicycle": 400
   },
   {
     "id": "PA720960",
@@ -5087,7 +5595,8 @@
     "groupe": "PO845485",
     "departement": "Guadeloupe",
     "numCirconscription": "1",
-    "region": "Guadeloupe"
+    "region": "Guadeloupe",
+    "placeHemicycle": 469
   },
   {
     "id": "PA842255",
@@ -5097,7 +5606,8 @@
     "groupe": "PO845401",
     "departement": "Val-d'Oise",
     "numCirconscription": "1",
-    "region": "Ile-de-France"
+    "region": "Ile-de-France",
+    "placeHemicycle": 66
   },
   {
     "id": "PA841091",
@@ -5107,7 +5617,8 @@
     "groupe": "PO845419",
     "departement": "Haute-Garonne",
     "numCirconscription": "6",
-    "region": "Occitanie"
+    "region": "Occitanie",
+    "placeHemicycle": 473
   },
   {
     "id": "PA796018",
@@ -5117,7 +5628,8 @@
     "groupe": "PO845439",
     "departement": "Paris",
     "numCirconscription": "15",
-    "region": "Ile-de-France"
+    "region": "Ile-de-France",
+    "placeHemicycle": 502
   },
   {
     "id": "PA794802",
@@ -5127,7 +5639,8 @@
     "groupe": "PO845407",
     "departement": "Bas-Rhin",
     "numCirconscription": "5",
-    "region": "Grand Est"
+    "region": "Grand Est",
+    "placeHemicycle": 364
   },
   {
     "id": "PA720190",
@@ -5137,7 +5650,8 @@
     "groupe": "PO845407",
     "departement": "Manche",
     "numCirconscription": "2",
-    "region": "Normandie"
+    "region": "Normandie",
+    "placeHemicycle": 291
   },
   {
     "id": "PA841681",
@@ -5147,7 +5661,8 @@
     "groupe": "PO845419",
     "departement": "Bas-Rhin",
     "numCirconscription": "3",
-    "region": "Grand Est"
+    "region": "Grand Est",
+    "placeHemicycle": 462
   },
   {
     "id": "PA795466",
@@ -5157,7 +5672,8 @@
     "groupe": "PO845413",
     "departement": "Seine-et-Marne",
     "numCirconscription": "7",
-    "region": "Ile-de-France"
+    "region": "Ile-de-France",
+    "placeHemicycle": 572
   },
   {
     "id": "PA794486",
@@ -5167,7 +5683,8 @@
     "groupe": "PO845407",
     "departement": "Nord",
     "numCirconscription": "9",
-    "region": "Hauts-de-France"
+    "region": "Hauts-de-France",
+    "placeHemicycle": 249
   },
   {
     "id": "PA793744",
@@ -5177,7 +5694,8 @@
     "groupe": "PO845413",
     "departement": "Haute-Garonne",
     "numCirconscription": "2",
-    "region": "Occitanie"
+    "region": "Occitanie",
+    "placeHemicycle": 561
   },
   {
     "id": "PA267794",
@@ -5187,7 +5705,8 @@
     "groupe": "PO845425",
     "departement": "Alpes-Maritimes",
     "numCirconscription": "9",
-    "region": "Provence-Alpes-Côte d'Azur"
+    "region": "Provence-Alpes-Côte d'Azur",
+    "placeHemicycle": 179
   },
   {
     "id": "PA793382",
@@ -5197,7 +5716,8 @@
     "groupe": "PO845401",
     "departement": "Bouches-du-Rhône",
     "numCirconscription": "16",
-    "region": "Provence-Alpes-Côte d'Azur"
+    "region": "Provence-Alpes-Côte d'Azur",
+    "placeHemicycle": 151
   },
   {
     "id": "PA720952",
@@ -5207,7 +5727,8 @@
     "groupe": "PO845413",
     "departement": "Val-d'Oise",
     "numCirconscription": "10",
-    "region": "Ile-de-France"
+    "region": "Ile-de-France",
+    "placeHemicycle": 574
   },
   {
     "id": "PA736201",
@@ -5217,7 +5738,8 @@
     "groupe": "PO845439",
     "departement": "Val-de-Marne",
     "numCirconscription": "11",
-    "region": "Ile-de-France"
+    "region": "Ile-de-France",
+    "placeHemicycle": 494
   },
   {
     "id": "PA719550",
@@ -5227,7 +5749,8 @@
     "groupe": "PO845407",
     "departement": "Finistère",
     "numCirconscription": "7",
-    "region": "Bretagne"
+    "region": "Bretagne",
+    "placeHemicycle": 265
   },
   {
     "id": "PA795778",
@@ -5237,7 +5760,8 @@
     "groupe": "PO845401",
     "departement": "Somme",
     "numCirconscription": "4",
-    "region": "Hauts-de-France"
+    "region": "Hauts-de-France",
+    "placeHemicycle": 35
   },
   {
     "id": "PA793796",
@@ -5247,7 +5771,8 @@
     "groupe": "PO845485",
     "departement": "Gers",
     "numCirconscription": "2",
-    "region": "Occitanie"
+    "region": "Occitanie",
+    "placeHemicycle": 465
   },
   {
     "id": "PA794106",
@@ -5257,7 +5782,8 @@
     "groupe": "PO845413",
     "departement": "Loire",
     "numCirconscription": "2",
-    "region": "Auvergne-Rhône-Alpes"
+    "region": "Auvergne-Rhône-Alpes",
+    "placeHemicycle": 609
   },
   {
     "id": "PA794166",
@@ -5267,7 +5793,8 @@
     "groupe": "PO845413",
     "departement": "Loire-Atlantique",
     "numCirconscription": "8",
-    "region": "Pays de la Loire"
+    "region": "Pays de la Loire",
+    "placeHemicycle": 603
   },
   {
     "id": "PA794502",
@@ -5277,7 +5804,8 @@
     "groupe": "PO845401",
     "departement": "Nord",
     "numCirconscription": "12",
-    "region": "Hauts-de-France"
+    "region": "Hauts-de-France",
+    "placeHemicycle": 50
   },
   {
     "id": "PA841713",
@@ -5287,7 +5815,8 @@
     "groupe": "PO845439",
     "departement": "Rhône",
     "numCirconscription": "2",
-    "region": "Auvergne-Rhône-Alpes"
+    "region": "Auvergne-Rhône-Alpes",
+    "placeHemicycle": 540
   },
   {
     "id": "PA721584",
@@ -5297,7 +5826,8 @@
     "groupe": "PO845407",
     "departement": "Tarn",
     "numCirconscription": "3",
-    "region": "Occitanie"
+    "region": "Occitanie",
+    "placeHemicycle": 248
   },
   {
     "id": "PA841553",
@@ -5307,7 +5837,8 @@
     "groupe": "PO845401",
     "departement": "Nord",
     "numCirconscription": "17",
-    "region": "Hauts-de-France"
+    "region": "Hauts-de-France",
+    "placeHemicycle": 21
   },
   {
     "id": "PA795920",
@@ -5317,7 +5848,8 @@
     "groupe": "PO845407",
     "departement": "Hauts-de-Seine",
     "numCirconscription": "8",
-    "region": "Ile-de-France"
+    "region": "Ile-de-France",
+    "placeHemicycle": 274
   },
   {
     "id": "PA793948",
@@ -5327,7 +5859,8 @@
     "groupe": "PO845439",
     "departement": "Gironde",
     "numCirconscription": "2",
-    "region": "Nouvelle-Aquitaine"
+    "region": "Nouvelle-Aquitaine",
+    "placeHemicycle": 503
   },
   {
     "id": "PA719822",
@@ -5337,7 +5870,8 @@
     "groupe": "PO845454",
     "departement": "Indre-et-Loire",
     "numCirconscription": "5",
-    "region": "Centre-Val de Loire"
+    "region": "Centre-Val de Loire",
+    "placeHemicycle": 334
   },
   {
     "id": "PA841893",
@@ -5347,7 +5881,8 @@
     "groupe": "PO845419",
     "departement": "Seine-et-Marne",
     "numCirconscription": "9",
-    "region": "Ile-de-France"
+    "region": "Ile-de-France",
+    "placeHemicycle": 552
   },
   {
     "id": "PA722336",
@@ -5357,7 +5892,8 @@
     "groupe": "PO845470",
     "departement": "Bas-Rhin",
     "numCirconscription": "9",
-    "region": "Grand Est"
+    "region": "Grand Est",
+    "placeHemicycle": 214
   },
   {
     "id": "PA643089",
@@ -5367,7 +5903,8 @@
     "groupe": "PO845425",
     "departement": "Seine-et-Marne",
     "numCirconscription": "3",
-    "region": "Ile-de-France"
+    "region": "Ile-de-France",
+    "placeHemicycle": 186
   },
   {
     "id": "PA793816",
@@ -5377,7 +5914,8 @@
     "groupe": "PO845419",
     "departement": "Finistère",
     "numCirconscription": "6",
-    "region": "Bretagne"
+    "region": "Bretagne",
+    "placeHemicycle": 433
   },
   {
     "id": "PA793298",
@@ -5387,7 +5925,8 @@
     "groupe": "PO845401",
     "departement": "Alpes-Maritimes",
     "numCirconscription": "2",
-    "region": "Provence-Alpes-Côte d'Azur"
+    "region": "Provence-Alpes-Côte d'Azur",
+    "placeHemicycle": 150
   },
   {
     "id": "PA842299",
@@ -5397,7 +5936,8 @@
     "groupe": "PO845514",
     "departement": "Nouvelle-Calédonie",
     "numCirconscription": "2",
-    "region": "Nouvelle-Calédonie"
+    "region": "Nouvelle-Calédonie",
+    "placeHemicycle": 582
   },
   {
     "id": "PA840067",
@@ -5407,7 +5947,8 @@
     "groupe": "PO845401",
     "departement": "Alpes-Maritimes",
     "numCirconscription": "4",
-    "region": "Provence-Alpes-Côte d'Azur"
+    "region": "Provence-Alpes-Côte d'Azur",
+    "placeHemicycle": 70
   },
   {
     "id": "PA840781",
@@ -5417,7 +5958,8 @@
     "groupe": "PO845401",
     "departement": "Bouches-du-Rhône",
     "numCirconscription": "8",
-    "region": "Provence-Alpes-Côte d'Azur"
+    "region": "Provence-Alpes-Côte d'Azur",
+    "placeHemicycle": 85
   },
   {
     "id": "PA607395",
@@ -5427,7 +5969,8 @@
     "groupe": "PO845407",
     "departement": "Manche",
     "numCirconscription": "3",
-    "region": "Normandie"
+    "region": "Normandie",
+    "placeHemicycle": 300
   },
   {
     "id": "PA793334",
@@ -5437,7 +5980,8 @@
     "groupe": "PO845401",
     "departement": "Alpes-Maritimes",
     "numCirconscription": "6",
-    "region": "Provence-Alpes-Côte d'Azur"
+    "region": "Provence-Alpes-Côte d'Azur",
+    "placeHemicycle": 109
   },
   {
     "id": "PA795164",
@@ -5447,7 +5991,8 @@
     "groupe": "PO845413",
     "departement": "Seine-Saint-Denis",
     "numCirconscription": "9",
-    "region": "Ile-de-France"
+    "region": "Ile-de-France",
+    "placeHemicycle": 618
   },
   {
     "id": "PA842121",
@@ -5457,7 +6002,8 @@
     "groupe": "PO845425",
     "departement": "Val-de-Marne",
     "numCirconscription": "7",
-    "region": "Ile-de-France"
+    "region": "Ile-de-France",
+    "placeHemicycle": 184
   },
   {
     "id": "PA840685",
@@ -5467,7 +6013,8 @@
     "groupe": "PO872880",
     "departement": "Ardèche",
     "numCirconscription": "2",
-    "region": "Auvergne-Rhône-Alpes"
+    "region": "Auvergne-Rhône-Alpes",
+    "placeHemicycle": 105
   },
   {
     "id": "PA722162",
@@ -5477,7 +6024,8 @@
     "groupe": "PO845454",
     "departement": "Vienne",
     "numCirconscription": "4",
-    "region": "Nouvelle-Aquitaine"
+    "region": "Nouvelle-Aquitaine",
+    "placeHemicycle": 354
   },
   {
     "id": "PA878242",
@@ -5487,7 +6035,8 @@
     "groupe": "PO872880",
     "departement": "Haute-Savoie",
     "numCirconscription": "3",
-    "region": "Auvergne-Rhône-Alpes"
+    "region": "Auvergne-Rhône-Alpes",
+    "placeHemicycle": 102
   },
   {
     "id": "PA719930",
@@ -5497,7 +6046,8 @@
     "groupe": "PO845419",
     "departement": "Landes",
     "numCirconscription": "3",
-    "region": "Nouvelle-Aquitaine"
+    "region": "Nouvelle-Aquitaine",
+    "placeHemicycle": 427
   },
   {
     "id": "PA795350",
@@ -5507,7 +6057,8 @@
     "groupe": "PO845470",
     "departement": "Seine-et-Marne",
     "numCirconscription": "2",
-    "region": "Ile-de-France"
+    "region": "Ile-de-France",
+    "placeHemicycle": 213
   },
   {
     "id": "PA795596",
@@ -5517,7 +6068,8 @@
     "groupe": "PO845413",
     "departement": "Val-d'Oise",
     "numCirconscription": "5",
-    "region": "Ile-de-France"
+    "region": "Ile-de-France",
+    "placeHemicycle": 573
   },
   {
     "id": "PA794118",
@@ -5527,7 +6079,8 @@
     "groupe": "PO845425",
     "departement": "Loire",
     "numCirconscription": "5",
-    "region": "Auvergne-Rhône-Alpes"
+    "region": "Auvergne-Rhône-Alpes",
+    "placeHemicycle": 162
   },
   {
     "id": "PA840809",
@@ -5537,7 +6090,8 @@
     "groupe": "PO872880",
     "departement": "Bouches-du-Rhône",
     "numCirconscription": "14",
-    "region": "Provence-Alpes-Côte d'Azur"
+    "region": "Provence-Alpes-Côte d'Azur",
+    "placeHemicycle": 88
   },
   {
     "id": "PA794494",
@@ -5547,7 +6101,8 @@
     "groupe": "PO845419",
     "departement": "Nord",
     "numCirconscription": "11",
-    "region": "Hauts-de-France"
+    "region": "Hauts-de-France",
+    "placeHemicycle": 439
   },
   {
     "id": "PA722102",
@@ -5557,7 +6112,8 @@
     "groupe": "PO845407",
     "departement": "Seine-Maritime",
     "numCirconscription": "2",
-    "region": "Normandie"
+    "region": "Normandie",
+    "placeHemicycle": 260
   },
   {
     "id": "PA331582",
@@ -5567,7 +6123,8 @@
     "groupe": "PO845454",
     "departement": "Eure-et-Loir",
     "numCirconscription": "4",
-    "region": "Centre-Val de Loire"
+    "region": "Centre-Val de Loire",
+    "placeHemicycle": 337
   },
   {
     "id": "PA607090",
@@ -5577,7 +6134,8 @@
     "groupe": "PO845425",
     "departement": "Haute-Loire",
     "numCirconscription": "2",
-    "region": "Auvergne-Rhône-Alpes"
+    "region": "Auvergne-Rhône-Alpes",
+    "placeHemicycle": 188
   },
   {
     "id": "PA719512",
@@ -5587,7 +6145,8 @@
     "groupe": "PO845407",
     "departement": "Haute-Garonne",
     "numCirconscription": "3",
-    "region": "Occitanie"
+    "region": "Occitanie",
+    "placeHemicycle": 327
   },
   {
     "id": "PA794946",
@@ -5597,7 +6156,8 @@
     "groupe": "PO845401",
     "departement": "Haute-Saône",
     "numCirconscription": "1",
-    "region": "Bourgogne-Franche-Comté"
+    "region": "Bourgogne-Franche-Comté",
+    "placeHemicycle": 30
   },
   {
     "id": "PA795026",
@@ -5607,7 +6167,8 @@
     "groupe": "PO845470",
     "departement": "Haute-Savoie",
     "numCirconscription": "5",
-    "region": "Auvergne-Rhône-Alpes"
+    "region": "Auvergne-Rhône-Alpes",
+    "placeHemicycle": 224
   },
   {
     "id": "PA721474",
@@ -5617,7 +6178,8 @@
     "groupe": "PO845485",
     "departement": "Vosges",
     "numCirconscription": "1",
-    "region": "Grand Est"
+    "region": "Grand Est",
+    "placeHemicycle": 406
   },
   {
     "id": "PA841575",
@@ -5627,7 +6189,8 @@
     "groupe": "PO845401",
     "departement": "Oise",
     "numCirconscription": "5",
-    "region": "Hauts-de-France"
+    "region": "Hauts-de-France",
+    "placeHemicycle": 134
   },
   {
     "id": "PA2940",
@@ -5637,7 +6200,8 @@
     "groupe": "PO845439",
     "departement": "Doubs",
     "numCirconscription": "2",
-    "region": "Bourgogne-Franche-Comté"
+    "region": "Bourgogne-Franche-Comté",
+    "placeHemicycle": 495
   },
   {
     "id": "PA793194",
@@ -5647,7 +6211,8 @@
     "groupe": "PO840056",
     "departement": "Ardennes",
     "numCirconscription": "1",
-    "region": "Grand Est"
+    "region": "Grand Est",
+    "placeHemicycle": 402
   },
   {
     "id": "PA2952",
@@ -5657,7 +6222,8 @@
     "groupe": "PO845485",
     "departement": "Ardennes",
     "numCirconscription": "3",
-    "region": "Grand Est"
+    "region": "Grand Est",
+    "placeHemicycle": 481
   },
   {
     "id": "PA267285",
@@ -5667,7 +6233,8 @@
     "groupe": "PO845425",
     "departement": "Haute-Loire",
     "numCirconscription": "1",
-    "region": "Auvergne-Rhône-Alpes"
+    "region": "Auvergne-Rhône-Alpes",
+    "placeHemicycle": 178
   },
   {
     "id": "PA841479",
@@ -5677,7 +6244,8 @@
     "groupe": "PO845401",
     "departement": "Meurthe-et-Moselle",
     "numCirconscription": "3",
-    "region": "Grand Est"
+    "region": "Grand Est",
+    "placeHemicycle": 118
   },
   {
     "id": "PA795326",
@@ -5687,7 +6255,8 @@
     "groupe": "PO845407",
     "departement": "Français établis hors de France",
     "numCirconscription": "1",
-    "region": "Français établis hors de France"
+    "region": "Français établis hors de France",
+    "placeHemicycle": 297
   },
   {
     "id": "PA720992",
@@ -5697,7 +6266,8 @@
     "groupe": "PO845419",
     "departement": "Martinique",
     "numCirconscription": "1",
-    "region": "Martinique"
+    "region": "Martinique",
+    "placeHemicycle": 448
   },
   {
     "id": "PA795046",
@@ -5707,7 +6277,8 @@
     "groupe": "PO845407",
     "departement": "Français établis hors de France",
     "numCirconscription": "8",
-    "region": "Français établis hors de France"
+    "region": "Français établis hors de France",
+    "placeHemicycle": 324
   },
   {
     "id": "PA796078",
@@ -5717,7 +6288,8 @@
     "groupe": "PO845485",
     "departement": "Mayotte",
     "numCirconscription": "1",
-    "region": "Mayotte"
+    "region": "Mayotte",
+    "placeHemicycle": 382
   },
   {
     "id": "PA942",
@@ -5727,7 +6299,8 @@
     "groupe": "PO845485",
     "departement": "Marne",
     "numCirconscription": "5",
-    "region": "Grand Est"
+    "region": "Grand Est",
+    "placeHemicycle": 383
   },
   {
     "id": "PA841613",
@@ -5737,7 +6310,8 @@
     "groupe": "PO845401",
     "departement": "Pas-de-Calais",
     "numCirconscription": "7",
-    "region": "Hauts-de-France"
+    "region": "Hauts-de-France",
+    "placeHemicycle": 144
   },
   {
     "id": "PA642988",
@@ -5747,7 +6321,8 @@
     "groupe": "PO845401",
     "departement": "Vaucluse",
     "numCirconscription": "3",
-    "region": "Provence-Alpes-Côte d'Azur"
+    "region": "Provence-Alpes-Côte d'Azur",
+    "placeHemicycle": 95
   },
   {
     "id": "PA842141",
@@ -5757,7 +6332,8 @@
     "groupe": "PO845425",
     "departement": "Hauts-de-Seine",
     "numCirconscription": "9",
-    "region": "Ile-de-France"
+    "region": "Ile-de-France",
+    "placeHemicycle": 212
   },
   {
     "id": "PA841359",
@@ -5767,6 +6343,7 @@
     "groupe": "PO845485",
     "departement": "Loiret",
     "numCirconscription": "3",
-    "region": "Centre-Val de Loire"
+    "region": "Centre-Val de Loire",
+    "placeHemicycle": 478
   }
 ]

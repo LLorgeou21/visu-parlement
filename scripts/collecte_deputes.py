@@ -72,6 +72,7 @@ def main() -> None:
             }
 
         election = mandat_assemblee.get("election", {}).get("lieu", {})
+        place_hemicycle = mandat_assemblee.get("mandature", {}).get("placeHemicycle")
 
         deputes.append({
             "id": acteur["uid"]["#text"],
@@ -82,6 +83,7 @@ def main() -> None:
             "departement": election.get("departement"),
             "numCirconscription": election.get("numCirco"),
             "region": election.get("region"),
+            "placeHemicycle": int(place_hemicycle) if place_hemicycle else None,
         })
 
     OUT_DEPUTES.parent.mkdir(parents=True, exist_ok=True)

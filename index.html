@@ -20,19 +20,60 @@
 
 <main>
   <section id="panneau-scrutins" class="panneau actif">
-    <div id="liste-scrutins" class="liste-scrutins"></div>
-    <button id="charger-plus" class="btn-secondaire">Charger plus</button>
+    <nav class="sous-onglets">
+      <button class="sous-onglet-btn actif" data-sous-onglet="chronologique">Chronologique</button>
+      <button class="sous-onglet-btn" data-sous-onglet="calendrier">Calendrier</button>
+      <button class="sous-onglet-btn" data-sous-onglet="dossier">Par dossier</button>
+      <button class="sous-onglet-btn" data-sous-onglet="groupe">Par groupe</button>
+    </nav>
+
+    <div id="sous-panneau-chronologique" class="sous-panneau actif">
+      <div id="liste-scrutins" class="liste-scrutins"></div>
+      <button id="charger-plus" class="btn-secondaire">Charger plus</button>
+    </div>
+
+    <div id="sous-panneau-calendrier" class="sous-panneau">
+      <div class="calendrier-entete">
+        <button id="mois-precedent" class="btn-icone" aria-label="Mois précédent">&larr;</button>
+        <span id="calendrier-titre-mois"></span>
+        <button id="mois-suivant" class="btn-icone" aria-label="Mois suivant">&rarr;</button>
+      </div>
+      <div id="grille-calendrier" class="grille-calendrier"></div>
+      <div id="liste-jour" class="liste-scrutins"></div>
+    </div>
+
+    <div id="sous-panneau-dossier" class="sous-panneau">
+      <div id="liste-dossiers" class="liste-dossiers"></div>
+    </div>
+
+    <div id="sous-panneau-groupe" class="sous-panneau">
+      <select id="selecteur-groupe-votes">
+        <option value="">Choisir un groupe...</option>
+      </select>
+      <div id="liste-votes-groupe" class="liste-scrutins"></div>
+    </div>
   </section>
 
   <section id="panneau-deputes" class="panneau">
-    <div class="filtres">
-      <input id="recherche-depute" type="search" placeholder="Rechercher un député...">
-      <select id="filtre-groupe">
-        <option value="">Tous les groupes</option>
-      </select>
+    <nav class="sous-onglets">
+      <button class="sous-onglet-btn actif" data-sous-onglet="liste-deputes-vue">Liste</button>
+      <button class="sous-onglet-btn" data-sous-onglet="hemicycle-vue">Hémicycle</button>
+    </nav>
+
+    <div id="sous-panneau-liste-deputes-vue" class="sous-panneau actif">
+      <div class="filtres">
+        <input id="recherche-depute" type="search" placeholder="Rechercher un député...">
+        <select id="filtre-groupe">
+          <option value="">Tous les groupes</option>
+        </select>
+      </div>
+      <p id="compteur-deputes" class="compteur"></p>
+      <div id="liste-deputes" class="liste-deputes"></div>
     </div>
-    <p id="compteur-deputes" class="compteur"></p>
-    <div id="liste-deputes" class="liste-deputes"></div>
+
+    <div id="sous-panneau-hemicycle-vue" class="sous-panneau">
+      <div id="hemicycle" class="hemicycle"></div>
+    </div>
   </section>
 </main>
 

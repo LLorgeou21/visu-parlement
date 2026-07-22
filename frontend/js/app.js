@@ -1,9 +1,14 @@
 const TAILLE_PAGE_SCRUTINS = 20;
+const JOURS_SEMAINE = ["Lun", "Mar", "Mer", "Jeu", "Ven", "Sam", "Dim"];
 
 let groupesParId = new Map();
 let deputesParId = new Map();
 let scrutinsIndex = [];
 let scrutinsAffiches = 0;
+let scrutinsParJour = new Map();
+let dossiersCalcules = [];
+let votesParGroupeCache = null;
+let moisCourant = new Date();
 
 async function chargerJSON(chemin) {
   const reponse = await fetch(chemin);
@@ -136,8 +141,8 @@ function filtrerEtAfficherDeputes() {
   document.getElementById("liste-deputes").innerHTML = resultats.map(carteDepute).join("");
 }
 
-function remplirFiltreGroupes() {
-  const select = document.getElementById("filtre-groupe");
+function remplirSelectGroupes(id) {
+  const select = document.getElementById(id);
   const groupesTries = [...groupesParId.values()].sort((a, b) => a.nom.localeCompare(b.nom));
   select.insertAdjacentHTML(
     "beforeend",
@@ -154,6 +159,181 @@ function initialiserOnglets() {
       document.getElementById(`panneau-${bouton.dataset.onglet}`).classList.add("actif");
     });
   });
+}
+
+function initialiserSousOnglets() {
+  document.querySelectorAll(".sous-onglets").forEach((nav) => {
+    const conteneur = nav.parentElement;
+    nav.querySelectorAll(".sous-onglet-btn").forEach((bouton) => {
+      bouton.addEventListener("click", () => {
+        nav.querySelectorAll(".sous-onglet-btn").forEach((b) => b.classList.remove("actif"));
+        conteneur.querySelectorAll(".sous-panneau").forEach((p) => p.classList.remove("actif"));
+        bouton.classList.add("actif");
+        document.getElementById(`sous-panneau-${bouton.dataset.sousOnglet}`).classList.add("actif");
+      });
+    });
+  });
+}
+
+// --- Calendrier ---
+
+function indexerScrutinsParJour() {
+  scrutinsParJour = new Map();
+  for (const s of scrutinsIndex) {
+    if (!scrutinsParJour.has(s.date)) scrutinsParJour.set(s.date, []);
+    scrutinsParJour.get(s.date).push(s);
+  }
+}
+
+function afficherCalendrier() {
+  const annee = moisCourant.getFullYear();
+  const mois = moisCourant.getMonth();
+  document.getElementById("calendrier-titre-mois").textContent = moisCourant.toLocaleDateString("fr-FR", {
+    month: "long",
+    year: "numeric",
+  });
+
+  const premierJour = new Date(annee, mois, 1);
+  const decalage = (premierJour.getDay() + 6) % 7; // grille commençant un lundi
+  const nbJours = new Date(annee, mois + 1, 0).getDate();
+
+  const cellules = JOURS_SEMAINE.map((j) => `<div class="jour-entete">${j}</div>`);
+  for (let i = 0; i < decalage; i++) cellules.push('<div class="jour-calendrier vide"></div>');
+  for (let jour = 1; jour <= nbJours; jour++) {
+    const iso = `${annee}-${String(mois + 1).padStart(2, "0")}-${String(jour).padStart(2, "0")}`;
+    const scrutinsJour = scrutinsParJour.get(iso) || [];
+    const classe = scrutinsJour.length ? "jour-calendrier actif-jour" : "jour-calendrier";
+    cellules.push(`
+      <button type="button" class="${classe}" data-jour="${iso}">
+        <span>${jour}</span>
+        ${scrutinsJour.length ? `<span class="pastille">${scrutinsJour.length}</span>` : ""}
+      </button>`);
+  }
+  document.getElementById("grille-calendrier").innerHTML = cellules.join("");
+}
+
+function afficherScrutinsDuJour(iso) {
+  const scrutins = scrutinsParJour.get(iso) || [];
+  document.getElementById("liste-jour").innerHTML = scrutins.length
+    ? scrutins.map(carteScrutin).join("")
+    : `<p class="compteur">Aucun scrutin ce jour-là.</p>`;
+}
+
+// --- Par dossier ---
+
+function grouperParDossier() {
+  const groupes = new Map();
+  for (const s of scrutinsIndex) {
+    const cle = s.dossierRef || s.dossier || "__autres__";
+    if (!groupes.has(cle)) {
+      groupes.set(cle, { nom: s.dossier || "Autres (sans dossier législatif)", scrutins: [] });
+    }
+    groupes.get(cle).scrutins.push(s);
+  }
+  return [...groupes.values()];
+}
+
+function carteDossier(dossier, index) {
+  const dernier = dossier.scrutins[0];
+  return `
+    <article class="carte-dossier" data-dossier-index="${index}">
+      <div class="carte-scrutin-entete">
+        <span class="badge-resultat ${classeResultat(dernier.resultat)}">${dernier.resultat}</span>
+        <span class="carte-scrutin-date">${dossier.scrutins.length} scrutin(s) · ${formaterDate(dernier.date)}</span>
+      </div>
+      <p class="carte-scrutin-titre">${dossier.nom}</p>
+    </article>
+    <div class="sous-liste-dossier masque" id="sous-liste-dossier-${index}"></div>`;
+}
+
+function afficherDossiers() {
+  dossiersCalcules = grouperParDossier();
+  document.getElementById("liste-dossiers").innerHTML = dossiersCalcules
+    .map((d, i) => carteDossier(d, i))
+    .join("");
+}
+
+// --- Par groupe ---
+
+function carteVoteGroupe(v) {
+  return `
+    <article class="carte-scrutin" data-numero="${v.numero}">
+      <div class="carte-scrutin-entete">
+        <span class="badge-position position-${v.position}">${v.position}</span>
+        <span class="carte-scrutin-date">${formaterDate(v.date)}</span>
+      </div>
+      <p class="carte-scrutin-titre">${v.titre}</p>
+      ${barreVotes(v.pour, v.contre, v.abstentions)}
+    </article>`;
+}
+
+async function afficherVotesGroupe(groupeId) {
+  const conteneur = document.getElementById("liste-votes-groupe");
+  if (!groupeId) {
+    conteneur.innerHTML = "";
+    return;
+  }
+  conteneur.innerHTML = "<p>Chargement...</p>";
+  if (!votesParGroupeCache) {
+    votesParGroupeCache = await chargerJSON("data/actuality/votes_par_groupe.json");
+  }
+  const votes = votesParGroupeCache[groupeId] || [];
+  conteneur.innerHTML = votes.length
+    ? votes.map(carteVoteGroupe).join("")
+    : `<p class="compteur">Aucun vote récent pour ce groupe.</p>`;
+}
+
+// --- Hémicycle ---
+
+function calculerPositionsHemicycle(deputes) {
+  const tries = deputes.filter((d) => d.placeHemicycle).sort((a, b) => a.placeHemicycle - b.placeHemicycle);
+
+  const NB_RANGEES = 10;
+  const RAYON_MIN = 90;
+  const RAYON_MAX = 300;
+  const ANGLE_MIN = (165 * Math.PI) / 180;
+  const ANGLE_MAX = (15 * Math.PI) / 180;
+
+  const rayons = Array.from({ length: NB_RANGEES }, (_, i) => RAYON_MIN + ((RAYON_MAX - RAYON_MIN) * i) / (NB_RANGEES - 1));
+  const poidsTotal = rayons.reduce((s, r) => s + r, 0);
+  const tailles = rayons.map((r) => Math.round((tries.length * r) / poidsTotal));
+  tailles[tailles.length - 1] += tries.length - tailles.reduce((s, n) => s + n, 0);
+
+  const positions = [];
+  let curseur = 0;
+  tailles.forEach((taille, i) => {
+    const rayon = rayons[i];
+    for (let j = 0; j < taille; j++) {
+      const t = taille === 1 ? 0.5 : j / (taille - 1);
+      const angle = ANGLE_MIN + (ANGLE_MAX - ANGLE_MIN) * t;
+      positions.push({
+        depute: tries[curseur],
+        x: 300 + rayon * Math.cos(angle),
+        y: 320 - rayon * Math.sin(angle),
+      });
+      curseur++;
+    }
+  });
+  return positions;
+}
+
+function afficherHemicycle() {
+  const positions = calculerPositionsHemicycle([...deputesParId.values()]);
+  const cercles = positions
+    .map(({ depute, x, y }) => {
+      const groupe = groupesParId.get(depute.groupe);
+      const couleur = groupe ? groupe.couleur : "#8d949a";
+      const etiquette = `${nomComplet(depute)} (${groupe ? groupe.abrev : "NI"})`;
+      return `<circle cx="${x.toFixed(1)}" cy="${y.toFixed(1)}" r="5.5" fill="${couleur}"><title>${etiquette}</title></circle>`;
+    })
+    .join("");
+
+  document.getElementById("hemicycle").innerHTML = `
+    <svg viewBox="0 0 600 340" role="img" aria-label="Hémicycle de l'Assemblée nationale">${cercles}</svg>
+    <p class="hemicycle-note">
+      Disposition approximative reconstituée à partir des numéros de place réels
+      (les coordonnées exactes des sièges ne sont pas publiées en open data).
+    </p>`;
 }
 
 function initialiserModal() {
@@ -182,6 +362,7 @@ async function afficherDerniereMaj() {
 
 async function main() {
   initialiserOnglets();
+  initialiserSousOnglets();
   initialiserModal();
   afficherDerniereMaj();
 
@@ -194,17 +375,55 @@ async function main() {
   groupesParId = new Map(groupes.map((g) => [g.id, g]));
   deputesParId = new Map(deputes.map((d) => [d.id, d]));
   scrutinsIndex = index;
+  moisCourant = index.length ? new Date(index[0].date) : new Date();
 
-  remplirFiltreGroupes();
+  remplirSelectGroupes("filtre-groupe");
+  remplirSelectGroupes("selecteur-groupe-votes");
   filtrerEtAfficherDeputes();
   afficherScrutinsSuivants();
+  indexerScrutinsParJour();
+  afficherCalendrier();
+  afficherDossiers();
+  afficherHemicycle();
 
   document.getElementById("charger-plus").addEventListener("click", afficherScrutinsSuivants);
   document.getElementById("recherche-depute").addEventListener("input", filtrerEtAfficherDeputes);
   document.getElementById("filtre-groupe").addEventListener("change", filtrerEtAfficherDeputes);
-  document.getElementById("liste-scrutins").addEventListener("click", (e) => {
+
+  document.body.addEventListener("click", (e) => {
     const carte = e.target.closest(".carte-scrutin");
     if (carte) ouvrirDetailScrutin(carte.dataset.numero);
+  });
+
+  document.getElementById("mois-precedent").addEventListener("click", () => {
+    moisCourant.setMonth(moisCourant.getMonth() - 1);
+    afficherCalendrier();
+  });
+  document.getElementById("mois-suivant").addEventListener("click", () => {
+    moisCourant.setMonth(moisCourant.getMonth() + 1);
+    afficherCalendrier();
+  });
+  document.getElementById("grille-calendrier").addEventListener("click", (e) => {
+    const bouton = e.target.closest("[data-jour]");
+    if (bouton) afficherScrutinsDuJour(bouton.dataset.jour);
+  });
+
+  document.getElementById("liste-dossiers").addEventListener("click", (e) => {
+    const carte = e.target.closest(".carte-dossier");
+    if (!carte) return;
+    const index = carte.dataset.dossierIndex;
+    const sousListe = document.getElementById(`sous-liste-dossier-${index}`);
+    if (sousListe.classList.contains("masque")) {
+      sousListe.innerHTML = dossiersCalcules[index].scrutins.map(carteScrutin).join("");
+      sousListe.classList.remove("masque");
+    } else {
+      sousListe.classList.add("masque");
+      sousListe.innerHTML = "";
+    }
+  });
+
+  document.getElementById("selecteur-groupe-votes").addEventListener("change", (e) => {
+    afficherVotesGroupe(e.target.value);
   });
 }
 

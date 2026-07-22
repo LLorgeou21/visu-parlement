@@ -18,6 +18,7 @@ JOURS_DETAIL = 90  # fenêtre glissante pour laquelle on garde le détail nomina
 ROOT = Path(__file__).resolve().parent.parent
 OUT_INDEX = ROOT / "data" / "actuality" / "scrutins_index.json"
 OUT_DETAIL_DIR = ROOT / "data" / "actuality" / "scrutins"
+OUT_VOTES_GROUPE = ROOT / "data" / "actuality" / "votes_par_groupe.json"
 OUT_META = ROOT / "data" / "actuality" / "meta.json"
 
 
@@ -44,6 +45,7 @@ def resume_scrutin(scrutin: dict) -> dict:
         "date": scrutin["dateScrutin"],
         "titre": scrutin["titre"],
         "dossier": dossier.get("libelle"),
+        "dossierRef": dossier.get("dossierRef"),
         "typeVote": scrutin["typeVote"]["libelleTypeVote"],
         "resultat": scrutin["sort"]["code"],
         "votants": int(synthese["nombreVotants"]),
@@ -85,6 +87,7 @@ def main() -> None:
     cutoff = date.today() - timedelta(days=JOURS_DETAIL)
 
     index = []
+    votes_par_groupe: dict[str, list[dict]] = {}
     OUT_DETAIL_DIR.mkdir(parents=True, exist_ok=True)
     numeros_recents = set()
 
@@ -101,14 +104,31 @@ def main() -> None:
             (OUT_DETAIL_DIR / f"{resume['numero']}.json").write_text(
                 json.dumps(detail, ensure_ascii=False, indent=2), encoding="utf-8"
             )
+            for ligne in detail["parGroupe"]:
+                votes_par_groupe.setdefault(ligne["groupe"], []).append({
+                    "numero": resume["numero"],
+                    "date": resume["date"],
+                    "titre": resume["titre"],
+                    "resultat": resume["resultat"],
+                    "position": ligne["position"],
+                    "pour": ligne["pour"],
+                    "contre": ligne["contre"],
+                    "abstentions": ligne["abstentions"],
+                })
 
     for fichier in OUT_DETAIL_DIR.glob("*.json"):
         if fichier.stem not in numeros_recents:
             fichier.unlink()
 
     index.sort(key=lambda s: int(s["numero"]), reverse=True)
+    for votes in votes_par_groupe.values():
+        votes.sort(key=lambda v: int(v["numero"]), reverse=True)
+
     OUT_INDEX.parent.mkdir(parents=True, exist_ok=True)
     OUT_INDEX.write_text(json.dumps(index, ensure_ascii=False, indent=2), encoding="utf-8")
+    OUT_VOTES_GROUPE.write_text(
+        json.dumps(votes_par_groupe, ensure_ascii=False, indent=2), encoding="utf-8"
+    )
     OUT_META.write_text(
         json.dumps({"genereLe": datetime.now(timezone.utc).isoformat()}, ensure_ascii=False, indent=2),
         encoding="utf-8",

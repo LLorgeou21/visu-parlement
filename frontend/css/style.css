@@ -88,6 +88,35 @@ main {
 .panneau { display: none; }
 .panneau.actif { display: block; }
 
+.masque { display: none; }
+
+/* Sous-onglets */
+
+.sous-onglets {
+  display: flex;
+  gap: 0.4rem;
+  margin-bottom: 1rem;
+}
+
+.sous-onglet-btn {
+  border: 1px solid var(--bordure);
+  background: var(--fond-carte);
+  color: var(--texte-discret);
+  font-size: 0.82rem;
+  padding: 0.35rem 0.8rem;
+  border-radius: 999px;
+  cursor: pointer;
+}
+
+.sous-onglet-btn.actif {
+  color: #fff;
+  background: var(--accent);
+  border-color: var(--accent);
+}
+
+.sous-panneau { display: none; }
+.sous-panneau.actif { display: block; }
+
 /* Scrutins */
 
 .liste-scrutins {
@@ -160,6 +189,139 @@ main {
   margin-top: 0.4rem;
   font-size: 0.78rem;
   color: var(--texte-discret);
+}
+
+/* Calendrier */
+
+.calendrier-entete {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 1rem;
+  margin-bottom: 0.75rem;
+  font-weight: 600;
+  text-transform: capitalize;
+}
+
+.btn-icone {
+  border: 1px solid var(--bordure);
+  background: var(--fond-carte);
+  color: var(--texte);
+  border-radius: 999px;
+  width: 1.8rem;
+  height: 1.8rem;
+  cursor: pointer;
+}
+
+.grille-calendrier {
+  display: grid;
+  grid-template-columns: repeat(7, 1fr);
+  gap: 0.3rem;
+  margin-bottom: 1rem;
+}
+
+.jour-entete {
+  text-align: center;
+  font-size: 0.72rem;
+  color: var(--texte-discret);
+  padding-bottom: 0.2rem;
+}
+
+.jour-calendrier {
+  position: relative;
+  aspect-ratio: 1;
+  border: 1px solid var(--bordure);
+  border-radius: 8px;
+  background: var(--fond-carte);
+  color: var(--texte);
+  font-size: 0.8rem;
+  cursor: default;
+}
+
+.jour-calendrier.vide {
+  border: none;
+  background: none;
+}
+
+.jour-calendrier.actif-jour {
+  cursor: pointer;
+  border-color: var(--accent);
+  font-weight: 600;
+}
+
+.pastille {
+  position: absolute;
+  bottom: 3px;
+  right: 3px;
+  background: var(--accent);
+  color: #fff;
+  font-size: 0.62rem;
+  border-radius: 999px;
+  padding: 0 0.3rem;
+}
+
+/* Dossiers */
+
+.liste-dossiers {
+  display: flex;
+  flex-direction: column;
+  gap: 0.6rem;
+}
+
+.carte-dossier {
+  background: var(--fond-carte);
+  border: 1px solid var(--bordure);
+  border-radius: var(--rayon);
+  box-shadow: var(--ombre);
+  padding: 0.9rem 1.1rem;
+  cursor: pointer;
+}
+
+.sous-liste-dossier {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+  margin: 0.5rem 0 0 1.2rem;
+}
+
+/* Badge position (vue par groupe) */
+
+.badge-position {
+  display: inline-block;
+  font-size: 0.75rem;
+  font-weight: 600;
+  padding: 0.15rem 0.55rem;
+  border-radius: 999px;
+  color: #fff;
+  text-transform: capitalize;
+}
+
+.badge-position.position-pour { background: var(--vert); }
+.badge-position.position-contre { background: var(--rouge); }
+.badge-position.position-abstention { background: var(--gris); }
+
+/* Hémicycle */
+
+.hemicycle svg {
+  width: 100%;
+  height: auto;
+  max-height: 60vh;
+}
+
+.hemicycle circle {
+  cursor: pointer;
+  transition: r 0.1s ease;
+}
+
+.hemicycle circle:hover {
+  r: 8;
+}
+
+.hemicycle-note {
+  font-size: 0.75rem;
+  color: var(--texte-discret);
+  text-align: center;
+  margin-top: 0.5rem;
 }
 
 .btn-secondaire {
