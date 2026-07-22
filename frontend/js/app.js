@@ -448,8 +448,10 @@ function echelleAbsenteisme(deputes) {
 }
 
 function rayonAbsenteisme(depute, echelle) {
-  const RAYON_MIN = 2.5;
-  const RAYON_MAX = 16;
+  // Les sièges réels sont espacés de 13 à 21 unités (13 au plus serré) : au-delà
+  // d'un rayon d'environ 6.5, deux voisins au maximum se chevaucheraient.
+  const RAYON_MIN = 2;
+  const RAYON_MAX = 6.5;
   const valeur = absenteisme(depute);
   if (valeur === null) return RAYON_MIN;
   const etendue = echelle.max - echelle.min || 1;
