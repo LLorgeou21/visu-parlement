@@ -285,12 +285,36 @@ async function afficherVotesGroupe(groupeId) {
 
 // --- Hémicycle ---
 
-function calculerPositionsHemicycle(deputes) {
-  // Chaque groupe politique occupe un secteur angulaire (comme dans l'hémicycle réel),
-  // étalé sur toutes les rangées (du premier au dernier rang) plutôt qu'une rangée entière
-  // occupée par un seul groupe : on calcule d'abord tous les emplacements (rangée x angle),
-  // on les trie par angle, puis on les distribue aux députés triés par numéro de place réel.
-  const tries = deputes.filter((d) => d.placeHemicycle).sort((a, b) => a.placeHemicycle - b.placeHemicycle);
+function mediane(nombres) {
+  const tries = [...nombres].sort((a, b) => a - b);
+  const milieu = Math.floor(tries.length / 2);
+  return tries.length % 2 ? tries[milieu] : (tries[milieu - 1] + tries[milieu]) / 2;
+}
+
+function ordonnerGroupesParPosition(deputes) {
+  const placesParGroupe = new Map();
+  for (const d of deputes) {
+    if (!placesParGroupe.has(d.groupe)) placesParGroupe.set(d.groupe, []);
+    placesParGroupe.get(d.groupe).push(d.placeHemicycle);
+  }
+  return [...placesParGroupe.entries()]
+    .sort((a, b) => mediane(a[1]) - mediane(b[1]))
+    .map(([groupeId]) => groupeId);
+}
+
+function calculerPositionsHemicycle(deputes, ordreGroupes) {
+  // Chaque groupe politique doit occuper un secteur angulaire d'un seul tenant, étalé sur
+  // toutes les rangées (du premier au dernier rang) — pas une rangée entière par groupe, et
+  // pas non plus un petit groupe "englouti" dans la plage de numéros d'un plus grand groupe
+  // voisin. On trie donc d'abord les députés par groupe (dans l'ordre gauche-droite déduit de
+  // la médiane des vrais numéros de place de chaque groupe), puis par numéro de place à
+  // l'intérieur du groupe. Les emplacements (rangée x angle) sont calculés séparément puis
+  // triés par angle, et distribués dans cet ordre.
+  const rangGroupe = new Map(ordreGroupes.map((id, i) => [id, i]));
+  const tries = [...deputes].sort((a, b) => {
+    const diff = rangGroupe.get(a.groupe) - rangGroupe.get(b.groupe);
+    return diff !== 0 ? diff : a.placeHemicycle - b.placeHemicycle;
+  });
   const total = tries.length;
 
   const NB_RANGEES = 10;
@@ -318,8 +342,22 @@ function calculerPositionsHemicycle(deputes) {
   return tries.map((depute, i) => ({ depute, x: emplacements[i].x, y: emplacements[i].y }));
 }
 
+function legendeHemicycle(ordreGroupes) {
+  return ordreGroupes
+    .map((id) => groupesParId.get(id))
+    .filter(Boolean)
+    .map((g) => `
+      <div class="legende-item">
+        <span class="legende-pastille" style="background:${g.couleur}"></span>
+        ${g.abrev} — ${g.nom}
+      </div>`)
+    .join("");
+}
+
 function afficherHemicycle() {
-  const positions = calculerPositionsHemicycle([...deputesParId.values()]);
+  const deputesAvecPlace = [...deputesParId.values()].filter((d) => d.placeHemicycle && d.groupe);
+  const ordreGroupes = ordonnerGroupesParPosition(deputesAvecPlace);
+  const positions = calculerPositionsHemicycle(deputesAvecPlace, ordreGroupes);
   const cercles = positions
     .map(({ depute, x, y }) => {
       const groupe = groupesParId.get(depute.groupe);
@@ -331,9 +369,11 @@ function afficherHemicycle() {
 
   document.getElementById("hemicycle").innerHTML = `
     <svg viewBox="0 0 600 340" role="img" aria-label="Hémicycle de l'Assemblée nationale">${cercles}</svg>
+    <div class="legende-hemicycle">${legendeHemicycle(ordreGroupes)}</div>
     <p class="hemicycle-note">
       Disposition approximative reconstituée à partir des numéros de place réels
-      (les coordonnées exactes des sièges ne sont pas publiées en open data).
+      (les coordonnées exactes des sièges ne sont pas publiées en open data). Les groupes sont
+      ordonnés selon la médiane de leurs numéros de place réels, de gauche à droite.
     </p>`;
 }
 

@@ -317,11 +317,33 @@ main {
   r: 8;
 }
 
+.legende-hemicycle {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 0.4rem 1rem;
+  margin-top: 0.75rem;
+  font-size: 0.78rem;
+}
+
+.legende-item {
+  display: flex;
+  align-items: center;
+  gap: 0.35rem;
+}
+
+.legende-pastille {
+  width: 0.7rem;
+  height: 0.7rem;
+  border-radius: 999px;
+  flex-shrink: 0;
+}
+
 .hemicycle-note {
   font-size: 0.75rem;
   color: var(--texte-discret);
   text-align: center;
-  margin-top: 0.5rem;
+  margin-top: 0.75rem;
 }
 
 .btn-secondaire {
