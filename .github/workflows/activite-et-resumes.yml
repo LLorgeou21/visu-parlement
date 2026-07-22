@@ -1,0 +1,40 @@
+name: Collecte activité et résumés de lois
+
+on:
+  schedule:
+    - cron: "0 3 * * *" # une fois par jour à 3h UTC
+  workflow_dispatch:
+
+concurrency:
+  group: collecte-activite
+
+jobs:
+  collecte:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: "pip"
+
+      - name: Installer les dépendances
+        run: pip install -r requirements.txt
+
+      - name: Collecte de l'activité des députés (amendements, questions, propositions de loi)
+        run: python scripts/collecte_activite_deputes.py
+
+      - name: Collecte des résumés de lois (exposés des motifs)
+        run: python scripts/collecte_resumes_lois.py
+
+      - name: Commit et push si changement
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/actuality
+          git diff --cached --quiet || git commit -m "Mise à jour automatique : activité des députés et résumés de lois"
+          git pull --rebase
+          git push
