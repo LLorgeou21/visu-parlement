@@ -149,11 +149,13 @@ function carteDepute(depute) {
   const lieu = [depute.departement, depute.numCirconscription ? `${depute.numCirconscription}e circ.` : null]
     .filter(Boolean)
     .join(" · ");
+  const valeurAbsenteisme = absenteisme(depute);
   return `
     <article class="carte-depute" data-depute-id="${depute.id}">
       <div class="carte-depute-nom">${nomComplet(depute)}</div>
       ${badgeGroupe(depute.groupe)}
       <div class="carte-depute-lieu">${lieu}</div>
+      ${valeurAbsenteisme !== null ? `<div class="carte-depute-absenteisme">${Math.round(valeurAbsenteisme * 100)}% d'absentéisme</div>` : ""}
     </article>`;
 }
 
@@ -226,12 +228,19 @@ function ouvrirFicheDepute(id) {
 function filtrerEtAfficherDeputes() {
   const recherche = document.getElementById("recherche-depute").value.trim().toLowerCase();
   const groupeChoisi = document.getElementById("filtre-groupe").value;
+  const tri = document.getElementById("tri-deputes").value;
 
   const resultats = [...deputesParId.values()].filter((depute) => {
     const correspondNom = nomComplet(depute).toLowerCase().includes(recherche);
     const correspondGroupe = !groupeChoisi || depute.groupe === groupeChoisi;
     return correspondNom && correspondGroupe;
   });
+
+  if (tri === "absenteisme") {
+    resultats.sort((a, b) => (absenteisme(b) ?? -1) - (absenteisme(a) ?? -1));
+  } else {
+    resultats.sort((a, b) => nomComplet(a).localeCompare(nomComplet(b)));
+  }
 
   document.getElementById("compteur-deputes").textContent = `${resultats.length} député(s)`;
   document.getElementById("liste-deputes").innerHTML = resultats.map(carteDepute).join("");
@@ -411,13 +420,24 @@ function legendeHemicycle(ordreGroupes) {
     .join("");
 }
 
-function rayonAbsenteisme(depute) {
-  const RAYON_MIN = 3;
-  const RAYON_MAX = 10;
+function absenteisme(depute) {
   const participation = participationDeputes.get(depute.id);
-  if (!participation) return RAYON_MIN;
-  const absenteisme = 1 - participation.votes / participation.totalScrutins;
-  return RAYON_MIN + (RAYON_MAX - RAYON_MIN) * absenteisme;
+  return participation ? 1 - participation.votes / participation.totalScrutins : null;
+}
+
+function echelleAbsenteisme(deputes) {
+  const valeurs = deputes.map(absenteisme).filter((v) => v !== null);
+  return { min: Math.min(...valeurs), max: Math.max(...valeurs) };
+}
+
+function rayonAbsenteisme(depute, echelle) {
+  const RAYON_MIN = 2.5;
+  const RAYON_MAX = 16;
+  const valeur = absenteisme(depute);
+  if (valeur === null) return RAYON_MIN;
+  const etendue = echelle.max - echelle.min || 1;
+  const t = (valeur - echelle.min) / etendue;
+  return RAYON_MIN + (RAYON_MAX - RAYON_MIN) * t;
 }
 
 function afficherHemicycle() {
@@ -425,14 +445,18 @@ function afficherHemicycle() {
     (d) => d.placeHemicycle && d.groupe && hemicycleCoordonnees.has(d.placeHemicycle)
   );
   const tailleSelonAbsenteisme = document.getElementById("taille-absenteisme")?.checked;
+  const echelle = tailleSelonAbsenteisme ? echelleAbsenteisme(deputesAvecSiege) : null;
 
   const cercles = deputesAvecSiege
     .map((depute) => {
       const { x, y } = hemicycleCoordonnees.get(depute.placeHemicycle);
       const groupe = groupesParId.get(depute.groupe);
       const couleur = groupe ? groupe.couleur : "#8d949a";
-      const etiquette = `${nomComplet(depute)} (${groupe ? groupe.abrev : "NI"})`;
-      const rayon = tailleSelonAbsenteisme ? rayonAbsenteisme(depute).toFixed(1) : 6;
+      const valeurAbsenteisme = absenteisme(depute);
+      const etiquette = `${nomComplet(depute)} (${groupe ? groupe.abrev : "NI"})${
+        tailleSelonAbsenteisme && valeurAbsenteisme !== null ? ` — ${Math.round(valeurAbsenteisme * 100)}% d'absentéisme` : ""
+      }`;
+      const rayon = tailleSelonAbsenteisme ? rayonAbsenteisme(depute, echelle).toFixed(1) : 6;
       return `<circle cx="${x}" cy="${y}" r="${rayon}" fill="${couleur}" class="siege-depute" data-depute-id="${depute.id}"><title>${etiquette}</title></circle>`;
     })
     .join("");
@@ -511,6 +535,7 @@ async function main() {
   document.getElementById("charger-plus").addEventListener("click", afficherScrutinsSuivants);
   document.getElementById("recherche-depute").addEventListener("input", filtrerEtAfficherDeputes);
   document.getElementById("filtre-groupe").addEventListener("change", filtrerEtAfficherDeputes);
+  document.getElementById("tri-deputes").addEventListener("change", filtrerEtAfficherDeputes);
 
   document.body.addEventListener("click", (e) => {
     const carteScrutin = e.target.closest(".carte-scrutin");

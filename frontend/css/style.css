@@ -435,6 +435,12 @@ main {
   margin-top: 0.3rem;
 }
 
+.carte-depute-absenteisme {
+  font-size: 0.72rem;
+  color: var(--texte-discret);
+  margin-top: 0.15rem;
+}
+
 .badge-groupe {
   display: inline-block;
   font-size: 0.72rem;
