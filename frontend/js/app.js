@@ -117,6 +117,19 @@ function hemicycleVotes(votesIndividuels) {
     </div>`;
 }
 
+let extraitsDebatsCache = null;
+
+function extraitDebat(interventions) {
+  if (!interventions || !interventions.length) return "";
+  return `
+    <h3>Contexte du débat (dernières interventions avant le vote)</h3>
+    <div class="extraits-debat">
+      ${interventions
+        .map((i) => `<p class="extrait-debat"><span class="extrait-orateur">${i.orateur}</span> — ${i.texte}</p>`)
+        .join("")}
+    </div>`;
+}
+
 async function ouvrirDetailScrutin(numero) {
   const modal = document.getElementById("fond-modal");
   const contenu = document.getElementById("contenu-modal");
@@ -124,6 +137,9 @@ async function ouvrirDetailScrutin(numero) {
   modal.classList.remove("masque");
 
   try {
+    if (!extraitsDebatsCache) {
+      extraitsDebatsCache = await chargerJSON("data/actuality/extraits_debats.json");
+    }
     const detail = await chargerJSON(`data/actuality/scrutins/${numero}.json`);
 
     contenu.innerHTML = `
@@ -135,7 +151,8 @@ async function ouvrirDetailScrutin(numero) {
       <div class="detail-chiffres">
         ${detail.votants} votants · ${detail.pour} pour · ${detail.contre} contre · ${detail.abstentions} abstentions
       </div>
-      ${hemicycleVotes(detail.votesIndividuels)}`;
+      ${hemicycleVotes(detail.votesIndividuels)}
+      ${extraitDebat(extraitsDebatsCache[numero])}`;
   } catch (erreur) {
     contenu.innerHTML = `<p>Détail indisponible pour ce scrutin (hors fenêtre conservée, ou erreur : ${erreur.message}).</p>`;
   }

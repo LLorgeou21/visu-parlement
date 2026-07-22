@@ -501,3 +501,23 @@ main {
   font-size: 0.85rem;
   color: var(--texte-discret);
 }
+
+.extraits-debat {
+  display: flex;
+  flex-direction: column;
+  gap: 0.6rem;
+  margin-top: 0.5rem;
+}
+
+.extrait-debat {
+  font-size: 0.85rem;
+  line-height: 1.45;
+  margin: 0;
+  padding: 0.6rem 0.8rem;
+  background: var(--fond);
+  border-radius: 8px;
+}
+
+.extrait-orateur {
+  font-weight: 600;
+}

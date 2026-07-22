@@ -56,6 +56,7 @@ def resume_scrutin(scrutin: dict) -> dict:
         "numero": scrutin["numero"],
         "date": scrutin["dateScrutin"],
         "titre": scrutin["titre"],
+        "seanceRef": scrutin.get("seanceRef"),
         "dossier": dossier.get("libelle"),
         "dossierRef": dossier.get("dossierRef"),
         "typeVote": scrutin["typeVote"]["libelleTypeVote"],
