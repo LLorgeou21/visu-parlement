@@ -286,7 +286,12 @@ async function afficherVotesGroupe(groupeId) {
 // --- Hémicycle ---
 
 function calculerPositionsHemicycle(deputes) {
+  // Chaque groupe politique occupe un secteur angulaire (comme dans l'hémicycle réel),
+  // étalé sur toutes les rangées (du premier au dernier rang) plutôt qu'une rangée entière
+  // occupée par un seul groupe : on calcule d'abord tous les emplacements (rangée x angle),
+  // on les trie par angle, puis on les distribue aux députés triés par numéro de place réel.
   const tries = deputes.filter((d) => d.placeHemicycle).sort((a, b) => a.placeHemicycle - b.placeHemicycle);
+  const total = tries.length;
 
   const NB_RANGEES = 10;
   const RAYON_MIN = 90;
@@ -296,25 +301,21 @@ function calculerPositionsHemicycle(deputes) {
 
   const rayons = Array.from({ length: NB_RANGEES }, (_, i) => RAYON_MIN + ((RAYON_MAX - RAYON_MIN) * i) / (NB_RANGEES - 1));
   const poidsTotal = rayons.reduce((s, r) => s + r, 0);
-  const tailles = rayons.map((r) => Math.round((tries.length * r) / poidsTotal));
-  tailles[tailles.length - 1] += tries.length - tailles.reduce((s, n) => s + n, 0);
+  const tailles = rayons.map((r) => Math.round((total * r) / poidsTotal));
+  tailles[tailles.length - 1] += total - tailles.reduce((s, n) => s + n, 0);
 
-  const positions = [];
-  let curseur = 0;
+  const emplacements = [];
   tailles.forEach((taille, i) => {
     const rayon = rayons[i];
     for (let j = 0; j < taille; j++) {
       const t = taille === 1 ? 0.5 : j / (taille - 1);
       const angle = ANGLE_MIN + (ANGLE_MAX - ANGLE_MIN) * t;
-      positions.push({
-        depute: tries[curseur],
-        x: 300 + rayon * Math.cos(angle),
-        y: 320 - rayon * Math.sin(angle),
-      });
-      curseur++;
+      emplacements.push({ angle, x: 300 + rayon * Math.cos(angle), y: 320 - rayon * Math.sin(angle) });
     }
   });
-  return positions;
+  emplacements.sort((a, b) => b.angle - a.angle);
+
+  return tries.map((depute, i) => ({ depute, x: emplacements[i].x, y: emplacements[i].y }));
 }
 
 function afficherHemicycle() {
