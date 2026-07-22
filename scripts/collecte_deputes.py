@@ -84,6 +84,7 @@ def main() -> None:
             "numCirconscription": election.get("numCirco"),
             "region": election.get("region"),
             "placeHemicycle": int(place_hemicycle) if place_hemicycle else None,
+            "debutMandat": mandat_assemblee.get("dateDebut"),
         })
 
     OUT_DEPUTES.parent.mkdir(parents=True, exist_ok=True)

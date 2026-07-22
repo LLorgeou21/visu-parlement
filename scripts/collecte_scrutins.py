@@ -9,6 +9,7 @@ Génère :
 import io
 import json
 import zipfile
+from bisect import bisect_left
 from datetime import date, datetime, timedelta, timezone
 from pathlib import Path
 from urllib.request import urlopen
@@ -18,11 +19,19 @@ URL_SCRUTINS = "http://data.assemblee-nationale.fr/static/openData/repository/17
 JOURS_DETAIL = 90  # fenêtre glissante pour laquelle on garde le détail nominatif
 
 ROOT = Path(__file__).resolve().parent.parent
+IN_DEPUTES = ROOT / "data" / "permanent" / "deputes.json"
 OUT_INDEX = ROOT / "data" / "actuality" / "scrutins_index.json"
 OUT_DETAIL_DIR = ROOT / "data" / "actuality" / "scrutins"
 OUT_VOTES_GROUPE = ROOT / "data" / "actuality" / "votes_par_groupe.json"
 OUT_PARTICIPATION = ROOT / "data" / "actuality" / "participation_deputes.json"
 OUT_META = ROOT / "data" / "actuality" / "meta.json"
+
+
+def charger_debuts_mandat() -> dict[str, str]:
+    if not IN_DEPUTES.exists():
+        return {}
+    deputes = json.loads(IN_DEPUTES.read_text(encoding="utf-8"))
+    return {d["id"]: d["debutMandat"] for d in deputes if d.get("debutMandat")}
 
 
 def telecharger_zip(url: str) -> zipfile.ZipFile:
@@ -152,8 +161,19 @@ def main() -> None:
     OUT_VOTES_GROUPE.write_text(
         json.dumps(votes_par_groupe, ensure_ascii=False, indent=2), encoding="utf-8"
     )
+
+    debuts_mandat = charger_debuts_mandat()
+    dates_scrutins = sorted(date.fromisoformat(s["date"]) for s in index)
+
+    def total_scrutins_depuis(depute: str) -> int:
+        debut = debuts_mandat.get(depute)
+        if not debut:
+            return len(dates_scrutins)  # date de début inconnue : on ne peut pas affiner
+        position = bisect_left(dates_scrutins, date.fromisoformat(debut))
+        return len(dates_scrutins) - position
+
     participation = {
-        depute: {"votes": nb, "totalScrutins": len(index)}
+        depute: {"votes": nb, "totalScrutins": total_scrutins_depuis(depute)}
         for depute, nb in votes_par_depute.items()
     }
     OUT_PARTICIPATION.write_text(

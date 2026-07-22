@@ -8,7 +8,8 @@
     "departement": "Ariège",
     "numCirconscription": "2",
     "region": "Occitanie",
-    "placeHemicycle": 466
+    "placeHemicycle": 466,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA795228",
@@ -19,7 +20,8 @@
     "departement": "Seine-Saint-Denis",
     "numCirconscription": "10",
     "region": "Ile-de-France",
-    "placeHemicycle": 627
+    "placeHemicycle": 627,
+    "debutMandat": "2024-06-30"
   },
   {
     "id": "PA794278",
@@ -30,7 +32,8 @@
     "departement": "Marne",
     "numCirconscription": "1",
     "region": "Grand Est",
-    "placeHemicycle": 216
+    "placeHemicycle": 216,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA793262",
@@ -41,7 +44,8 @@
     "departement": "Aveyron",
     "numCirconscription": "2",
     "region": "Occitanie",
-    "placeHemicycle": 571
+    "placeHemicycle": 571,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA793992",
@@ -52,7 +56,8 @@
     "departement": "Indre-et-Loire",
     "numCirconscription": "3",
     "region": "Centre-Val de Loire",
-    "placeHemicycle": 244
+    "placeHemicycle": 244,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA841067",
@@ -63,7 +68,8 @@
     "departement": "Gard",
     "numCirconscription": "5",
     "region": "Occitanie",
-    "placeHemicycle": 113
+    "placeHemicycle": 113,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA840665",
@@ -74,7 +80,8 @@
     "departement": "Hautes-Alpes",
     "numCirconscription": "1",
     "region": "Provence-Alpes-Côte d'Azur",
-    "placeHemicycle": 471
+    "placeHemicycle": 471,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA793432",
@@ -85,7 +92,8 @@
     "departement": "Bouches-du-Rhône",
     "numCirconscription": "12",
     "region": "Provence-Alpes-Côte d'Azur",
-    "placeHemicycle": 63
+    "placeHemicycle": 63,
+    "debutMandat": "2024-06-30"
   },
   {
     "id": "PA841207",
@@ -96,7 +104,8 @@
     "departement": "Hérault",
     "numCirconscription": "9",
     "region": "Occitanie",
-    "placeHemicycle": 106
+    "placeHemicycle": 106,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA794906",
@@ -107,7 +116,8 @@
     "departement": "Rhône",
     "numCirconscription": "6",
     "region": "Auvergne-Rhône-Alpes",
-    "placeHemicycle": 544
+    "placeHemicycle": 544,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA841495",
@@ -118,7 +128,8 @@
     "departement": "Meuse",
     "numCirconscription": "1",
     "region": "Grand Est",
-    "placeHemicycle": 10
+    "placeHemicycle": 10,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA794138",
@@ -129,7 +140,8 @@
     "departement": "Loire-Atlantique",
     "numCirconscription": "3",
     "region": "Pays de la Loire",
-    "placeHemicycle": 526
+    "placeHemicycle": 526,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA610968",
@@ -140,7 +152,8 @@
     "departement": "Paris",
     "numCirconscription": "5",
     "region": "Ile-de-France",
-    "placeHemicycle": 516
+    "placeHemicycle": 516,
+    "debutMandat": "2024-06-30"
   },
   {
     "id": "PA795588",
@@ -151,7 +164,8 @@
     "departement": "Essonne",
     "numCirconscription": "1",
     "region": "Ile-de-France",
-    "placeHemicycle": 643
+    "placeHemicycle": 643,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA721158",
@@ -162,7 +176,8 @@
     "departement": "Français établis hors de France",
     "numCirconscription": "4",
     "region": "Français établis hors de France",
-    "placeHemicycle": 281
+    "placeHemicycle": 281,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA795084",
@@ -173,7 +188,8 @@
     "departement": "Paris",
     "numCirconscription": "10",
     "region": "Ile-de-France",
-    "placeHemicycle": 610
+    "placeHemicycle": 610,
+    "debutMandat": "2024-06-30"
   },
   {
     "id": "PA842105",
@@ -184,7 +200,8 @@
     "departement": "Vaucluse",
     "numCirconscription": "1",
     "region": "Provence-Alpes-Côte d'Azur",
-    "placeHemicycle": 560
+    "placeHemicycle": 560,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA793780",
@@ -195,7 +212,8 @@
     "departement": "Haute-Garonne",
     "numCirconscription": "9",
     "region": "Occitanie",
-    "placeHemicycle": 517
+    "placeHemicycle": 517,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA722190",
@@ -206,7 +224,8 @@
     "departement": "Hauts-de-Seine",
     "numCirconscription": "10",
     "region": "Ile-de-France",
-    "placeHemicycle": 267
+    "placeHemicycle": 267,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA588884",
@@ -217,7 +236,8 @@
     "departement": "Seine-Saint-Denis",
     "numCirconscription": "11",
     "region": "Ile-de-France",
-    "placeHemicycle": 510
+    "placeHemicycle": 510,
+    "debutMandat": "2024-06-30"
   },
   {
     "id": "PA796118",
@@ -228,7 +248,8 @@
     "departement": "Vaucluse",
     "numCirconscription": "2",
     "region": "Provence-Alpes-Côte d'Azur",
-    "placeHemicycle": 79
+    "placeHemicycle": 79,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA642764",
@@ -239,7 +260,8 @@
     "departement": "Haute-Garonne",
     "numCirconscription": "8",
     "region": "Occitanie",
-    "placeHemicycle": 428
+    "placeHemicycle": 428,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA841701",
@@ -250,7 +272,8 @@
     "departement": "Paris",
     "numCirconscription": "3",
     "region": "Ile-de-France",
-    "placeHemicycle": 523
+    "placeHemicycle": 523,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA719558",
@@ -261,7 +284,8 @@
     "departement": "Finistère",
     "numCirconscription": "8",
     "region": "Bretagne",
-    "placeHemicycle": 333
+    "placeHemicycle": 333,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA794562",
@@ -272,7 +296,8 @@
     "departement": "Oise",
     "numCirconscription": "2",
     "region": "Hauts-de-France",
-    "placeHemicycle": 94
+    "placeHemicycle": 94,
+    "debutMandat": "2024-06-30"
   },
   {
     "id": "PA842279",
@@ -283,7 +308,8 @@
     "departement": "Mayotte",
     "numCirconscription": "2",
     "region": "Mayotte",
-    "placeHemicycle": 25
+    "placeHemicycle": 25,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA720256",
@@ -294,7 +320,8 @@
     "departement": "Mayenne",
     "numCirconscription": "2",
     "region": "Pays de la Loire",
-    "placeHemicycle": 371
+    "placeHemicycle": 371,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA643143",
@@ -305,7 +332,8 @@
     "departement": "Guadeloupe",
     "numCirconscription": "2",
     "region": "Guadeloupe",
-    "placeHemicycle": 440
+    "placeHemicycle": 440,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA368",
@@ -316,7 +344,8 @@
     "departement": "Paris",
     "numCirconscription": "2",
     "region": "Ile-de-France",
-    "placeHemicycle": 180
+    "placeHemicycle": 180,
+    "debutMandat": "2025-09-28"
   },
   {
     "id": "PA840829",
@@ -327,7 +356,8 @@
     "departement": "Charente-Maritime",
     "numCirconscription": "3",
     "region": "Nouvelle-Aquitaine",
-    "placeHemicycle": 567
+    "placeHemicycle": 567,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA267763",
@@ -338,7 +368,8 @@
     "departement": "Nord",
     "numCirconscription": "15",
     "region": "Hauts-de-France",
-    "placeHemicycle": 479
+    "placeHemicycle": 479,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA335999",
@@ -349,7 +380,8 @@
     "departement": "Deux-Sèvres",
     "numCirconscription": "2",
     "region": "Nouvelle-Aquitaine",
-    "placeHemicycle": 504
+    "placeHemicycle": 504,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA342415",
@@ -360,7 +392,8 @@
     "departement": "Isère",
     "numCirconscription": "4",
     "region": "Auvergne-Rhône-Alpes",
-    "placeHemicycle": 442
+    "placeHemicycle": 442,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA793374",
@@ -371,7 +404,8 @@
     "departement": "Bouches-du-Rhône",
     "numCirconscription": "15",
     "region": "Provence-Alpes-Côte d'Azur",
-    "placeHemicycle": 52
+    "placeHemicycle": 52,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA606793",
@@ -382,7 +416,8 @@
     "departement": "Indre-et-Loire",
     "numCirconscription": "4",
     "region": "Centre-Val de Loire",
-    "placeHemicycle": 451
+    "placeHemicycle": 451,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA642847",
@@ -393,7 +428,8 @@
     "departement": "Meurthe-et-Moselle",
     "numCirconscription": "4",
     "region": "Grand Est",
-    "placeHemicycle": 165
+    "placeHemicycle": 165,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA718884",
@@ -404,7 +440,8 @@
     "departement": "Aube",
     "numCirconscription": "2",
     "region": "Grand Est",
-    "placeHemicycle": 199
+    "placeHemicycle": 199,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA793158",
@@ -415,7 +452,8 @@
     "departement": "Aisne",
     "numCirconscription": "4",
     "region": "Hauts-de-France",
-    "placeHemicycle": 75
+    "placeHemicycle": 75,
+    "debutMandat": "2024-06-30"
   },
   {
     "id": "PA642935",
@@ -426,7 +464,8 @@
     "departement": "Haut-Rhin",
     "numCirconscription": "5",
     "region": "Grand Est",
-    "placeHemicycle": 367
+    "placeHemicycle": 367,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA720362",
@@ -437,7 +476,8 @@
     "departement": "Moselle",
     "numCirconscription": "1",
     "region": "Grand Est",
-    "placeHemicycle": 484
+    "placeHemicycle": 484,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA842211",
@@ -448,7 +488,8 @@
     "departement": "Martinique",
     "numCirconscription": "3",
     "region": "Martinique",
-    "placeHemicycle": 418
+    "placeHemicycle": 418,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA795362",
@@ -459,7 +500,8 @@
     "departement": "Vienne",
     "numCirconscription": "1",
     "region": "Nouvelle-Aquitaine",
-    "placeHemicycle": 532
+    "placeHemicycle": 532,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA841657",
@@ -470,7 +512,8 @@
     "departement": "Rhône",
     "numCirconscription": "1",
     "region": "Auvergne-Rhône-Alpes",
-    "placeHemicycle": 518
+    "placeHemicycle": 518,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA795454",
@@ -481,7 +524,8 @@
     "departement": "Français établis hors de France",
     "numCirconscription": "9",
     "region": "Français établis hors de France",
-    "placeHemicycle": 542
+    "placeHemicycle": 542,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA841315",
@@ -492,7 +536,8 @@
     "departement": "Loire-Atlantique",
     "numCirconscription": "1",
     "region": "Pays de la Loire",
-    "placeHemicycle": 565
+    "placeHemicycle": 565,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA332228",
@@ -503,7 +548,8 @@
     "departement": "Ille-et-Vilaine",
     "numCirconscription": "6",
     "region": "Bretagne",
-    "placeHemicycle": 223
+    "placeHemicycle": 223,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA841531",
@@ -514,7 +560,8 @@
     "departement": "Nord",
     "numCirconscription": "8",
     "region": "Hauts-de-France",
-    "placeHemicycle": 625
+    "placeHemicycle": 625,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA794434",
@@ -525,7 +572,8 @@
     "departement": "Haute-Marne",
     "numCirconscription": "1",
     "region": "Grand Est",
-    "placeHemicycle": 9
+    "placeHemicycle": 9,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA805166",
@@ -536,7 +584,8 @@
     "departement": "Yvelines",
     "numCirconscription": "2",
     "region": "Ile-de-France",
-    "placeHemicycle": 358
+    "placeHemicycle": 358,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA793924",
@@ -547,7 +596,8 @@
     "departement": "Gironde",
     "numCirconscription": "10",
     "region": "Nouvelle-Aquitaine",
-    "placeHemicycle": null
+    "placeHemicycle": null,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA720430",
@@ -558,7 +608,8 @@
     "departement": "Nord",
     "numCirconscription": "2",
     "region": "Hauts-de-France",
-    "placeHemicycle": 601
+    "placeHemicycle": 601,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA841645",
@@ -569,7 +620,8 @@
     "departement": "Bas-Rhin",
     "numCirconscription": "8",
     "region": "Grand Est",
-    "placeHemicycle": 86
+    "placeHemicycle": 86,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA687214",
@@ -580,7 +632,8 @@
     "departement": "Val-de-Marne",
     "numCirconscription": "1",
     "region": "Ile-de-France",
-    "placeHemicycle": 220
+    "placeHemicycle": 220,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA719218",
@@ -591,7 +644,8 @@
     "departement": "Côtes-d'Armor",
     "numCirconscription": "2",
     "region": "Bretagne",
-    "placeHemicycle": 295
+    "placeHemicycle": 295,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA309643",
@@ -602,7 +656,8 @@
     "departement": "Vendée",
     "numCirconscription": "4",
     "region": "Pays de la Loire",
-    "placeHemicycle": 111
+    "placeHemicycle": 111,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA793772",
@@ -613,7 +668,8 @@
     "departement": "Haute-Garonne",
     "numCirconscription": "7",
     "region": "Occitanie",
-    "placeHemicycle": 557
+    "placeHemicycle": 557,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA842001",
@@ -624,7 +680,8 @@
     "departement": "Territoire de Belfort",
     "numCirconscription": "2",
     "region": "Bourgogne-Franche-Comté",
-    "placeHemicycle": 110
+    "placeHemicycle": 110,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA720822",
@@ -635,7 +692,8 @@
     "departement": "Pas-de-Calais",
     "numCirconscription": "12",
     "region": "Hauts-de-France",
-    "placeHemicycle": 45
+    "placeHemicycle": 45,
+    "debutMandat": "2024-06-30"
   },
   {
     "id": "PA795616",
@@ -646,7 +704,8 @@
     "departement": "Val-d'Oise",
     "numCirconscription": "8",
     "region": "Ile-de-France",
-    "placeHemicycle": 604
+    "placeHemicycle": 604,
+    "debutMandat": "2024-06-30"
   },
   {
     "id": "PA840997",
@@ -657,7 +716,8 @@
     "departement": "Charente-Maritime",
     "numCirconscription": "2",
     "region": "Nouvelle-Aquitaine",
-    "placeHemicycle": 533
+    "placeHemicycle": 533,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA720668",
@@ -668,7 +728,8 @@
     "departement": "Pas-de-Calais",
     "numCirconscription": "1",
     "region": "Hauts-de-France",
-    "placeHemicycle": 60
+    "placeHemicycle": 60,
+    "debutMandat": "2024-06-30"
   },
   {
     "id": "PA794886",
@@ -679,7 +740,8 @@
     "departement": "Pyrénées-Orientales",
     "numCirconscription": "1",
     "region": "Occitanie",
-    "placeHemicycle": 117
+    "placeHemicycle": 117,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA842183",
@@ -690,7 +752,8 @@
     "departement": "Val-d'Oise",
     "numCirconscription": "4",
     "region": "Ile-de-France",
-    "placeHemicycle": 239
+    "placeHemicycle": 239,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA719024",
@@ -701,7 +764,8 @@
     "departement": "Calvados",
     "numCirconscription": "4",
     "region": "Normandie",
-    "placeHemicycle": 344
+    "placeHemicycle": 344,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA774954",
@@ -712,7 +776,8 @@
     "departement": "Maine-et-Loire",
     "numCirconscription": "3",
     "region": "Pays de la Loire",
-    "placeHemicycle": 183
+    "placeHemicycle": 183,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA840889",
@@ -723,7 +788,8 @@
     "departement": "Doubs",
     "numCirconscription": "3",
     "region": "Bourgogne-Franche-Comté",
-    "placeHemicycle": 91
+    "placeHemicycle": 91,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA796042",
@@ -734,7 +800,8 @@
     "departement": "Var",
     "numCirconscription": "7",
     "region": "Provence-Alpes-Côte d'Azur",
-    "placeHemicycle": 12
+    "placeHemicycle": 12,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA841543",
@@ -745,7 +812,8 @@
     "departement": "Nord",
     "numCirconscription": "13",
     "region": "Hauts-de-France",
-    "placeHemicycle": 457
+    "placeHemicycle": 457,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA793444",
@@ -756,7 +824,8 @@
     "departement": "Bouches-du-Rhône",
     "numCirconscription": "4",
     "region": "Provence-Alpes-Côte d'Azur",
-    "placeHemicycle": 539
+    "placeHemicycle": 539,
+    "debutMandat": "2024-06-30"
   },
   {
     "id": "PA569",
@@ -767,7 +836,8 @@
     "departement": "Tarn",
     "numCirconscription": "1",
     "region": "Occitanie",
-    "placeHemicycle": 392
+    "placeHemicycle": 392,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA794182",
@@ -778,7 +848,8 @@
     "departement": "Loire",
     "numCirconscription": "6",
     "region": "Auvergne-Rhône-Alpes",
-    "placeHemicycle": 197
+    "placeHemicycle": 197,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA841885",
@@ -789,7 +860,8 @@
     "departement": "Seine-et-Marne",
     "numCirconscription": "8",
     "region": "Ile-de-France",
-    "placeHemicycle": 534
+    "placeHemicycle": 534,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA719968",
@@ -800,7 +872,8 @@
     "departement": "Loire",
     "numCirconscription": "4",
     "region": "Auvergne-Rhône-Alpes",
-    "placeHemicycle": 210
+    "placeHemicycle": 210,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA841507",
@@ -811,7 +884,8 @@
     "departement": "Puy-de-Dôme",
     "numCirconscription": "3",
     "region": "Auvergne-Rhône-Alpes",
-    "placeHemicycle": 500
+    "placeHemicycle": 500,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA721410",
@@ -822,7 +896,8 @@
     "departement": "Savoie",
     "numCirconscription": "3",
     "region": "Auvergne-Rhône-Alpes",
-    "placeHemicycle": 174
+    "placeHemicycle": 174,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA266793",
@@ -833,7 +908,8 @@
     "departement": "Cantal",
     "numCirconscription": "2",
     "region": "Auvergne-Rhône-Alpes",
-    "placeHemicycle": 163
+    "placeHemicycle": 163,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA717161",
@@ -844,7 +920,8 @@
     "departement": "Calvados",
     "numCirconscription": "6",
     "region": "Normandie",
-    "placeHemicycle": 253
+    "placeHemicycle": 253,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA642695",
@@ -855,7 +932,8 @@
     "departement": "Côtes-d'Armor",
     "numCirconscription": "5",
     "region": "Bretagne",
-    "placeHemicycle": 286
+    "placeHemicycle": 286,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA721816",
@@ -866,7 +944,8 @@
     "departement": "Territoire de Belfort",
     "numCirconscription": "1",
     "region": "Bourgogne-Franche-Comté",
-    "placeHemicycle": 176
+    "placeHemicycle": 176,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA841487",
@@ -877,7 +956,8 @@
     "departement": "Meurthe-et-Moselle",
     "numCirconscription": "6",
     "region": "Grand Est",
-    "placeHemicycle": 137
+    "placeHemicycle": 137,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA794094",
@@ -888,7 +968,8 @@
     "departement": "Ille-et-Vilaine",
     "numCirconscription": "8",
     "region": "Bretagne",
-    "placeHemicycle": 436
+    "placeHemicycle": 436,
+    "debutMandat": "2024-06-30"
   },
   {
     "id": "PA794938",
@@ -899,7 +980,8 @@
     "departement": "Rhône",
     "numCirconscription": "14",
     "region": "Auvergne-Rhône-Alpes",
-    "placeHemicycle": 619
+    "placeHemicycle": 619,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA841131",
@@ -910,7 +992,8 @@
     "departement": "Hérault",
     "numCirconscription": "4",
     "region": "Occitanie",
-    "placeHemicycle": 124
+    "placeHemicycle": 124,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA342240",
@@ -921,7 +1004,8 @@
     "departement": "Ille-et-Vilaine",
     "numCirconscription": "7",
     "region": "Bretagne",
-    "placeHemicycle": 192
+    "placeHemicycle": 192,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA720838",
@@ -932,7 +1016,8 @@
     "departement": "Seine-Saint-Denis",
     "numCirconscription": "4",
     "region": "Ile-de-France",
-    "placeHemicycle": 589
+    "placeHemicycle": 589,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA719032",
@@ -943,7 +1028,8 @@
     "departement": "Calvados",
     "numCirconscription": "5",
     "region": "Normandie",
-    "placeHemicycle": 241
+    "placeHemicycle": 241,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA793182",
@@ -954,7 +1040,8 @@
     "departement": "Allier",
     "numCirconscription": "2",
     "region": "Auvergne-Rhône-Alpes",
-    "placeHemicycle": 56
+    "placeHemicycle": 56,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA795318",
@@ -965,7 +1052,8 @@
     "departement": "Val-de-Marne",
     "numCirconscription": "3",
     "region": "Ile-de-France",
-    "placeHemicycle": 630
+    "placeHemicycle": 630,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA841339",
@@ -976,7 +1064,8 @@
     "departement": "Loire-Atlantique",
     "numCirconscription": "9",
     "region": "Pays de la Loire",
-    "placeHemicycle": 235
+    "placeHemicycle": 235,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA721908",
@@ -987,7 +1076,8 @@
     "departement": "Yvelines",
     "numCirconscription": "5",
     "region": "Ile-de-France",
-    "placeHemicycle": 391
+    "placeHemicycle": 391,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA840175",
@@ -998,7 +1088,8 @@
     "departement": "Paris",
     "numCirconscription": "7",
     "region": "Ile-de-France",
-    "placeHemicycle": 568
+    "placeHemicycle": 568,
+    "debutMandat": "2024-06-30"
   },
   {
     "id": "PA330008",
@@ -1009,7 +1100,8 @@
     "departement": "Ain",
     "numCirconscription": "1",
     "region": "Auvergne-Rhône-Alpes",
-    "placeHemicycle": 171
+    "placeHemicycle": 171,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA793508",
@@ -1020,7 +1112,8 @@
     "departement": "Côte-d'Or",
     "numCirconscription": "4",
     "region": "Bourgogne-Franche-Comté",
-    "placeHemicycle": 195
+    "placeHemicycle": 195,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA721336",
@@ -1031,7 +1124,8 @@
     "departement": "Rhône",
     "numCirconscription": "5",
     "region": "Auvergne-Rhône-Alpes",
-    "placeHemicycle": 343
+    "placeHemicycle": 343,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA794330",
@@ -1042,7 +1136,8 @@
     "departement": "Loiret",
     "numCirconscription": "5",
     "region": "Centre-Val de Loire",
-    "placeHemicycle": 388
+    "placeHemicycle": 388,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA794710",
@@ -1053,7 +1148,8 @@
     "departement": "Puy-de-Dôme",
     "numCirconscription": "5",
     "region": "Auvergne-Rhône-Alpes",
-    "placeHemicycle": 587
+    "placeHemicycle": 587,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA719890",
@@ -1064,7 +1160,8 @@
     "departement": "Jura",
     "numCirconscription": "1",
     "region": "Bourgogne-Franche-Comté",
-    "placeHemicycle": 257
+    "placeHemicycle": 257,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA718838",
@@ -1075,7 +1172,8 @@
     "departement": "Ardèche",
     "numCirconscription": "3",
     "region": "Auvergne-Rhône-Alpes",
-    "placeHemicycle": 187
+    "placeHemicycle": 187,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA793624",
@@ -1086,7 +1184,8 @@
     "departement": "Eure",
     "numCirconscription": "4",
     "region": "Normandie",
-    "placeHemicycle": 422
+    "placeHemicycle": 422,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA840817",
@@ -1097,7 +1196,8 @@
     "departement": "Calvados",
     "numCirconscription": "1",
     "region": "Normandie",
-    "placeHemicycle": 393
+    "placeHemicycle": 393,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA722000",
@@ -1108,7 +1208,8 @@
     "departement": "Vendée",
     "numCirconscription": "3",
     "region": "Pays de la Loire",
-    "placeHemicycle": 293
+    "placeHemicycle": 293,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA794798",
@@ -1119,7 +1220,8 @@
     "departement": "Bas-Rhin",
     "numCirconscription": "4",
     "region": "Grand Est",
-    "placeHemicycle": 365
+    "placeHemicycle": 365,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA793134",
@@ -1130,7 +1232,8 @@
     "departement": "Ain",
     "numCirconscription": "4",
     "region": "Auvergne-Rhône-Alpes",
-    "placeHemicycle": 132
+    "placeHemicycle": 132,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA796106",
@@ -1141,7 +1244,8 @@
     "departement": "Seine-Maritime",
     "numCirconscription": "3",
     "region": "Normandie",
-    "placeHemicycle": 585
+    "placeHemicycle": 585,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA841023",
@@ -1152,7 +1256,8 @@
     "departement": "Finistère",
     "numCirconscription": "2",
     "region": "Bretagne",
-    "placeHemicycle": 570
+    "placeHemicycle": 570,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA795762",
@@ -1163,7 +1268,8 @@
     "departement": "Guadeloupe",
     "numCirconscription": "4",
     "region": "Guadeloupe",
-    "placeHemicycle": 437
+    "placeHemicycle": 437,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA721750",
@@ -1174,7 +1280,8 @@
     "departement": "Hauts-de-Seine",
     "numCirconscription": "5",
     "region": "Ile-de-France",
-    "placeHemicycle": 374
+    "placeHemicycle": 374,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA608264",
@@ -1185,7 +1292,8 @@
     "departement": "Pyrénées-Atlantiques",
     "numCirconscription": "5",
     "region": "Nouvelle-Aquitaine",
-    "placeHemicycle": 475
+    "placeHemicycle": 475,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA841973",
@@ -1196,7 +1304,8 @@
     "departement": "Tarn-et-Garonne",
     "numCirconscription": "1",
     "region": "Occitanie",
-    "placeHemicycle": 98
+    "placeHemicycle": 98,
+    "debutMandat": "2025-10-12"
   },
   {
     "id": "PA796090",
@@ -1207,7 +1316,8 @@
     "departement": "Paris",
     "numCirconscription": "18",
     "region": "Ile-de-France",
-    "placeHemicycle": 528
+    "placeHemicycle": 528,
+    "debutMandat": "2024-06-30"
   },
   {
     "id": "PA793912",
@@ -1218,7 +1328,8 @@
     "departement": "Hérault",
     "numCirconscription": "8",
     "region": "Occitanie",
-    "placeHemicycle": 621
+    "placeHemicycle": 621,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA841801",
@@ -1229,7 +1340,8 @@
     "departement": "Haute-Savoie",
     "numCirconscription": "2",
     "region": "Auvergne-Rhône-Alpes",
-    "placeHemicycle": 298
+    "placeHemicycle": 298,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA719138",
@@ -1240,7 +1352,8 @@
     "departement": "Haute-Corse",
     "numCirconscription": "1",
     "region": "Corse",
-    "placeHemicycle": 467
+    "placeHemicycle": 467,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA840075",
@@ -1251,7 +1364,8 @@
     "departement": "Aisne",
     "numCirconscription": "3",
     "region": "Hauts-de-France",
-    "placeHemicycle": 67
+    "placeHemicycle": 67,
+    "debutMandat": "2024-06-30"
   },
   {
     "id": "PA795868",
@@ -1262,7 +1376,8 @@
     "departement": "Guyane",
     "numCirconscription": "1",
     "region": "Guyane",
-    "placeHemicycle": 591
+    "placeHemicycle": 591,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA842187",
@@ -1273,7 +1388,8 @@
     "departement": "Val-d'Oise",
     "numCirconscription": "6",
     "region": "Ile-de-France",
-    "placeHemicycle": 595
+    "placeHemicycle": 595,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA842311",
@@ -1284,7 +1400,8 @@
     "departement": "Français établis hors de France",
     "numCirconscription": "3",
     "region": "Français établis hors de France",
-    "placeHemicycle": 384
+    "placeHemicycle": 384,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA719922",
@@ -1295,7 +1412,8 @@
     "departement": "Landes",
     "numCirconscription": "2",
     "region": "Nouvelle-Aquitaine",
-    "placeHemicycle": 305
+    "placeHemicycle": 305,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA795864",
@@ -1306,7 +1424,8 @@
     "departement": "Hauts-de-Seine",
     "numCirconscription": "7",
     "region": "Ile-de-France",
-    "placeHemicycle": 284
+    "placeHemicycle": 284,
+    "debutMandat": "2024-06-30"
   },
   {
     "id": "PA719472",
@@ -1317,7 +1436,8 @@
     "departement": "Gers",
     "numCirconscription": "1",
     "region": "Occitanie",
-    "placeHemicycle": 282
+    "placeHemicycle": 282,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA841047",
@@ -1328,7 +1448,8 @@
     "departement": "Haute-Corse",
     "numCirconscription": "2",
     "region": "Corse",
-    "placeHemicycle": 203
+    "placeHemicycle": 203,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA842037",
@@ -1339,7 +1460,8 @@
     "departement": "Essonne",
     "numCirconscription": "8",
     "region": "Ile-de-France",
-    "placeHemicycle": 620
+    "placeHemicycle": 620,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA718820",
@@ -1350,7 +1472,8 @@
     "departement": "Aveyron",
     "numCirconscription": "1",
     "region": "Occitanie",
-    "placeHemicycle": 386
+    "placeHemicycle": 386,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA840701",
@@ -1361,7 +1484,8 @@
     "departement": "Alpes-Maritimes",
     "numCirconscription": "3",
     "region": "Provence-Alpes-Côte d'Azur",
-    "placeHemicycle": 87
+    "placeHemicycle": 87,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA794008",
@@ -1372,7 +1496,8 @@
     "departement": "Isère",
     "numCirconscription": "2",
     "region": "Auvergne-Rhône-Alpes",
-    "placeHemicycle": 515
+    "placeHemicycle": 515,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA840107",
@@ -1383,7 +1508,8 @@
     "departement": "Hérault",
     "numCirconscription": "7",
     "region": "Occitanie",
-    "placeHemicycle": 125
+    "placeHemicycle": 125,
+    "debutMandat": "2024-06-30"
   },
   {
     "id": "PA840721",
@@ -1394,7 +1520,8 @@
     "departement": "Ain",
     "numCirconscription": "5",
     "region": "Auvergne-Rhône-Alpes",
-    "placeHemicycle": 104
+    "placeHemicycle": 104,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA841595",
@@ -1405,7 +1532,8 @@
     "departement": "Orne",
     "numCirconscription": "3",
     "region": "Normandie",
-    "placeHemicycle": 200
+    "placeHemicycle": 200,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA795908",
@@ -1416,7 +1544,8 @@
     "departement": "Var",
     "numCirconscription": "1",
     "region": "Provence-Alpes-Côte d'Azur",
-    "placeHemicycle": 311
+    "placeHemicycle": 311,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA720468",
@@ -1427,7 +1556,8 @@
     "departement": "Nord",
     "numCirconscription": "19",
     "region": "Hauts-de-France",
-    "placeHemicycle": 27
+    "placeHemicycle": 27,
+    "debutMandat": "2024-06-30"
   },
   {
     "id": "PA791812",
@@ -1438,7 +1568,8 @@
     "departement": "Paris",
     "numCirconscription": "6",
     "region": "Ile-de-France",
-    "placeHemicycle": 527
+    "placeHemicycle": 527,
+    "debutMandat": "2024-06-30"
   },
   {
     "id": "PA840903",
@@ -1449,7 +1580,8 @@
     "departement": "Drôme",
     "numCirconscription": "1",
     "region": "Auvergne-Rhône-Alpes",
-    "placeHemicycle": 553
+    "placeHemicycle": 553,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA794198",
@@ -1460,7 +1592,8 @@
     "departement": "Loir-et-Cher",
     "numCirconscription": "2",
     "region": "Centre-Val de Loire",
-    "placeHemicycle": 7
+    "placeHemicycle": 7,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA330240",
@@ -1471,7 +1604,8 @@
     "departement": "Alpes-Maritimes",
     "numCirconscription": "1",
     "region": "Provence-Alpes-Côte d'Azur",
-    "placeHemicycle": 99
+    "placeHemicycle": 99,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA840159",
@@ -1482,7 +1616,8 @@
     "departement": "Pas-de-Calais",
     "numCirconscription": "3",
     "region": "Hauts-de-France",
-    "placeHemicycle": 44
+    "placeHemicycle": 44,
+    "debutMandat": "2024-06-30"
   },
   {
     "id": "PA793736",
@@ -1493,7 +1628,8 @@
     "departement": "Haute-Garonne",
     "numCirconscription": "1",
     "region": "Occitanie",
-    "placeHemicycle": 636
+    "placeHemicycle": 636,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA795402",
@@ -1504,7 +1640,8 @@
     "departement": "Français établis hors de France",
     "numCirconscription": "5",
     "region": "Français établis hors de France",
-    "placeHemicycle": 326
+    "placeHemicycle": 326,
+    "debutMandat": "2025-10-12"
   },
   {
     "id": "PA841431",
@@ -1515,7 +1652,8 @@
     "departement": "Moselle",
     "numCirconscription": "3",
     "region": "Grand Est",
-    "placeHemicycle": 243
+    "placeHemicycle": 243,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA719286",
@@ -1526,7 +1664,8 @@
     "departement": "Corse-du-Sud",
     "numCirconscription": "2",
     "region": "Corse",
-    "placeHemicycle": 468
+    "placeHemicycle": 468,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA793548",
@@ -1537,7 +1676,8 @@
     "departement": "Charente",
     "numCirconscription": "3",
     "region": "Nouvelle-Aquitaine",
-    "placeHemicycle": 78
+    "placeHemicycle": 78,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA721202",
@@ -1548,7 +1688,8 @@
     "departement": "Seine-Saint-Denis",
     "numCirconscription": "1",
     "region": "Ile-de-France",
-    "placeHemicycle": 549
+    "placeHemicycle": 549,
+    "debutMandat": "2024-06-30"
   },
   {
     "id": "PA721210",
@@ -1559,7 +1700,8 @@
     "departement": "Seine-Saint-Denis",
     "numCirconscription": "7",
     "region": "Ile-de-France",
-    "placeHemicycle": 497
+    "placeHemicycle": 497,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA718850",
@@ -1570,7 +1712,8 @@
     "departement": "Ardennes",
     "numCirconscription": "2",
     "region": "Grand Est",
-    "placeHemicycle": 166
+    "placeHemicycle": 166,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA719118",
@@ -1581,7 +1724,8 @@
     "departement": "Cher",
     "numCirconscription": "1",
     "region": "Centre-Val de Loire",
-    "placeHemicycle": 290
+    "placeHemicycle": 290,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA722390",
@@ -1592,7 +1736,8 @@
     "departement": "Saône-et-Loire",
     "numCirconscription": "2",
     "region": "Bourgogne-Franche-Comté",
-    "placeHemicycle": 181
+    "placeHemicycle": 181,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA793520",
@@ -1603,7 +1748,8 @@
     "departement": "Côtes-d'Armor",
     "numCirconscription": "1",
     "region": "Bretagne",
-    "placeHemicycle": 360
+    "placeHemicycle": 360,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA795136",
@@ -1614,7 +1760,8 @@
     "departement": "Savoie",
     "numCirconscription": "4",
     "region": "Auvergne-Rhône-Alpes",
-    "placeHemicycle": 637
+    "placeHemicycle": 637,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA841295",
@@ -1625,7 +1772,8 @@
     "departement": "Loire",
     "numCirconscription": "1",
     "region": "Auvergne-Rhône-Alpes",
-    "placeHemicycle": 554
+    "placeHemicycle": 554,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA794430",
@@ -1636,7 +1784,8 @@
     "departement": "Morbihan",
     "numCirconscription": "1",
     "region": "Bretagne",
-    "placeHemicycle": 245
+    "placeHemicycle": 245,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA793716",
@@ -1647,7 +1796,8 @@
     "departement": "Doubs",
     "numCirconscription": "1",
     "region": "Bourgogne-Franche-Comté",
-    "placeHemicycle": 329
+    "placeHemicycle": 329,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA793322",
@@ -1658,7 +1808,8 @@
     "departement": "Alpes-Maritimes",
     "numCirconscription": "5",
     "region": "Provence-Alpes-Côte d'Azur",
-    "placeHemicycle": 93
+    "placeHemicycle": 93,
+    "debutMandat": "2024-06-30"
   },
   {
     "id": "PA795644",
@@ -1669,7 +1820,8 @@
     "departement": "Essonne",
     "numCirconscription": "2",
     "region": "Ile-de-France",
-    "placeHemicycle": 140
+    "placeHemicycle": 140,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA332523",
@@ -1680,7 +1832,8 @@
     "departement": "Jura",
     "numCirconscription": "2",
     "region": "Bourgogne-Franche-Comté",
-    "placeHemicycle": 168
+    "placeHemicycle": 168,
+    "debutMandat": "2025-04-06"
   },
   {
     "id": "PA719914",
@@ -1691,7 +1844,8 @@
     "departement": "Landes",
     "numCirconscription": "1",
     "region": "Nouvelle-Aquitaine",
-    "placeHemicycle": 350
+    "placeHemicycle": 350,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA793122",
@@ -1702,7 +1856,8 @@
     "departement": "Ain",
     "numCirconscription": "2",
     "region": "Auvergne-Rhône-Alpes",
-    "placeHemicycle": 357
+    "placeHemicycle": 357,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA793452",
@@ -1713,7 +1868,8 @@
     "departement": "Bouches-du-Rhône",
     "numCirconscription": "5",
     "region": "Provence-Alpes-Côte d'Azur",
-    "placeHemicycle": 524
+    "placeHemicycle": 524,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA1008",
@@ -1724,7 +1880,8 @@
     "departement": "Gironde",
     "numCirconscription": "4",
     "region": "Nouvelle-Aquitaine",
-    "placeHemicycle": 410
+    "placeHemicycle": 410,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA840119",
@@ -1735,7 +1892,8 @@
     "departement": "Nord",
     "numCirconscription": "3",
     "region": "Hauts-de-France",
-    "placeHemicycle": 321
+    "placeHemicycle": 321,
+    "debutMandat": "2024-06-30"
   },
   {
     "id": "PA793394",
@@ -1746,7 +1904,8 @@
     "departement": "Calvados",
     "numCirconscription": "2",
     "region": "Normandie",
-    "placeHemicycle": 453
+    "placeHemicycle": 453,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA795430",
@@ -1757,7 +1916,8 @@
     "departement": "Haute-Vienne",
     "numCirconscription": "2",
     "region": "Nouvelle-Aquitaine",
-    "placeHemicycle": 432
+    "placeHemicycle": 432,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA841059",
@@ -1768,7 +1928,8 @@
     "departement": "Gard",
     "numCirconscription": "3",
     "region": "Occitanie",
-    "placeHemicycle": 80
+    "placeHemicycle": 80,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA793464",
@@ -1779,7 +1940,8 @@
     "departement": "Bouches-du-Rhône",
     "numCirconscription": "7",
     "region": "Provence-Alpes-Côte d'Azur",
-    "placeHemicycle": 606
+    "placeHemicycle": 606,
+    "debutMandat": "2024-06-30"
   },
   {
     "id": "PA794982",
@@ -1790,7 +1952,8 @@
     "departement": "Sarthe",
     "numCirconscription": "1",
     "region": "Pays de la Loire",
-    "placeHemicycle": 273
+    "placeHemicycle": 273,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA330909",
@@ -1801,7 +1964,8 @@
     "departement": "Cantal",
     "numCirconscription": "1",
     "region": "Auvergne-Rhône-Alpes",
-    "placeHemicycle": 170
+    "placeHemicycle": 170,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA793166",
@@ -1812,7 +1976,8 @@
     "departement": "Aisne",
     "numCirconscription": "5",
     "region": "Hauts-de-France",
-    "placeHemicycle": 11
+    "placeHemicycle": 11,
+    "debutMandat": "2024-06-30"
   },
   {
     "id": "PA793928",
@@ -1823,7 +1988,8 @@
     "departement": "Gironde",
     "numCirconscription": "11",
     "region": "Nouvelle-Aquitaine",
-    "placeHemicycle": 33
+    "placeHemicycle": 33,
+    "debutMandat": "2024-06-30"
   },
   {
     "id": "PA841919",
@@ -1834,7 +2000,8 @@
     "departement": "Yvelines",
     "numCirconscription": "9",
     "region": "Ile-de-France",
-    "placeHemicycle": 420
+    "placeHemicycle": 420,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA842155",
@@ -1845,7 +2012,8 @@
     "departement": "Seine-Saint-Denis",
     "numCirconscription": "5",
     "region": "Ile-de-France",
-    "placeHemicycle": 616
+    "placeHemicycle": 616,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA722382",
@@ -1856,7 +2024,8 @@
     "departement": "Saône-et-Loire",
     "numCirconscription": "1",
     "region": "Bourgogne-Franche-Comté",
-    "placeHemicycle": 285
+    "placeHemicycle": 285,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA712015",
@@ -1867,7 +2036,8 @@
     "departement": "Aisne",
     "numCirconscription": "2",
     "region": "Hauts-de-France",
-    "placeHemicycle": 193
+    "placeHemicycle": 193,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA794762",
@@ -1878,7 +2048,8 @@
     "departement": "Pyrénées-Orientales",
     "numCirconscription": "3",
     "region": "Occitanie",
-    "placeHemicycle": 59
+    "placeHemicycle": 59,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA606573",
@@ -1889,7 +2060,8 @@
     "departement": "Hérault",
     "numCirconscription": "3",
     "region": "Occitanie",
-    "placeHemicycle": 447
+    "placeHemicycle": 447,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA793146",
@@ -1900,7 +2072,8 @@
     "departement": "Aisne",
     "numCirconscription": "1",
     "region": "Hauts-de-France",
-    "placeHemicycle": 120
+    "placeHemicycle": 120,
+    "debutMandat": "2024-06-30"
   },
   {
     "id": "PA720154",
@@ -1911,7 +2084,8 @@
     "departement": "Maine-et-Loire",
     "numCirconscription": "6",
     "region": "Pays de la Loire",
-    "placeHemicycle": 314
+    "placeHemicycle": 314,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA608826",
@@ -1922,7 +2096,8 @@
     "departement": "Haute-Savoie",
     "numCirconscription": "4",
     "region": "Auvergne-Rhône-Alpes",
-    "placeHemicycle": 185
+    "placeHemicycle": 185,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA841633",
@@ -1933,7 +2108,8 @@
     "departement": "Pyrénées-Atlantiques",
     "numCirconscription": "6",
     "region": "Nouvelle-Aquitaine",
-    "placeHemicycle": 551
+    "placeHemicycle": 551,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA840135",
@@ -1944,7 +2120,8 @@
     "departement": "Nord",
     "numCirconscription": "18",
     "region": "Hauts-de-France",
-    "placeHemicycle": 38
+    "placeHemicycle": 38,
+    "debutMandat": "2024-06-30"
   },
   {
     "id": "PA795200",
@@ -1955,7 +2132,8 @@
     "departement": "Seine-Maritime",
     "numCirconscription": "4",
     "region": "Normandie",
-    "placeHemicycle": 536
+    "placeHemicycle": 536,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA870009",
@@ -1966,7 +2144,8 @@
     "departement": "Saône-et-Loire",
     "numCirconscription": "5",
     "region": "Bourgogne-Franche-Comté",
-    "placeHemicycle": 209
+    "placeHemicycle": 209,
+    "debutMandat": "2025-05-25"
   },
   {
     "id": "PA841351",
@@ -1977,7 +2156,8 @@
     "departement": "Loiret",
     "numCirconscription": "2",
     "region": "Centre-Val de Loire",
-    "placeHemicycle": 543
+    "placeHemicycle": 543,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA643175",
@@ -1988,7 +2168,8 @@
     "departement": "Maine-et-Loire",
     "numCirconscription": "2",
     "region": "Pays de la Loire",
-    "placeHemicycle": 403
+    "placeHemicycle": 403,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA842073",
@@ -1999,7 +2180,8 @@
     "departement": "Vosges",
     "numCirconscription": "2",
     "region": "Grand Est",
-    "placeHemicycle": 26
+    "placeHemicycle": 26,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA841761",
@@ -2010,7 +2192,8 @@
     "departement": "Saône-et-Loire",
     "numCirconscription": "3",
     "region": "Bourgogne-Franche-Comté",
-    "placeHemicycle": 128
+    "placeHemicycle": 128,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA794854",
@@ -2021,7 +2204,8 @@
     "departement": "Pyrénées-Atlantiques",
     "numCirconscription": "4",
     "region": "Nouvelle-Aquitaine",
-    "placeHemicycle": 550
+    "placeHemicycle": 550,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA720390",
@@ -2032,7 +2216,8 @@
     "departement": "Moselle",
     "numCirconscription": "4",
     "region": "Grand Est",
-    "placeHemicycle": 167
+    "placeHemicycle": 167,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA794718",
@@ -2043,7 +2228,8 @@
     "departement": "Pas-de-Calais",
     "numCirconscription": "6",
     "region": "Hauts-de-France",
-    "placeHemicycle": 158
+    "placeHemicycle": 158,
+    "debutMandat": "2024-06-30"
   },
   {
     "id": "PA795844",
@@ -2054,7 +2240,8 @@
     "departement": "Tarn",
     "numCirconscription": "2",
     "region": "Occitanie",
-    "placeHemicycle": 546
+    "placeHemicycle": 546,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA607193",
@@ -2065,7 +2252,8 @@
     "departement": "Loire-Atlantique",
     "numCirconscription": "10",
     "region": "Pays de la Loire",
-    "placeHemicycle": 401
+    "placeHemicycle": 401,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA842195",
@@ -2076,7 +2264,8 @@
     "departement": "Val-d'Oise",
     "numCirconscription": "7",
     "region": "Ile-de-France",
-    "placeHemicycle": 458
+    "placeHemicycle": 458,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA841621",
@@ -2087,7 +2276,8 @@
     "departement": "Pas-de-Calais",
     "numCirconscription": "8",
     "region": "Hauts-de-France",
-    "placeHemicycle": 143
+    "placeHemicycle": 143,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA794658",
@@ -2098,7 +2288,8 @@
     "departement": "Pas-de-Calais",
     "numCirconscription": "4",
     "region": "Hauts-de-France",
-    "placeHemicycle": 319
+    "placeHemicycle": 319,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA793246",
@@ -2109,7 +2300,8 @@
     "departement": "Aude",
     "numCirconscription": "2",
     "region": "Occitanie",
-    "placeHemicycle": 43
+    "placeHemicycle": 43,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA721896",
@@ -2120,7 +2312,8 @@
     "departement": "Hauts-de-Seine",
     "numCirconscription": "1",
     "region": "Ile-de-France",
-    "placeHemicycle": 593
+    "placeHemicycle": 593,
+    "debutMandat": "2024-06-30"
   },
   {
     "id": "PA609332",
@@ -2131,7 +2324,8 @@
     "departement": "Seine-et-Marne",
     "numCirconscription": "11",
     "region": "Ile-de-France",
-    "placeHemicycle": 421
+    "placeHemicycle": 421,
+    "debutMandat": "2024-06-30"
   },
   {
     "id": "PA267042",
@@ -2142,7 +2336,8 @@
     "departement": "Mayenne",
     "numCirconscription": "3",
     "region": "Pays de la Loire",
-    "placeHemicycle": 454
+    "placeHemicycle": 454,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA840773",
@@ -2153,7 +2348,8 @@
     "departement": "Bouches-du-Rhône",
     "numCirconscription": "6",
     "region": "Provence-Alpes-Côte d'Azur",
-    "placeHemicycle": 103
+    "placeHemicycle": 103,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA841251",
@@ -2164,7 +2360,8 @@
     "departement": "Gironde",
     "numCirconscription": "12",
     "region": "Nouvelle-Aquitaine",
-    "placeHemicycle": 629
+    "placeHemicycle": 629,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA794786",
@@ -2175,7 +2372,8 @@
     "departement": "Bas-Rhin",
     "numCirconscription": "2",
     "region": "Grand Est",
-    "placeHemicycle": 547
+    "placeHemicycle": 547,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA795884",
@@ -2186,7 +2384,8 @@
     "departement": "Français établis hors de France",
     "numCirconscription": "6",
     "region": "Français établis hors de France",
-    "placeHemicycle": 270
+    "placeHemicycle": 270,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA794870",
@@ -2197,7 +2396,8 @@
     "departement": "Hautes-Pyrénées",
     "numCirconscription": "1",
     "region": "Occitanie",
-    "placeHemicycle": 624
+    "placeHemicycle": 624,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA719938",
@@ -2208,7 +2408,8 @@
     "departement": "Loir-et-Cher",
     "numCirconscription": "1",
     "region": "Centre-Val de Loire",
-    "placeHemicycle": 342
+    "placeHemicycle": 342,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA267780",
@@ -2219,7 +2420,8 @@
     "departement": "Seine-Maritime",
     "numCirconscription": "7",
     "region": "Normandie",
-    "placeHemicycle": 234
+    "placeHemicycle": 234,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA722134",
@@ -2230,7 +2432,8 @@
     "departement": "Deux-Sèvres",
     "numCirconscription": "3",
     "region": "Nouvelle-Aquitaine",
-    "placeHemicycle": 309
+    "placeHemicycle": 309,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA840143",
@@ -2241,7 +2444,8 @@
     "departement": "Nord",
     "numCirconscription": "20",
     "region": "Hauts-de-France",
-    "placeHemicycle": 130
+    "placeHemicycle": 130,
+    "debutMandat": "2024-06-30"
   },
   {
     "id": "PA840801",
@@ -2252,7 +2456,8 @@
     "departement": "Bouches-du-Rhône",
     "numCirconscription": "13",
     "region": "Provence-Alpes-Côte d'Azur",
-    "placeHemicycle": 14
+    "placeHemicycle": 14,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA793980",
@@ -2263,7 +2468,8 @@
     "departement": "Indre-et-Loire",
     "numCirconscription": "1",
     "region": "Centre-Val de Loire",
-    "placeHemicycle": 530
+    "placeHemicycle": 530,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA794678",
@@ -2274,7 +2480,8 @@
     "departement": "Pas-de-Calais",
     "numCirconscription": "10",
     "region": "Hauts-de-France",
-    "placeHemicycle": 48
+    "placeHemicycle": 48,
+    "debutMandat": "2024-06-30"
   },
   {
     "id": "PA822617",
@@ -2285,7 +2492,8 @@
     "departement": "Ariège",
     "numCirconscription": "1",
     "region": "Occitanie",
-    "placeHemicycle": 485
+    "placeHemicycle": 485,
+    "debutMandat": "2024-06-30"
   },
   {
     "id": "PA841151",
@@ -2296,7 +2504,8 @@
     "departement": "Indre",
     "numCirconscription": "2",
     "region": "Centre-Val de Loire",
-    "placeHemicycle": 206
+    "placeHemicycle": 206,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA840235",
@@ -2307,7 +2516,8 @@
     "departement": "Polynésie Française",
     "numCirconscription": "1",
     "region": "Polynésie française",
-    "placeHemicycle": 399
+    "placeHemicycle": 399,
+    "debutMandat": "2024-06-30"
   },
   {
     "id": "PA722284",
@@ -2318,7 +2528,8 @@
     "departement": "Haut-Rhin",
     "numCirconscription": "6",
     "region": "Grand Est",
-    "placeHemicycle": 362
+    "placeHemicycle": 362,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA722366",
@@ -2329,7 +2540,8 @@
     "departement": "Rhône",
     "numCirconscription": "11",
     "region": "Auvergne-Rhône-Alpes",
-    "placeHemicycle": 272
+    "placeHemicycle": 272,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA841665",
@@ -2340,7 +2552,8 @@
     "departement": "Hautes-Pyrénées",
     "numCirconscription": "2",
     "region": "Occitanie",
-    "placeHemicycle": 487
+    "placeHemicycle": 487,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA841139",
@@ -2351,7 +2564,8 @@
     "departement": "Hérault",
     "numCirconscription": "6",
     "region": "Occitanie",
-    "placeHemicycle": 49
+    "placeHemicycle": 49,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA796070",
@@ -2362,7 +2576,8 @@
     "departement": "Réunion",
     "numCirconscription": "7",
     "region": "Réunion",
-    "placeHemicycle": 638
+    "placeHemicycle": 638,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA793892",
@@ -2373,7 +2588,8 @@
     "departement": "Hérault",
     "numCirconscription": "5",
     "region": "Occitanie",
-    "placeHemicycle": 64
+    "placeHemicycle": 64,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA795010",
@@ -2384,7 +2600,8 @@
     "departement": "Rhône",
     "numCirconscription": "3",
     "region": "Auvergne-Rhône-Alpes",
-    "placeHemicycle": 507
+    "placeHemicycle": 507,
+    "debutMandat": "2024-06-30"
   },
   {
     "id": "PA333285",
@@ -2395,7 +2612,8 @@
     "departement": "Mayenne",
     "numCirconscription": "1",
     "region": "Pays de la Loire",
-    "placeHemicycle": 434
+    "placeHemicycle": 434,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA722358",
@@ -2406,7 +2624,8 @@
     "departement": "Rhône",
     "numCirconscription": "10",
     "region": "Auvergne-Rhône-Alpes",
-    "placeHemicycle": 306
+    "placeHemicycle": 306,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA721024",
@@ -2417,7 +2636,8 @@
     "departement": "Français établis hors de France",
     "numCirconscription": "11",
     "region": "Français établis hors de France",
-    "placeHemicycle": 255
+    "placeHemicycle": 255,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA794234",
@@ -2428,7 +2648,8 @@
     "departement": "Maine-et-Loire",
     "numCirconscription": "1",
     "region": "Pays de la Loire",
-    "placeHemicycle": 231
+    "placeHemicycle": 231,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA793556",
@@ -2439,7 +2660,8 @@
     "departement": "Charente-Maritime",
     "numCirconscription": "1",
     "region": "Nouvelle-Aquitaine",
-    "placeHemicycle": 336
+    "placeHemicycle": 336,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA841737",
@@ -2450,7 +2672,8 @@
     "departement": "Rhône",
     "numCirconscription": "8",
     "region": "Auvergne-Rhône-Alpes",
-    "placeHemicycle": 16
+    "placeHemicycle": 16,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA796034",
@@ -2461,7 +2684,8 @@
     "departement": "Var",
     "numCirconscription": "6",
     "region": "Provence-Alpes-Côte d'Azur",
-    "placeHemicycle": 148
+    "placeHemicycle": 148,
+    "debutMandat": "2024-06-30"
   },
   {
     "id": "PA793832",
@@ -2472,7 +2696,8 @@
     "departement": "Gard",
     "numCirconscription": "1",
     "region": "Occitanie",
-    "placeHemicycle": 126
+    "placeHemicycle": 126,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA841419",
@@ -2483,7 +2708,8 @@
     "departement": "Morbihan",
     "numCirconscription": "5",
     "region": "Bretagne",
-    "placeHemicycle": 496
+    "placeHemicycle": 496,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA793102",
@@ -2494,7 +2720,8 @@
     "departement": "Alpes-de-Haute-Provence",
     "numCirconscription": "1",
     "region": "Provence-Alpes-Côte d'Azur",
-    "placeHemicycle": 153
+    "placeHemicycle": 153,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA718674",
@@ -2505,7 +2732,8 @@
     "departement": "Ain",
     "numCirconscription": "3",
     "region": "Auvergne-Rhône-Alpes",
-    "placeHemicycle": 301
+    "placeHemicycle": 301,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA840939",
@@ -2516,7 +2744,8 @@
     "departement": "Côte-d'Or",
     "numCirconscription": "1",
     "region": "Bourgogne-Franche-Comté",
-    "placeHemicycle": 450
+    "placeHemicycle": 450,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA841605",
@@ -2527,7 +2756,8 @@
     "departement": "Pas-de-Calais",
     "numCirconscription": "5",
     "region": "Hauts-de-France",
-    "placeHemicycle": 77
+    "placeHemicycle": 77,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA793362",
@@ -2538,7 +2768,8 @@
     "departement": "Bouches-du-Rhône",
     "numCirconscription": "10",
     "region": "Provence-Alpes-Côte d'Azur",
-    "placeHemicycle": 3
+    "placeHemicycle": 3,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA266797",
@@ -2549,7 +2780,8 @@
     "departement": "Manche",
     "numCirconscription": "1",
     "region": "Normandie",
-    "placeHemicycle": 169
+    "placeHemicycle": 169,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA331973",
@@ -2560,7 +2792,8 @@
     "departement": "Gironde",
     "numCirconscription": "5",
     "region": "Nouvelle-Aquitaine",
-    "placeHemicycle": 441
+    "placeHemicycle": 441,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA721296",
@@ -2571,7 +2804,8 @@
     "departement": "Val-de-Marne",
     "numCirconscription": "6",
     "region": "Ile-de-France",
-    "placeHemicycle": 313
+    "placeHemicycle": 313,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA720560",
@@ -2582,7 +2816,8 @@
     "departement": "Nièvre",
     "numCirconscription": "1",
     "region": "Bourgogne-Franche-Comté",
-    "placeHemicycle": 338
+    "placeHemicycle": 338,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA794418",
@@ -2593,7 +2828,8 @@
     "departement": "Meuse",
     "numCirconscription": "2",
     "region": "Grand Est",
-    "placeHemicycle": 24
+    "placeHemicycle": 24,
+    "debutMandat": "2024-06-30"
   },
   {
     "id": "PA793592",
@@ -2604,7 +2840,8 @@
     "departement": "Doubs",
     "numCirconscription": "4",
     "region": "Bourgogne-Franche-Comté",
-    "placeHemicycle": 72
+    "placeHemicycle": 72,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA267318",
@@ -2615,7 +2852,8 @@
     "departement": "Sarthe",
     "numCirconscription": "5",
     "region": "Pays de la Loire",
-    "placeHemicycle": 347
+    "placeHemicycle": 347,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA795540",
@@ -2626,7 +2864,8 @@
     "departement": "Yonne",
     "numCirconscription": "1",
     "region": "Bourgogne-Franche-Comté",
-    "placeHemicycle": 157
+    "placeHemicycle": 157,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA840757",
@@ -2637,7 +2876,8 @@
     "departement": "Bouches-du-Rhône",
     "numCirconscription": "1",
     "region": "Provence-Alpes-Côte d'Azur",
-    "placeHemicycle": 135
+    "placeHemicycle": 135,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA794058",
@@ -2648,7 +2888,8 @@
     "departement": "Jura",
     "numCirconscription": "3",
     "region": "Bourgogne-Franche-Comté",
-    "placeHemicycle": 177
+    "placeHemicycle": 177,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA721764",
@@ -2659,7 +2900,8 @@
     "departement": "Paris",
     "numCirconscription": "12",
     "region": "Ile-de-France",
-    "placeHemicycle": 271
+    "placeHemicycle": 271,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA1567",
@@ -2670,7 +2912,8 @@
     "departement": "Essonne",
     "numCirconscription": "6",
     "region": "Ile-de-France",
-    "placeHemicycle": 417
+    "placeHemicycle": 417,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA795310",
@@ -2681,7 +2924,8 @@
     "departement": "Val-de-Marne",
     "numCirconscription": "2",
     "region": "Ile-de-France",
-    "placeHemicycle": 634
+    "placeHemicycle": 634,
+    "debutMandat": "2024-06-30"
   },
   {
     "id": "PA841451",
@@ -2692,7 +2936,8 @@
     "departement": "Nièvre",
     "numCirconscription": "2",
     "region": "Bourgogne-Franche-Comté",
-    "placeHemicycle": 5
+    "placeHemicycle": 5,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA721612",
@@ -2703,7 +2948,8 @@
     "departement": "Hauts-de-Seine",
     "numCirconscription": "12",
     "region": "Ile-de-France",
-    "placeHemicycle": 370
+    "placeHemicycle": 370,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA794734",
@@ -2714,7 +2960,8 @@
     "departement": "Oise",
     "numCirconscription": "6",
     "region": "Hauts-de-France",
-    "placeHemicycle": 8
+    "placeHemicycle": 8,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA793218",
@@ -2725,7 +2972,8 @@
     "departement": "Aube",
     "numCirconscription": "1",
     "region": "Grand Est",
-    "placeHemicycle": 127
+    "placeHemicycle": 127,
+    "debutMandat": "2024-06-30"
   },
   {
     "id": "PA795258",
@@ -2736,7 +2984,8 @@
     "departement": "Saint-Barthélemy et Saint-Martin",
     "numCirconscription": "1",
     "region": "Saint-Barthélemy et Saint-Martin",
-    "placeHemicycle": 348
+    "placeHemicycle": 348,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA842013",
@@ -2747,7 +2996,8 @@
     "departement": "Essonne",
     "numCirconscription": "3",
     "region": "Ile-de-France",
-    "placeHemicycle": 541
+    "placeHemicycle": 541,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA794470",
@@ -2758,7 +3008,8 @@
     "departement": "Nord",
     "numCirconscription": "7",
     "region": "Hauts-de-France",
-    "placeHemicycle": 226
+    "placeHemicycle": 226,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA1592",
@@ -2769,7 +3020,8 @@
     "departement": "Pyrénées-Atlantiques",
     "numCirconscription": "3",
     "region": "Nouvelle-Aquitaine",
-    "placeHemicycle": 455
+    "placeHemicycle": 455,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA841471",
@@ -2780,7 +3032,8 @@
     "departement": "Meurthe-et-Moselle",
     "numCirconscription": "2",
     "region": "Grand Est",
-    "placeHemicycle": 569
+    "placeHemicycle": 569,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA842263",
@@ -2791,7 +3044,8 @@
     "departement": "Val-d'Oise",
     "numCirconscription": "2",
     "region": "Ile-de-France",
-    "placeHemicycle": 423
+    "placeHemicycle": 423,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA841947",
@@ -2802,7 +3056,8 @@
     "departement": "Somme",
     "numCirconscription": "2",
     "region": "Hauts-de-France",
-    "placeHemicycle": 559
+    "placeHemicycle": 559,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA795900",
@@ -2813,7 +3068,8 @@
     "departement": "Tarn-et-Garonne",
     "numCirconscription": "2",
     "region": "Occitanie",
-    "placeHemicycle": 6
+    "placeHemicycle": 6,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA722070",
@@ -2824,7 +3080,8 @@
     "departement": "Vendée",
     "numCirconscription": "5",
     "region": "Pays de la Loire",
-    "placeHemicycle": 215
+    "placeHemicycle": 215,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA1630",
@@ -2835,7 +3092,8 @@
     "departement": "Val-de-Marne",
     "numCirconscription": "8",
     "region": "Ile-de-France",
-    "placeHemicycle": 175
+    "placeHemicycle": 175,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA841813",
@@ -2846,7 +3104,8 @@
     "departement": "Seine-Maritime",
     "numCirconscription": "1",
     "region": "Normandie",
-    "placeHemicycle": 461
+    "placeHemicycle": 461,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA840947",
@@ -2857,7 +3116,8 @@
     "departement": "Côte-d'Or",
     "numCirconscription": "2",
     "region": "Bourgogne-Franche-Comté",
-    "placeHemicycle": 531
+    "placeHemicycle": 531,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA841853",
@@ -2868,7 +3128,8 @@
     "departement": "Paris",
     "numCirconscription": "11",
     "region": "Ile-de-France",
-    "placeHemicycle": 430
+    "placeHemicycle": 430,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA608416",
@@ -2879,7 +3140,8 @@
     "departement": "Bas-Rhin",
     "numCirconscription": "7",
     "region": "Grand Est",
-    "placeHemicycle": 164
+    "placeHemicycle": 164,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA794082",
@@ -2890,7 +3152,8 @@
     "departement": "Ille-et-Vilaine",
     "numCirconscription": "4",
     "region": "Bretagne",
-    "placeHemicycle": 611
+    "placeHemicycle": 611,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA1654",
@@ -2901,7 +3164,8 @@
     "departement": "Corrèze",
     "numCirconscription": "1",
     "region": "Nouvelle-Aquitaine",
-    "placeHemicycle": 424
+    "placeHemicycle": 424,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA722150",
@@ -2912,7 +3176,8 @@
     "departement": "Vienne",
     "numCirconscription": "2",
     "region": "Nouvelle-Aquitaine",
-    "placeHemicycle": 486
+    "placeHemicycle": 486,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA793632",
@@ -2923,7 +3188,8 @@
     "departement": "Eure",
     "numCirconscription": "5",
     "region": "Normandie",
-    "placeHemicycle": 82
+    "placeHemicycle": 82,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA842085",
@@ -2934,7 +3200,8 @@
     "departement": "Vosges",
     "numCirconscription": "4",
     "region": "Grand Est",
-    "placeHemicycle": 81
+    "placeHemicycle": 81,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA841017",
@@ -2945,7 +3212,8 @@
     "departement": "Eure-et-Loir",
     "numCirconscription": "3",
     "region": "Centre-Val de Loire",
-    "placeHemicycle": 480
+    "placeHemicycle": 480,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA267200",
@@ -2956,7 +3224,8 @@
     "departement": "Nord",
     "numCirconscription": "5",
     "region": "Hauts-de-France",
-    "placeHemicycle": 277
+    "placeHemicycle": 277,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA795954",
@@ -2967,7 +3236,8 @@
     "departement": "Paris",
     "numCirconscription": "13",
     "region": "Ile-de-France",
-    "placeHemicycle": 322
+    "placeHemicycle": 322,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA794022",
@@ -2978,7 +3248,8 @@
     "departement": "Isère",
     "numCirconscription": "5",
     "region": "Auvergne-Rhône-Alpes",
-    "placeHemicycle": 509
+    "placeHemicycle": 509,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA722374",
@@ -2989,7 +3260,8 @@
     "departement": "Rhône",
     "numCirconscription": "12",
     "region": "Auvergne-Rhône-Alpes",
-    "placeHemicycle": 353
+    "placeHemicycle": 353,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA794598",
@@ -3000,7 +3272,8 @@
     "departement": "Moselle",
     "numCirconscription": "8",
     "region": "Grand Est",
-    "placeHemicycle": 54
+    "placeHemicycle": 54,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA720354",
@@ -3011,7 +3284,8 @@
     "departement": "Morbihan",
     "numCirconscription": "6",
     "region": "Bretagne",
-    "placeHemicycle": 263
+    "placeHemicycle": 263,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA841439",
@@ -3022,7 +3296,8 @@
     "departement": "Moselle",
     "numCirconscription": "5",
     "region": "Grand Est",
-    "placeHemicycle": 149
+    "placeHemicycle": 149,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA719778",
@@ -3033,7 +3308,8 @@
     "departement": "Indre",
     "numCirconscription": "1",
     "region": "Centre-Val de Loire",
-    "placeHemicycle": 233
+    "placeHemicycle": 233,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA794030",
@@ -3044,7 +3320,8 @@
     "departement": "Isère",
     "numCirconscription": "6",
     "region": "Auvergne-Rhône-Alpes",
-    "placeHemicycle": 39
+    "placeHemicycle": 39,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA841749",
@@ -3055,7 +3332,8 @@
     "departement": "Rhône",
     "numCirconscription": "13",
     "region": "Auvergne-Rhône-Alpes",
-    "placeHemicycle": 83
+    "placeHemicycle": 83,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA840745",
@@ -3066,7 +3344,8 @@
     "departement": "Aude",
     "numCirconscription": "1",
     "region": "Occitanie",
-    "placeHemicycle": 57
+    "placeHemicycle": 57,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA841075",
@@ -3077,7 +3356,8 @@
     "departement": "Gard",
     "numCirconscription": "6",
     "region": "Occitanie",
-    "placeHemicycle": 18
+    "placeHemicycle": 18,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA720038",
@@ -3088,7 +3368,8 @@
     "departement": "Loire-Atlantique",
     "numCirconscription": "7",
     "region": "Pays de la Loire",
-    "placeHemicycle": 346
+    "placeHemicycle": 346,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA840869",
@@ -3099,7 +3380,8 @@
     "departement": "Dordogne",
     "numCirconscription": "3",
     "region": "Nouvelle-Aquitaine",
-    "placeHemicycle": 47
+    "placeHemicycle": 47,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA643192",
@@ -3110,7 +3392,8 @@
     "departement": "Orne",
     "numCirconscription": "1",
     "region": "Normandie",
-    "placeHemicycle": 409
+    "placeHemicycle": 409,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA346782",
@@ -3121,7 +3404,8 @@
     "departement": "Hauts-de-Seine",
     "numCirconscription": "3",
     "region": "Ile-de-France",
-    "placeHemicycle": 172
+    "placeHemicycle": 172,
+    "debutMandat": "2024-06-30"
   },
   {
     "id": "PA795998",
@@ -3132,7 +3416,8 @@
     "departement": "Réunion",
     "numCirconscription": "4",
     "region": "Réunion",
-    "placeHemicycle": 578
+    "placeHemicycle": 578,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA335054",
@@ -3143,7 +3428,8 @@
     "departement": "Sarthe",
     "numCirconscription": "2",
     "region": "Pays de la Loire",
-    "placeHemicycle": 411
+    "placeHemicycle": 411,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA719372",
@@ -3154,7 +3440,8 @@
     "departement": "Eure-et-Loir",
     "numCirconscription": "1",
     "region": "Centre-Val de Loire",
-    "placeHemicycle": 266
+    "placeHemicycle": 266,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA795156",
@@ -3165,7 +3452,8 @@
     "departement": "Seine-Saint-Denis",
     "numCirconscription": "8",
     "region": "Ile-de-France",
-    "placeHemicycle": 416
+    "placeHemicycle": 416,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA794130",
@@ -3176,7 +3464,8 @@
     "departement": "Loire-Atlantique",
     "numCirconscription": "2",
     "region": "Pays de la Loire",
-    "placeHemicycle": 537
+    "placeHemicycle": 537,
+    "debutMandat": "2024-06-30"
   },
   {
     "id": "PA719052",
@@ -3187,7 +3476,8 @@
     "departement": "Cher",
     "numCirconscription": "3",
     "region": "Centre-Val de Loire",
-    "placeHemicycle": 227
+    "placeHemicycle": 227,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA643184",
@@ -3198,7 +3488,8 @@
     "departement": "Haut-Rhin",
     "numCirconscription": "1",
     "region": "Grand Est",
-    "placeHemicycle": 366
+    "placeHemicycle": 366,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA719798",
@@ -3209,7 +3500,8 @@
     "departement": "Indre-et-Loire",
     "numCirconscription": "2",
     "region": "Centre-Val de Loire",
-    "placeHemicycle": 262
+    "placeHemicycle": 262,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA720846",
@@ -3220,7 +3512,8 @@
     "departement": "Seine-Saint-Denis",
     "numCirconscription": "6",
     "region": "Ile-de-France",
-    "placeHemicycle": 614
+    "placeHemicycle": 614,
+    "debutMandat": "2024-06-30"
   },
   {
     "id": "PA794146",
@@ -3231,7 +3524,8 @@
     "departement": "Loire-Atlantique",
     "numCirconscription": "4",
     "region": "Pays de la Loire",
-    "placeHemicycle": 511
+    "placeHemicycle": 511,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA841223",
@@ -3242,7 +3536,8 @@
     "departement": "Ille-et-Vilaine",
     "numCirconscription": "2",
     "region": "Bretagne",
-    "placeHemicycle": 525
+    "placeHemicycle": 525,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA841729",
@@ -3253,7 +3548,8 @@
     "departement": "Rhône",
     "numCirconscription": "7",
     "region": "Auvergne-Rhône-Alpes",
-    "placeHemicycle": 519
+    "placeHemicycle": 519,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA795516",
@@ -3264,7 +3560,8 @@
     "departement": "Seine-et-Marne",
     "numCirconscription": "10",
     "region": "Ile-de-France",
-    "placeHemicycle": 596
+    "placeHemicycle": 596,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA721004",
@@ -3275,7 +3572,8 @@
     "departement": "Français établis hors de France",
     "numCirconscription": "10",
     "region": "Français établis hors de France",
-    "placeHemicycle": 380
+    "placeHemicycle": 380,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA795390",
@@ -3286,7 +3584,8 @@
     "departement": "Val-de-Marne",
     "numCirconscription": "5",
     "region": "Ile-de-France",
-    "placeHemicycle": 389
+    "placeHemicycle": 389,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA842125",
@@ -3297,7 +3596,8 @@
     "departement": "Hauts-de-Seine",
     "numCirconscription": "2",
     "region": "Ile-de-France",
-    "placeHemicycle": 230
+    "placeHemicycle": 230,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA794354",
@@ -3308,7 +3608,8 @@
     "departement": "Lot-et-Garonne",
     "numCirconscription": "2",
     "region": "Nouvelle-Aquitaine",
-    "placeHemicycle": 28
+    "placeHemicycle": 28,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA795334",
@@ -3319,7 +3620,8 @@
     "departement": "Français établis hors de France",
     "numCirconscription": "2",
     "region": "Français établis hors de France",
-    "placeHemicycle": 368
+    "placeHemicycle": 368,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA721984",
@@ -3330,7 +3632,8 @@
     "departement": "Vendée",
     "numCirconscription": "1",
     "region": "Pays de la Loire",
-    "placeHemicycle": 359
+    "placeHemicycle": 359,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA857021",
@@ -3341,7 +3644,8 @@
     "departement": "Isère",
     "numCirconscription": "1",
     "region": "Auvergne-Rhône-Alpes",
-    "placeHemicycle": 490
+    "placeHemicycle": 490,
+    "debutMandat": "2025-01-19"
   },
   {
     "id": "PA720022",
@@ -3352,7 +3656,8 @@
     "departement": "Lot-et-Garonne",
     "numCirconscription": "1",
     "region": "Nouvelle-Aquitaine",
-    "placeHemicycle": 294
+    "placeHemicycle": 294,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA795912",
@@ -3363,7 +3668,8 @@
     "departement": "Var",
     "numCirconscription": "2",
     "region": "Provence-Alpes-Côte d'Azur",
-    "placeHemicycle": 108
+    "placeHemicycle": 108,
+    "debutMandat": "2024-06-30"
   },
   {
     "id": "PA841837",
@@ -3374,7 +3680,8 @@
     "departement": "Seine-Maritime",
     "numCirconscription": "10",
     "region": "Normandie",
-    "placeHemicycle": 31
+    "placeHemicycle": 31,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA841515",
@@ -3385,7 +3692,8 @@
     "departement": "Nord",
     "numCirconscription": "1",
     "region": "Hauts-de-France",
-    "placeHemicycle": 594
+    "placeHemicycle": 594,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA719412",
@@ -3396,7 +3704,8 @@
     "departement": "Finistère",
     "numCirconscription": "4",
     "region": "Bretagne",
-    "placeHemicycle": 269
+    "placeHemicycle": 269,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA840979",
@@ -3407,7 +3716,8 @@
     "departement": "Côtes-d'Armor",
     "numCirconscription": "3",
     "region": "Bretagne",
-    "placeHemicycle": 211
+    "placeHemicycle": 211,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA719404",
@@ -3418,7 +3728,8 @@
     "departement": "Finistère",
     "numCirconscription": "3",
     "region": "Bretagne",
-    "placeHemicycle": 288
+    "placeHemicycle": 288,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA795672",
@@ -3429,7 +3740,8 @@
     "departement": "Val-d'Oise",
     "numCirconscription": "9",
     "region": "Ile-de-France",
-    "placeHemicycle": 612
+    "placeHemicycle": 612,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA345722",
@@ -3440,7 +3752,8 @@
     "departement": "Hauts-de-Seine",
     "numCirconscription": "6",
     "region": "Ile-de-France",
-    "placeHemicycle": 258
+    "placeHemicycle": 258,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA719388",
@@ -3451,7 +3764,8 @@
     "departement": "Finistère",
     "numCirconscription": "1",
     "region": "Bretagne",
-    "placeHemicycle": 254
+    "placeHemicycle": 254,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA719756",
@@ -3462,7 +3776,8 @@
     "departement": "Ille-et-Vilaine",
     "numCirconscription": "5",
     "region": "Bretagne",
-    "placeHemicycle": 280
+    "placeHemicycle": 280,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA720342",
@@ -3473,7 +3788,8 @@
     "departement": "Morbihan",
     "numCirconscription": "3",
     "region": "Bretagne",
-    "placeHemicycle": 278
+    "placeHemicycle": 278,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA720614",
@@ -3484,7 +3800,8 @@
     "departement": "Pas-de-Calais",
     "numCirconscription": "11",
     "region": "Hauts-de-France",
-    "placeHemicycle": 36
+    "placeHemicycle": 36,
+    "debutMandat": "2024-06-30"
   },
   {
     "id": "PA721852",
@@ -3495,7 +3812,8 @@
     "departement": "Yvelines",
     "numCirconscription": "4",
     "region": "Ile-de-France",
-    "placeHemicycle": 264
+    "placeHemicycle": 264,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA774962",
@@ -3506,7 +3824,8 @@
     "departement": "Réunion",
     "numCirconscription": "2",
     "region": "Réunion",
-    "placeHemicycle": 576
+    "placeHemicycle": 576,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA795108",
@@ -3517,7 +3836,8 @@
     "departement": "Sarthe",
     "numCirconscription": "4",
     "region": "Pays de la Loire",
-    "placeHemicycle": 538
+    "placeHemicycle": 538,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA795374",
@@ -3528,7 +3848,8 @@
     "departement": "Vienne",
     "numCirconscription": "3",
     "region": "Nouvelle-Aquitaine",
-    "placeHemicycle": 341
+    "placeHemicycle": 341,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA796026",
@@ -3539,7 +3860,8 @@
     "departement": "Var",
     "numCirconscription": "5",
     "region": "Provence-Alpes-Côte d'Azur",
-    "placeHemicycle": 53
+    "placeHemicycle": 53,
+    "debutMandat": "2024-06-30"
   },
   {
     "id": "PA840857",
@@ -3550,7 +3872,8 @@
     "departement": "Dordogne",
     "numCirconscription": "1",
     "region": "Nouvelle-Aquitaine",
-    "placeHemicycle": 119
+    "placeHemicycle": 119,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA335612",
@@ -3561,7 +3884,8 @@
     "departement": "Seine-Maritime",
     "numCirconscription": "8",
     "region": "Normandie",
-    "placeHemicycle": 586
+    "placeHemicycle": 586,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA712014",
@@ -3572,7 +3896,8 @@
     "departement": "Nord",
     "numCirconscription": "10",
     "region": "Hauts-de-France",
-    "placeHemicycle": 308
+    "placeHemicycle": 308,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA795298",
@@ -3583,7 +3908,8 @@
     "departement": "Seine-Saint-Denis",
     "numCirconscription": "12",
     "region": "Ile-de-France",
-    "placeHemicycle": 649
+    "placeHemicycle": 649,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA791824",
@@ -3594,7 +3920,8 @@
     "departement": "Paris",
     "numCirconscription": "16",
     "region": "Ile-de-France",
-    "placeHemicycle": 602
+    "placeHemicycle": 602,
+    "debutMandat": "2024-06-30"
   },
   {
     "id": "PA842029",
@@ -3605,7 +3932,8 @@
     "departement": "Essonne",
     "numCirconscription": "7",
     "region": "Ile-de-France",
-    "placeHemicycle": 607
+    "placeHemicycle": 607,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA793290",
@@ -3616,7 +3944,8 @@
     "departement": "Bouches-du-Rhône",
     "numCirconscription": "3",
     "region": "Provence-Alpes-Côte d'Azur",
-    "placeHemicycle": 146
+    "placeHemicycle": 146,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA794838",
@@ -3627,7 +3956,8 @@
     "departement": "Haut-Rhin",
     "numCirconscription": "3",
     "region": "Grand Est",
-    "placeHemicycle": 242
+    "placeHemicycle": 242,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA721632",
@@ -3638,7 +3968,8 @@
     "departement": "Seine-et-Marne",
     "numCirconscription": "5",
     "region": "Ile-de-France",
-    "placeHemicycle": 279
+    "placeHemicycle": 279,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA840983",
@@ -3649,7 +3980,8 @@
     "departement": "Creuse",
     "numCirconscription": "1",
     "region": "Nouvelle-Aquitaine",
-    "placeHemicycle": 114
+    "placeHemicycle": 114,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA795244",
@@ -3660,7 +3992,8 @@
     "departement": "Saint-Pierre-et-Miquelon",
     "numCirconscription": "1",
     "region": "Saint-Pierre-et-Miquelon",
-    "placeHemicycle": 456
+    "placeHemicycle": 456,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA793532",
@@ -3671,7 +4004,8 @@
     "departement": "Côtes-d'Armor",
     "numCirconscription": "4",
     "region": "Bretagne",
-    "placeHemicycle": 650
+    "placeHemicycle": 650,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA774958",
@@ -3682,7 +4016,8 @@
     "departement": "Seine-Maritime",
     "numCirconscription": "5",
     "region": "Normandie",
-    "placeHemicycle": 415
+    "placeHemicycle": 415,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA793608",
@@ -3693,7 +4028,8 @@
     "departement": "Eure",
     "numCirconscription": "2",
     "region": "Normandie",
-    "placeHemicycle": 156
+    "placeHemicycle": 156,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA840765",
@@ -3704,7 +4040,8 @@
     "departement": "Bouches-du-Rhône",
     "numCirconscription": "2",
     "region": "Provence-Alpes-Côte d'Azur",
-    "placeHemicycle": 445
+    "placeHemicycle": 445,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA794750",
@@ -3715,7 +4052,8 @@
     "departement": "Orne",
     "numCirconscription": "2",
     "region": "Normandie",
-    "placeHemicycle": 196
+    "placeHemicycle": 196,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA841873",
@@ -3726,7 +4064,8 @@
     "departement": "Seine-et-Marne",
     "numCirconscription": "4",
     "region": "Ile-de-France",
-    "placeHemicycle": 122
+    "placeHemicycle": 122,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA794702",
@@ -3737,7 +4076,8 @@
     "departement": "Puy-de-Dôme",
     "numCirconscription": "4",
     "region": "Auvergne-Rhône-Alpes",
-    "placeHemicycle": 340
+    "placeHemicycle": 340,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA840967",
@@ -3748,7 +4088,8 @@
     "departement": "Côte-d'Or",
     "numCirconscription": "5",
     "region": "Bourgogne-Franche-Comté",
-    "placeHemicycle": 154
+    "placeHemicycle": 154,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA720446",
@@ -3759,7 +4100,8 @@
     "departement": "Nord",
     "numCirconscription": "4",
     "region": "Hauts-de-France",
-    "placeHemicycle": 261
+    "placeHemicycle": 261,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA642725",
@@ -3770,7 +4112,8 @@
     "departement": "Doubs",
     "numCirconscription": "5",
     "region": "Bourgogne-Franche-Comté",
-    "placeHemicycle": 205
+    "placeHemicycle": 205,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA793672",
@@ -3781,7 +4124,8 @@
     "departement": "Eure",
     "numCirconscription": "1",
     "region": "Normandie",
-    "placeHemicycle": 116
+    "placeHemicycle": 116,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA721932",
@@ -3792,7 +4136,8 @@
     "departement": "Vaucluse",
     "numCirconscription": "4",
     "region": "Provence-Alpes-Côte d'Azur",
-    "placeHemicycle": 147
+    "placeHemicycle": 147,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA795974",
@@ -3803,7 +4148,8 @@
     "departement": "Var",
     "numCirconscription": "4",
     "region": "Provence-Alpes-Côte d'Azur",
-    "placeHemicycle": 22
+    "placeHemicycle": 22,
+    "debutMandat": "2024-06-30"
   },
   {
     "id": "PA794590",
@@ -3814,7 +4160,8 @@
     "departement": "Moselle",
     "numCirconscription": "7",
     "region": "Grand Est",
-    "placeHemicycle": 123
+    "placeHemicycle": 123,
+    "debutMandat": "2024-06-30"
   },
   {
     "id": "PA879389",
@@ -3825,7 +4172,8 @@
     "departement": "Loiret",
     "numCirconscription": "1",
     "region": "Centre-Val de Loire",
-    "placeHemicycle": 304
+    "placeHemicycle": 304,
+    "debutMandat": "2026-01-25"
   },
   {
     "id": "PA795636",
@@ -3836,7 +4184,8 @@
     "departement": "Yvelines",
     "numCirconscription": "8",
     "region": "Ile-de-France",
-    "placeHemicycle": 514
+    "placeHemicycle": 514,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA794578",
@@ -3847,7 +4196,8 @@
     "departement": "Oise",
     "numCirconscription": "4",
     "region": "Hauts-de-France",
-    "placeHemicycle": 320
+    "placeHemicycle": 320,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA795746",
@@ -3858,7 +4208,8 @@
     "departement": "Essonne",
     "numCirconscription": "10",
     "region": "Ile-de-France",
-    "placeHemicycle": 645
+    "placeHemicycle": 645,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA227089",
@@ -3869,7 +4220,8 @@
     "departement": "Nord",
     "numCirconscription": "21",
     "region": "Hauts-de-France",
-    "placeHemicycle": 395
+    "placeHemicycle": 395,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA720230",
@@ -3880,7 +4232,8 @@
     "departement": "Marne",
     "numCirconscription": "4",
     "region": "Grand Est",
-    "placeHemicycle": 238
+    "placeHemicycle": 238,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA841587",
@@ -3891,7 +4244,8 @@
     "departement": "Oise",
     "numCirconscription": "7",
     "region": "Hauts-de-France",
-    "placeHemicycle": 13
+    "placeHemicycle": 13,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA717379",
@@ -3902,7 +4256,8 @@
     "departement": "Paris",
     "numCirconscription": "1",
     "region": "Ile-de-France",
-    "placeHemicycle": 256
+    "placeHemicycle": 256,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA796010",
@@ -3913,7 +4268,8 @@
     "departement": "Réunion",
     "numCirconscription": "6",
     "region": "Réunion",
-    "placeHemicycle": 577
+    "placeHemicycle": 577,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA794114",
@@ -3924,7 +4280,8 @@
     "departement": "Loire",
     "numCirconscription": "3",
     "region": "Auvergne-Rhône-Alpes",
-    "placeHemicycle": 332
+    "placeHemicycle": 332,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA841183",
@@ -3935,7 +4292,8 @@
     "departement": "Isère",
     "numCirconscription": "8",
     "region": "Auvergne-Rhône-Alpes",
-    "placeHemicycle": 97
+    "placeHemicycle": 97,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA841563",
@@ -3946,7 +4304,8 @@
     "departement": "Oise",
     "numCirconscription": "1",
     "region": "Hauts-de-France",
-    "placeHemicycle": 133
+    "placeHemicycle": 133,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA605782",
@@ -3957,7 +4316,8 @@
     "departement": "Corse-du-Sud",
     "numCirconscription": "1",
     "region": "Corse",
-    "placeHemicycle": 222
+    "placeHemicycle": 222,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA794530",
@@ -3968,7 +4328,8 @@
     "departement": "Nord",
     "numCirconscription": "16",
     "region": "Hauts-de-France",
-    "placeHemicycle": 51
+    "placeHemicycle": 51,
+    "debutMandat": "2024-06-30"
   },
   {
     "id": "PA795730",
@@ -3979,7 +4340,8 @@
     "departement": "Deux-Sèvres",
     "numCirconscription": "1",
     "region": "Nouvelle-Aquitaine",
-    "placeHemicycle": 377
+    "placeHemicycle": 377,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA794206",
@@ -3990,7 +4352,8 @@
     "departement": "Loir-et-Cher",
     "numCirconscription": "3",
     "region": "Centre-Val de Loire",
-    "placeHemicycle": 307
+    "placeHemicycle": 307,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA840837",
@@ -4001,7 +4364,8 @@
     "departement": "Charente-Maritime",
     "numCirconscription": "4",
     "region": "Nouvelle-Aquitaine",
-    "placeHemicycle": 23
+    "placeHemicycle": 23,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA794518",
@@ -4012,7 +4376,8 @@
     "departement": "Nord",
     "numCirconscription": "14",
     "region": "Hauts-de-France",
-    "placeHemicycle": 318
+    "placeHemicycle": 318,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA719080",
@@ -4023,7 +4388,8 @@
     "departement": "Charente",
     "numCirconscription": "2",
     "region": "Nouvelle-Aquitaine",
-    "placeHemicycle": 287
+    "placeHemicycle": 287,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA342384",
@@ -4034,7 +4400,8 @@
     "departement": "Isère",
     "numCirconscription": "3",
     "region": "Auvergne-Rhône-Alpes",
-    "placeHemicycle": 599
+    "placeHemicycle": 599,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA841825",
@@ -4045,7 +4412,8 @@
     "departement": "Seine-Maritime",
     "numCirconscription": "6",
     "region": "Normandie",
-    "placeHemicycle": 71
+    "placeHemicycle": 71,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA793342",
@@ -4056,7 +4424,8 @@
     "departement": "Alpes-Maritimes",
     "numCirconscription": "8",
     "region": "Provence-Alpes-Côte d'Azur",
-    "placeHemicycle": 204
+    "placeHemicycle": 204,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA793944",
@@ -4067,7 +4436,8 @@
     "departement": "Gironde",
     "numCirconscription": "1",
     "region": "Nouvelle-Aquitaine",
-    "placeHemicycle": 381
+    "placeHemicycle": 381,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA795100",
@@ -4078,7 +4448,8 @@
     "departement": "Sarthe",
     "numCirconscription": "3",
     "region": "Pays de la Loire",
-    "placeHemicycle": 351
+    "placeHemicycle": 351,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA794770",
@@ -4089,7 +4460,8 @@
     "departement": "Pyrénées-Orientales",
     "numCirconscription": "4",
     "region": "Occitanie",
-    "placeHemicycle": 129
+    "placeHemicycle": 129,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA720146",
@@ -4100,7 +4472,8 @@
     "departement": "Maine-et-Loire",
     "numCirconscription": "5",
     "region": "Pays de la Loire",
-    "placeHemicycle": 376
+    "placeHemicycle": 376,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA720976",
@@ -4111,7 +4484,8 @@
     "departement": "Guadeloupe",
     "numCirconscription": "3",
     "region": "Guadeloupe",
-    "placeHemicycle": 483
+    "placeHemicycle": 483,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA720728",
@@ -4122,7 +4496,8 @@
     "departement": "Pyrénées-Atlantiques",
     "numCirconscription": "2",
     "region": "Nouvelle-Aquitaine",
-    "placeHemicycle": 339
+    "placeHemicycle": 339,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA795422",
@@ -4133,7 +4508,8 @@
     "departement": "Haute-Vienne",
     "numCirconscription": "1",
     "region": "Nouvelle-Aquitaine",
-    "placeHemicycle": 644
+    "placeHemicycle": 644,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA842271",
@@ -4144,7 +4520,8 @@
     "departement": "Val-d'Oise",
     "numCirconscription": "3",
     "region": "Ile-de-France",
-    "placeHemicycle": 584
+    "placeHemicycle": 584,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA794262",
@@ -4155,7 +4532,8 @@
     "departement": "Maine-et-Loire",
     "numCirconscription": "7",
     "region": "Pays de la Loire",
-    "placeHemicycle": 349
+    "placeHemicycle": 349,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA793616",
@@ -4166,7 +4544,8 @@
     "departement": "Eure",
     "numCirconscription": "3",
     "region": "Normandie",
-    "placeHemicycle": 73
+    "placeHemicycle": 73,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA794686",
@@ -4177,7 +4556,8 @@
     "departement": "Puy-de-Dôme",
     "numCirconscription": "1",
     "region": "Auvergne-Rhône-Alpes",
-    "placeHemicycle": 628
+    "placeHemicycle": 628,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA841931",
@@ -4188,7 +4568,8 @@
     "departement": "Yvelines",
     "numCirconscription": "11",
     "region": "Ile-de-France",
-    "placeHemicycle": 394
+    "placeHemicycle": 394,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA719436",
@@ -4199,7 +4580,8 @@
     "departement": "Gard",
     "numCirconscription": "2",
     "region": "Occitanie",
-    "placeHemicycle": 20
+    "placeHemicycle": 20,
+    "debutMandat": "2024-06-30"
   },
   {
     "id": "PA719338",
@@ -4210,7 +4592,8 @@
     "departement": "Finistère",
     "numCirconscription": "5",
     "region": "Bretagne",
-    "placeHemicycle": 387
+    "placeHemicycle": 387,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA720370",
@@ -4221,7 +4604,8 @@
     "departement": "Moselle",
     "numCirconscription": "2",
     "region": "Grand Est",
-    "placeHemicycle": 398
+    "placeHemicycle": 398,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA841463",
@@ -4232,7 +4616,8 @@
     "departement": "Meurthe-et-Moselle",
     "numCirconscription": "1",
     "region": "Grand Est",
-    "placeHemicycle": 419
+    "placeHemicycle": 419,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA841215",
@@ -4243,7 +4628,8 @@
     "departement": "Ille-et-Vilaine",
     "numCirconscription": "1",
     "region": "Bretagne",
-    "placeHemicycle": 597
+    "placeHemicycle": 597,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA719640",
@@ -4254,7 +4640,8 @@
     "departement": "Gironde",
     "numCirconscription": "9",
     "region": "Nouvelle-Aquitaine",
-    "placeHemicycle": 331
+    "placeHemicycle": 331,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA795176",
@@ -4265,7 +4652,8 @@
     "departement": "Nouvelle-Calédonie",
     "numCirconscription": "1",
     "region": "Nouvelle-Calédonie",
-    "placeHemicycle": 385
+    "placeHemicycle": 385,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA719272",
@@ -4276,7 +4664,8 @@
     "departement": "Corrèze",
     "numCirconscription": "2",
     "region": "Nouvelle-Aquitaine",
-    "placeHemicycle": 198
+    "placeHemicycle": 198,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA795482",
@@ -4287,7 +4676,8 @@
     "departement": "Haute-Vienne",
     "numCirconscription": "3",
     "region": "Nouvelle-Aquitaine",
-    "placeHemicycle": 642
+    "placeHemicycle": 642,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA793852",
@@ -4298,7 +4688,8 @@
     "departement": "Gard",
     "numCirconscription": "4",
     "region": "Occitanie",
-    "placeHemicycle": 145
+    "placeHemicycle": 145,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA841395",
@@ -4309,7 +4700,8 @@
     "departement": "Marne",
     "numCirconscription": "3",
     "region": "Grand Est",
-    "placeHemicycle": 112
+    "placeHemicycle": 112,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA841769",
@@ -4320,7 +4712,8 @@
     "departement": "Saône-et-Loire",
     "numCirconscription": "4",
     "region": "Bourgogne-Franche-Comté",
-    "placeHemicycle": 96
+    "placeHemicycle": 96,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA795664",
@@ -4331,7 +4724,8 @@
     "departement": "Essonne",
     "numCirconscription": "5",
     "region": "Ile-de-France",
-    "placeHemicycle": 268
+    "placeHemicycle": 268,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA817203",
@@ -4342,7 +4736,8 @@
     "departement": "Marne",
     "numCirconscription": "2",
     "region": "Grand Est",
-    "placeHemicycle": 250
+    "placeHemicycle": 250,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA643104",
@@ -4353,7 +4748,8 @@
     "departement": "Eure-et-Loir",
     "numCirconscription": "2",
     "region": "Centre-Val de Loire",
-    "placeHemicycle": 182
+    "placeHemicycle": 182,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA795962",
@@ -4364,7 +4760,8 @@
     "departement": "Paris",
     "numCirconscription": "14",
     "region": "Ile-de-France",
-    "placeHemicycle": 323
+    "placeHemicycle": 323,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA607619",
@@ -4375,7 +4772,8 @@
     "departement": "Morbihan",
     "numCirconscription": "4",
     "region": "Bretagne",
-    "placeHemicycle": 464
+    "placeHemicycle": 464,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA842147",
@@ -4386,7 +4784,8 @@
     "departement": "Hauts-de-Seine",
     "numCirconscription": "13",
     "region": "Ile-de-France",
-    "placeHemicycle": 325
+    "placeHemicycle": 325,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA793174",
@@ -4397,7 +4796,8 @@
     "departement": "Allier",
     "numCirconscription": "1",
     "region": "Auvergne-Rhône-Alpes",
-    "placeHemicycle": 588
+    "placeHemicycle": 588,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA840915",
@@ -4408,7 +4808,8 @@
     "departement": "Drôme",
     "numCirconscription": "4",
     "region": "Auvergne-Rhône-Alpes",
-    "placeHemicycle": 68
+    "placeHemicycle": 68,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA794810",
@@ -4419,7 +4820,8 @@
     "departement": "Bas-Rhin",
     "numCirconscription": "6",
     "region": "Grand Est",
-    "placeHemicycle": 335
+    "placeHemicycle": 335,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA793696",
@@ -4430,7 +4832,8 @@
     "departement": "Dordogne",
     "numCirconscription": "2",
     "region": "Nouvelle-Aquitaine",
-    "placeHemicycle": 58
+    "placeHemicycle": 58,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA793354",
@@ -4441,7 +4844,8 @@
     "departement": "Bouches-du-Rhône",
     "numCirconscription": "9",
     "region": "Provence-Alpes-Côte d'Azur",
-    "placeHemicycle": 17
+    "placeHemicycle": 17,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA795786",
@@ -4452,7 +4856,8 @@
     "departement": "Somme",
     "numCirconscription": "5",
     "region": "Hauts-de-France",
-    "placeHemicycle": 155
+    "placeHemicycle": 155,
+    "debutMandat": "2024-06-30"
   },
   {
     "id": "PA794322",
@@ -4463,7 +4868,8 @@
     "departement": "Loiret",
     "numCirconscription": "4",
     "region": "Centre-Val de Loire",
-    "placeHemicycle": 40
+    "placeHemicycle": 40,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA795820",
@@ -4474,7 +4880,8 @@
     "departement": "Martinique",
     "numCirconscription": "2",
     "region": "Martinique",
-    "placeHemicycle": 581
+    "placeHemicycle": 581,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA721486",
@@ -4485,7 +4892,8 @@
     "departement": "Vosges",
     "numCirconscription": "3",
     "region": "Grand Est",
-    "placeHemicycle": 407
+    "placeHemicycle": 407,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA643157",
@@ -4496,7 +4904,8 @@
     "departement": "Réunion",
     "numCirconscription": "1",
     "region": "Réunion",
-    "placeHemicycle": 429
+    "placeHemicycle": 429,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA794038",
@@ -4507,7 +4916,8 @@
     "departement": "Isère",
     "numCirconscription": "7",
     "region": "Auvergne-Rhône-Alpes",
-    "placeHemicycle": 190
+    "placeHemicycle": 190,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA610654",
@@ -4518,7 +4928,8 @@
     "departement": "Martinique",
     "numCirconscription": "4",
     "region": "Martinique",
-    "placeHemicycle": 632
+    "placeHemicycle": 632,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA841191",
@@ -4529,7 +4940,8 @@
     "departement": "Isère",
     "numCirconscription": "9",
     "region": "Auvergne-Rhône-Alpes",
-    "placeHemicycle": 639
+    "placeHemicycle": 639,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA841107",
@@ -4540,7 +4952,8 @@
     "departement": "Haute-Garonne",
     "numCirconscription": "10",
     "region": "Occitanie",
-    "placeHemicycle": 474
+    "placeHemicycle": 474,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA721960",
@@ -4551,7 +4964,8 @@
     "departement": "Paris",
     "numCirconscription": "17",
     "region": "Ile-de-France",
-    "placeHemicycle": 600
+    "placeHemicycle": 600,
+    "debutMandat": "2024-06-30"
   },
   {
     "id": "PA795552",
@@ -4562,7 +4976,8 @@
     "departement": "Yonne",
     "numCirconscription": "3",
     "region": "Bourgogne-Franche-Comté",
-    "placeHemicycle": 90
+    "placeHemicycle": 90,
+    "debutMandat": "2024-06-30"
   },
   {
     "id": "PA795722",
@@ -4573,7 +4988,8 @@
     "departement": "Yvelines",
     "numCirconscription": "12",
     "region": "Ile-de-France",
-    "placeHemicycle": 375
+    "placeHemicycle": 375,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA794830",
@@ -4584,7 +5000,8 @@
     "departement": "Haut-Rhin",
     "numCirconscription": "2",
     "region": "Grand Est",
-    "placeHemicycle": 356
+    "placeHemicycle": 356,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA842045",
@@ -4595,7 +5012,8 @@
     "departement": "Essonne",
     "numCirconscription": "9",
     "region": "Ile-de-France",
-    "placeHemicycle": 506
+    "placeHemicycle": 506,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA793872",
@@ -4606,7 +5024,8 @@
     "departement": "Hérault",
     "numCirconscription": "2",
     "region": "Occitanie",
-    "placeHemicycle": 548
+    "placeHemicycle": 548,
+    "debutMandat": "2024-06-30"
   },
   {
     "id": "PA795124",
@@ -4617,7 +5036,8 @@
     "departement": "Savoie",
     "numCirconscription": "1",
     "region": "Auvergne-Rhône-Alpes",
-    "placeHemicycle": 372
+    "placeHemicycle": 372,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA720334",
@@ -4628,7 +5048,8 @@
     "departement": "Morbihan",
     "numCirconscription": "2",
     "region": "Bretagne",
-    "placeHemicycle": 373
+    "placeHemicycle": 373,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA841993",
@@ -4639,7 +5060,8 @@
     "departement": "Vendée",
     "numCirconscription": "2",
     "region": "Pays de la Loire",
-    "placeHemicycle": 219
+    "placeHemicycle": 219,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA759832",
@@ -4650,7 +5072,8 @@
     "departement": "Pas-de-Calais",
     "numCirconscription": "2",
     "region": "Hauts-de-France",
-    "placeHemicycle": 259
+    "placeHemicycle": 259,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA719632",
@@ -4661,7 +5084,8 @@
     "departement": "Gironde",
     "numCirconscription": "8",
     "region": "Nouvelle-Aquitaine",
-    "placeHemicycle": 378
+    "placeHemicycle": 378,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA795050",
@@ -4672,7 +5096,8 @@
     "departement": "Paris",
     "numCirconscription": "4",
     "region": "Ile-de-France",
-    "placeHemicycle": 312
+    "placeHemicycle": 312,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA720892",
@@ -4683,7 +5108,8 @@
     "departement": "Val-de-Marne",
     "numCirconscription": "10",
     "region": "Ile-de-France",
-    "placeHemicycle": 623
+    "placeHemicycle": 623,
+    "debutMandat": "2024-06-30"
   },
   {
     "id": "PA841381",
@@ -4694,7 +5120,8 @@
     "departement": "Lozère",
     "numCirconscription": "1",
     "region": "Occitanie",
-    "placeHemicycle": 463
+    "placeHemicycle": 463,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA794670",
@@ -4705,7 +5132,8 @@
     "departement": "Pas-de-Calais",
     "numCirconscription": "9",
     "region": "Hauts-de-France",
-    "placeHemicycle": 101
+    "placeHemicycle": 101,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA720480",
@@ -4716,7 +5144,8 @@
     "departement": "Nord",
     "numCirconscription": "6",
     "region": "Hauts-de-France",
-    "placeHemicycle": 221
+    "placeHemicycle": 221,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA793398",
@@ -4727,7 +5156,8 @@
     "departement": "Calvados",
     "numCirconscription": "3",
     "region": "Normandie",
-    "placeHemicycle": 240
+    "placeHemicycle": 240,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA718784",
@@ -4738,7 +5168,8 @@
     "departement": "Alpes-Maritimes",
     "numCirconscription": "7",
     "region": "Provence-Alpes-Côte d'Azur",
-    "placeHemicycle": 191
+    "placeHemicycle": 191,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA840793",
@@ -4749,7 +5180,8 @@
     "departement": "Bouches-du-Rhône",
     "numCirconscription": "11",
     "region": "Provence-Alpes-Côte d'Azur",
-    "placeHemicycle": 446
+    "placeHemicycle": 446,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA841199",
@@ -4760,7 +5192,8 @@
     "departement": "Isère",
     "numCirconscription": "10",
     "region": "Auvergne-Rhône-Alpes",
-    "placeHemicycle": 139
+    "placeHemicycle": 139,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA721182",
@@ -4771,7 +5204,8 @@
     "departement": "Français établis hors de France",
     "numCirconscription": "7",
     "region": "Français établis hors de France",
-    "placeHemicycle": 345
+    "placeHemicycle": 345,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA721234",
@@ -4782,7 +5216,8 @@
     "departement": "Val-de-Marne",
     "numCirconscription": "4",
     "region": "Ile-de-France",
-    "placeHemicycle": 352
+    "placeHemicycle": 352,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA721270",
@@ -4793,7 +5228,8 @@
     "departement": "Seine-Saint-Denis",
     "numCirconscription": "2",
     "region": "Ile-de-France",
-    "placeHemicycle": 583
+    "placeHemicycle": 583,
+    "debutMandat": "2024-06-30"
   },
   {
     "id": "PA793708",
@@ -4804,7 +5240,8 @@
     "departement": "Dordogne",
     "numCirconscription": "4",
     "region": "Nouvelle-Aquitaine",
-    "placeHemicycle": 491
+    "placeHemicycle": 491,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA794582",
@@ -4815,7 +5252,8 @@
     "departement": "Moselle",
     "numCirconscription": "6",
     "region": "Grand Est",
-    "placeHemicycle": 100
+    "placeHemicycle": 100,
+    "debutMandat": "2024-06-30"
   },
   {
     "id": "PA794270",
@@ -4826,7 +5264,8 @@
     "departement": "Manche",
     "numCirconscription": "4",
     "region": "Normandie",
-    "placeHemicycle": 452
+    "placeHemicycle": 452,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA817211",
@@ -4837,7 +5276,8 @@
     "departement": "Charente",
     "numCirconscription": "1",
     "region": "Nouvelle-Aquitaine",
-    "placeHemicycle": 520
+    "placeHemicycle": 520,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA793756",
@@ -4848,7 +5288,8 @@
     "departement": "Haute-Garonne",
     "numCirconscription": "4",
     "region": "Occitanie",
-    "placeHemicycle": 555
+    "placeHemicycle": 555,
+    "debutMandat": "2024-06-30"
   },
   {
     "id": "PA721844",
@@ -4859,7 +5300,8 @@
     "departement": "Yvelines",
     "numCirconscription": "3",
     "region": "Ile-de-France",
-    "placeHemicycle": 236
+    "placeHemicycle": 236,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA608172",
@@ -4870,7 +5312,8 @@
     "departement": "Puy-de-Dôme",
     "numCirconscription": "2",
     "region": "Auvergne-Rhône-Alpes",
-    "placeHemicycle": 426
+    "placeHemicycle": 426,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA793572",
@@ -4881,7 +5324,8 @@
     "departement": "Charente-Maritime",
     "numCirconscription": "5",
     "region": "Nouvelle-Aquitaine",
-    "placeHemicycle": 225
+    "placeHemicycle": 225,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA793664",
@@ -4892,7 +5336,8 @@
     "departement": "Drôme",
     "numCirconscription": "3",
     "region": "Auvergne-Rhône-Alpes",
-    "placeHemicycle": 522
+    "placeHemicycle": 522,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA793656",
@@ -4903,7 +5348,8 @@
     "departement": "Drôme",
     "numCirconscription": "2",
     "region": "Auvergne-Rhône-Alpes",
-    "placeHemicycle": 84
+    "placeHemicycle": 84,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA719528",
@@ -4914,7 +5360,8 @@
     "departement": "Haute-Garonne",
     "numCirconscription": "5",
     "region": "Occitanie",
-    "placeHemicycle": 237
+    "placeHemicycle": 237,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA796062",
@@ -4925,7 +5372,8 @@
     "departement": "Seine-Saint-Denis",
     "numCirconscription": "3",
     "region": "Ile-de-France",
-    "placeHemicycle": 633
+    "placeHemicycle": 633,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA794994",
@@ -4936,7 +5384,8 @@
     "departement": "Rhône",
     "numCirconscription": "9",
     "region": "Auvergne-Rhône-Alpes",
-    "placeHemicycle": 173
+    "placeHemicycle": 173,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA607553",
@@ -4947,7 +5396,8 @@
     "departement": "Meurthe-et-Moselle",
     "numCirconscription": "5",
     "region": "Grand Est",
-    "placeHemicycle": 413
+    "placeHemicycle": 413,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA720720",
@@ -4958,7 +5408,8 @@
     "departement": "Pyrénées-Atlantiques",
     "numCirconscription": "1",
     "region": "Nouvelle-Aquitaine",
-    "placeHemicycle": 330
+    "placeHemicycle": 330,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA795270",
@@ -4969,7 +5420,8 @@
     "departement": "Seine-Maritime",
     "numCirconscription": "9",
     "region": "Normandie",
-    "placeHemicycle": 217
+    "placeHemicycle": 217,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA721916",
@@ -4980,7 +5432,8 @@
     "departement": "Yvelines",
     "numCirconscription": "6",
     "region": "Ile-de-France",
-    "placeHemicycle": 315
+    "placeHemicycle": 315,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA720100",
@@ -4991,7 +5444,8 @@
     "departement": "Lot",
     "numCirconscription": "1",
     "region": "Occitanie",
-    "placeHemicycle": 404
+    "placeHemicycle": 404,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA840955",
@@ -5002,7 +5456,8 @@
     "departement": "Côte-d'Or",
     "numCirconscription": "3",
     "region": "Bourgogne-Franche-Comté",
-    "placeHemicycle": 444
+    "placeHemicycle": 444,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA841367",
@@ -5013,7 +5468,8 @@
     "departement": "Lot",
     "numCirconscription": "2",
     "region": "Occitanie",
-    "placeHemicycle": 488
+    "placeHemicycle": 488,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA719578",
@@ -5024,7 +5480,8 @@
     "departement": "Gironde",
     "numCirconscription": "3",
     "region": "Nouvelle-Aquitaine",
-    "placeHemicycle": 626
+    "placeHemicycle": 626,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA795966",
@@ -5035,7 +5492,8 @@
     "departement": "Var",
     "numCirconscription": "3",
     "region": "Provence-Alpes-Côte d'Azur",
-    "placeHemicycle": 76
+    "placeHemicycle": 76,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA720092",
@@ -5046,7 +5504,8 @@
     "departement": "Loiret",
     "numCirconscription": "6",
     "region": "Centre-Val de Loire",
-    "placeHemicycle": 361
+    "placeHemicycle": 361,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA793230",
@@ -5057,7 +5516,8 @@
     "departement": "Aube",
     "numCirconscription": "3",
     "region": "Grand Est",
-    "placeHemicycle": 19
+    "placeHemicycle": 19,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA793254",
@@ -5068,7 +5528,8 @@
     "departement": "Aude",
     "numCirconscription": "3",
     "region": "Occitanie",
-    "placeHemicycle": 136
+    "placeHemicycle": 136,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA721062",
@@ -5079,7 +5540,8 @@
     "departement": "Réunion",
     "numCirconscription": "5",
     "region": "Réunion",
-    "placeHemicycle": 615
+    "placeHemicycle": 615,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA720552",
@@ -5090,7 +5552,8 @@
     "departement": "Moselle",
     "numCirconscription": "9",
     "region": "Grand Est",
-    "placeHemicycle": 232
+    "placeHemicycle": 232,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA794154",
@@ -5101,7 +5564,8 @@
     "departement": "Loire-Atlantique",
     "numCirconscription": "6",
     "region": "Pays de la Loire",
-    "placeHemicycle": 498
+    "placeHemicycle": 498,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA793094",
@@ -5112,7 +5576,8 @@
     "departement": "Allier",
     "numCirconscription": "3",
     "region": "Auvergne-Rhône-Alpes",
-    "placeHemicycle": 189
+    "placeHemicycle": 189,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA794778",
@@ -5123,7 +5588,8 @@
     "departement": "Bas-Rhin",
     "numCirconscription": "1",
     "region": "Grand Est",
-    "placeHemicycle": 501
+    "placeHemicycle": 501,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA795240",
@@ -5134,7 +5600,8 @@
     "departement": "Polynésie Française",
     "numCirconscription": "3",
     "region": "Polynésie française",
-    "placeHemicycle": 580
+    "placeHemicycle": 580,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA841955",
@@ -5145,7 +5612,8 @@
     "departement": "Somme",
     "numCirconscription": "3",
     "region": "Hauts-de-France",
-    "placeHemicycle": 89
+    "placeHemicycle": 89,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA841377",
@@ -5156,7 +5624,8 @@
     "departement": "Lot-et-Garonne",
     "numCirconscription": "3",
     "region": "Nouvelle-Aquitaine",
-    "placeHemicycle": 207
+    "placeHemicycle": 207,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA840657",
@@ -5167,7 +5636,8 @@
     "departement": "Alpes-de-Haute-Provence",
     "numCirconscription": "2",
     "region": "Provence-Alpes-Côte d'Azur",
-    "placeHemicycle": 92
+    "placeHemicycle": 92,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA795876",
@@ -5178,7 +5648,8 @@
     "departement": "Guyane",
     "numCirconscription": "2",
     "region": "Guyane",
-    "placeHemicycle": 590
+    "placeHemicycle": 590,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA841981",
@@ -5189,7 +5660,8 @@
     "departement": "Vaucluse",
     "numCirconscription": "5",
     "region": "Provence-Alpes-Côte d'Azur",
-    "placeHemicycle": 41
+    "placeHemicycle": 41,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA721426",
@@ -5200,7 +5672,8 @@
     "departement": "Haute-Savoie",
     "numCirconscription": "1",
     "region": "Auvergne-Rhône-Alpes",
-    "placeHemicycle": 302
+    "placeHemicycle": 302,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA842227",
@@ -5211,7 +5684,8 @@
     "departement": "Réunion",
     "numCirconscription": "3",
     "region": "Réunion",
-    "placeHemicycle": 32
+    "placeHemicycle": 32,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA722252",
@@ -5222,7 +5696,8 @@
     "departement": "Essonne",
     "numCirconscription": "4",
     "region": "Ile-de-France",
-    "placeHemicycle": 296
+    "placeHemicycle": 296,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA794442",
@@ -5233,7 +5708,8 @@
     "departement": "Haute-Marne",
     "numCirconscription": "2",
     "region": "Grand Est",
-    "placeHemicycle": 141
+    "placeHemicycle": 141,
+    "debutMandat": "2024-06-30"
   },
   {
     "id": "PA795528",
@@ -5244,7 +5720,8 @@
     "departement": "Yvelines",
     "numCirconscription": "1",
     "region": "Ile-de-France",
-    "placeHemicycle": 276
+    "placeHemicycle": 276,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA266808",
@@ -5255,7 +5732,8 @@
     "departement": "Savoie",
     "numCirconscription": "2",
     "region": "Auvergne-Rhône-Alpes",
-    "placeHemicycle": 201
+    "placeHemicycle": 201,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA841927",
@@ -5266,7 +5744,8 @@
     "departement": "Yvelines",
     "numCirconscription": "10",
     "region": "Ile-de-France",
-    "placeHemicycle": 292
+    "placeHemicycle": 292,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA721458",
@@ -5277,7 +5756,8 @@
     "departement": "Haute-Savoie",
     "numCirconscription": "6",
     "region": "Auvergne-Rhône-Alpes",
-    "placeHemicycle": 317
+    "placeHemicycle": 317,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA840673",
@@ -5288,7 +5768,8 @@
     "departement": "Hautes-Alpes",
     "numCirconscription": "2",
     "region": "Provence-Alpes-Côte d'Azur",
-    "placeHemicycle": 472
+    "placeHemicycle": 472,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA342196",
@@ -5299,7 +5780,8 @@
     "departement": "Ille-et-Vilaine",
     "numCirconscription": "3",
     "region": "Bretagne",
-    "placeHemicycle": 431
+    "placeHemicycle": 431,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA795410",
@@ -5310,7 +5792,8 @@
     "departement": "Seine-et-Marne",
     "numCirconscription": "6",
     "region": "Ile-de-France",
-    "placeHemicycle": 152
+    "placeHemicycle": 152,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA606545",
@@ -5321,7 +5804,8 @@
     "departement": "Hérault",
     "numCirconscription": "1",
     "region": "Occitanie",
-    "placeHemicycle": 513
+    "placeHemicycle": 513,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA826635",
@@ -5332,7 +5816,8 @@
     "departement": "Yvelines",
     "numCirconscription": "7",
     "region": "Ile-de-France",
-    "placeHemicycle": 425
+    "placeHemicycle": 425,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA795076",
@@ -5343,7 +5828,8 @@
     "departement": "Paris",
     "numCirconscription": "9",
     "region": "Ile-de-France",
-    "placeHemicycle": 508
+    "placeHemicycle": 508,
+    "debutMandat": "2024-06-30"
   },
   {
     "id": "PA841327",
@@ -5354,7 +5840,8 @@
     "departement": "Loire-Atlantique",
     "numCirconscription": "5",
     "region": "Pays de la Loire",
-    "placeHemicycle": 460
+    "placeHemicycle": 460,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA793270",
@@ -5365,7 +5852,8 @@
     "departement": "Aveyron",
     "numCirconscription": "3",
     "region": "Occitanie",
-    "placeHemicycle": 303
+    "placeHemicycle": 303,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA842097",
@@ -5376,7 +5864,8 @@
     "departement": "Yonne",
     "numCirconscription": "2",
     "region": "Bourgogne-Franche-Comté",
-    "placeHemicycle": 2
+    "placeHemicycle": 2,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA722142",
@@ -5387,7 +5876,8 @@
     "departement": "Somme",
     "numCirconscription": "1",
     "region": "Hauts-de-France",
-    "placeHemicycle": 505
+    "placeHemicycle": 505,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA841717",
@@ -5398,7 +5888,8 @@
     "departement": "Rhône",
     "numCirconscription": "4",
     "region": "Auvergne-Rhône-Alpes",
-    "placeHemicycle": 564
+    "placeHemicycle": 564,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA341981",
@@ -5409,7 +5900,8 @@
     "departement": "Gironde",
     "numCirconscription": "6",
     "region": "Nouvelle-Aquitaine",
-    "placeHemicycle": 438
+    "placeHemicycle": 438,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA794894",
@@ -5420,7 +5912,8 @@
     "departement": "Pyrénées-Orientales",
     "numCirconscription": "2",
     "region": "Occitanie",
-    "placeHemicycle": 138
+    "placeHemicycle": 138,
+    "debutMandat": "2024-06-30"
   },
   {
     "id": "PA794570",
@@ -5431,7 +5924,8 @@
     "departement": "Oise",
     "numCirconscription": "3",
     "region": "Hauts-de-France",
-    "placeHemicycle": 62
+    "placeHemicycle": 62,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA841845",
@@ -5442,7 +5936,8 @@
     "departement": "Seine-et-Marne",
     "numCirconscription": "1",
     "region": "Ile-de-France",
-    "placeHemicycle": 648
+    "placeHemicycle": 648,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA841243",
@@ -5453,7 +5948,8 @@
     "departement": "Gironde",
     "numCirconscription": "7",
     "region": "Nouvelle-Aquitaine",
-    "placeHemicycle": 566
+    "placeHemicycle": 566,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA720138",
@@ -5464,7 +5960,8 @@
     "departement": "Maine-et-Loire",
     "numCirconscription": "4",
     "region": "Pays de la Loire",
-    "placeHemicycle": 228
+    "placeHemicycle": 228,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA795982",
@@ -5475,7 +5972,8 @@
     "departement": "Hauts-de-Seine",
     "numCirconscription": "11",
     "region": "Ile-de-France",
-    "placeHemicycle": 558
+    "placeHemicycle": 558,
+    "debutMandat": "2024-06-30"
   },
   {
     "id": "PA794954",
@@ -5486,7 +5984,8 @@
     "departement": "Haute-Saône",
     "numCirconscription": "2",
     "region": "Bourgogne-Franche-Comté",
-    "placeHemicycle": 1
+    "placeHemicycle": 1,
+    "debutMandat": "2024-06-30"
   },
   {
     "id": "PA721110",
@@ -5497,7 +5996,8 @@
     "departement": "Polynésie Française",
     "numCirconscription": "2",
     "region": "Polynésie française",
-    "placeHemicycle": 482
+    "placeHemicycle": 482,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA605745",
@@ -5508,7 +6008,8 @@
     "departement": "Cher",
     "numCirconscription": "2",
     "region": "Centre-Val de Loire",
-    "placeHemicycle": 592
+    "placeHemicycle": 592,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA774960",
@@ -5519,7 +6020,8 @@
     "departement": "Val-de-Marne",
     "numCirconscription": "9",
     "region": "Ile-de-France",
-    "placeHemicycle": 414
+    "placeHemicycle": 414,
+    "debutMandat": "2024-06-30"
   },
   {
     "id": "PA610002",
@@ -5530,7 +6032,8 @@
     "departement": "Paris",
     "numCirconscription": "8",
     "region": "Ile-de-France",
-    "placeHemicycle": 512
+    "placeHemicycle": 512,
+    "debutMandat": "2024-06-30"
   },
   {
     "id": "PA340343",
@@ -5541,7 +6044,8 @@
     "departement": "Ardèche",
     "numCirconscription": "1",
     "region": "Auvergne-Rhône-Alpes",
-    "placeHemicycle": 412
+    "placeHemicycle": 412,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA721314",
@@ -5552,7 +6056,8 @@
     "departement": "Haut-Rhin",
     "numCirconscription": "4",
     "region": "Grand Est",
-    "placeHemicycle": 405
+    "placeHemicycle": 405,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA796050",
@@ -5563,7 +6068,8 @@
     "departement": "Var",
     "numCirconscription": "8",
     "region": "Provence-Alpes-Côte d'Azur",
-    "placeHemicycle": 15
+    "placeHemicycle": 15,
+    "debutMandat": "2024-06-30"
   },
   {
     "id": "PA795808",
@@ -5574,7 +6080,8 @@
     "departement": "Hauts-de-Seine",
     "numCirconscription": "4",
     "region": "Ile-de-France",
-    "placeHemicycle": 499
+    "placeHemicycle": 499,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA757225",
@@ -5585,7 +6092,8 @@
     "departement": "Wallis-et-Futuna",
     "numCirconscription": "1",
     "region": "Wallis-et-Futuna",
-    "placeHemicycle": 400
+    "placeHemicycle": 400,
+    "debutMandat": "2024-06-30"
   },
   {
     "id": "PA720960",
@@ -5596,7 +6104,8 @@
     "departement": "Guadeloupe",
     "numCirconscription": "1",
     "region": "Guadeloupe",
-    "placeHemicycle": 469
+    "placeHemicycle": 469,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA842255",
@@ -5607,7 +6116,8 @@
     "departement": "Val-d'Oise",
     "numCirconscription": "1",
     "region": "Ile-de-France",
-    "placeHemicycle": 66
+    "placeHemicycle": 66,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA841091",
@@ -5618,7 +6128,8 @@
     "departement": "Haute-Garonne",
     "numCirconscription": "6",
     "region": "Occitanie",
-    "placeHemicycle": 473
+    "placeHemicycle": 473,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA796018",
@@ -5629,7 +6140,8 @@
     "departement": "Paris",
     "numCirconscription": "15",
     "region": "Ile-de-France",
-    "placeHemicycle": 502
+    "placeHemicycle": 502,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA794802",
@@ -5640,7 +6152,8 @@
     "departement": "Bas-Rhin",
     "numCirconscription": "5",
     "region": "Grand Est",
-    "placeHemicycle": 364
+    "placeHemicycle": 364,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA720190",
@@ -5651,7 +6164,8 @@
     "departement": "Manche",
     "numCirconscription": "2",
     "region": "Normandie",
-    "placeHemicycle": 291
+    "placeHemicycle": 291,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA841681",
@@ -5662,7 +6176,8 @@
     "departement": "Bas-Rhin",
     "numCirconscription": "3",
     "region": "Grand Est",
-    "placeHemicycle": 462
+    "placeHemicycle": 462,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA795466",
@@ -5673,7 +6188,8 @@
     "departement": "Seine-et-Marne",
     "numCirconscription": "7",
     "region": "Ile-de-France",
-    "placeHemicycle": 572
+    "placeHemicycle": 572,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA794486",
@@ -5684,7 +6200,8 @@
     "departement": "Nord",
     "numCirconscription": "9",
     "region": "Hauts-de-France",
-    "placeHemicycle": 249
+    "placeHemicycle": 249,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA793744",
@@ -5695,7 +6212,8 @@
     "departement": "Haute-Garonne",
     "numCirconscription": "2",
     "region": "Occitanie",
-    "placeHemicycle": 561
+    "placeHemicycle": 561,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA267794",
@@ -5706,7 +6224,8 @@
     "departement": "Alpes-Maritimes",
     "numCirconscription": "9",
     "region": "Provence-Alpes-Côte d'Azur",
-    "placeHemicycle": 179
+    "placeHemicycle": 179,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA793382",
@@ -5717,7 +6236,8 @@
     "departement": "Bouches-du-Rhône",
     "numCirconscription": "16",
     "region": "Provence-Alpes-Côte d'Azur",
-    "placeHemicycle": 151
+    "placeHemicycle": 151,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA720952",
@@ -5728,7 +6248,8 @@
     "departement": "Val-d'Oise",
     "numCirconscription": "10",
     "region": "Ile-de-France",
-    "placeHemicycle": 574
+    "placeHemicycle": 574,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA736201",
@@ -5739,7 +6260,8 @@
     "departement": "Val-de-Marne",
     "numCirconscription": "11",
     "region": "Ile-de-France",
-    "placeHemicycle": 494
+    "placeHemicycle": 494,
+    "debutMandat": "2024-06-30"
   },
   {
     "id": "PA719550",
@@ -5750,7 +6272,8 @@
     "departement": "Finistère",
     "numCirconscription": "7",
     "region": "Bretagne",
-    "placeHemicycle": 265
+    "placeHemicycle": 265,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA795778",
@@ -5761,7 +6284,8 @@
     "departement": "Somme",
     "numCirconscription": "4",
     "region": "Hauts-de-France",
-    "placeHemicycle": 35
+    "placeHemicycle": 35,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA793796",
@@ -5772,7 +6296,8 @@
     "departement": "Gers",
     "numCirconscription": "2",
     "region": "Occitanie",
-    "placeHemicycle": 465
+    "placeHemicycle": 465,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA794106",
@@ -5783,7 +6308,8 @@
     "departement": "Loire",
     "numCirconscription": "2",
     "region": "Auvergne-Rhône-Alpes",
-    "placeHemicycle": 609
+    "placeHemicycle": 609,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA794166",
@@ -5794,7 +6320,8 @@
     "departement": "Loire-Atlantique",
     "numCirconscription": "8",
     "region": "Pays de la Loire",
-    "placeHemicycle": 603
+    "placeHemicycle": 603,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA794502",
@@ -5805,7 +6332,8 @@
     "departement": "Nord",
     "numCirconscription": "12",
     "region": "Hauts-de-France",
-    "placeHemicycle": 50
+    "placeHemicycle": 50,
+    "debutMandat": "2024-06-30"
   },
   {
     "id": "PA841713",
@@ -5816,7 +6344,8 @@
     "departement": "Rhône",
     "numCirconscription": "2",
     "region": "Auvergne-Rhône-Alpes",
-    "placeHemicycle": 540
+    "placeHemicycle": 540,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA721584",
@@ -5827,7 +6356,8 @@
     "departement": "Tarn",
     "numCirconscription": "3",
     "region": "Occitanie",
-    "placeHemicycle": 248
+    "placeHemicycle": 248,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA841553",
@@ -5838,7 +6368,8 @@
     "departement": "Nord",
     "numCirconscription": "17",
     "region": "Hauts-de-France",
-    "placeHemicycle": 21
+    "placeHemicycle": 21,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA795920",
@@ -5849,7 +6380,8 @@
     "departement": "Hauts-de-Seine",
     "numCirconscription": "8",
     "region": "Ile-de-France",
-    "placeHemicycle": 274
+    "placeHemicycle": 274,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA793948",
@@ -5860,7 +6392,8 @@
     "departement": "Gironde",
     "numCirconscription": "2",
     "region": "Nouvelle-Aquitaine",
-    "placeHemicycle": 503
+    "placeHemicycle": 503,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA719822",
@@ -5871,7 +6404,8 @@
     "departement": "Indre-et-Loire",
     "numCirconscription": "5",
     "region": "Centre-Val de Loire",
-    "placeHemicycle": 334
+    "placeHemicycle": 334,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA841893",
@@ -5882,7 +6416,8 @@
     "departement": "Seine-et-Marne",
     "numCirconscription": "9",
     "region": "Ile-de-France",
-    "placeHemicycle": 552
+    "placeHemicycle": 552,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA722336",
@@ -5893,7 +6428,8 @@
     "departement": "Bas-Rhin",
     "numCirconscription": "9",
     "region": "Grand Est",
-    "placeHemicycle": 214
+    "placeHemicycle": 214,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA643089",
@@ -5904,7 +6440,8 @@
     "departement": "Seine-et-Marne",
     "numCirconscription": "3",
     "region": "Ile-de-France",
-    "placeHemicycle": 186
+    "placeHemicycle": 186,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA793816",
@@ -5915,7 +6452,8 @@
     "departement": "Finistère",
     "numCirconscription": "6",
     "region": "Bretagne",
-    "placeHemicycle": 433
+    "placeHemicycle": 433,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA793298",
@@ -5926,7 +6464,8 @@
     "departement": "Alpes-Maritimes",
     "numCirconscription": "2",
     "region": "Provence-Alpes-Côte d'Azur",
-    "placeHemicycle": 150
+    "placeHemicycle": 150,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA842299",
@@ -5937,7 +6476,8 @@
     "departement": "Nouvelle-Calédonie",
     "numCirconscription": "2",
     "region": "Nouvelle-Calédonie",
-    "placeHemicycle": 582
+    "placeHemicycle": 582,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA840067",
@@ -5948,7 +6488,8 @@
     "departement": "Alpes-Maritimes",
     "numCirconscription": "4",
     "region": "Provence-Alpes-Côte d'Azur",
-    "placeHemicycle": 70
+    "placeHemicycle": 70,
+    "debutMandat": "2024-06-30"
   },
   {
     "id": "PA840781",
@@ -5959,7 +6500,8 @@
     "departement": "Bouches-du-Rhône",
     "numCirconscription": "8",
     "region": "Provence-Alpes-Côte d'Azur",
-    "placeHemicycle": 85
+    "placeHemicycle": 85,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA607395",
@@ -5970,7 +6512,8 @@
     "departement": "Manche",
     "numCirconscription": "3",
     "region": "Normandie",
-    "placeHemicycle": 300
+    "placeHemicycle": 300,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA793334",
@@ -5981,7 +6524,8 @@
     "departement": "Alpes-Maritimes",
     "numCirconscription": "6",
     "region": "Provence-Alpes-Côte d'Azur",
-    "placeHemicycle": 109
+    "placeHemicycle": 109,
+    "debutMandat": "2024-06-30"
   },
   {
     "id": "PA795164",
@@ -5992,7 +6536,8 @@
     "departement": "Seine-Saint-Denis",
     "numCirconscription": "9",
     "region": "Ile-de-France",
-    "placeHemicycle": 618
+    "placeHemicycle": 618,
+    "debutMandat": "2024-06-30"
   },
   {
     "id": "PA842121",
@@ -6003,7 +6548,8 @@
     "departement": "Val-de-Marne",
     "numCirconscription": "7",
     "region": "Ile-de-France",
-    "placeHemicycle": 184
+    "placeHemicycle": 184,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA840685",
@@ -6014,7 +6560,8 @@
     "departement": "Ardèche",
     "numCirconscription": "2",
     "region": "Auvergne-Rhône-Alpes",
-    "placeHemicycle": 105
+    "placeHemicycle": 105,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA722162",
@@ -6025,7 +6572,8 @@
     "departement": "Vienne",
     "numCirconscription": "4",
     "region": "Nouvelle-Aquitaine",
-    "placeHemicycle": 354
+    "placeHemicycle": 354,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA878242",
@@ -6036,7 +6584,8 @@
     "departement": "Haute-Savoie",
     "numCirconscription": "3",
     "region": "Auvergne-Rhône-Alpes",
-    "placeHemicycle": 102
+    "placeHemicycle": 102,
+    "debutMandat": "2026-02-01"
   },
   {
     "id": "PA719930",
@@ -6047,7 +6596,8 @@
     "departement": "Landes",
     "numCirconscription": "3",
     "region": "Nouvelle-Aquitaine",
-    "placeHemicycle": 427
+    "placeHemicycle": 427,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA795350",
@@ -6058,7 +6608,8 @@
     "departement": "Seine-et-Marne",
     "numCirconscription": "2",
     "region": "Ile-de-France",
-    "placeHemicycle": 213
+    "placeHemicycle": 213,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA795596",
@@ -6069,7 +6620,8 @@
     "departement": "Val-d'Oise",
     "numCirconscription": "5",
     "region": "Ile-de-France",
-    "placeHemicycle": 573
+    "placeHemicycle": 573,
+    "debutMandat": "2024-06-30"
   },
   {
     "id": "PA794118",
@@ -6080,7 +6632,8 @@
     "departement": "Loire",
     "numCirconscription": "5",
     "region": "Auvergne-Rhône-Alpes",
-    "placeHemicycle": 162
+    "placeHemicycle": 162,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA840809",
@@ -6091,7 +6644,8 @@
     "departement": "Bouches-du-Rhône",
     "numCirconscription": "14",
     "region": "Provence-Alpes-Côte d'Azur",
-    "placeHemicycle": 88
+    "placeHemicycle": 88,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA794494",
@@ -6102,7 +6656,8 @@
     "departement": "Nord",
     "numCirconscription": "11",
     "region": "Hauts-de-France",
-    "placeHemicycle": 439
+    "placeHemicycle": 439,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA722102",
@@ -6113,7 +6668,8 @@
     "departement": "Seine-Maritime",
     "numCirconscription": "2",
     "region": "Normandie",
-    "placeHemicycle": 260
+    "placeHemicycle": 260,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA331582",
@@ -6124,7 +6680,8 @@
     "departement": "Eure-et-Loir",
     "numCirconscription": "4",
     "region": "Centre-Val de Loire",
-    "placeHemicycle": 337
+    "placeHemicycle": 337,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA607090",
@@ -6135,7 +6692,8 @@
     "departement": "Haute-Loire",
     "numCirconscription": "2",
     "region": "Auvergne-Rhône-Alpes",
-    "placeHemicycle": 188
+    "placeHemicycle": 188,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA719512",
@@ -6146,7 +6704,8 @@
     "departement": "Haute-Garonne",
     "numCirconscription": "3",
     "region": "Occitanie",
-    "placeHemicycle": 327
+    "placeHemicycle": 327,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA794946",
@@ -6157,7 +6716,8 @@
     "departement": "Haute-Saône",
     "numCirconscription": "1",
     "region": "Bourgogne-Franche-Comté",
-    "placeHemicycle": 30
+    "placeHemicycle": 30,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA795026",
@@ -6168,7 +6728,8 @@
     "departement": "Haute-Savoie",
     "numCirconscription": "5",
     "region": "Auvergne-Rhône-Alpes",
-    "placeHemicycle": 224
+    "placeHemicycle": 224,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA721474",
@@ -6179,7 +6740,8 @@
     "departement": "Vosges",
     "numCirconscription": "1",
     "region": "Grand Est",
-    "placeHemicycle": 406
+    "placeHemicycle": 406,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA841575",
@@ -6190,7 +6752,8 @@
     "departement": "Oise",
     "numCirconscription": "5",
     "region": "Hauts-de-France",
-    "placeHemicycle": 134
+    "placeHemicycle": 134,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA2940",
@@ -6201,7 +6764,8 @@
     "departement": "Doubs",
     "numCirconscription": "2",
     "region": "Bourgogne-Franche-Comté",
-    "placeHemicycle": 495
+    "placeHemicycle": 495,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA793194",
@@ -6212,7 +6776,8 @@
     "departement": "Ardennes",
     "numCirconscription": "1",
     "region": "Grand Est",
-    "placeHemicycle": 402
+    "placeHemicycle": 402,
+    "debutMandat": "2024-12-08"
   },
   {
     "id": "PA2952",
@@ -6223,7 +6788,8 @@
     "departement": "Ardennes",
     "numCirconscription": "3",
     "region": "Grand Est",
-    "placeHemicycle": 481
+    "placeHemicycle": 481,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA267285",
@@ -6234,7 +6800,8 @@
     "departement": "Haute-Loire",
     "numCirconscription": "1",
     "region": "Auvergne-Rhône-Alpes",
-    "placeHemicycle": 178
+    "placeHemicycle": 178,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA841479",
@@ -6245,7 +6812,8 @@
     "departement": "Meurthe-et-Moselle",
     "numCirconscription": "3",
     "region": "Grand Est",
-    "placeHemicycle": 118
+    "placeHemicycle": 118,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA795326",
@@ -6256,7 +6824,8 @@
     "departement": "Français établis hors de France",
     "numCirconscription": "1",
     "region": "Français établis hors de France",
-    "placeHemicycle": 297
+    "placeHemicycle": 297,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA720992",
@@ -6267,7 +6836,8 @@
     "departement": "Martinique",
     "numCirconscription": "1",
     "region": "Martinique",
-    "placeHemicycle": 448
+    "placeHemicycle": 448,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA795046",
@@ -6278,7 +6848,8 @@
     "departement": "Français établis hors de France",
     "numCirconscription": "8",
     "region": "Français établis hors de France",
-    "placeHemicycle": 324
+    "placeHemicycle": 324,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA796078",
@@ -6289,7 +6860,8 @@
     "departement": "Mayotte",
     "numCirconscription": "1",
     "region": "Mayotte",
-    "placeHemicycle": 382
+    "placeHemicycle": 382,
+    "debutMandat": "2024-06-30"
   },
   {
     "id": "PA942",
@@ -6300,7 +6872,8 @@
     "departement": "Marne",
     "numCirconscription": "5",
     "region": "Grand Est",
-    "placeHemicycle": 383
+    "placeHemicycle": 383,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA841613",
@@ -6311,7 +6884,8 @@
     "departement": "Pas-de-Calais",
     "numCirconscription": "7",
     "region": "Hauts-de-France",
-    "placeHemicycle": 144
+    "placeHemicycle": 144,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA642988",
@@ -6322,7 +6896,8 @@
     "departement": "Vaucluse",
     "numCirconscription": "3",
     "region": "Provence-Alpes-Côte d'Azur",
-    "placeHemicycle": 95
+    "placeHemicycle": 95,
+    "debutMandat": "2024-06-30"
   },
   {
     "id": "PA842141",
@@ -6333,7 +6908,8 @@
     "departement": "Hauts-de-Seine",
     "numCirconscription": "9",
     "region": "Ile-de-France",
-    "placeHemicycle": 212
+    "placeHemicycle": 212,
+    "debutMandat": "2025-02-09"
   },
   {
     "id": "PA841359",
@@ -6344,6 +6920,7 @@
     "departement": "Loiret",
     "numCirconscription": "3",
     "region": "Centre-Val de Loire",
-    "placeHemicycle": 478
+    "placeHemicycle": 478,
+    "debutMandat": "2024-07-07"
   }
 ]
