@@ -346,6 +346,27 @@ main {
   margin-top: 0.75rem;
 }
 
+.controle-hemicycle {
+  display: flex;
+  align-items: center;
+  gap: 0.4rem;
+  font-size: 0.82rem;
+  color: var(--texte-discret);
+  margin-bottom: 0.75rem;
+  cursor: pointer;
+}
+
+.badge-nouveau {
+  display: inline-block;
+  font-size: 0.7rem;
+  font-weight: 600;
+  padding: 0.1rem 0.5rem;
+  border-radius: 999px;
+  background: var(--accent);
+  color: #fff;
+  margin-left: 0.4rem;
+}
+
 .btn-secondaire {
   display: block;
   margin: 1.25rem auto 0;

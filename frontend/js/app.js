@@ -12,6 +12,7 @@ let moisCourant = new Date();
 let hemicycleCoordonnees = new Map();
 let participationDeputes = new Map();
 let activiteDeputes = new Map();
+let debutLegislature = null;
 
 async function chargerJSON(chemin) {
   const reponse = await fetch(chemin);
@@ -81,6 +82,41 @@ function afficherScrutinsSuivants() {
     scrutinsAffiches >= scrutinsIndex.length ? "none" : "block";
 }
 
+const COULEUR_POUR = "#2e8b57";
+const COULEUR_CONTRE = "#c0392b";
+const COULEUR_ABSTENTION = "#8d949a";
+const COULEUR_ABSENT = "#d8dce2";
+
+function hemicycleVotes(votesIndividuels) {
+  const positionParDepute = new Map(votesIndividuels.map((v) => [v.depute, v.position]));
+
+  const cercles = [...deputesParId.values()]
+    .filter((depute) => depute.placeHemicycle && hemicycleCoordonnees.has(depute.placeHemicycle))
+    .map((depute) => {
+      const { x, y } = hemicycleCoordonnees.get(depute.placeHemicycle);
+      const position = positionParDepute.get(depute.id);
+      const couleur =
+        position === "pour" ? COULEUR_POUR
+        : position === "contre" ? COULEUR_CONTRE
+        : position === "abstention" ? COULEUR_ABSTENTION
+        : COULEUR_ABSENT;
+      const etiquette = `${nomComplet(depute)} — ${position || "absent"}`;
+      return `<circle cx="${x}" cy="${y}" r="6" fill="${couleur}" class="siege-depute" data-depute-id="${depute.id}"><title>${etiquette}</title></circle>`;
+    })
+    .join("");
+
+  return `
+    <div class="hemicycle">
+      <svg viewBox="0 0 850 480" role="img" aria-label="Hémicycle du vote">${cercles}</svg>
+      <div class="legende-hemicycle">
+        <div class="legende-item"><span class="legende-pastille" style="background:${COULEUR_POUR}"></span>Pour</div>
+        <div class="legende-item"><span class="legende-pastille" style="background:${COULEUR_CONTRE}"></span>Contre</div>
+        <div class="legende-item"><span class="legende-pastille" style="background:${COULEUR_ABSTENTION}"></span>Abstention</div>
+        <div class="legende-item"><span class="legende-pastille" style="background:${COULEUR_ABSENT}"></span>Absent</div>
+      </div>
+    </div>`;
+}
+
 async function ouvrirDetailScrutin(numero) {
   const modal = document.getElementById("fond-modal");
   const contenu = document.getElementById("contenu-modal");
@@ -89,15 +125,6 @@ async function ouvrirDetailScrutin(numero) {
 
   try {
     const detail = await chargerJSON(`data/actuality/scrutins/${numero}.json`);
-    const lignesGroupes = [...detail.parGroupe]
-      .sort((a, b) => (b.pour + b.contre + b.abstentions) - (a.pour + a.contre + a.abstentions))
-      .map((g) => `
-        <div class="ligne-groupe-vote">
-          ${badgeGroupe(g.groupe)}
-          ${barreVotes(g.pour, g.contre, g.abstentions)}
-          <span>${g.pour}-${g.contre}-${g.abstentions}</span>
-        </div>`)
-      .join("");
 
     contenu.innerHTML = `
       <span class="badge-resultat ${classeResultat(detail.resultat)}">${detail.resultat}</span>
@@ -108,7 +135,7 @@ async function ouvrirDetailScrutin(numero) {
       <div class="detail-chiffres">
         ${detail.votants} votants · ${detail.pour} pour · ${detail.contre} contre · ${detail.abstentions} abstentions
       </div>
-      ${lignesGroupes}`;
+      ${hemicycleVotes(detail.votesIndividuels)}`;
   } catch (erreur) {
     contenu.innerHTML = `<p>Détail indisponible pour ce scrutin (hors fenêtre conservée, ou erreur : ${erreur.message}).</p>`;
   }
@@ -159,10 +186,25 @@ function ouvrirFicheDepute(id) {
     questionsEcrites: 0,
   };
 
+  // Les circonscriptions d'outre-mer et de l'étranger votent ~une semaine avant la
+  // métropole : le tout premier cohorte de députés a donc des débutMandat étalés sur
+  // quelques jours. Un seuil (30 jours) évite d'étiqueter à tort ces élus "d'origine"
+  // comme des remplaçants.
+  const SEUIL_NOUVEAU_JOURS = 30;
+  const estRemplacant =
+    depute.debutMandat &&
+    debutLegislature &&
+    (new Date(depute.debutMandat) - new Date(debutLegislature)) / 86400000 > SEUIL_NOUVEAU_JOURS;
+
   contenu.innerHTML = `
     ${badgeGroupe(depute.groupe)}
     <h2>${nomComplet(depute)}</h2>
     <p class="detail-chiffres">${groupe ? groupe.nom : ""}${lieu ? ` · ${lieu}` : ""}</p>
+    <p class="detail-chiffres">
+      ${depute.debutMandat ? `Député depuis le ${formaterDate(depute.debutMandat)}` : "Date d'entrée en fonction inconnue"}
+      ${estRemplacant ? `<span class="badge-nouveau">remplaçant</span>` : ""}
+      ${debutLegislature ? ` (législature depuis le ${formaterDate(debutLegislature)})` : ""}
+    </p>
 
     <h3>Participation aux scrutins (depuis son entrée en fonction)</h3>
     ${tauxParticipation === null
@@ -369,10 +411,20 @@ function legendeHemicycle(ordreGroupes) {
     .join("");
 }
 
+function rayonAbsenteisme(depute) {
+  const RAYON_MIN = 3;
+  const RAYON_MAX = 10;
+  const participation = participationDeputes.get(depute.id);
+  if (!participation) return RAYON_MIN;
+  const absenteisme = 1 - participation.votes / participation.totalScrutins;
+  return RAYON_MIN + (RAYON_MAX - RAYON_MIN) * absenteisme;
+}
+
 function afficherHemicycle() {
   const deputesAvecSiege = [...deputesParId.values()].filter(
     (d) => d.placeHemicycle && d.groupe && hemicycleCoordonnees.has(d.placeHemicycle)
   );
+  const tailleSelonAbsenteisme = document.getElementById("taille-absenteisme")?.checked;
 
   const cercles = deputesAvecSiege
     .map((depute) => {
@@ -380,7 +432,8 @@ function afficherHemicycle() {
       const groupe = groupesParId.get(depute.groupe);
       const couleur = groupe ? groupe.couleur : "#8d949a";
       const etiquette = `${nomComplet(depute)} (${groupe ? groupe.abrev : "NI"})`;
-      return `<circle cx="${x}" cy="${y}" r="6" fill="${couleur}"><title>${etiquette}</title></circle>`;
+      const rayon = tailleSelonAbsenteisme ? rayonAbsenteisme(depute).toFixed(1) : 6;
+      return `<circle cx="${x}" cy="${y}" r="${rayon}" fill="${couleur}" class="siege-depute" data-depute-id="${depute.id}"><title>${etiquette}</title></circle>`;
     })
     .join("");
 
@@ -391,6 +444,7 @@ function afficherHemicycle() {
     <div class="legende-hemicycle">${legendeHemicycle(ordreGroupes)}</div>
     <p class="hemicycle-note">
       Disposition réelle des sièges, d'après le plan officiel de l'Assemblée nationale.
+      ${tailleSelonAbsenteisme ? " Taille des sièges proportionnelle à l'absentéisme." : ""}
     </p>`;
 }
 
@@ -439,6 +493,10 @@ async function main() {
   hemicycleCoordonnees = new Map(coordonnees.sieges.map(([numero, x, y]) => [numero, { x, y }]));
   participationDeputes = new Map(Object.entries(participation));
   activiteDeputes = new Map(Object.entries(activite));
+  debutLegislature = deputes
+    .map((d) => d.debutMandat)
+    .filter(Boolean)
+    .sort()[0];
   moisCourant = index.length ? new Date(index[0].date) : new Date();
 
   remplirSelectGroupes("filtre-groupe");
@@ -460,7 +518,12 @@ async function main() {
 
     const carteDepute = e.target.closest(".carte-depute");
     if (carteDepute) ouvrirFicheDepute(carteDepute.dataset.deputeId);
+
+    const siegeDepute = e.target.closest(".siege-depute");
+    if (siegeDepute) ouvrirFicheDepute(siegeDepute.dataset.deputeId);
   });
+
+  document.getElementById("taille-absenteisme").addEventListener("change", afficherHemicycle);
 
   document.getElementById("mois-precedent").addEventListener("click", () => {
     moisCourant.setMonth(moisCourant.getMonth() - 1);
