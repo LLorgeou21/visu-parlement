@@ -12,6 +12,8 @@ URL_DEPUTES = (
     "AMO40_deputes_actifs_mandats_actifs_organes_divises.json.zip"
 )
 
+TENTATIVES_TELECHARGEMENT = 5
+
 ROOT = Path(__file__).resolve().parent.parent
 OUT_DEPUTES = ROOT / "data" / "permanent" / "deputes.json"
 OUT_GROUPES = ROOT / "data" / "permanent" / "groupes.json"
@@ -19,8 +21,15 @@ OUT_META = ROOT / "data" / "permanent" / "meta.json"
 
 
 def telecharger_zip(url: str) -> zipfile.ZipFile:
-    with urlopen(url) as reponse:
-        return zipfile.ZipFile(io.BytesIO(reponse.read()))
+    # La connexion se coupe parfois en cours de route, d'où les tentatives multiples.
+    derniere_erreur = None
+    for _ in range(TENTATIVES_TELECHARGEMENT):
+        try:
+            with urlopen(url) as reponse:
+                return zipfile.ZipFile(io.BytesIO(reponse.read()))
+        except Exception as erreur:  # noqa: BLE001
+            derniere_erreur = erreur
+    raise derniere_erreur
 
 
 def charger_json(archive: zipfile.ZipFile, prefixe: str) -> dict[str, dict]:

@@ -17,6 +17,7 @@ from urllib.request import urlopen
 URL_SCRUTINS = "http://data.assemblee-nationale.fr/static/openData/repository/17/loi/scrutins/Scrutins.json.zip"
 
 JOURS_DETAIL = 90  # fenêtre glissante pour laquelle on garde le détail nominatif
+TENTATIVES_TELECHARGEMENT = 5
 
 ROOT = Path(__file__).resolve().parent.parent
 IN_DEPUTES = ROOT / "data" / "permanent" / "deputes.json"
@@ -35,8 +36,15 @@ def charger_debuts_mandat() -> dict[str, str]:
 
 
 def telecharger_zip(url: str) -> zipfile.ZipFile:
-    with urlopen(url) as reponse:
-        return zipfile.ZipFile(io.BytesIO(reponse.read()))
+    # La connexion se coupe parfois en cours de route, d'où les tentatives multiples.
+    derniere_erreur = None
+    for _ in range(TENTATIVES_TELECHARGEMENT):
+        try:
+            with urlopen(url) as reponse:
+                return zipfile.ZipFile(io.BytesIO(reponse.read()))
+        except Exception as erreur:  # noqa: BLE001
+            derniere_erreur = erreur
+    raise derniere_erreur
 
 
 def votants(bloc: dict | None) -> list[str]:
