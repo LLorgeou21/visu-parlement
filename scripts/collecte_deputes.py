@@ -1,6 +1,7 @@
 """Télécharge et transforme les données des députés en exercice depuis data.assemblee-nationale.fr."""
 import io
 import json
+import time
 import zipfile
 from datetime import datetime, timezone
 from pathlib import Path
@@ -21,11 +22,14 @@ OUT_META = ROOT / "data" / "permanent" / "meta.json"
 
 
 def telecharger_zip(url: str) -> zipfile.ZipFile:
-    # La connexion se coupe parfois en cours de route, d'où les tentatives multiples.
+    # La connexion se coupe parfois en cours de route, d'où les tentatives
+    # multiples avec un délai croissant.
     derniere_erreur = None
-    for _ in range(TENTATIVES_TELECHARGEMENT):
+    for essai in range(TENTATIVES_TELECHARGEMENT):
+        if essai > 0:
+            time.sleep(min(2 ** essai, 30))
         try:
-            with urlopen(url) as reponse:
+            with urlopen(url, timeout=60) as reponse:
                 return zipfile.ZipFile(io.BytesIO(reponse.read()))
         except Exception as erreur:  # noqa: BLE001
             derniere_erreur = erreur

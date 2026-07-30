@@ -9,6 +9,7 @@ scripts de collecte de ce projet, les textes de loi n'étant publiés qu'en PDF.
 import io
 import json
 import re
+import time
 import zipfile
 from pathlib import Path
 from urllib.request import urlopen
@@ -33,9 +34,11 @@ OUT_RESUMES = ROOT / "data" / "actuality" / "resumes_lois.json"
 
 def telecharger(url: str) -> bytes:
     derniere_erreur = None
-    for _ in range(TENTATIVES_TELECHARGEMENT):
+    for essai in range(TENTATIVES_TELECHARGEMENT):
+        if essai > 0:
+            time.sleep(min(2 ** essai, 30))
         try:
-            with urlopen(url) as reponse:
+            with urlopen(url, timeout=60) as reponse:
                 return reponse.read()
         except Exception as erreur:  # noqa: BLE001
             derniere_erreur = erreur

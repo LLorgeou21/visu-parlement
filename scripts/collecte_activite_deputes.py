@@ -7,6 +7,7 @@ par rapport aux scrutins : ce script est fait pour tourner moins souvent
 """
 import io
 import json
+import time
 import zipfile
 from pathlib import Path
 from urllib.request import urlopen
@@ -16,6 +17,7 @@ URL_QUESTIONS = "https://data.assemblee-nationale.fr/static/openData/repository/
 URL_DOSSIERS = "http://data.assemblee-nationale.fr/static/openData/repository/17/loi/dossiers_legislatifs/Dossiers_Legislatifs.json.zip"
 
 TENTATIVES_TELECHARGEMENT = 5
+DELAI_TIMEOUT = 120  # secondes, pour les archives volumineuses (~300 Mo)
 
 ROOT = Path(__file__).resolve().parent.parent
 OUT_ACTIVITE = ROOT / "data" / "actuality" / "activite_deputes.json"
@@ -23,11 +25,14 @@ OUT_ACTIVITE = ROOT / "data" / "actuality" / "activite_deputes.json"
 
 def telecharger_zip(url: str) -> zipfile.ZipFile:
     # Ces archives sont volumineuses (jusqu'à ~300 Mo) : la connexion se coupe
-    # parfois en cours de route, d'où les tentatives multiples.
+    # parfois en cours de route, d'où les tentatives multiples avec un délai
+    # croissant (une coupure réseau ne se résout pas forcément en 0 seconde).
     derniere_erreur = None
-    for _ in range(TENTATIVES_TELECHARGEMENT):
+    for essai in range(TENTATIVES_TELECHARGEMENT):
+        if essai > 0:
+            time.sleep(min(2 ** essai, 30))
         try:
-            with urlopen(url) as reponse:
+            with urlopen(url, timeout=DELAI_TIMEOUT) as reponse:
                 return zipfile.ZipFile(io.BytesIO(reponse.read()))
         except Exception as erreur:  # noqa: BLE001
             derniere_erreur = erreur
