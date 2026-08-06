@@ -636,18 +636,6 @@
     "debutMandat": "2024-07-07"
   },
   {
-    "id": "PA719218",
-    "civilite": "M.",
-    "prenom": "Hervé",
-    "nom": "Berville",
-    "groupe": "PO845407",
-    "departement": "Côtes-d'Armor",
-    "numCirconscription": "2",
-    "region": "Bretagne",
-    "placeHemicycle": 295,
-    "debutMandat": "2024-07-07"
-  },
-  {
     "id": "PA309643",
     "civilite": "Mme",
     "prenom": "Véronique",
@@ -970,6 +958,18 @@
     "region": "Bretagne",
     "placeHemicycle": 436,
     "debutMandat": "2024-06-30"
+  },
+  {
+    "id": "PA793528",
+    "civilite": "Mme",
+    "prenom": "Chantal",
+    "nom": "Bouloux",
+    "groupe": "PO845407",
+    "departement": "Côtes-d'Armor",
+    "numCirconscription": "2",
+    "region": "Bretagne",
+    "placeHemicycle": null,
+    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA794938",
@@ -3156,6 +3156,18 @@
     "debutMandat": "2024-07-07"
   },
   {
+    "id": "PA841709",
+    "civilite": "Mme",
+    "prenom": "Emmanuelle",
+    "nom": "Hoffman",
+    "groupe": "PO845407",
+    "departement": "Paris",
+    "numCirconscription": "4",
+    "region": "Ile-de-France",
+    "placeHemicycle": null,
+    "debutMandat": "2024-07-07"
+  },
+  {
     "id": "PA1654",
     "civilite": "M.",
     "prenom": "François",
@@ -5085,18 +5097,6 @@
     "numCirconscription": "8",
     "region": "Nouvelle-Aquitaine",
     "placeHemicycle": 378,
-    "debutMandat": "2024-07-07"
-  },
-  {
-    "id": "PA795050",
-    "civilite": "Mme",
-    "prenom": "Astrid",
-    "nom": "Panosyan-Bouvet",
-    "groupe": "PO845407",
-    "departement": "Paris",
-    "numCirconscription": "4",
-    "region": "Ile-de-France",
-    "placeHemicycle": 312,
     "debutMandat": "2024-07-07"
   },
   {
