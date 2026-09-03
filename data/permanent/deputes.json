@@ -596,7 +596,7 @@
     "departement": "Gironde",
     "numCirconscription": "10",
     "region": "Nouvelle-Aquitaine",
-    "placeHemicycle": null,
+    "placeHemicycle": 309,
     "debutMandat": "2024-07-07"
   },
   {
@@ -968,7 +968,7 @@
     "departement": "Côtes-d'Armor",
     "numCirconscription": "2",
     "region": "Bretagne",
-    "placeHemicycle": null,
+    "placeHemicycle": 295,
     "debutMandat": "2024-07-07"
   },
   {
@@ -1436,7 +1436,7 @@
     "departement": "Gers",
     "numCirconscription": "1",
     "region": "Occitanie",
-    "placeHemicycle": 282,
+    "placeHemicycle": 251,
     "debutMandat": "2024-07-07"
   },
   {
@@ -2024,7 +2024,7 @@
     "departement": "Saône-et-Loire",
     "numCirconscription": "1",
     "region": "Bourgogne-Franche-Comté",
-    "placeHemicycle": 285,
+    "placeHemicycle": 249,
     "debutMandat": "2024-07-07"
   },
   {
@@ -2432,7 +2432,7 @@
     "departement": "Deux-Sèvres",
     "numCirconscription": "3",
     "region": "Nouvelle-Aquitaine",
-    "placeHemicycle": 309,
+    "placeHemicycle": 282,
     "debutMandat": "2024-07-07"
   },
   {
@@ -3164,7 +3164,7 @@
     "departement": "Paris",
     "numCirconscription": "4",
     "region": "Ile-de-France",
-    "placeHemicycle": null,
+    "placeHemicycle": 312,
     "debutMandat": "2024-07-07"
   },
   {
@@ -6200,7 +6200,7 @@
     "departement": "Nord",
     "numCirconscription": "9",
     "region": "Hauts-de-France",
-    "placeHemicycle": 249,
+    "placeHemicycle": 285,
     "debutMandat": "2024-07-07"
   },
   {
