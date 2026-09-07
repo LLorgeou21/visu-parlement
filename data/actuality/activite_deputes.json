@@ -6740,6 +6740,13 @@
     "questionsEcrites": 0,
     "propositionsLoi": 1
   },
+  "PA703529": {
+    "amendementsAuteur": 0,
+    "amendementsCosignataire": 0,
+    "amendementsAdoptes": 0,
+    "questionsEcrites": 0,
+    "propositionsLoi": 5
+  },
   "PA736236": {
     "amendementsAuteur": 0,
     "amendementsCosignataire": 0,
@@ -6788,13 +6795,6 @@
     "amendementsAdoptes": 0,
     "questionsEcrites": 0,
     "propositionsLoi": 1
-  },
-  "PA703529": {
-    "amendementsAuteur": 0,
-    "amendementsCosignataire": 0,
-    "amendementsAdoptes": 0,
-    "questionsEcrites": 0,
-    "propositionsLoi": 3
   },
   "PA827934": {
     "amendementsAuteur": 0,
