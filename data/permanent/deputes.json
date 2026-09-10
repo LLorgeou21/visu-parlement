@@ -2640,6 +2640,18 @@
     "debutMandat": "2024-07-07"
   },
   {
+    "id": "PA642734",
+    "civilite": "M.",
+    "prenom": "Eric",
+    "nom": "Gerard",
+    "groupe": "PO840056",
+    "departement": "Eure-et-Loir",
+    "numCirconscription": "3",
+    "region": "Centre-Val de Loire",
+    "placeHemicycle": null,
+    "debutMandat": "2024-07-07"
+  },
+  {
     "id": "PA794234",
     "civilite": "M.",
     "prenom": "François",
@@ -3213,18 +3225,6 @@
     "numCirconscription": "4",
     "region": "Grand Est",
     "placeHemicycle": 81,
-    "debutMandat": "2024-07-07"
-  },
-  {
-    "id": "PA841017",
-    "civilite": "M.",
-    "prenom": "Harold",
-    "nom": "Huwart",
-    "groupe": "PO845485",
-    "departement": "Eure-et-Loir",
-    "numCirconscription": "3",
-    "region": "Centre-Val de Loire",
-    "placeHemicycle": 480,
     "debutMandat": "2024-07-07"
   },
   {
