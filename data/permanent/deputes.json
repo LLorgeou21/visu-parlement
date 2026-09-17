@@ -1180,7 +1180,7 @@
     "civilite": "M.",
     "prenom": "Philippe",
     "nom": "Brun",
-    "groupe": "PO845419",
+    "groupe": "PO840056",
     "departement": "Eure",
     "numCirconscription": "4",
     "region": "Normandie",
@@ -2640,18 +2640,6 @@
     "debutMandat": "2024-07-07"
   },
   {
-    "id": "PA642734",
-    "civilite": "M.",
-    "prenom": "Eric",
-    "nom": "Gerard",
-    "groupe": "PO840056",
-    "departement": "Eure-et-Loir",
-    "numCirconscription": "3",
-    "region": "Centre-Val de Loire",
-    "placeHemicycle": null,
-    "debutMandat": "2024-07-07"
-  },
-  {
     "id": "PA794234",
     "civilite": "M.",
     "prenom": "François",
@@ -3009,6 +2997,18 @@
     "numCirconscription": "3",
     "region": "Ile-de-France",
     "placeHemicycle": 541,
+    "debutMandat": "2024-07-07"
+  },
+  {
+    "id": "PA642734",
+    "civilite": "M.",
+    "prenom": "Eric",
+    "nom": "Gérard",
+    "groupe": "PO840056",
+    "departement": "Eure-et-Loir",
+    "numCirconscription": "3",
+    "region": "Centre-Val de Loire",
+    "placeHemicycle": null,
     "debutMandat": "2024-07-07"
   },
   {
