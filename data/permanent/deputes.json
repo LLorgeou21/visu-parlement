@@ -80,7 +80,7 @@
     "departement": "Hautes-Alpes",
     "numCirconscription": "1",
     "region": "Provence-Alpes-Côte d'Azur",
-    "placeHemicycle": 471,
+    "placeHemicycle": 444,
     "debutMandat": "2024-07-07"
   },
   {
@@ -476,7 +476,7 @@
     "departement": "Moselle",
     "numCirconscription": "1",
     "region": "Grand Est",
-    "placeHemicycle": 484,
+    "placeHemicycle": 471,
     "debutMandat": "2024-07-07"
   },
   {
@@ -1184,7 +1184,7 @@
     "departement": "Eure",
     "numCirconscription": "4",
     "region": "Normandie",
-    "placeHemicycle": 422,
+    "placeHemicycle": 484,
     "debutMandat": "2024-07-07"
   },
   {
@@ -1892,7 +1892,7 @@
     "departement": "Nord",
     "numCirconscription": "3",
     "region": "Hauts-de-France",
-    "placeHemicycle": 321,
+    "placeHemicycle": 322,
     "debutMandat": "2024-06-30"
   },
   {
@@ -3008,7 +3008,7 @@
     "departement": "Eure-et-Loir",
     "numCirconscription": "3",
     "region": "Centre-Val de Loire",
-    "placeHemicycle": null,
+    "placeHemicycle": 480,
     "debutMandat": "2024-07-07"
   },
   {
@@ -3248,7 +3248,7 @@
     "departement": "Paris",
     "numCirconscription": "13",
     "region": "Ile-de-France",
-    "placeHemicycle": 322,
+    "placeHemicycle": 280,
     "debutMandat": "2024-07-07"
   },
   {
@@ -3788,7 +3788,7 @@
     "departement": "Ille-et-Vilaine",
     "numCirconscription": "5",
     "region": "Bretagne",
-    "placeHemicycle": 280,
+    "placeHemicycle": 321,
     "debutMandat": "2024-07-07"
   },
   {
@@ -5456,7 +5456,7 @@
     "departement": "Côte-d'Or",
     "numCirconscription": "3",
     "region": "Bourgogne-Franche-Comté",
-    "placeHemicycle": 444,
+    "placeHemicycle": 422,
     "debutMandat": "2024-07-07"
   },
   {
