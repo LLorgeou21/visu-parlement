@@ -108,18 +108,6 @@
     "debutMandat": "2024-07-07"
   },
   {
-    "id": "PA794906",
-    "civilite": "M.",
-    "prenom": "Gabriel",
-    "nom": "Amard",
-    "groupe": "PO845413",
-    "departement": "Rhône",
-    "numCirconscription": "6",
-    "region": "Auvergne-Rhône-Alpes",
-    "placeHemicycle": 544,
-    "debutMandat": "2024-07-07"
-  },
-  {
     "id": "PA841495",
     "civilite": "M.",
     "prenom": "Maxime",
@@ -429,18 +417,6 @@
     "numCirconscription": "4",
     "region": "Grand Est",
     "placeHemicycle": 165,
-    "debutMandat": "2024-07-07"
-  },
-  {
-    "id": "PA718884",
-    "civilite": "Mme",
-    "prenom": "Valérie",
-    "nom": "Bazin-Malgras",
-    "groupe": "PO845425",
-    "departement": "Aube",
-    "numCirconscription": "2",
-    "region": "Grand Est",
-    "placeHemicycle": 199,
     "debutMandat": "2024-07-07"
   },
   {
@@ -981,18 +957,6 @@
     "numCirconscription": "14",
     "region": "Auvergne-Rhône-Alpes",
     "placeHemicycle": 619,
-    "debutMandat": "2024-07-07"
-  },
-  {
-    "id": "PA841131",
-    "civilite": "Mme",
-    "prenom": "Manon",
-    "nom": "Bouquin",
-    "groupe": "PO845401",
-    "departement": "Hérault",
-    "numCirconscription": "4",
-    "region": "Occitanie",
-    "placeHemicycle": 124,
     "debutMandat": "2024-07-07"
   },
   {
@@ -1980,18 +1944,6 @@
     "debutMandat": "2024-06-30"
   },
   {
-    "id": "PA793928",
-    "civilite": "Mme",
-    "prenom": "Edwige",
-    "nom": "Diaz",
-    "groupe": "PO845401",
-    "departement": "Gironde",
-    "numCirconscription": "11",
-    "region": "Nouvelle-Aquitaine",
-    "placeHemicycle": 33,
-    "debutMandat": "2024-06-30"
-  },
-  {
     "id": "PA841919",
     "civilite": "Mme",
     "prenom": "Dieynaba",
@@ -2676,18 +2628,6 @@
     "debutMandat": "2024-07-07"
   },
   {
-    "id": "PA796034",
-    "civilite": "M.",
-    "prenom": "Frank",
-    "nom": "Giletti",
-    "groupe": "PO845401",
-    "departement": "Var",
-    "numCirconscription": "6",
-    "region": "Provence-Alpes-Côte d'Azur",
-    "placeHemicycle": 148,
-    "debutMandat": "2024-06-30"
-  },
-  {
     "id": "PA793832",
     "civilite": "M.",
     "prenom": "Yoann",
@@ -3360,18 +3300,6 @@
     "debutMandat": "2024-07-07"
   },
   {
-    "id": "PA841075",
-    "civilite": "Mme",
-    "prenom": "Sylvie",
-    "nom": "Josserand",
-    "groupe": "PO845401",
-    "departement": "Gard",
-    "numCirconscription": "6",
-    "region": "Occitanie",
-    "placeHemicycle": 18,
-    "debutMandat": "2024-07-07"
-  },
-  {
     "id": "PA720038",
     "civilite": "Mme",
     "prenom": "Sandrine",
@@ -3478,18 +3406,6 @@
     "region": "Pays de la Loire",
     "placeHemicycle": 537,
     "debutMandat": "2024-06-30"
-  },
-  {
-    "id": "PA719052",
-    "civilite": "M.",
-    "prenom": "Loïc",
-    "nom": "Kervran",
-    "groupe": "PO845470",
-    "departement": "Cher",
-    "numCirconscription": "3",
-    "region": "Centre-Val de Loire",
-    "placeHemicycle": 227,
-    "debutMandat": "2024-07-07"
   },
   {
     "id": "PA643184",
@@ -3656,7 +3572,7 @@
     "departement": "Isère",
     "numCirconscription": "1",
     "region": "Auvergne-Rhône-Alpes",
-    "placeHemicycle": 490,
+    "placeHemicycle": 397,
     "debutMandat": "2025-01-19"
   },
   {
@@ -5313,18 +5229,6 @@
     "numCirconscription": "2",
     "region": "Auvergne-Rhône-Alpes",
     "placeHemicycle": 426,
-    "debutMandat": "2024-07-07"
-  },
-  {
-    "id": "PA793572",
-    "civilite": "M.",
-    "prenom": "Christophe",
-    "nom": "Plassard",
-    "groupe": "PO845470",
-    "departement": "Charente-Maritime",
-    "numCirconscription": "5",
-    "region": "Nouvelle-Aquitaine",
-    "placeHemicycle": 225,
     "debutMandat": "2024-07-07"
   },
   {
