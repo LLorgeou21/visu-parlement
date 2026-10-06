@@ -1,6 +1,36 @@
 {
   "PO845401": [
     {
+      "numero": "8512",
+      "date": "2026-10-05",
+      "titre": "l'article 15 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 21,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "8511",
+      "date": "2026-10-05",
+      "titre": "l'amendement n° 1148 de Mme Spillebout après l'article 14 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 21,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "8510",
+      "date": "2026-10-05",
+      "titre": "l'amendement n° 411 de Mme Legrain de rétablissement de l'article 14 (supprimé) de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 16,
+      "contre": 2,
+      "abstentions": 0
+    },
+    {
       "numero": "8509",
       "date": "2026-10-02",
       "titre": "l'amendement n° 1041 du Gouvernement et l'amendement identique suivant à l'article 13 bis de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
@@ -5209,99 +5239,39 @@
       "pour": 0,
       "contre": 49,
       "abstentions": 0
-    },
-    {
-      "numero": "7988",
-      "date": "2026-07-07",
-      "titre": "la motion de rejet préalable, déposée par Mme Mathilde Panot, du projet de loi visant à offrir des réponses immédiates aux phénomènes troublant l'ordre public, la sécurité et la tranquillité de nos concitoyens (première lecture).",
-      "resultat": "rejeté",
-      "position": "contre",
-      "pour": 0,
-      "contre": 61,
-      "abstentions": 0
-    },
-    {
-      "numero": "7987",
-      "date": "2026-07-07",
-      "titre": "l'ensemble de la proposition de loi visant à reconnaître une présomption de légitime défense pour les forces de l'ordre, dans l'exercice de leurs fonctions (première lecture).",
-      "resultat": "adopté",
-      "position": "pour",
-      "pour": 122,
-      "contre": 0,
-      "abstentions": 0
-    },
-    {
-      "numero": "7986",
-      "date": "2026-07-07",
-      "titre": "l'amendement n° 38 de M. Eskenazi au titre de la proposition de loi visant à reconnaître une présomption de légitime défense pour les forces de l'ordre, dans l'exercice de leurs fonctions (première lecture).",
-      "resultat": "rejeté",
-      "position": "contre",
-      "pour": 0,
-      "contre": 92,
-      "abstentions": 0
-    },
-    {
-      "numero": "7985",
-      "date": "2026-07-07",
-      "titre": "l'amendement n° 37 de Mme Hadizadeh au titre de la proposition de loi visant à reconnaître une présomption de légitime défense pour les forces de l'ordre, dans l'exercice de leurs fonctions (première lecture).",
-      "resultat": "rejeté",
-      "position": "contre",
-      "pour": 0,
-      "contre": 94,
-      "abstentions": 0
-    },
-    {
-      "numero": "7984",
-      "date": "2026-07-07",
-      "titre": "l'amendement n° 32 de M. Amirshahi au titre de la proposition de loi visant à reconnaître une présomption de légitime défense pour les forces de l'ordre, dans l'exercice de leurs fonctions (première lecture).",
-      "resultat": "rejeté",
-      "position": "contre",
-      "pour": 0,
-      "contre": 94,
-      "abstentions": 0
-    },
-    {
-      "numero": "7983",
-      "date": "2026-07-07",
-      "titre": "l'amendement n° 16 de M. Bompard au titre de la proposition de loi visant à reconnaître une présomption de légitime défense pour les forces de l'ordre, dans l'exercice de leurs fonctions (première lecture).",
-      "resultat": "rejeté",
-      "position": "contre",
-      "pour": 0,
-      "contre": 94,
-      "abstentions": 0
-    },
-    {
-      "numero": "7982",
-      "date": "2026-07-07",
-      "titre": "la proposition du Gouvernement de prolonger la séance en cours au-delà de vingt heures (proposition de loi visant à reconnaître une présomption de légitime défense pour les forces de l'ordre, dans l'exercice de leurs fonctions) (première lecture).",
-      "resultat": "adopté",
-      "position": "pour",
-      "pour": 94,
-      "contre": 0,
-      "abstentions": 0
-    },
-    {
-      "numero": "7981",
-      "date": "2026-07-07",
-      "titre": "l'ensemble du projet de loi organique relatif au renforcement des juridictions criminelles (première lecture).",
-      "resultat": "adopté",
-      "position": "pour",
-      "pour": 121,
-      "contre": 0,
-      "abstentions": 0
-    },
-    {
-      "numero": "7980",
-      "date": "2026-07-07",
-      "titre": "l'ensemble du projet de loi sur la justice criminelle et le respect des victimes (première lecture).",
-      "resultat": "adopté",
-      "position": "pour",
-      "pour": 118,
-      "contre": 0,
-      "abstentions": 0
     }
   ],
   "PO845407": [
+    {
+      "numero": "8512",
+      "date": "2026-10-05",
+      "titre": "l'article 15 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 20,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "8511",
+      "date": "2026-10-05",
+      "titre": "l'amendement n° 1148 de Mme Spillebout après l'article 14 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+      "resultat": "adopté",
+      "position": "contre",
+      "pour": 14,
+      "contre": 6,
+      "abstentions": 0
+    },
+    {
+      "numero": "8510",
+      "date": "2026-10-05",
+      "titre": "l'amendement n° 411 de Mme Legrain de rétablissement de l'article 14 (supprimé) de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 19,
+      "abstentions": 0
+    },
     {
       "numero": "8509",
       "date": "2026-10-02",
@@ -10511,99 +10481,39 @@
       "pour": 0,
       "contre": 38,
       "abstentions": 0
-    },
-    {
-      "numero": "7988",
-      "date": "2026-07-07",
-      "titre": "la motion de rejet préalable, déposée par Mme Mathilde Panot, du projet de loi visant à offrir des réponses immédiates aux phénomènes troublant l'ordre public, la sécurité et la tranquillité de nos concitoyens (première lecture).",
-      "resultat": "rejeté",
-      "position": "contre",
-      "pour": 0,
-      "contre": 51,
-      "abstentions": 0
-    },
-    {
-      "numero": "7987",
-      "date": "2026-07-07",
-      "titre": "l'ensemble de la proposition de loi visant à reconnaître une présomption de légitime défense pour les forces de l'ordre, dans l'exercice de leurs fonctions (première lecture).",
-      "resultat": "adopté",
-      "position": "pour",
-      "pour": 55,
-      "contre": 12,
-      "abstentions": 0
-    },
-    {
-      "numero": "7986",
-      "date": "2026-07-07",
-      "titre": "l'amendement n° 38 de M. Eskenazi au titre de la proposition de loi visant à reconnaître une présomption de légitime défense pour les forces de l'ordre, dans l'exercice de leurs fonctions (première lecture).",
-      "resultat": "rejeté",
-      "position": "contre",
-      "pour": 0,
-      "contre": 36,
-      "abstentions": 0
-    },
-    {
-      "numero": "7985",
-      "date": "2026-07-07",
-      "titre": "l'amendement n° 37 de Mme Hadizadeh au titre de la proposition de loi visant à reconnaître une présomption de légitime défense pour les forces de l'ordre, dans l'exercice de leurs fonctions (première lecture).",
-      "resultat": "rejeté",
-      "position": "contre",
-      "pour": 0,
-      "contre": 41,
-      "abstentions": 0
-    },
-    {
-      "numero": "7984",
-      "date": "2026-07-07",
-      "titre": "l'amendement n° 32 de M. Amirshahi au titre de la proposition de loi visant à reconnaître une présomption de légitime défense pour les forces de l'ordre, dans l'exercice de leurs fonctions (première lecture).",
-      "resultat": "rejeté",
-      "position": "contre",
-      "pour": 0,
-      "contre": 39,
-      "abstentions": 0
-    },
-    {
-      "numero": "7983",
-      "date": "2026-07-07",
-      "titre": "l'amendement n° 16 de M. Bompard au titre de la proposition de loi visant à reconnaître une présomption de légitime défense pour les forces de l'ordre, dans l'exercice de leurs fonctions (première lecture).",
-      "resultat": "rejeté",
-      "position": "contre",
-      "pour": 0,
-      "contre": 38,
-      "abstentions": 0
-    },
-    {
-      "numero": "7982",
-      "date": "2026-07-07",
-      "titre": "la proposition du Gouvernement de prolonger la séance en cours au-delà de vingt heures (proposition de loi visant à reconnaître une présomption de légitime défense pour les forces de l'ordre, dans l'exercice de leurs fonctions) (première lecture).",
-      "resultat": "adopté",
-      "position": "pour",
-      "pour": 42,
-      "contre": 0,
-      "abstentions": 0
-    },
-    {
-      "numero": "7981",
-      "date": "2026-07-07",
-      "titre": "l'ensemble du projet de loi organique relatif au renforcement des juridictions criminelles (première lecture).",
-      "resultat": "adopté",
-      "position": "pour",
-      "pour": 80,
-      "contre": 1,
-      "abstentions": 1
-    },
-    {
-      "numero": "7980",
-      "date": "2026-07-07",
-      "titre": "l'ensemble du projet de loi sur la justice criminelle et le respect des victimes (première lecture).",
-      "resultat": "adopté",
-      "position": "pour",
-      "pour": 78,
-      "contre": 0,
-      "abstentions": 1
     }
   ],
   "PO845413": [
+    {
+      "numero": "8512",
+      "date": "2026-10-05",
+      "titre": "l'article 15 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+      "resultat": "adopté",
+      "position": "abstention",
+      "pour": 0,
+      "contre": 0,
+      "abstentions": 14
+    },
+    {
+      "numero": "8511",
+      "date": "2026-10-05",
+      "titre": "l'amendement n° 1148 de Mme Spillebout après l'article 14 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 13,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "8510",
+      "date": "2026-10-05",
+      "titre": "l'amendement n° 411 de Mme Legrain de rétablissement de l'article 14 (supprimé) de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 13,
+      "contre": 0,
+      "abstentions": 0
+    },
     {
       "numero": "8509",
       "date": "2026-10-02",
@@ -15813,99 +15723,39 @@
       "pour": 40,
       "contre": 0,
       "abstentions": 0
-    },
-    {
-      "numero": "7988",
-      "date": "2026-07-07",
-      "titre": "la motion de rejet préalable, déposée par Mme Mathilde Panot, du projet de loi visant à offrir des réponses immédiates aux phénomènes troublant l'ordre public, la sécurité et la tranquillité de nos concitoyens (première lecture).",
-      "resultat": "rejeté",
-      "position": "pour",
-      "pour": 37,
-      "contre": 0,
-      "abstentions": 0
-    },
-    {
-      "numero": "7987",
-      "date": "2026-07-07",
-      "titre": "l'ensemble de la proposition de loi visant à reconnaître une présomption de légitime défense pour les forces de l'ordre, dans l'exercice de leurs fonctions (première lecture).",
-      "resultat": "adopté",
-      "position": "contre",
-      "pour": 0,
-      "contre": 69,
-      "abstentions": 0
-    },
-    {
-      "numero": "7986",
-      "date": "2026-07-07",
-      "titre": "l'amendement n° 38 de M. Eskenazi au titre de la proposition de loi visant à reconnaître une présomption de légitime défense pour les forces de l'ordre, dans l'exercice de leurs fonctions (première lecture).",
-      "resultat": "rejeté",
-      "position": "pour",
-      "pour": 42,
-      "contre": 0,
-      "abstentions": 0
-    },
-    {
-      "numero": "7985",
-      "date": "2026-07-07",
-      "titre": "l'amendement n° 37 de Mme Hadizadeh au titre de la proposition de loi visant à reconnaître une présomption de légitime défense pour les forces de l'ordre, dans l'exercice de leurs fonctions (première lecture).",
-      "resultat": "rejeté",
-      "position": "pour",
-      "pour": 50,
-      "contre": 1,
-      "abstentions": 0
-    },
-    {
-      "numero": "7984",
-      "date": "2026-07-07",
-      "titre": "l'amendement n° 32 de M. Amirshahi au titre de la proposition de loi visant à reconnaître une présomption de légitime défense pour les forces de l'ordre, dans l'exercice de leurs fonctions (première lecture).",
-      "resultat": "rejeté",
-      "position": "pour",
-      "pour": 48,
-      "contre": 3,
-      "abstentions": 0
-    },
-    {
-      "numero": "7983",
-      "date": "2026-07-07",
-      "titre": "l'amendement n° 16 de M. Bompard au titre de la proposition de loi visant à reconnaître une présomption de légitime défense pour les forces de l'ordre, dans l'exercice de leurs fonctions (première lecture).",
-      "resultat": "rejeté",
-      "position": "pour",
-      "pour": 52,
-      "contre": 0,
-      "abstentions": 0
-    },
-    {
-      "numero": "7982",
-      "date": "2026-07-07",
-      "titre": "la proposition du Gouvernement de prolonger la séance en cours au-delà de vingt heures (proposition de loi visant à reconnaître une présomption de légitime défense pour les forces de l'ordre, dans l'exercice de leurs fonctions) (première lecture).",
-      "resultat": "adopté",
-      "position": "contre",
-      "pour": 0,
-      "contre": 52,
-      "abstentions": 0
-    },
-    {
-      "numero": "7981",
-      "date": "2026-07-07",
-      "titre": "l'ensemble du projet de loi organique relatif au renforcement des juridictions criminelles (première lecture).",
-      "resultat": "adopté",
-      "position": "contre",
-      "pour": 0,
-      "contre": 66,
-      "abstentions": 0
-    },
-    {
-      "numero": "7980",
-      "date": "2026-07-07",
-      "titre": "l'ensemble du projet de loi sur la justice criminelle et le respect des victimes (première lecture).",
-      "resultat": "adopté",
-      "position": "contre",
-      "pour": 0,
-      "contre": 66,
-      "abstentions": 0
     }
   ],
   "PO845419": [
+    {
+      "numero": "8512",
+      "date": "2026-10-05",
+      "titre": "l'article 15 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 16,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "8511",
+      "date": "2026-10-05",
+      "titre": "l'amendement n° 1148 de Mme Spillebout après l'article 14 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+      "resultat": "adopté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 15,
+      "abstentions": 0
+    },
+    {
+      "numero": "8510",
+      "date": "2026-10-05",
+      "titre": "l'amendement n° 411 de Mme Legrain de rétablissement de l'article 14 (supprimé) de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 1,
+      "contre": 12,
+      "abstentions": 0
+    },
     {
       "numero": "8509",
       "date": "2026-10-02",
@@ -21115,99 +20965,39 @@
       "pour": 12,
       "contre": 0,
       "abstentions": 0
-    },
-    {
-      "numero": "7988",
-      "date": "2026-07-07",
-      "titre": "la motion de rejet préalable, déposée par Mme Mathilde Panot, du projet de loi visant à offrir des réponses immédiates aux phénomènes troublant l'ordre public, la sécurité et la tranquillité de nos concitoyens (première lecture).",
-      "resultat": "rejeté",
-      "position": "pour",
-      "pour": 18,
-      "contre": 0,
-      "abstentions": 1
-    },
-    {
-      "numero": "7987",
-      "date": "2026-07-07",
-      "titre": "l'ensemble de la proposition de loi visant à reconnaître une présomption de légitime défense pour les forces de l'ordre, dans l'exercice de leurs fonctions (première lecture).",
-      "resultat": "adopté",
-      "position": "contre",
-      "pour": 0,
-      "contre": 62,
-      "abstentions": 0
-    },
-    {
-      "numero": "7986",
-      "date": "2026-07-07",
-      "titre": "l'amendement n° 38 de M. Eskenazi au titre de la proposition de loi visant à reconnaître une présomption de légitime défense pour les forces de l'ordre, dans l'exercice de leurs fonctions (première lecture).",
-      "resultat": "rejeté",
-      "position": "contre",
-      "pour": 29,
-      "contre": 3,
-      "abstentions": 0
-    },
-    {
-      "numero": "7985",
-      "date": "2026-07-07",
-      "titre": "l'amendement n° 37 de Mme Hadizadeh au titre de la proposition de loi visant à reconnaître une présomption de légitime défense pour les forces de l'ordre, dans l'exercice de leurs fonctions (première lecture).",
-      "resultat": "rejeté",
-      "position": "pour",
-      "pour": 35,
-      "contre": 0,
-      "abstentions": 0
-    },
-    {
-      "numero": "7984",
-      "date": "2026-07-07",
-      "titre": "l'amendement n° 32 de M. Amirshahi au titre de la proposition de loi visant à reconnaître une présomption de légitime défense pour les forces de l'ordre, dans l'exercice de leurs fonctions (première lecture).",
-      "resultat": "rejeté",
-      "position": "contre",
-      "pour": 27,
-      "contre": 4,
-      "abstentions": 0
-    },
-    {
-      "numero": "7983",
-      "date": "2026-07-07",
-      "titre": "l'amendement n° 16 de M. Bompard au titre de la proposition de loi visant à reconnaître une présomption de légitime défense pour les forces de l'ordre, dans l'exercice de leurs fonctions (première lecture).",
-      "resultat": "rejeté",
-      "position": "contre",
-      "pour": 28,
-      "contre": 3,
-      "abstentions": 0
-    },
-    {
-      "numero": "7982",
-      "date": "2026-07-07",
-      "titre": "la proposition du Gouvernement de prolonger la séance en cours au-delà de vingt heures (proposition de loi visant à reconnaître une présomption de légitime défense pour les forces de l'ordre, dans l'exercice de leurs fonctions) (première lecture).",
-      "resultat": "adopté",
-      "position": "contre",
-      "pour": 0,
-      "contre": 38,
-      "abstentions": 0
-    },
-    {
-      "numero": "7981",
-      "date": "2026-07-07",
-      "titre": "l'ensemble du projet de loi organique relatif au renforcement des juridictions criminelles (première lecture).",
-      "resultat": "adopté",
-      "position": "contre",
-      "pour": 0,
-      "contre": 56,
-      "abstentions": 0
-    },
-    {
-      "numero": "7980",
-      "date": "2026-07-07",
-      "titre": "l'ensemble du projet de loi sur la justice criminelle et le respect des victimes (première lecture).",
-      "resultat": "adopté",
-      "position": "contre",
-      "pour": 0,
-      "contre": 56,
-      "abstentions": 0
     }
   ],
   "PO845425": [
+    {
+      "numero": "8512",
+      "date": "2026-10-05",
+      "titre": "l'article 15 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 3,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "8511",
+      "date": "2026-10-05",
+      "titre": "l'amendement n° 1148 de Mme Spillebout après l'article 14 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 2,
+      "contre": 1,
+      "abstentions": 0
+    },
+    {
+      "numero": "8510",
+      "date": "2026-10-05",
+      "titre": "l'amendement n° 411 de Mme Legrain de rétablissement de l'article 14 (supprimé) de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 3,
+      "abstentions": 0
+    },
     {
       "numero": "8509",
       "date": "2026-10-02",
@@ -26417,99 +26207,39 @@
       "pour": 0,
       "contre": 17,
       "abstentions": 0
-    },
-    {
-      "numero": "7988",
-      "date": "2026-07-07",
-      "titre": "la motion de rejet préalable, déposée par Mme Mathilde Panot, du projet de loi visant à offrir des réponses immédiates aux phénomènes troublant l'ordre public, la sécurité et la tranquillité de nos concitoyens (première lecture).",
-      "resultat": "rejeté",
-      "position": "contre",
-      "pour": 0,
-      "contre": 32,
-      "abstentions": 0
-    },
-    {
-      "numero": "7987",
-      "date": "2026-07-07",
-      "titre": "l'ensemble de la proposition de loi visant à reconnaître une présomption de légitime défense pour les forces de l'ordre, dans l'exercice de leurs fonctions (première lecture).",
-      "resultat": "adopté",
-      "position": "pour",
-      "pour": 48,
-      "contre": 0,
-      "abstentions": 0
-    },
-    {
-      "numero": "7986",
-      "date": "2026-07-07",
-      "titre": "l'amendement n° 38 de M. Eskenazi au titre de la proposition de loi visant à reconnaître une présomption de légitime défense pour les forces de l'ordre, dans l'exercice de leurs fonctions (première lecture).",
-      "resultat": "rejeté",
-      "position": "contre",
-      "pour": 0,
-      "contre": 34,
-      "abstentions": 0
-    },
-    {
-      "numero": "7985",
-      "date": "2026-07-07",
-      "titre": "l'amendement n° 37 de Mme Hadizadeh au titre de la proposition de loi visant à reconnaître une présomption de légitime défense pour les forces de l'ordre, dans l'exercice de leurs fonctions (première lecture).",
-      "resultat": "rejeté",
-      "position": "contre",
-      "pour": 0,
-      "contre": 35,
-      "abstentions": 0
-    },
-    {
-      "numero": "7984",
-      "date": "2026-07-07",
-      "titre": "l'amendement n° 32 de M. Amirshahi au titre de la proposition de loi visant à reconnaître une présomption de légitime défense pour les forces de l'ordre, dans l'exercice de leurs fonctions (première lecture).",
-      "resultat": "rejeté",
-      "position": "contre",
-      "pour": 0,
-      "contre": 35,
-      "abstentions": 0
-    },
-    {
-      "numero": "7983",
-      "date": "2026-07-07",
-      "titre": "l'amendement n° 16 de M. Bompard au titre de la proposition de loi visant à reconnaître une présomption de légitime défense pour les forces de l'ordre, dans l'exercice de leurs fonctions (première lecture).",
-      "resultat": "rejeté",
-      "position": "contre",
-      "pour": 0,
-      "contre": 35,
-      "abstentions": 0
-    },
-    {
-      "numero": "7982",
-      "date": "2026-07-07",
-      "titre": "la proposition du Gouvernement de prolonger la séance en cours au-delà de vingt heures (proposition de loi visant à reconnaître une présomption de légitime défense pour les forces de l'ordre, dans l'exercice de leurs fonctions) (première lecture).",
-      "resultat": "adopté",
-      "position": "pour",
-      "pour": 34,
-      "contre": 0,
-      "abstentions": 0
-    },
-    {
-      "numero": "7981",
-      "date": "2026-07-07",
-      "titre": "l'ensemble du projet de loi organique relatif au renforcement des juridictions criminelles (première lecture).",
-      "resultat": "adopté",
-      "position": "pour",
-      "pour": 47,
-      "contre": 0,
-      "abstentions": 0
-    },
-    {
-      "numero": "7980",
-      "date": "2026-07-07",
-      "titre": "l'ensemble du projet de loi sur la justice criminelle et le respect des victimes (première lecture).",
-      "resultat": "adopté",
-      "position": "pour",
-      "pour": 47,
-      "contre": 0,
-      "abstentions": 0
     }
   ],
   "PO845439": [
+    {
+      "numero": "8512",
+      "date": "2026-10-05",
+      "titre": "l'article 15 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 5,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "8511",
+      "date": "2026-10-05",
+      "titre": "l'amendement n° 1148 de Mme Spillebout après l'article 14 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+      "resultat": "adopté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 8,
+      "abstentions": 0
+    },
+    {
+      "numero": "8510",
+      "date": "2026-10-05",
+      "titre": "l'amendement n° 411 de Mme Legrain de rétablissement de l'article 14 (supprimé) de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 1,
+      "contre": 5,
+      "abstentions": 3
+    },
     {
       "numero": "8509",
       "date": "2026-10-02",
@@ -31719,99 +31449,39 @@
       "pour": 16,
       "contre": 0,
       "abstentions": 0
-    },
-    {
-      "numero": "7988",
-      "date": "2026-07-07",
-      "titre": "la motion de rejet préalable, déposée par Mme Mathilde Panot, du projet de loi visant à offrir des réponses immédiates aux phénomènes troublant l'ordre public, la sécurité et la tranquillité de nos concitoyens (première lecture).",
-      "resultat": "rejeté",
-      "position": "pour",
-      "pour": 13,
-      "contre": 0,
-      "abstentions": 0
-    },
-    {
-      "numero": "7987",
-      "date": "2026-07-07",
-      "titre": "l'ensemble de la proposition de loi visant à reconnaître une présomption de légitime défense pour les forces de l'ordre, dans l'exercice de leurs fonctions (première lecture).",
-      "resultat": "adopté",
-      "position": "contre",
-      "pour": 0,
-      "contre": 29,
-      "abstentions": 0
-    },
-    {
-      "numero": "7986",
-      "date": "2026-07-07",
-      "titre": "l'amendement n° 38 de M. Eskenazi au titre de la proposition de loi visant à reconnaître une présomption de légitime défense pour les forces de l'ordre, dans l'exercice de leurs fonctions (première lecture).",
-      "resultat": "rejeté",
-      "position": "pour",
-      "pour": 19,
-      "contre": 0,
-      "abstentions": 0
-    },
-    {
-      "numero": "7985",
-      "date": "2026-07-07",
-      "titre": "l'amendement n° 37 de Mme Hadizadeh au titre de la proposition de loi visant à reconnaître une présomption de légitime défense pour les forces de l'ordre, dans l'exercice de leurs fonctions (première lecture).",
-      "resultat": "rejeté",
-      "position": "pour",
-      "pour": 22,
-      "contre": 0,
-      "abstentions": 0
-    },
-    {
-      "numero": "7984",
-      "date": "2026-07-07",
-      "titre": "l'amendement n° 32 de M. Amirshahi au titre de la proposition de loi visant à reconnaître une présomption de légitime défense pour les forces de l'ordre, dans l'exercice de leurs fonctions (première lecture).",
-      "resultat": "rejeté",
-      "position": "pour",
-      "pour": 21,
-      "contre": 0,
-      "abstentions": 0
-    },
-    {
-      "numero": "7983",
-      "date": "2026-07-07",
-      "titre": "l'amendement n° 16 de M. Bompard au titre de la proposition de loi visant à reconnaître une présomption de légitime défense pour les forces de l'ordre, dans l'exercice de leurs fonctions (première lecture).",
-      "resultat": "rejeté",
-      "position": "pour",
-      "pour": 22,
-      "contre": 0,
-      "abstentions": 0
-    },
-    {
-      "numero": "7982",
-      "date": "2026-07-07",
-      "titre": "la proposition du Gouvernement de prolonger la séance en cours au-delà de vingt heures (proposition de loi visant à reconnaître une présomption de légitime défense pour les forces de l'ordre, dans l'exercice de leurs fonctions) (première lecture).",
-      "resultat": "adopté",
-      "position": "contre",
-      "pour": 0,
-      "contre": 22,
-      "abstentions": 0
-    },
-    {
-      "numero": "7981",
-      "date": "2026-07-07",
-      "titre": "l'ensemble du projet de loi organique relatif au renforcement des juridictions criminelles (première lecture).",
-      "resultat": "adopté",
-      "position": "contre",
-      "pour": 0,
-      "contre": 37,
-      "abstentions": 0
-    },
-    {
-      "numero": "7980",
-      "date": "2026-07-07",
-      "titre": "l'ensemble du projet de loi sur la justice criminelle et le respect des victimes (première lecture).",
-      "resultat": "adopté",
-      "position": "contre",
-      "pour": 0,
-      "contre": 37,
-      "abstentions": 0
     }
   ],
   "PO845454": [
+    {
+      "numero": "8512",
+      "date": "2026-10-05",
+      "titre": "l'article 15 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 5,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "8511",
+      "date": "2026-10-05",
+      "titre": "l'amendement n° 1148 de Mme Spillebout après l'article 14 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+      "resultat": "adopté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 4,
+      "abstentions": 1
+    },
+    {
+      "numero": "8510",
+      "date": "2026-10-05",
+      "titre": "l'amendement n° 411 de Mme Legrain de rétablissement de l'article 14 (supprimé) de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 4,
+      "abstentions": 1
+    },
     {
       "numero": "8509",
       "date": "2026-10-02",
@@ -37021,99 +36691,39 @@
       "pour": 0,
       "contre": 15,
       "abstentions": 0
-    },
-    {
-      "numero": "7988",
-      "date": "2026-07-07",
-      "titre": "la motion de rejet préalable, déposée par Mme Mathilde Panot, du projet de loi visant à offrir des réponses immédiates aux phénomènes troublant l'ordre public, la sécurité et la tranquillité de nos concitoyens (première lecture).",
-      "resultat": "rejeté",
-      "position": "contre",
-      "pour": 0,
-      "contre": 24,
-      "abstentions": 0
-    },
-    {
-      "numero": "7987",
-      "date": "2026-07-07",
-      "titre": "l'ensemble de la proposition de loi visant à reconnaître une présomption de légitime défense pour les forces de l'ordre, dans l'exercice de leurs fonctions (première lecture).",
-      "resultat": "adopté",
-      "position": "abstention",
-      "pour": 28,
-      "contre": 1,
-      "abstentions": 5
-    },
-    {
-      "numero": "7986",
-      "date": "2026-07-07",
-      "titre": "l'amendement n° 38 de M. Eskenazi au titre de la proposition de loi visant à reconnaître une présomption de légitime défense pour les forces de l'ordre, dans l'exercice de leurs fonctions (première lecture).",
-      "resultat": "rejeté",
-      "position": "contre",
-      "pour": 0,
-      "contre": 21,
-      "abstentions": 2
-    },
-    {
-      "numero": "7985",
-      "date": "2026-07-07",
-      "titre": "l'amendement n° 37 de Mme Hadizadeh au titre de la proposition de loi visant à reconnaître une présomption de légitime défense pour les forces de l'ordre, dans l'exercice de leurs fonctions (première lecture).",
-      "resultat": "rejeté",
-      "position": "contre",
-      "pour": 0,
-      "contre": 23,
-      "abstentions": 1
-    },
-    {
-      "numero": "7984",
-      "date": "2026-07-07",
-      "titre": "l'amendement n° 32 de M. Amirshahi au titre de la proposition de loi visant à reconnaître une présomption de légitime défense pour les forces de l'ordre, dans l'exercice de leurs fonctions (première lecture).",
-      "resultat": "rejeté",
-      "position": "contre",
-      "pour": 0,
-      "contre": 21,
-      "abstentions": 1
-    },
-    {
-      "numero": "7983",
-      "date": "2026-07-07",
-      "titre": "l'amendement n° 16 de M. Bompard au titre de la proposition de loi visant à reconnaître une présomption de légitime défense pour les forces de l'ordre, dans l'exercice de leurs fonctions (première lecture).",
-      "resultat": "rejeté",
-      "position": "contre",
-      "pour": 1,
-      "contre": 17,
-      "abstentions": 1
-    },
-    {
-      "numero": "7982",
-      "date": "2026-07-07",
-      "titre": "la proposition du Gouvernement de prolonger la séance en cours au-delà de vingt heures (proposition de loi visant à reconnaître une présomption de légitime défense pour les forces de l'ordre, dans l'exercice de leurs fonctions) (première lecture).",
-      "resultat": "adopté",
-      "position": "pour",
-      "pour": 20,
-      "contre": 2,
-      "abstentions": 2
-    },
-    {
-      "numero": "7981",
-      "date": "2026-07-07",
-      "titre": "l'ensemble du projet de loi organique relatif au renforcement des juridictions criminelles (première lecture).",
-      "resultat": "adopté",
-      "position": "pour",
-      "pour": 37,
-      "contre": 0,
-      "abstentions": 0
-    },
-    {
-      "numero": "7980",
-      "date": "2026-07-07",
-      "titre": "l'ensemble du projet de loi sur la justice criminelle et le respect des victimes (première lecture).",
-      "resultat": "adopté",
-      "position": "pour",
-      "pour": 37,
-      "contre": 0,
-      "abstentions": 0
     }
   ],
   "PO845470": [
+    {
+      "numero": "8512",
+      "date": "2026-10-05",
+      "titre": "l'article 15 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 5,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "8511",
+      "date": "2026-10-05",
+      "titre": "l'amendement n° 1148 de Mme Spillebout après l'article 14 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+      "resultat": "adopté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 3,
+      "abstentions": 1
+    },
+    {
+      "numero": "8510",
+      "date": "2026-10-05",
+      "titre": "l'amendement n° 411 de Mme Legrain de rétablissement de l'article 14 (supprimé) de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 4,
+      "abstentions": 0
+    },
     {
       "numero": "8509",
       "date": "2026-10-02",
@@ -42323,99 +41933,39 @@
       "pour": 0,
       "contre": 18,
       "abstentions": 0
-    },
-    {
-      "numero": "7988",
-      "date": "2026-07-07",
-      "titre": "la motion de rejet préalable, déposée par Mme Mathilde Panot, du projet de loi visant à offrir des réponses immédiates aux phénomènes troublant l'ordre public, la sécurité et la tranquillité de nos concitoyens (première lecture).",
-      "resultat": "rejeté",
-      "position": "contre",
-      "pour": 0,
-      "contre": 19,
-      "abstentions": 0
-    },
-    {
-      "numero": "7987",
-      "date": "2026-07-07",
-      "titre": "l'ensemble de la proposition de loi visant à reconnaître une présomption de légitime défense pour les forces de l'ordre, dans l'exercice de leurs fonctions (première lecture).",
-      "resultat": "adopté",
-      "position": "pour",
-      "pour": 31,
-      "contre": 0,
-      "abstentions": 0
-    },
-    {
-      "numero": "7986",
-      "date": "2026-07-07",
-      "titre": "l'amendement n° 38 de M. Eskenazi au titre de la proposition de loi visant à reconnaître une présomption de légitime défense pour les forces de l'ordre, dans l'exercice de leurs fonctions (première lecture).",
-      "resultat": "rejeté",
-      "position": "contre",
-      "pour": 0,
-      "contre": 19,
-      "abstentions": 0
-    },
-    {
-      "numero": "7985",
-      "date": "2026-07-07",
-      "titre": "l'amendement n° 37 de Mme Hadizadeh au titre de la proposition de loi visant à reconnaître une présomption de légitime défense pour les forces de l'ordre, dans l'exercice de leurs fonctions (première lecture).",
-      "resultat": "rejeté",
-      "position": "contre",
-      "pour": 0,
-      "contre": 19,
-      "abstentions": 0
-    },
-    {
-      "numero": "7984",
-      "date": "2026-07-07",
-      "titre": "l'amendement n° 32 de M. Amirshahi au titre de la proposition de loi visant à reconnaître une présomption de légitime défense pour les forces de l'ordre, dans l'exercice de leurs fonctions (première lecture).",
-      "resultat": "rejeté",
-      "position": "contre",
-      "pour": 0,
-      "contre": 19,
-      "abstentions": 0
-    },
-    {
-      "numero": "7983",
-      "date": "2026-07-07",
-      "titre": "l'amendement n° 16 de M. Bompard au titre de la proposition de loi visant à reconnaître une présomption de légitime défense pour les forces de l'ordre, dans l'exercice de leurs fonctions (première lecture).",
-      "resultat": "rejeté",
-      "position": "contre",
-      "pour": 0,
-      "contre": 19,
-      "abstentions": 0
-    },
-    {
-      "numero": "7982",
-      "date": "2026-07-07",
-      "titre": "la proposition du Gouvernement de prolonger la séance en cours au-delà de vingt heures (proposition de loi visant à reconnaître une présomption de légitime défense pour les forces de l'ordre, dans l'exercice de leurs fonctions) (première lecture).",
-      "resultat": "adopté",
-      "position": "pour",
-      "pour": 19,
-      "contre": 0,
-      "abstentions": 0
-    },
-    {
-      "numero": "7981",
-      "date": "2026-07-07",
-      "titre": "l'ensemble du projet de loi organique relatif au renforcement des juridictions criminelles (première lecture).",
-      "resultat": "adopté",
-      "position": "pour",
-      "pour": 32,
-      "contre": 0,
-      "abstentions": 0
-    },
-    {
-      "numero": "7980",
-      "date": "2026-07-07",
-      "titre": "l'ensemble du projet de loi sur la justice criminelle et le respect des victimes (première lecture).",
-      "resultat": "adopté",
-      "position": "pour",
-      "pour": 30,
-      "contre": 0,
-      "abstentions": 0
     }
   ],
   "PO845485": [
+    {
+      "numero": "8512",
+      "date": "2026-10-05",
+      "titre": "l'article 15 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 1,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "8511",
+      "date": "2026-10-05",
+      "titre": "l'amendement n° 1148 de Mme Spillebout après l'article 14 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+      "resultat": "adopté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 1,
+      "abstentions": 0
+    },
+    {
+      "numero": "8510",
+      "date": "2026-10-05",
+      "titre": "l'amendement n° 411 de Mme Legrain de rétablissement de l'article 14 (supprimé) de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 1,
+      "abstentions": 0
+    },
     {
       "numero": "8509",
       "date": "2026-10-02",
@@ -47625,99 +47175,39 @@
       "pour": 1,
       "contre": 6,
       "abstentions": 0
-    },
-    {
-      "numero": "7988",
-      "date": "2026-07-07",
-      "titre": "la motion de rejet préalable, déposée par Mme Mathilde Panot, du projet de loi visant à offrir des réponses immédiates aux phénomènes troublant l'ordre public, la sécurité et la tranquillité de nos concitoyens (première lecture).",
-      "resultat": "rejeté",
-      "position": "contre",
-      "pour": 0,
-      "contre": 5,
-      "abstentions": 0
-    },
-    {
-      "numero": "7987",
-      "date": "2026-07-07",
-      "titre": "l'ensemble de la proposition de loi visant à reconnaître une présomption de légitime défense pour les forces de l'ordre, dans l'exercice de leurs fonctions (première lecture).",
-      "resultat": "adopté",
-      "position": "pour",
-      "pour": 9,
-      "contre": 8,
-      "abstentions": 0
-    },
-    {
-      "numero": "7986",
-      "date": "2026-07-07",
-      "titre": "l'amendement n° 38 de M. Eskenazi au titre de la proposition de loi visant à reconnaître une présomption de légitime défense pour les forces de l'ordre, dans l'exercice de leurs fonctions (première lecture).",
-      "resultat": "rejeté",
-      "position": "contre",
-      "pour": 2,
-      "contre": 6,
-      "abstentions": 0
-    },
-    {
-      "numero": "7985",
-      "date": "2026-07-07",
-      "titre": "l'amendement n° 37 de Mme Hadizadeh au titre de la proposition de loi visant à reconnaître une présomption de légitime défense pour les forces de l'ordre, dans l'exercice de leurs fonctions (première lecture).",
-      "resultat": "rejeté",
-      "position": "contre",
-      "pour": 1,
-      "contre": 7,
-      "abstentions": 0
-    },
-    {
-      "numero": "7984",
-      "date": "2026-07-07",
-      "titre": "l'amendement n° 32 de M. Amirshahi au titre de la proposition de loi visant à reconnaître une présomption de légitime défense pour les forces de l'ordre, dans l'exercice de leurs fonctions (première lecture).",
-      "resultat": "rejeté",
-      "position": "contre",
-      "pour": 0,
-      "contre": 6,
-      "abstentions": 1
-    },
-    {
-      "numero": "7983",
-      "date": "2026-07-07",
-      "titre": "l'amendement n° 16 de M. Bompard au titre de la proposition de loi visant à reconnaître une présomption de légitime défense pour les forces de l'ordre, dans l'exercice de leurs fonctions (première lecture).",
-      "resultat": "rejeté",
-      "position": "contre",
-      "pour": 0,
-      "contre": 8,
-      "abstentions": 0
-    },
-    {
-      "numero": "7982",
-      "date": "2026-07-07",
-      "titre": "la proposition du Gouvernement de prolonger la séance en cours au-delà de vingt heures (proposition de loi visant à reconnaître une présomption de légitime défense pour les forces de l'ordre, dans l'exercice de leurs fonctions) (première lecture).",
-      "resultat": "adopté",
-      "position": "pour",
-      "pour": 5,
-      "contre": 3,
-      "abstentions": 0
-    },
-    {
-      "numero": "7981",
-      "date": "2026-07-07",
-      "titre": "l'ensemble du projet de loi organique relatif au renforcement des juridictions criminelles (première lecture).",
-      "resultat": "adopté",
-      "position": "pour",
-      "pour": 22,
-      "contre": 0,
-      "abstentions": 0
-    },
-    {
-      "numero": "7980",
-      "date": "2026-07-07",
-      "titre": "l'ensemble du projet de loi sur la justice criminelle et le respect des victimes (première lecture).",
-      "resultat": "adopté",
-      "position": "pour",
-      "pour": 22,
-      "contre": 0,
-      "abstentions": 0
     }
   ],
   "PO872880": [
+    {
+      "numero": "8512",
+      "date": "2026-10-05",
+      "titre": "l'article 15 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 3,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "8511",
+      "date": "2026-10-05",
+      "titre": "l'amendement n° 1148 de Mme Spillebout après l'article 14 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 3,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "8510",
+      "date": "2026-10-05",
+      "titre": "l'amendement n° 411 de Mme Legrain de rétablissement de l'article 14 (supprimé) de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 2,
+      "contre": 0,
+      "abstentions": 0
+    },
     {
       "numero": "8509",
       "date": "2026-10-02",
@@ -52927,99 +52417,39 @@
       "pour": 0,
       "contre": 4,
       "abstentions": 0
-    },
-    {
-      "numero": "7988",
-      "date": "2026-07-07",
-      "titre": "la motion de rejet préalable, déposée par Mme Mathilde Panot, du projet de loi visant à offrir des réponses immédiates aux phénomènes troublant l'ordre public, la sécurité et la tranquillité de nos concitoyens (première lecture).",
-      "resultat": "rejeté",
-      "position": "contre",
-      "pour": 0,
-      "contre": 8,
-      "abstentions": 0
-    },
-    {
-      "numero": "7987",
-      "date": "2026-07-07",
-      "titre": "l'ensemble de la proposition de loi visant à reconnaître une présomption de légitime défense pour les forces de l'ordre, dans l'exercice de leurs fonctions (première lecture).",
-      "resultat": "adopté",
-      "position": "pour",
-      "pour": 14,
-      "contre": 0,
-      "abstentions": 0
-    },
-    {
-      "numero": "7986",
-      "date": "2026-07-07",
-      "titre": "l'amendement n° 38 de M. Eskenazi au titre de la proposition de loi visant à reconnaître une présomption de légitime défense pour les forces de l'ordre, dans l'exercice de leurs fonctions (première lecture).",
-      "resultat": "rejeté",
-      "position": "contre",
-      "pour": 0,
-      "contre": 9,
-      "abstentions": 0
-    },
-    {
-      "numero": "7985",
-      "date": "2026-07-07",
-      "titre": "l'amendement n° 37 de Mme Hadizadeh au titre de la proposition de loi visant à reconnaître une présomption de légitime défense pour les forces de l'ordre, dans l'exercice de leurs fonctions (première lecture).",
-      "resultat": "rejeté",
-      "position": "contre",
-      "pour": 0,
-      "contre": 9,
-      "abstentions": 0
-    },
-    {
-      "numero": "7984",
-      "date": "2026-07-07",
-      "titre": "l'amendement n° 32 de M. Amirshahi au titre de la proposition de loi visant à reconnaître une présomption de légitime défense pour les forces de l'ordre, dans l'exercice de leurs fonctions (première lecture).",
-      "resultat": "rejeté",
-      "position": "contre",
-      "pour": 0,
-      "contre": 9,
-      "abstentions": 0
-    },
-    {
-      "numero": "7983",
-      "date": "2026-07-07",
-      "titre": "l'amendement n° 16 de M. Bompard au titre de la proposition de loi visant à reconnaître une présomption de légitime défense pour les forces de l'ordre, dans l'exercice de leurs fonctions (première lecture).",
-      "resultat": "rejeté",
-      "position": "contre",
-      "pour": 0,
-      "contre": 9,
-      "abstentions": 0
-    },
-    {
-      "numero": "7982",
-      "date": "2026-07-07",
-      "titre": "la proposition du Gouvernement de prolonger la séance en cours au-delà de vingt heures (proposition de loi visant à reconnaître une présomption de légitime défense pour les forces de l'ordre, dans l'exercice de leurs fonctions) (première lecture).",
-      "resultat": "adopté",
-      "position": "pour",
-      "pour": 9,
-      "contre": 0,
-      "abstentions": 0
-    },
-    {
-      "numero": "7981",
-      "date": "2026-07-07",
-      "titre": "l'ensemble du projet de loi organique relatif au renforcement des juridictions criminelles (première lecture).",
-      "resultat": "adopté",
-      "position": "pour",
-      "pour": 17,
-      "contre": 0,
-      "abstentions": 0
-    },
-    {
-      "numero": "7980",
-      "date": "2026-07-07",
-      "titre": "l'ensemble du projet de loi sur la justice criminelle et le respect des victimes (première lecture).",
-      "resultat": "adopté",
-      "position": "pour",
-      "pour": 17,
-      "contre": 0,
-      "abstentions": 0
     }
   ],
   "PO845514": [
+    {
+      "numero": "8512",
+      "date": "2026-10-05",
+      "titre": "l'article 15 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 2,
+      "contre": 0,
+      "abstentions": 1
+    },
+    {
+      "numero": "8511",
+      "date": "2026-10-05",
+      "titre": "l'amendement n° 1148 de Mme Spillebout après l'article 14 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+      "resultat": "adopté",
+      "position": "contre",
+      "pour": 1,
+      "contre": 2,
+      "abstentions": 0
+    },
+    {
+      "numero": "8510",
+      "date": "2026-10-05",
+      "titre": "l'amendement n° 411 de Mme Legrain de rétablissement de l'article 14 (supprimé) de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 3,
+      "abstentions": 0
+    },
     {
       "numero": "8509",
       "date": "2026-10-02",
@@ -58229,99 +57659,39 @@
       "pour": 3,
       "contre": 0,
       "abstentions": 0
-    },
-    {
-      "numero": "7988",
-      "date": "2026-07-07",
-      "titre": "la motion de rejet préalable, déposée par Mme Mathilde Panot, du projet de loi visant à offrir des réponses immédiates aux phénomènes troublant l'ordre public, la sécurité et la tranquillité de nos concitoyens (première lecture).",
-      "resultat": "rejeté",
-      "position": "pour",
-      "pour": 4,
-      "contre": 0,
-      "abstentions": 0
-    },
-    {
-      "numero": "7987",
-      "date": "2026-07-07",
-      "titre": "l'ensemble de la proposition de loi visant à reconnaître une présomption de légitime défense pour les forces de l'ordre, dans l'exercice de leurs fonctions (première lecture).",
-      "resultat": "adopté",
-      "position": "contre",
-      "pour": 0,
-      "contre": 17,
-      "abstentions": 0
-    },
-    {
-      "numero": "7986",
-      "date": "2026-07-07",
-      "titre": "l'amendement n° 38 de M. Eskenazi au titre de la proposition de loi visant à reconnaître une présomption de légitime défense pour les forces de l'ordre, dans l'exercice de leurs fonctions (première lecture).",
-      "resultat": "rejeté",
-      "position": "pour",
-      "pour": 6,
-      "contre": 0,
-      "abstentions": 0
-    },
-    {
-      "numero": "7985",
-      "date": "2026-07-07",
-      "titre": "l'amendement n° 37 de Mme Hadizadeh au titre de la proposition de loi visant à reconnaître une présomption de légitime défense pour les forces de l'ordre, dans l'exercice de leurs fonctions (première lecture).",
-      "resultat": "rejeté",
-      "position": "pour",
-      "pour": 9,
-      "contre": 0,
-      "abstentions": 0
-    },
-    {
-      "numero": "7984",
-      "date": "2026-07-07",
-      "titre": "l'amendement n° 32 de M. Amirshahi au titre de la proposition de loi visant à reconnaître une présomption de légitime défense pour les forces de l'ordre, dans l'exercice de leurs fonctions (première lecture).",
-      "resultat": "rejeté",
-      "position": "pour",
-      "pour": 9,
-      "contre": 0,
-      "abstentions": 0
-    },
-    {
-      "numero": "7983",
-      "date": "2026-07-07",
-      "titre": "l'amendement n° 16 de M. Bompard au titre de la proposition de loi visant à reconnaître une présomption de légitime défense pour les forces de l'ordre, dans l'exercice de leurs fonctions (première lecture).",
-      "resultat": "rejeté",
-      "position": "pour",
-      "pour": 9,
-      "contre": 0,
-      "abstentions": 0
-    },
-    {
-      "numero": "7982",
-      "date": "2026-07-07",
-      "titre": "la proposition du Gouvernement de prolonger la séance en cours au-delà de vingt heures (proposition de loi visant à reconnaître une présomption de légitime défense pour les forces de l'ordre, dans l'exercice de leurs fonctions) (première lecture).",
-      "resultat": "adopté",
-      "position": "contre",
-      "pour": 0,
-      "contre": 9,
-      "abstentions": 0
-    },
-    {
-      "numero": "7981",
-      "date": "2026-07-07",
-      "titre": "l'ensemble du projet de loi organique relatif au renforcement des juridictions criminelles (première lecture).",
-      "resultat": "adopté",
-      "position": "contre",
-      "pour": 0,
-      "contre": 17,
-      "abstentions": 0
-    },
-    {
-      "numero": "7980",
-      "date": "2026-07-07",
-      "titre": "l'ensemble du projet de loi sur la justice criminelle et le respect des victimes (première lecture).",
-      "resultat": "adopté",
-      "position": "contre",
-      "pour": 0,
-      "contre": 17,
-      "abstentions": 0
     }
   ],
   "PO840056": [
+    {
+      "numero": "8512",
+      "date": "2026-10-05",
+      "titre": "l'article 15 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 0,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "8511",
+      "date": "2026-10-05",
+      "titre": "l'amendement n° 1148 de Mme Spillebout après l'article 14 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 0,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "8510",
+      "date": "2026-10-05",
+      "titre": "l'amendement n° 411 de Mme Legrain de rétablissement de l'article 14 (supprimé) de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 0,
+      "contre": 0,
+      "abstentions": 0
+    },
     {
       "numero": "8509",
       "date": "2026-10-02",
@@ -63530,96 +62900,6 @@
       "position": "contre",
       "pour": 0,
       "contre": 2,
-      "abstentions": 0
-    },
-    {
-      "numero": "7988",
-      "date": "2026-07-07",
-      "titre": "la motion de rejet préalable, déposée par Mme Mathilde Panot, du projet de loi visant à offrir des réponses immédiates aux phénomènes troublant l'ordre public, la sécurité et la tranquillité de nos concitoyens (première lecture).",
-      "resultat": "rejeté",
-      "position": "contre",
-      "pour": 0,
-      "contre": 3,
-      "abstentions": 0
-    },
-    {
-      "numero": "7987",
-      "date": "2026-07-07",
-      "titre": "l'ensemble de la proposition de loi visant à reconnaître une présomption de légitime défense pour les forces de l'ordre, dans l'exercice de leurs fonctions (première lecture).",
-      "resultat": "adopté",
-      "position": "pour",
-      "pour": 6,
-      "contre": 1,
-      "abstentions": 0
-    },
-    {
-      "numero": "7986",
-      "date": "2026-07-07",
-      "titre": "l'amendement n° 38 de M. Eskenazi au titre de la proposition de loi visant à reconnaître une présomption de légitime défense pour les forces de l'ordre, dans l'exercice de leurs fonctions (première lecture).",
-      "resultat": "rejeté",
-      "position": "contre",
-      "pour": 0,
-      "contre": 4,
-      "abstentions": 1
-    },
-    {
-      "numero": "7985",
-      "date": "2026-07-07",
-      "titre": "l'amendement n° 37 de Mme Hadizadeh au titre de la proposition de loi visant à reconnaître une présomption de légitime défense pour les forces de l'ordre, dans l'exercice de leurs fonctions (première lecture).",
-      "resultat": "rejeté",
-      "position": "contre",
-      "pour": 0,
-      "contre": 3,
-      "abstentions": 1
-    },
-    {
-      "numero": "7984",
-      "date": "2026-07-07",
-      "titre": "l'amendement n° 32 de M. Amirshahi au titre de la proposition de loi visant à reconnaître une présomption de légitime défense pour les forces de l'ordre, dans l'exercice de leurs fonctions (première lecture).",
-      "resultat": "rejeté",
-      "position": "contre",
-      "pour": 0,
-      "contre": 4,
-      "abstentions": 1
-    },
-    {
-      "numero": "7983",
-      "date": "2026-07-07",
-      "titre": "l'amendement n° 16 de M. Bompard au titre de la proposition de loi visant à reconnaître une présomption de légitime défense pour les forces de l'ordre, dans l'exercice de leurs fonctions (première lecture).",
-      "resultat": "rejeté",
-      "position": "contre",
-      "pour": 0,
-      "contre": 4,
-      "abstentions": 1
-    },
-    {
-      "numero": "7982",
-      "date": "2026-07-07",
-      "titre": "la proposition du Gouvernement de prolonger la séance en cours au-delà de vingt heures (proposition de loi visant à reconnaître une présomption de légitime défense pour les forces de l'ordre, dans l'exercice de leurs fonctions) (première lecture).",
-      "resultat": "adopté",
-      "position": "contre",
-      "pour": 2,
-      "contre": 3,
-      "abstentions": 0
-    },
-    {
-      "numero": "7981",
-      "date": "2026-07-07",
-      "titre": "l'ensemble du projet de loi organique relatif au renforcement des juridictions criminelles (première lecture).",
-      "resultat": "adopté",
-      "position": "pour",
-      "pour": 7,
-      "contre": 0,
-      "abstentions": 1
-    },
-    {
-      "numero": "7980",
-      "date": "2026-07-07",
-      "titre": "l'ensemble du projet de loi sur la justice criminelle et le respect des victimes (première lecture).",
-      "resultat": "adopté",
-      "position": "pour",
-      "pour": 8,
-      "contre": 1,
       "abstentions": 0
     }
   ]

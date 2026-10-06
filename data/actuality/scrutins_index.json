@@ -1,5 +1,47 @@
 [
   {
+    "numero": "8512",
+    "date": "2026-10-05",
+    "titre": "l'article 15 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+    "seanceRef": "RUANR5L17S2027IDS30924",
+    "dossier": "Apporter une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants",
+    "dossierRef": "DLR5L17N54776",
+    "typeVote": "scrutin public ordinaire",
+    "resultat": "adopté",
+    "votants": 96,
+    "pour": 81,
+    "contre": 0,
+    "abstentions": 15
+  },
+  {
+    "numero": "8511",
+    "date": "2026-10-05",
+    "titre": "l'amendement n° 1148 de Mme Spillebout après l'article 14 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+    "seanceRef": "RUANR5L17S2027IDS30924",
+    "dossier": "Apporter une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants",
+    "dossierRef": "DLR5L17N54776",
+    "typeVote": "scrutin public ordinaire",
+    "resultat": "adopté",
+    "votants": 96,
+    "pour": 54,
+    "contre": 40,
+    "abstentions": 2
+  },
+  {
+    "numero": "8510",
+    "date": "2026-10-05",
+    "titre": "l'amendement n° 411 de Mme Legrain de rétablissement de l'article 14 (supprimé) de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+    "seanceRef": "RUANR5L17S2027IDS30924",
+    "dossier": "Apporter une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants",
+    "dossierRef": "DLR5L17N54776",
+    "typeVote": "scrutin public ordinaire",
+    "resultat": "rejeté",
+    "votants": 90,
+    "pour": 33,
+    "contre": 53,
+    "abstentions": 4
+  },
+  {
     "numero": "8509",
     "date": "2026-10-02",
     "titre": "l'amendement n° 1041 du Gouvernement et l'amendement identique suivant à l'article 13 bis de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
