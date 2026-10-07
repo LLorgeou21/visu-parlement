@@ -1,6 +1,176 @@
 {
   "PO845401": [
     {
+      "numero": "8577",
+      "date": "2026-10-07",
+      "titre": "l'article 32 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 30,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "8576",
+      "date": "2026-10-07",
+      "titre": "l'article 31 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 34,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "8575",
+      "date": "2026-10-07",
+      "titre": "l'amendement n° 376 de Mme Leboucher à l'article 31 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+      "resultat": "rejeté",
+      "position": "abstention",
+      "pour": 5,
+      "contre": 20,
+      "abstentions": 7
+    },
+    {
+      "numero": "8574",
+      "date": "2026-10-07",
+      "titre": "l'amendement n° 448 de Mme Capdevielle à l'article 31 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 35,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "8573",
+      "date": "2026-10-07",
+      "titre": "l'amendement n° 370 de Mme Legrain à l'article 31 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+      "resultat": "rejeté",
+      "position": "abstention",
+      "pour": 0,
+      "contre": 0,
+      "abstentions": 36
+    },
+    {
+      "numero": "8572",
+      "date": "2026-10-07",
+      "titre": "l'article 29 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 37,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "8571",
+      "date": "2026-10-07",
+      "titre": "l'amendement n° 1155 de Mme Spillebout à l'article 29 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 38,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "8570",
+      "date": "2026-10-07",
+      "titre": "l'amendement n° 1160 de Mme Melchior après l'article 28 bis de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 35,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "8569",
+      "date": "2026-10-07",
+      "titre": "l'amendement n° 992 (rect.) de Mme Perrine Goulet à l'article 28 bis de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 31,
+      "abstentions": 0
+    },
+    {
+      "numero": "8568",
+      "date": "2026-10-07",
+      "titre": "l'article 28 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 24,
+      "contre": 0,
+      "abstentions": 1
+    },
+    {
+      "numero": "8567",
+      "date": "2026-10-07",
+      "titre": "l'article 27 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 35,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "8566",
+      "date": "2026-10-07",
+      "titre": "l'amendement n° 689 (rect.) de Mme Bonnivard à l'article 27 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 33,
+      "abstentions": 1
+    },
+    {
+      "numero": "8565",
+      "date": "2026-10-07",
+      "titre": "l'amendement n° 1274 (rect.) du Gouvernement à l'article 25 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 35,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "8564",
+      "date": "2026-10-07",
+      "titre": "l'article 24 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 31,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "8563",
+      "date": "2026-10-07",
+      "titre": "l'article 23 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 30,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "8562",
+      "date": "2026-10-07",
+      "titre": "l'amendement n° 433 de Mme Legrain à l'article 23 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 26,
+      "abstentions": 0
+    },
+    {
+      "numero": "8561",
+      "date": "2026-10-07",
+      "titre": "l'article 22 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 25,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
       "numero": "8560",
       "date": "2026-10-06",
       "titre": "l'article 21 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
@@ -5132,6 +5302,176 @@
     }
   ],
   "PO845407": [
+    {
+      "numero": "8577",
+      "date": "2026-10-07",
+      "titre": "l'article 32 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 20,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "8576",
+      "date": "2026-10-07",
+      "titre": "l'article 31 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 19,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "8575",
+      "date": "2026-10-07",
+      "titre": "l'amendement n° 376 de Mme Leboucher à l'article 31 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 7,
+      "contre": 12,
+      "abstentions": 0
+    },
+    {
+      "numero": "8574",
+      "date": "2026-10-07",
+      "titre": "l'amendement n° 448 de Mme Capdevielle à l'article 31 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+      "resultat": "adopté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 18,
+      "abstentions": 0
+    },
+    {
+      "numero": "8573",
+      "date": "2026-10-07",
+      "titre": "l'amendement n° 370 de Mme Legrain à l'article 31 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 16,
+      "abstentions": 1
+    },
+    {
+      "numero": "8572",
+      "date": "2026-10-07",
+      "titre": "l'article 29 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 16,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "8571",
+      "date": "2026-10-07",
+      "titre": "l'amendement n° 1155 de Mme Spillebout à l'article 29 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 16,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "8570",
+      "date": "2026-10-07",
+      "titre": "l'amendement n° 1160 de Mme Melchior après l'article 28 bis de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 16,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "8569",
+      "date": "2026-10-07",
+      "titre": "l'amendement n° 992 (rect.) de Mme Perrine Goulet à l'article 28 bis de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 1,
+      "contre": 13,
+      "abstentions": 1
+    },
+    {
+      "numero": "8568",
+      "date": "2026-10-07",
+      "titre": "l'article 28 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 13,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "8567",
+      "date": "2026-10-07",
+      "titre": "l'article 27 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 21,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "8566",
+      "date": "2026-10-07",
+      "titre": "l'amendement n° 689 (rect.) de Mme Bonnivard à l'article 27 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 21,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "8565",
+      "date": "2026-10-07",
+      "titre": "l'amendement n° 1274 (rect.) du Gouvernement à l'article 25 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 22,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "8564",
+      "date": "2026-10-07",
+      "titre": "l'article 24 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 21,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "8563",
+      "date": "2026-10-07",
+      "titre": "l'article 23 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+      "resultat": "adopté",
+      "position": "contre",
+      "pour": 18,
+      "contre": 2,
+      "abstentions": 0
+    },
+    {
+      "numero": "8562",
+      "date": "2026-10-07",
+      "titre": "l'amendement n° 433 de Mme Legrain à l'article 23 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 21,
+      "abstentions": 0
+    },
+    {
+      "numero": "8561",
+      "date": "2026-10-07",
+      "titre": "l'article 22 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 16,
+      "contre": 0,
+      "abstentions": 0
+    },
     {
       "numero": "8560",
       "date": "2026-10-06",
@@ -10265,6 +10605,176 @@
   ],
   "PO845413": [
     {
+      "numero": "8577",
+      "date": "2026-10-07",
+      "titre": "l'article 32 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 16,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "8576",
+      "date": "2026-10-07",
+      "titre": "l'article 31 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 17,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "8575",
+      "date": "2026-10-07",
+      "titre": "l'amendement n° 376 de Mme Leboucher à l'article 31 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 17,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "8574",
+      "date": "2026-10-07",
+      "titre": "l'amendement n° 448 de Mme Capdevielle à l'article 31 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 18,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "8573",
+      "date": "2026-10-07",
+      "titre": "l'amendement n° 370 de Mme Legrain à l'article 31 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 17,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "8572",
+      "date": "2026-10-07",
+      "titre": "l'article 29 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+      "resultat": "adopté",
+      "position": "abstention",
+      "pour": 0,
+      "contre": 0,
+      "abstentions": 15
+    },
+    {
+      "numero": "8571",
+      "date": "2026-10-07",
+      "titre": "l'amendement n° 1155 de Mme Spillebout à l'article 29 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+      "resultat": "adopté",
+      "position": "abstention",
+      "pour": 0,
+      "contre": 0,
+      "abstentions": 15
+    },
+    {
+      "numero": "8570",
+      "date": "2026-10-07",
+      "titre": "l'amendement n° 1160 de Mme Melchior après l'article 28 bis de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+      "resultat": "adopté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 11,
+      "abstentions": 0
+    },
+    {
+      "numero": "8569",
+      "date": "2026-10-07",
+      "titre": "l'amendement n° 992 (rect.) de Mme Perrine Goulet à l'article 28 bis de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 12,
+      "abstentions": 0
+    },
+    {
+      "numero": "8568",
+      "date": "2026-10-07",
+      "titre": "l'article 28 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+      "resultat": "adopté",
+      "position": "abstention",
+      "pour": 0,
+      "contre": 0,
+      "abstentions": 10
+    },
+    {
+      "numero": "8567",
+      "date": "2026-10-07",
+      "titre": "l'article 27 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+      "resultat": "adopté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 3,
+      "abstentions": 1
+    },
+    {
+      "numero": "8566",
+      "date": "2026-10-07",
+      "titre": "l'amendement n° 689 (rect.) de Mme Bonnivard à l'article 27 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 14,
+      "abstentions": 0
+    },
+    {
+      "numero": "8565",
+      "date": "2026-10-07",
+      "titre": "l'amendement n° 1274 (rect.) du Gouvernement à l'article 25 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 15,
+      "contre": 0,
+      "abstentions": 1
+    },
+    {
+      "numero": "8564",
+      "date": "2026-10-07",
+      "titre": "l'article 24 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+      "resultat": "adopté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 14,
+      "abstentions": 0
+    },
+    {
+      "numero": "8563",
+      "date": "2026-10-07",
+      "titre": "l'article 23 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+      "resultat": "adopté",
+      "position": "abstention",
+      "pour": 0,
+      "contre": 0,
+      "abstentions": 10
+    },
+    {
+      "numero": "8562",
+      "date": "2026-10-07",
+      "titre": "l'amendement n° 433 de Mme Legrain à l'article 23 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 9,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "8561",
+      "date": "2026-10-07",
+      "titre": "l'article 22 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+      "resultat": "adopté",
+      "position": "abstention",
+      "pour": 0,
+      "contre": 0,
+      "abstentions": 7
+    },
+    {
       "numero": "8560",
       "date": "2026-10-06",
       "titre": "l'article 21 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
@@ -15396,6 +15906,176 @@
     }
   ],
   "PO845419": [
+    {
+      "numero": "8577",
+      "date": "2026-10-07",
+      "titre": "l'article 32 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 19,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "8576",
+      "date": "2026-10-07",
+      "titre": "l'article 31 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 20,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "8575",
+      "date": "2026-10-07",
+      "titre": "l'amendement n° 376 de Mme Leboucher à l'article 31 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 7,
+      "contre": 12,
+      "abstentions": 0
+    },
+    {
+      "numero": "8574",
+      "date": "2026-10-07",
+      "titre": "l'amendement n° 448 de Mme Capdevielle à l'article 31 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 18,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "8573",
+      "date": "2026-10-07",
+      "titre": "l'amendement n° 370 de Mme Legrain à l'article 31 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 16,
+      "abstentions": 0
+    },
+    {
+      "numero": "8572",
+      "date": "2026-10-07",
+      "titre": "l'article 29 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 17,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "8571",
+      "date": "2026-10-07",
+      "titre": "l'amendement n° 1155 de Mme Spillebout à l'article 29 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 17,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "8570",
+      "date": "2026-10-07",
+      "titre": "l'amendement n° 1160 de Mme Melchior après l'article 28 bis de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 17,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "8569",
+      "date": "2026-10-07",
+      "titre": "l'amendement n° 992 (rect.) de Mme Perrine Goulet à l'article 28 bis de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 17,
+      "abstentions": 0
+    },
+    {
+      "numero": "8568",
+      "date": "2026-10-07",
+      "titre": "l'article 28 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 7,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "8567",
+      "date": "2026-10-07",
+      "titre": "l'article 27 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 14,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "8566",
+      "date": "2026-10-07",
+      "titre": "l'amendement n° 689 (rect.) de Mme Bonnivard à l'article 27 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 15,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "8565",
+      "date": "2026-10-07",
+      "titre": "l'amendement n° 1274 (rect.) du Gouvernement à l'article 25 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 32,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "8564",
+      "date": "2026-10-07",
+      "titre": "l'article 24 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 19,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "8563",
+      "date": "2026-10-07",
+      "titre": "l'article 23 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 19,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "8562",
+      "date": "2026-10-07",
+      "titre": "l'amendement n° 433 de Mme Legrain à l'article 23 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 20,
+      "abstentions": 0
+    },
+    {
+      "numero": "8561",
+      "date": "2026-10-07",
+      "titre": "l'article 22 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 17,
+      "contre": 0,
+      "abstentions": 0
+    },
     {
       "numero": "8560",
       "date": "2026-10-06",
@@ -20529,6 +21209,176 @@
   ],
   "PO845425": [
     {
+      "numero": "8577",
+      "date": "2026-10-07",
+      "titre": "l'article 32 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 5,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "8576",
+      "date": "2026-10-07",
+      "titre": "l'article 31 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 7,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "8575",
+      "date": "2026-10-07",
+      "titre": "l'amendement n° 376 de Mme Leboucher à l'article 31 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 2,
+      "contre": 4,
+      "abstentions": 1
+    },
+    {
+      "numero": "8574",
+      "date": "2026-10-07",
+      "titre": "l'amendement n° 448 de Mme Capdevielle à l'article 31 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 3,
+      "contre": 3,
+      "abstentions": 0
+    },
+    {
+      "numero": "8573",
+      "date": "2026-10-07",
+      "titre": "l'amendement n° 370 de Mme Legrain à l'article 31 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 5,
+      "abstentions": 2
+    },
+    {
+      "numero": "8572",
+      "date": "2026-10-07",
+      "titre": "l'article 29 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 7,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "8571",
+      "date": "2026-10-07",
+      "titre": "l'amendement n° 1155 de Mme Spillebout à l'article 29 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 7,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "8570",
+      "date": "2026-10-07",
+      "titre": "l'amendement n° 1160 de Mme Melchior après l'article 28 bis de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 6,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "8569",
+      "date": "2026-10-07",
+      "titre": "l'amendement n° 992 (rect.) de Mme Perrine Goulet à l'article 28 bis de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 5,
+      "abstentions": 0
+    },
+    {
+      "numero": "8568",
+      "date": "2026-10-07",
+      "titre": "l'article 28 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 5,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "8567",
+      "date": "2026-10-07",
+      "titre": "l'article 27 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 8,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "8566",
+      "date": "2026-10-07",
+      "titre": "l'amendement n° 689 (rect.) de Mme Bonnivard à l'article 27 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 8,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "8565",
+      "date": "2026-10-07",
+      "titre": "l'amendement n° 1274 (rect.) du Gouvernement à l'article 25 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 8,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "8564",
+      "date": "2026-10-07",
+      "titre": "l'article 24 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 7,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "8563",
+      "date": "2026-10-07",
+      "titre": "l'article 23 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 7,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "8562",
+      "date": "2026-10-07",
+      "titre": "l'amendement n° 433 de Mme Legrain à l'article 23 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 6,
+      "abstentions": 0
+    },
+    {
+      "numero": "8561",
+      "date": "2026-10-07",
+      "titre": "l'article 22 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 6,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
       "numero": "8560",
       "date": "2026-10-06",
       "titre": "l'article 21 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
@@ -25660,6 +26510,176 @@
     }
   ],
   "PO845439": [
+    {
+      "numero": "8577",
+      "date": "2026-10-07",
+      "titre": "l'article 32 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 9,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "8576",
+      "date": "2026-10-07",
+      "titre": "l'article 31 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 7,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "8575",
+      "date": "2026-10-07",
+      "titre": "l'amendement n° 376 de Mme Leboucher à l'article 31 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 7,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "8574",
+      "date": "2026-10-07",
+      "titre": "l'amendement n° 448 de Mme Capdevielle à l'article 31 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 7,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "8573",
+      "date": "2026-10-07",
+      "titre": "l'amendement n° 370 de Mme Legrain à l'article 31 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 5,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "8572",
+      "date": "2026-10-07",
+      "titre": "l'article 29 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+      "resultat": "adopté",
+      "position": "abstention",
+      "pour": 0,
+      "contre": 0,
+      "abstentions": 6
+    },
+    {
+      "numero": "8571",
+      "date": "2026-10-07",
+      "titre": "l'amendement n° 1155 de Mme Spillebout à l'article 29 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+      "resultat": "adopté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 8,
+      "abstentions": 0
+    },
+    {
+      "numero": "8570",
+      "date": "2026-10-07",
+      "titre": "l'amendement n° 1160 de Mme Melchior après l'article 28 bis de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+      "resultat": "adopté",
+      "position": "abstention",
+      "pour": 3,
+      "contre": 0,
+      "abstentions": 4
+    },
+    {
+      "numero": "8569",
+      "date": "2026-10-07",
+      "titre": "l'amendement n° 992 (rect.) de Mme Perrine Goulet à l'article 28 bis de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+      "resultat": "rejeté",
+      "position": "abstention",
+      "pour": 0,
+      "contre": 0,
+      "abstentions": 9
+    },
+    {
+      "numero": "8568",
+      "date": "2026-10-07",
+      "titre": "l'article 28 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 8,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "8567",
+      "date": "2026-10-07",
+      "titre": "l'article 27 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+      "resultat": "adopté",
+      "position": "abstention",
+      "pour": 4,
+      "contre": 0,
+      "abstentions": 7
+    },
+    {
+      "numero": "8566",
+      "date": "2026-10-07",
+      "titre": "l'amendement n° 689 (rect.) de Mme Bonnivard à l'article 27 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 7,
+      "abstentions": 4
+    },
+    {
+      "numero": "8565",
+      "date": "2026-10-07",
+      "titre": "l'amendement n° 1274 (rect.) du Gouvernement à l'article 25 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 6,
+      "contre": 0,
+      "abstentions": 3
+    },
+    {
+      "numero": "8564",
+      "date": "2026-10-07",
+      "titre": "l'article 24 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 2,
+      "contre": 2,
+      "abstentions": 2
+    },
+    {
+      "numero": "8563",
+      "date": "2026-10-07",
+      "titre": "l'article 23 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 6,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "8562",
+      "date": "2026-10-07",
+      "titre": "l'amendement n° 433 de Mme Legrain à l'article 23 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 5,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "8561",
+      "date": "2026-10-07",
+      "titre": "l'article 22 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+      "resultat": "adopté",
+      "position": "abstention",
+      "pour": 0,
+      "contre": 0,
+      "abstentions": 4
+    },
     {
       "numero": "8560",
       "date": "2026-10-06",
@@ -30793,6 +31813,176 @@
   ],
   "PO845454": [
     {
+      "numero": "8577",
+      "date": "2026-10-07",
+      "titre": "l'article 32 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 5,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "8576",
+      "date": "2026-10-07",
+      "titre": "l'article 31 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 5,
+      "contre": 0,
+      "abstentions": 1
+    },
+    {
+      "numero": "8575",
+      "date": "2026-10-07",
+      "titre": "l'amendement n° 376 de Mme Leboucher à l'article 31 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 2,
+      "contre": 4,
+      "abstentions": 0
+    },
+    {
+      "numero": "8574",
+      "date": "2026-10-07",
+      "titre": "l'amendement n° 448 de Mme Capdevielle à l'article 31 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+      "resultat": "adopté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 6,
+      "abstentions": 0
+    },
+    {
+      "numero": "8573",
+      "date": "2026-10-07",
+      "titre": "l'amendement n° 370 de Mme Legrain à l'article 31 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 6,
+      "abstentions": 0
+    },
+    {
+      "numero": "8572",
+      "date": "2026-10-07",
+      "titre": "l'article 29 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 5,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "8571",
+      "date": "2026-10-07",
+      "titre": "l'amendement n° 1155 de Mme Spillebout à l'article 29 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 5,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "8570",
+      "date": "2026-10-07",
+      "titre": "l'amendement n° 1160 de Mme Melchior après l'article 28 bis de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 3,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "8569",
+      "date": "2026-10-07",
+      "titre": "l'amendement n° 992 (rect.) de Mme Perrine Goulet à l'article 28 bis de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 6,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "8568",
+      "date": "2026-10-07",
+      "titre": "l'article 28 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 4,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "8567",
+      "date": "2026-10-07",
+      "titre": "l'article 27 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 6,
+      "contre": 0,
+      "abstentions": 1
+    },
+    {
+      "numero": "8566",
+      "date": "2026-10-07",
+      "titre": "l'amendement n° 689 (rect.) de Mme Bonnivard à l'article 27 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 7,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "8565",
+      "date": "2026-10-07",
+      "titre": "l'amendement n° 1274 (rect.) du Gouvernement à l'article 25 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 7,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "8564",
+      "date": "2026-10-07",
+      "titre": "l'article 24 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 5,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "8563",
+      "date": "2026-10-07",
+      "titre": "l'article 23 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 4,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "8562",
+      "date": "2026-10-07",
+      "titre": "l'amendement n° 433 de Mme Legrain à l'article 23 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 2,
+      "abstentions": 0
+    },
+    {
+      "numero": "8561",
+      "date": "2026-10-07",
+      "titre": "l'article 22 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 3,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
       "numero": "8560",
       "date": "2026-10-06",
       "titre": "l'article 21 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
@@ -35924,6 +37114,176 @@
     }
   ],
   "PO845470": [
+    {
+      "numero": "8577",
+      "date": "2026-10-07",
+      "titre": "l'article 32 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 8,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "8576",
+      "date": "2026-10-07",
+      "titre": "l'article 31 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 6,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "8575",
+      "date": "2026-10-07",
+      "titre": "l'amendement n° 376 de Mme Leboucher à l'article 31 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 1,
+      "contre": 3,
+      "abstentions": 0
+    },
+    {
+      "numero": "8574",
+      "date": "2026-10-07",
+      "titre": "l'amendement n° 448 de Mme Capdevielle à l'article 31 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+      "resultat": "adopté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 5,
+      "abstentions": 0
+    },
+    {
+      "numero": "8573",
+      "date": "2026-10-07",
+      "titre": "l'amendement n° 370 de Mme Legrain à l'article 31 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 4,
+      "abstentions": 0
+    },
+    {
+      "numero": "8572",
+      "date": "2026-10-07",
+      "titre": "l'article 29 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 5,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "8571",
+      "date": "2026-10-07",
+      "titre": "l'amendement n° 1155 de Mme Spillebout à l'article 29 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 4,
+      "contre": 0,
+      "abstentions": 1
+    },
+    {
+      "numero": "8570",
+      "date": "2026-10-07",
+      "titre": "l'amendement n° 1160 de Mme Melchior après l'article 28 bis de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 5,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "8569",
+      "date": "2026-10-07",
+      "titre": "l'amendement n° 992 (rect.) de Mme Perrine Goulet à l'article 28 bis de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 1,
+      "contre": 3,
+      "abstentions": 1
+    },
+    {
+      "numero": "8568",
+      "date": "2026-10-07",
+      "titre": "l'article 28 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 4,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "8567",
+      "date": "2026-10-07",
+      "titre": "l'article 27 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 9,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "8566",
+      "date": "2026-10-07",
+      "titre": "l'amendement n° 689 (rect.) de Mme Bonnivard à l'article 27 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 5,
+      "contre": 3,
+      "abstentions": 1
+    },
+    {
+      "numero": "8565",
+      "date": "2026-10-07",
+      "titre": "l'amendement n° 1274 (rect.) du Gouvernement à l'article 25 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 8,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "8564",
+      "date": "2026-10-07",
+      "titre": "l'article 24 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 3,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "8563",
+      "date": "2026-10-07",
+      "titre": "l'article 23 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 3,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "8562",
+      "date": "2026-10-07",
+      "titre": "l'amendement n° 433 de Mme Legrain à l'article 23 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 3,
+      "abstentions": 0
+    },
+    {
+      "numero": "8561",
+      "date": "2026-10-07",
+      "titre": "l'article 22 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 3,
+      "contre": 0,
+      "abstentions": 0
+    },
     {
       "numero": "8560",
       "date": "2026-10-06",
@@ -41057,6 +42417,176 @@
   ],
   "PO845485": [
     {
+      "numero": "8577",
+      "date": "2026-10-07",
+      "titre": "l'article 32 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 3,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "8576",
+      "date": "2026-10-07",
+      "titre": "l'article 31 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 3,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "8575",
+      "date": "2026-10-07",
+      "titre": "l'amendement n° 376 de Mme Leboucher à l'article 31 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 1,
+      "contre": 2,
+      "abstentions": 0
+    },
+    {
+      "numero": "8574",
+      "date": "2026-10-07",
+      "titre": "l'amendement n° 448 de Mme Capdevielle à l'article 31 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 3,
+      "contre": 1,
+      "abstentions": 0
+    },
+    {
+      "numero": "8573",
+      "date": "2026-10-07",
+      "titre": "l'amendement n° 370 de Mme Legrain à l'article 31 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 2,
+      "abstentions": 1
+    },
+    {
+      "numero": "8572",
+      "date": "2026-10-07",
+      "titre": "l'article 29 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 2,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "8571",
+      "date": "2026-10-07",
+      "titre": "l'amendement n° 1155 de Mme Spillebout à l'article 29 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 2,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "8570",
+      "date": "2026-10-07",
+      "titre": "l'amendement n° 1160 de Mme Melchior après l'article 28 bis de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 2,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "8569",
+      "date": "2026-10-07",
+      "titre": "l'amendement n° 992 (rect.) de Mme Perrine Goulet à l'article 28 bis de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 0,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "8568",
+      "date": "2026-10-07",
+      "titre": "l'article 28 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 0,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "8567",
+      "date": "2026-10-07",
+      "titre": "l'article 27 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 2,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "8566",
+      "date": "2026-10-07",
+      "titre": "l'amendement n° 689 (rect.) de Mme Bonnivard à l'article 27 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 1,
+      "contre": 0,
+      "abstentions": 1
+    },
+    {
+      "numero": "8565",
+      "date": "2026-10-07",
+      "titre": "l'amendement n° 1274 (rect.) du Gouvernement à l'article 25 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 2,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "8564",
+      "date": "2026-10-07",
+      "titre": "l'article 24 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 1,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "8563",
+      "date": "2026-10-07",
+      "titre": "l'article 23 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 0,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "8562",
+      "date": "2026-10-07",
+      "titre": "l'amendement n° 433 de Mme Legrain à l'article 23 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 0,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "8561",
+      "date": "2026-10-07",
+      "titre": "l'article 22 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 0,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
       "numero": "8560",
       "date": "2026-10-06",
       "titre": "l'article 21 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
@@ -46188,6 +47718,176 @@
     }
   ],
   "PO872880": [
+    {
+      "numero": "8577",
+      "date": "2026-10-07",
+      "titre": "l'article 32 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 5,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "8576",
+      "date": "2026-10-07",
+      "titre": "l'article 31 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 5,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "8575",
+      "date": "2026-10-07",
+      "titre": "l'amendement n° 376 de Mme Leboucher à l'article 31 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 4,
+      "abstentions": 1
+    },
+    {
+      "numero": "8574",
+      "date": "2026-10-07",
+      "titre": "l'amendement n° 448 de Mme Capdevielle à l'article 31 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 5,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "8573",
+      "date": "2026-10-07",
+      "titre": "l'amendement n° 370 de Mme Legrain à l'article 31 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+      "resultat": "rejeté",
+      "position": "abstention",
+      "pour": 1,
+      "contre": 1,
+      "abstentions": 5
+    },
+    {
+      "numero": "8572",
+      "date": "2026-10-07",
+      "titre": "l'article 29 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 7,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "8571",
+      "date": "2026-10-07",
+      "titre": "l'amendement n° 1155 de Mme Spillebout à l'article 29 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 7,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "8570",
+      "date": "2026-10-07",
+      "titre": "l'amendement n° 1160 de Mme Melchior après l'article 28 bis de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 7,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "8569",
+      "date": "2026-10-07",
+      "titre": "l'amendement n° 992 (rect.) de Mme Perrine Goulet à l'article 28 bis de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 5,
+      "abstentions": 0
+    },
+    {
+      "numero": "8568",
+      "date": "2026-10-07",
+      "titre": "l'article 28 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 3,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "8567",
+      "date": "2026-10-07",
+      "titre": "l'article 27 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 4,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "8566",
+      "date": "2026-10-07",
+      "titre": "l'amendement n° 689 (rect.) de Mme Bonnivard à l'article 27 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 4,
+      "abstentions": 0
+    },
+    {
+      "numero": "8565",
+      "date": "2026-10-07",
+      "titre": "l'amendement n° 1274 (rect.) du Gouvernement à l'article 25 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 7,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "8564",
+      "date": "2026-10-07",
+      "titre": "l'article 24 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 6,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "8563",
+      "date": "2026-10-07",
+      "titre": "l'article 23 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 6,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "8562",
+      "date": "2026-10-07",
+      "titre": "l'amendement n° 433 de Mme Legrain à l'article 23 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 6,
+      "abstentions": 0
+    },
+    {
+      "numero": "8561",
+      "date": "2026-10-07",
+      "titre": "l'article 22 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 6,
+      "contre": 0,
+      "abstentions": 0
+    },
     {
       "numero": "8560",
       "date": "2026-10-06",
@@ -51321,6 +53021,176 @@
   ],
   "PO845514": [
     {
+      "numero": "8577",
+      "date": "2026-10-07",
+      "titre": "l'article 32 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 3,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "8576",
+      "date": "2026-10-07",
+      "titre": "l'article 31 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 2,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "8575",
+      "date": "2026-10-07",
+      "titre": "l'amendement n° 376 de Mme Leboucher à l'article 31 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 2,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "8574",
+      "date": "2026-10-07",
+      "titre": "l'amendement n° 448 de Mme Capdevielle à l'article 31 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 1,
+      "contre": 0,
+      "abstentions": 1
+    },
+    {
+      "numero": "8573",
+      "date": "2026-10-07",
+      "titre": "l'amendement n° 370 de Mme Legrain à l'article 31 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 3,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "8572",
+      "date": "2026-10-07",
+      "titre": "l'article 29 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+      "resultat": "adopté",
+      "position": "abstention",
+      "pour": 0,
+      "contre": 0,
+      "abstentions": 3
+    },
+    {
+      "numero": "8571",
+      "date": "2026-10-07",
+      "titre": "l'amendement n° 1155 de Mme Spillebout à l'article 29 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+      "resultat": "adopté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 3,
+      "abstentions": 0
+    },
+    {
+      "numero": "8570",
+      "date": "2026-10-07",
+      "titre": "l'amendement n° 1160 de Mme Melchior après l'article 28 bis de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 2,
+      "contre": 1,
+      "abstentions": 0
+    },
+    {
+      "numero": "8569",
+      "date": "2026-10-07",
+      "titre": "l'amendement n° 992 (rect.) de Mme Perrine Goulet à l'article 28 bis de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 0,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "8568",
+      "date": "2026-10-07",
+      "titre": "l'article 28 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 1,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "8567",
+      "date": "2026-10-07",
+      "titre": "l'article 27 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 0,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "8566",
+      "date": "2026-10-07",
+      "titre": "l'amendement n° 689 (rect.) de Mme Bonnivard à l'article 27 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 1,
+      "abstentions": 0
+    },
+    {
+      "numero": "8565",
+      "date": "2026-10-07",
+      "titre": "l'amendement n° 1274 (rect.) du Gouvernement à l'article 25 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 1,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "8564",
+      "date": "2026-10-07",
+      "titre": "l'article 24 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 2,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "8563",
+      "date": "2026-10-07",
+      "titre": "l'article 23 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 2,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "8562",
+      "date": "2026-10-07",
+      "titre": "l'amendement n° 433 de Mme Legrain à l'article 23 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+      "resultat": "rejeté",
+      "position": "abstention",
+      "pour": 0,
+      "contre": 0,
+      "abstentions": 2
+    },
+    {
+      "numero": "8561",
+      "date": "2026-10-07",
+      "titre": "l'article 22 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 2,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
       "numero": "8560",
       "date": "2026-10-06",
       "titre": "l'article 21 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
@@ -56452,6 +58322,176 @@
     }
   ],
   "PO840056": [
+    {
+      "numero": "8577",
+      "date": "2026-10-07",
+      "titre": "l'article 32 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 2,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "8576",
+      "date": "2026-10-07",
+      "titre": "l'article 31 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 1,
+      "contre": 0,
+      "abstentions": 1
+    },
+    {
+      "numero": "8575",
+      "date": "2026-10-07",
+      "titre": "l'amendement n° 376 de Mme Leboucher à l'article 31 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 1,
+      "contre": 1,
+      "abstentions": 0
+    },
+    {
+      "numero": "8574",
+      "date": "2026-10-07",
+      "titre": "l'amendement n° 448 de Mme Capdevielle à l'article 31 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+      "resultat": "adopté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 1,
+      "abstentions": 0
+    },
+    {
+      "numero": "8573",
+      "date": "2026-10-07",
+      "titre": "l'amendement n° 370 de Mme Legrain à l'article 31 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 1,
+      "abstentions": 0
+    },
+    {
+      "numero": "8572",
+      "date": "2026-10-07",
+      "titre": "l'article 29 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 0,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "8571",
+      "date": "2026-10-07",
+      "titre": "l'amendement n° 1155 de Mme Spillebout à l'article 29 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 0,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "8570",
+      "date": "2026-10-07",
+      "titre": "l'amendement n° 1160 de Mme Melchior après l'article 28 bis de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 1,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "8569",
+      "date": "2026-10-07",
+      "titre": "l'amendement n° 992 (rect.) de Mme Perrine Goulet à l'article 28 bis de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 1,
+      "abstentions": 0
+    },
+    {
+      "numero": "8568",
+      "date": "2026-10-07",
+      "titre": "l'article 28 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 1,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "8567",
+      "date": "2026-10-07",
+      "titre": "l'article 27 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 1,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "8566",
+      "date": "2026-10-07",
+      "titre": "l'amendement n° 689 (rect.) de Mme Bonnivard à l'article 27 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 1,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "8565",
+      "date": "2026-10-07",
+      "titre": "l'amendement n° 1274 (rect.) du Gouvernement à l'article 25 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 1,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "8564",
+      "date": "2026-10-07",
+      "titre": "l'article 24 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 1,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "8563",
+      "date": "2026-10-07",
+      "titre": "l'article 23 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 1,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "8562",
+      "date": "2026-10-07",
+      "titre": "l'amendement n° 433 de Mme Legrain à l'article 23 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 1,
+      "abstentions": 0
+    },
+    {
+      "numero": "8561",
+      "date": "2026-10-07",
+      "titre": "l'article 22 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 1,
+      "contre": 0,
+      "abstentions": 0
+    },
     {
       "numero": "8560",
       "date": "2026-10-06",
