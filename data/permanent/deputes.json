@@ -2364,6 +2364,18 @@
     "debutMandat": "2024-07-07"
   },
   {
+    "id": "PA840195",
+    "civilite": "Mme",
+    "prenom": "Muriel",
+    "nom": "Fiol",
+    "groupe": "PO840056",
+    "departement": "Var",
+    "numCirconscription": "6",
+    "region": "Provence-Alpes-Côte d'Azur",
+    "placeHemicycle": 18,
+    "debutMandat": "2024-06-30"
+  },
+  {
     "id": "PA267780",
     "civilite": "Mme",
     "prenom": "Agnès",
@@ -2544,6 +2556,18 @@
     "debutMandat": "2024-07-07"
   },
   {
+    "id": "PA841079",
+    "civilite": "Mme",
+    "prenom": "Laurence",
+    "nom": "Gardet",
+    "groupe": "PO840056",
+    "departement": "Gard",
+    "numCirconscription": "6",
+    "region": "Occitanie",
+    "placeHemicycle": 127,
+    "debutMandat": "2024-07-07"
+  },
+  {
     "id": "PA795010",
     "civilite": "Mme",
     "prenom": "Marie-Charlotte",
@@ -2625,6 +2649,18 @@
     "numCirconscription": "8",
     "region": "Auvergne-Rhône-Alpes",
     "placeHemicycle": 16,
+    "debutMandat": "2024-07-07"
+  },
+  {
+    "id": "PA841135",
+    "civilite": "M.",
+    "prenom": "Benoit",
+    "nom": "Gilhet",
+    "groupe": "PO840056",
+    "departement": "Hérault",
+    "numCirconscription": "4",
+    "region": "Occitanie",
+    "placeHemicycle": 149,
     "debutMandat": "2024-07-07"
   },
   {
@@ -2997,6 +3033,18 @@
     "numCirconscription": "2",
     "region": "Ile-de-France",
     "placeHemicycle": 423,
+    "debutMandat": "2024-07-07"
+  },
+  {
+    "id": "PA794910",
+    "civilite": "Mme",
+    "prenom": "Melouka",
+    "nom": "Hadj-Mimoune",
+    "groupe": "PO840056",
+    "departement": "Rhône",
+    "numCirconscription": "6",
+    "region": "Auvergne-Rhône-Alpes",
+    "placeHemicycle": 555,
     "debutMandat": "2024-07-07"
   },
   {
@@ -5204,7 +5252,7 @@
     "departement": "Haute-Garonne",
     "numCirconscription": "4",
     "region": "Occitanie",
-    "placeHemicycle": 555,
+    "placeHemicycle": 544,
     "debutMandat": "2024-06-30"
   },
   {
@@ -5565,6 +5613,18 @@
     "numCirconscription": "5",
     "region": "Provence-Alpes-Côte d'Azur",
     "placeHemicycle": 40,
+    "debutMandat": "2024-07-07"
+  },
+  {
+    "id": "PA840849",
+    "civilite": "M.",
+    "prenom": "Emmanuel",
+    "nom": "Riotte",
+    "groupe": "PO840056",
+    "departement": "Cher",
+    "numCirconscription": "3",
+    "region": "Centre-Val de Loire",
+    "placeHemicycle": 227,
     "debutMandat": "2024-07-07"
   },
   {
