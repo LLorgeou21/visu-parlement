@@ -1,7 +1,7 @@
 {
   "numero": "8581",
   "date": "2026-10-07",
-  "titre": "l'amendement n° 409 de Mme Taurinya après l'article 34 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+  "titre": "l'amendement n° 408 de Mme Taurinya après l'article 34 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
   "seanceRef": "RUANR5L17S2027IDS30928",
   "dossier": "Apporter une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants",
   "dossierRef": "DLR5L17N54776",
@@ -243,43 +243,7 @@
       "position": "contre"
     },
     {
-      "depute": "PA719890",
-      "position": "contre"
-    },
-    {
-      "depute": "PA721296",
-      "position": "contre"
-    },
-    {
       "depute": "PA721764",
-      "position": "contre"
-    },
-    {
-      "depute": "PA607395",
-      "position": "contre"
-    },
-    {
-      "depute": "PA841801",
-      "position": "contre"
-    },
-    {
-      "depute": "PA795962",
-      "position": "contre"
-    },
-    {
-      "depute": "PA841927",
-      "position": "contre"
-    },
-    {
-      "depute": "PA267200",
-      "position": "contre"
-    },
-    {
-      "depute": "PA720342",
-      "position": "contre"
-    },
-    {
-      "depute": "PA795730",
       "position": "contre"
     },
     {
@@ -287,7 +251,7 @@
       "position": "contre"
     },
     {
-      "depute": "PA721632",
+      "depute": "PA795962",
       "position": "contre"
     },
     {
@@ -299,11 +263,47 @@
       "position": "contre"
     },
     {
-      "depute": "PA795954",
+      "depute": "PA721296",
       "position": "contre"
     },
     {
       "depute": "PA879389",
+      "position": "contre"
+    },
+    {
+      "depute": "PA795730",
+      "position": "contre"
+    },
+    {
+      "depute": "PA607395",
+      "position": "contre"
+    },
+    {
+      "depute": "PA841801",
+      "position": "contre"
+    },
+    {
+      "depute": "PA267200",
+      "position": "contre"
+    },
+    {
+      "depute": "PA720342",
+      "position": "contre"
+    },
+    {
+      "depute": "PA841927",
+      "position": "contre"
+    },
+    {
+      "depute": "PA719890",
+      "position": "contre"
+    },
+    {
+      "depute": "PA721632",
+      "position": "contre"
+    },
+    {
+      "depute": "PA795954",
       "position": "contre"
     },
     {
