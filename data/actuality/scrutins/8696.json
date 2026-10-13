@@ -1,0 +1,242 @@
+{
+  "numero": "8696",
+  "date": "2026-10-12",
+  "titre": "l'article unique du projet de loi autorisant l'approbation de la convention d'extradition entre le Gouvernement de la République française et le Gouvernement de la République de Colombie (première lecture).",
+  "seanceRef": "RUANR5L17S2027IDS30939",
+  "dossier": "Projet de loi autorisant l’approbation de la convention d’extradition entre le Gouvernement de la République française et le Gouvernement de la République de Colombie",
+  "dossierRef": "DLR5L17N53095",
+  "typeVote": "scrutin public ordinaire",
+  "resultat": "adopté",
+  "votants": 35,
+  "pour": 28,
+  "contre": 5,
+  "abstentions": 2,
+  "parGroupe": [
+    {
+      "groupe": "PO845401",
+      "position": "pour",
+      "pour": 7,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "groupe": "PO845407",
+      "position": "pour",
+      "pour": 2,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "groupe": "PO845413",
+      "position": "pour",
+      "pour": 3,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "groupe": "PO845419",
+      "position": "contre",
+      "pour": 0,
+      "contre": 3,
+      "abstentions": 2
+    },
+    {
+      "groupe": "PO845425",
+      "position": "pour",
+      "pour": 4,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "groupe": "PO845439",
+      "position": "contre",
+      "pour": 0,
+      "contre": 2,
+      "abstentions": 0
+    },
+    {
+      "groupe": "PO845454",
+      "position": "pour",
+      "pour": 4,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "groupe": "PO845470",
+      "position": "pour",
+      "pour": 3,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "groupe": "PO845485",
+      "position": "pour",
+      "pour": 1,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "groupe": "PO845514",
+      "position": "pour",
+      "pour": 0,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "groupe": "PO872880",
+      "position": "pour",
+      "pour": 4,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "groupe": "PO840056",
+      "position": "pour",
+      "pour": 0,
+      "contre": 0,
+      "abstentions": 0
+    }
+  ],
+  "votesIndividuels": [
+    {
+      "depute": "PA793832",
+      "position": "pour"
+    },
+    {
+      "depute": "PA794954",
+      "position": "pour"
+    },
+    {
+      "depute": "PA841451",
+      "position": "pour"
+    },
+    {
+      "depute": "PA794354",
+      "position": "pour"
+    },
+    {
+      "depute": "PA794582",
+      "position": "pour"
+    },
+    {
+      "depute": "PA794442",
+      "position": "pour"
+    },
+    {
+      "depute": "PA841079",
+      "position": "pour"
+    },
+    {
+      "depute": "PA712014",
+      "position": "pour"
+    },
+    {
+      "depute": "PA795334",
+      "position": "pour"
+    },
+    {
+      "depute": "PA793912",
+      "position": "pour"
+    },
+    {
+      "depute": "PA791812",
+      "position": "pour"
+    },
+    {
+      "depute": "PA793736",
+      "position": "pour"
+    },
+    {
+      "depute": "PA720362",
+      "position": "contre"
+    },
+    {
+      "depute": "PA1008",
+      "position": "contre"
+    },
+    {
+      "depute": "PA840955",
+      "position": "contre"
+    },
+    {
+      "depute": "PA841107",
+      "position": "abstention"
+    },
+    {
+      "depute": "PA774960",
+      "position": "abstention"
+    },
+    {
+      "depute": "PA794058",
+      "position": "pour"
+    },
+    {
+      "depute": "PA719272",
+      "position": "pour"
+    },
+    {
+      "depute": "PA794038",
+      "position": "pour"
+    },
+    {
+      "depute": "PA841595",
+      "position": "pour"
+    },
+    {
+      "depute": "PA610968",
+      "position": "contre"
+    },
+    {
+      "depute": "PA793780",
+      "position": "contre"
+    },
+    {
+      "depute": "PA793122",
+      "position": "pour"
+    },
+    {
+      "depute": "PA795258",
+      "position": "pour"
+    },
+    {
+      "depute": "PA795374",
+      "position": "pour"
+    },
+    {
+      "depute": "PA721182",
+      "position": "pour"
+    },
+    {
+      "depute": "PA719032",
+      "position": "pour"
+    },
+    {
+      "depute": "PA794658",
+      "position": "pour"
+    },
+    {
+      "depute": "PA842183",
+      "position": "pour"
+    },
+    {
+      "depute": "PA719138",
+      "position": "pour"
+    },
+    {
+      "depute": "PA793322",
+      "position": "pour"
+    },
+    {
+      "depute": "PA840773",
+      "position": "pour"
+    },
+    {
+      "depute": "PA840685",
+      "position": "pour"
+    },
+    {
+      "depute": "PA878242",
+      "position": "pour"
+    }
+  ]
+}

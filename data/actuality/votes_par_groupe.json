@@ -1,6 +1,156 @@
 {
   "PO845401": [
     {
+      "numero": "8696",
+      "date": "2026-10-12",
+      "titre": "l'article unique du projet de loi autorisant l'approbation de la convention d'extradition entre le Gouvernement de la République française et le Gouvernement de la République de Colombie (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 7,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "8695",
+      "date": "2026-10-12",
+      "titre": "l'ensemble de la proposition de loi relative à l'expérimentation d'une gouvernance territoriale unifiée pour le centre de ressources, d'expertise et de performance sportive (CREPS) de Vichy (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 11,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "8694",
+      "date": "2026-10-12",
+      "titre": "l'ensemble de la proposition de loi visant à assouplir la procédure d'autorisation des établissements et services sociaux et médico-sociaux à caractère expérimental (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 20,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "8693",
+      "date": "2026-10-12",
+      "titre": "l'ensemble de la proposition de loi visant à moderniser et rééquilibrer le fonctionnement du titre-restaurant (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 28,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "8692",
+      "date": "2026-10-12",
+      "titre": "l'amendement n° 79 de M. Weber à l'article 4 de la proposition de loi visant à moderniser et rééquilibrer le fonctionnement du titre-restaurant (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 26,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "8691",
+      "date": "2026-10-12",
+      "titre": "l'amendement n° 54 de M. Casterman à l'article 4 de la proposition de loi visant à moderniser et rééquilibrer le fonctionnement du titre-restaurant (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 28,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "8690",
+      "date": "2026-10-12",
+      "titre": "l'amendement n° 6 de M. Tavernier après l'article 2 de la proposition de loi visant à moderniser et rééquilibrer le fonctionnement du titre-restaurant (première lecture).",
+      "resultat": "adopté",
+      "position": "abstention",
+      "pour": 0,
+      "contre": 0,
+      "abstentions": 24
+    },
+    {
+      "numero": "8689",
+      "date": "2026-10-12",
+      "titre": "l'amendement n° 7 de M. Tavernier à l'article 2 de la proposition de loi visant à moderniser et rééquilibrer le fonctionnement du titre-restaurant (première lecture).",
+      "resultat": "adopté",
+      "position": "abstention",
+      "pour": 0,
+      "contre": 0,
+      "abstentions": 28
+    },
+    {
+      "numero": "8688",
+      "date": "2026-10-12",
+      "titre": "l'amendement n° 78 (rect.) de M. Weber à l'article 2 de la proposition de loi visant à moderniser et rééquilibrer le fonctionnement du titre-restaurant (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 30,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "8687",
+      "date": "2026-10-12",
+      "titre": "l'amendement n° 77 de M. Weber à l'article 2 de la proposition de loi visant à moderniser et rééquilibrer le fonctionnement du titre-restaurant (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 30,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "8686",
+      "date": "2026-10-12",
+      "titre": "l'article premier de la proposition de loi visant à moderniser et rééquilibrer le fonctionnement du titre-restaurant (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 27,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "8685",
+      "date": "2026-10-12",
+      "titre": "l'amendement n° 63 de Mme Godard à l'article premier de la proposition de loi visant à moderniser et rééquilibrer le fonctionnement du titre-restaurant (première lecture).",
+      "resultat": "adopté",
+      "position": "abstention",
+      "pour": 0,
+      "contre": 0,
+      "abstentions": 25
+    },
+    {
+      "numero": "8684",
+      "date": "2026-10-12",
+      "titre": "l'amendement n° 44 de M. Tavernier à l'article premier de la proposition de loi visant à moderniser et rééquilibrer le fonctionnement du titre-restaurant (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 24,
+      "abstentions": 0
+    },
+    {
+      "numero": "8683",
+      "date": "2026-10-12",
+      "titre": "l'amendement n° 19 de Mme Piron et les amendements identiques suivants à l'article premier de la proposition de loi visant à moderniser et rééquilibrer le fonctionnement du titre-restaurant (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 24,
+      "abstentions": 0
+    },
+    {
+      "numero": "8682",
+      "date": "2026-10-12",
+      "titre": "l'amendement n° 15 de Mme Hignet à l'article premier de la proposition de loi visant à moderniser et rééquilibrer le fonctionnement du titre-restaurant (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 2,
+      "contre": 22,
+      "abstentions": 0
+    },
+    {
       "numero": "8681",
       "date": "2026-10-12",
       "titre": "l'amendement n° 12 de M. Ramos à l'article premier de la proposition de loi visant à moderniser et rééquilibrer le fonctionnement du titre-restaurant (première lecture).",
@@ -4042,6 +4192,156 @@
     }
   ],
   "PO845407": [
+    {
+      "numero": "8696",
+      "date": "2026-10-12",
+      "titre": "l'article unique du projet de loi autorisant l'approbation de la convention d'extradition entre le Gouvernement de la République française et le Gouvernement de la République de Colombie (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 2,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "8695",
+      "date": "2026-10-12",
+      "titre": "l'ensemble de la proposition de loi relative à l'expérimentation d'une gouvernance territoriale unifiée pour le centre de ressources, d'expertise et de performance sportive (CREPS) de Vichy (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 2,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "8694",
+      "date": "2026-10-12",
+      "titre": "l'ensemble de la proposition de loi visant à assouplir la procédure d'autorisation des établissements et services sociaux et médico-sociaux à caractère expérimental (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 10,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "8693",
+      "date": "2026-10-12",
+      "titre": "l'ensemble de la proposition de loi visant à moderniser et rééquilibrer le fonctionnement du titre-restaurant (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 18,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "8692",
+      "date": "2026-10-12",
+      "titre": "l'amendement n° 79 de M. Weber à l'article 4 de la proposition de loi visant à moderniser et rééquilibrer le fonctionnement du titre-restaurant (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 16,
+      "abstentions": 0
+    },
+    {
+      "numero": "8691",
+      "date": "2026-10-12",
+      "titre": "l'amendement n° 54 de M. Casterman à l'article 4 de la proposition de loi visant à moderniser et rééquilibrer le fonctionnement du titre-restaurant (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 16,
+      "abstentions": 0
+    },
+    {
+      "numero": "8690",
+      "date": "2026-10-12",
+      "titre": "l'amendement n° 6 de M. Tavernier après l'article 2 de la proposition de loi visant à moderniser et rééquilibrer le fonctionnement du titre-restaurant (première lecture).",
+      "resultat": "adopté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 13,
+      "abstentions": 0
+    },
+    {
+      "numero": "8689",
+      "date": "2026-10-12",
+      "titre": "l'amendement n° 7 de M. Tavernier à l'article 2 de la proposition de loi visant à moderniser et rééquilibrer le fonctionnement du titre-restaurant (première lecture).",
+      "resultat": "adopté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 15,
+      "abstentions": 0
+    },
+    {
+      "numero": "8688",
+      "date": "2026-10-12",
+      "titre": "l'amendement n° 78 (rect.) de M. Weber à l'article 2 de la proposition de loi visant à moderniser et rééquilibrer le fonctionnement du titre-restaurant (première lecture).",
+      "resultat": "adopté",
+      "position": "contre",
+      "pour": 7,
+      "contre": 8,
+      "abstentions": 0
+    },
+    {
+      "numero": "8687",
+      "date": "2026-10-12",
+      "titre": "l'amendement n° 77 de M. Weber à l'article 2 de la proposition de loi visant à moderniser et rééquilibrer le fonctionnement du titre-restaurant (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 15,
+      "abstentions": 0
+    },
+    {
+      "numero": "8686",
+      "date": "2026-10-12",
+      "titre": "l'article premier de la proposition de loi visant à moderniser et rééquilibrer le fonctionnement du titre-restaurant (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 15,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "8685",
+      "date": "2026-10-12",
+      "titre": "l'amendement n° 63 de Mme Godard à l'article premier de la proposition de loi visant à moderniser et rééquilibrer le fonctionnement du titre-restaurant (première lecture).",
+      "resultat": "adopté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 13,
+      "abstentions": 0
+    },
+    {
+      "numero": "8684",
+      "date": "2026-10-12",
+      "titre": "l'amendement n° 44 de M. Tavernier à l'article premier de la proposition de loi visant à moderniser et rééquilibrer le fonctionnement du titre-restaurant (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 13,
+      "abstentions": 0
+    },
+    {
+      "numero": "8683",
+      "date": "2026-10-12",
+      "titre": "l'amendement n° 19 de Mme Piron et les amendements identiques suivants à l'article premier de la proposition de loi visant à moderniser et rééquilibrer le fonctionnement du titre-restaurant (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 13,
+      "abstentions": 0
+    },
+    {
+      "numero": "8682",
+      "date": "2026-10-12",
+      "titre": "l'amendement n° 15 de Mme Hignet à l'article premier de la proposition de loi visant à moderniser et rééquilibrer le fonctionnement du titre-restaurant (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 1,
+      "contre": 13,
+      "abstentions": 0
+    },
     {
       "numero": "8681",
       "date": "2026-10-12",
@@ -8085,6 +8385,156 @@
   ],
   "PO845413": [
     {
+      "numero": "8696",
+      "date": "2026-10-12",
+      "titre": "l'article unique du projet de loi autorisant l'approbation de la convention d'extradition entre le Gouvernement de la République française et le Gouvernement de la République de Colombie (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 3,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "8695",
+      "date": "2026-10-12",
+      "titre": "l'ensemble de la proposition de loi relative à l'expérimentation d'une gouvernance territoriale unifiée pour le centre de ressources, d'expertise et de performance sportive (CREPS) de Vichy (première lecture).",
+      "resultat": "adopté",
+      "position": "abstention",
+      "pour": 1,
+      "contre": 0,
+      "abstentions": 4
+    },
+    {
+      "numero": "8694",
+      "date": "2026-10-12",
+      "titre": "l'ensemble de la proposition de loi visant à assouplir la procédure d'autorisation des établissements et services sociaux et médico-sociaux à caractère expérimental (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 0,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "8693",
+      "date": "2026-10-12",
+      "titre": "l'ensemble de la proposition de loi visant à moderniser et rééquilibrer le fonctionnement du titre-restaurant (première lecture).",
+      "resultat": "adopté",
+      "position": "abstention",
+      "pour": 0,
+      "contre": 0,
+      "abstentions": 12
+    },
+    {
+      "numero": "8692",
+      "date": "2026-10-12",
+      "titre": "l'amendement n° 79 de M. Weber à l'article 4 de la proposition de loi visant à moderniser et rééquilibrer le fonctionnement du titre-restaurant (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 12,
+      "abstentions": 0
+    },
+    {
+      "numero": "8691",
+      "date": "2026-10-12",
+      "titre": "l'amendement n° 54 de M. Casterman à l'article 4 de la proposition de loi visant à moderniser et rééquilibrer le fonctionnement du titre-restaurant (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 12,
+      "abstentions": 0
+    },
+    {
+      "numero": "8690",
+      "date": "2026-10-12",
+      "titre": "l'amendement n° 6 de M. Tavernier après l'article 2 de la proposition de loi visant à moderniser et rééquilibrer le fonctionnement du titre-restaurant (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 10,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "8689",
+      "date": "2026-10-12",
+      "titre": "l'amendement n° 7 de M. Tavernier à l'article 2 de la proposition de loi visant à moderniser et rééquilibrer le fonctionnement du titre-restaurant (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 10,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "8688",
+      "date": "2026-10-12",
+      "titre": "l'amendement n° 78 (rect.) de M. Weber à l'article 2 de la proposition de loi visant à moderniser et rééquilibrer le fonctionnement du titre-restaurant (première lecture).",
+      "resultat": "adopté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 10,
+      "abstentions": 0
+    },
+    {
+      "numero": "8687",
+      "date": "2026-10-12",
+      "titre": "l'amendement n° 77 de M. Weber à l'article 2 de la proposition de loi visant à moderniser et rééquilibrer le fonctionnement du titre-restaurant (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 10,
+      "abstentions": 0
+    },
+    {
+      "numero": "8686",
+      "date": "2026-10-12",
+      "titre": "l'article premier de la proposition de loi visant à moderniser et rééquilibrer le fonctionnement du titre-restaurant (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 13,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "8685",
+      "date": "2026-10-12",
+      "titre": "l'amendement n° 63 de Mme Godard à l'article premier de la proposition de loi visant à moderniser et rééquilibrer le fonctionnement du titre-restaurant (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 14,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "8684",
+      "date": "2026-10-12",
+      "titre": "l'amendement n° 44 de M. Tavernier à l'article premier de la proposition de loi visant à moderniser et rééquilibrer le fonctionnement du titre-restaurant (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 19,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "8683",
+      "date": "2026-10-12",
+      "titre": "l'amendement n° 19 de Mme Piron et les amendements identiques suivants à l'article premier de la proposition de loi visant à moderniser et rééquilibrer le fonctionnement du titre-restaurant (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 20,
+      "contre": 0,
+      "abstentions": 1
+    },
+    {
+      "numero": "8682",
+      "date": "2026-10-12",
+      "titre": "l'amendement n° 15 de Mme Hignet à l'article premier de la proposition de loi visant à moderniser et rééquilibrer le fonctionnement du titre-restaurant (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 20,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
       "numero": "8681",
       "date": "2026-10-12",
       "titre": "l'amendement n° 12 de M. Ramos à l'article premier de la proposition de loi visant à moderniser et rééquilibrer le fonctionnement du titre-restaurant (première lecture).",
@@ -12126,6 +12576,156 @@
     }
   ],
   "PO845419": [
+    {
+      "numero": "8696",
+      "date": "2026-10-12",
+      "titre": "l'article unique du projet de loi autorisant l'approbation de la convention d'extradition entre le Gouvernement de la République française et le Gouvernement de la République de Colombie (première lecture).",
+      "resultat": "adopté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 3,
+      "abstentions": 2
+    },
+    {
+      "numero": "8695",
+      "date": "2026-10-12",
+      "titre": "l'ensemble de la proposition de loi relative à l'expérimentation d'une gouvernance territoriale unifiée pour le centre de ressources, d'expertise et de performance sportive (CREPS) de Vichy (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 7,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "8694",
+      "date": "2026-10-12",
+      "titre": "l'ensemble de la proposition de loi visant à assouplir la procédure d'autorisation des établissements et services sociaux et médico-sociaux à caractère expérimental (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 8,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "8693",
+      "date": "2026-10-12",
+      "titre": "l'ensemble de la proposition de loi visant à moderniser et rééquilibrer le fonctionnement du titre-restaurant (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 8,
+      "contre": 0,
+      "abstentions": 3
+    },
+    {
+      "numero": "8692",
+      "date": "2026-10-12",
+      "titre": "l'amendement n° 79 de M. Weber à l'article 4 de la proposition de loi visant à moderniser et rééquilibrer le fonctionnement du titre-restaurant (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 11,
+      "abstentions": 0
+    },
+    {
+      "numero": "8691",
+      "date": "2026-10-12",
+      "titre": "l'amendement n° 54 de M. Casterman à l'article 4 de la proposition de loi visant à moderniser et rééquilibrer le fonctionnement du titre-restaurant (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 11,
+      "abstentions": 0
+    },
+    {
+      "numero": "8690",
+      "date": "2026-10-12",
+      "titre": "l'amendement n° 6 de M. Tavernier après l'article 2 de la proposition de loi visant à moderniser et rééquilibrer le fonctionnement du titre-restaurant (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 9,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "8689",
+      "date": "2026-10-12",
+      "titre": "l'amendement n° 7 de M. Tavernier à l'article 2 de la proposition de loi visant à moderniser et rééquilibrer le fonctionnement du titre-restaurant (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 9,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "8688",
+      "date": "2026-10-12",
+      "titre": "l'amendement n° 78 (rect.) de M. Weber à l'article 2 de la proposition de loi visant à moderniser et rééquilibrer le fonctionnement du titre-restaurant (première lecture).",
+      "resultat": "adopté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 9,
+      "abstentions": 0
+    },
+    {
+      "numero": "8687",
+      "date": "2026-10-12",
+      "titre": "l'amendement n° 77 de M. Weber à l'article 2 de la proposition de loi visant à moderniser et rééquilibrer le fonctionnement du titre-restaurant (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 9,
+      "abstentions": 0
+    },
+    {
+      "numero": "8686",
+      "date": "2026-10-12",
+      "titre": "l'article premier de la proposition de loi visant à moderniser et rééquilibrer le fonctionnement du titre-restaurant (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 8,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "8685",
+      "date": "2026-10-12",
+      "titre": "l'amendement n° 63 de Mme Godard à l'article premier de la proposition de loi visant à moderniser et rééquilibrer le fonctionnement du titre-restaurant (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 10,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "8684",
+      "date": "2026-10-12",
+      "titre": "l'amendement n° 44 de M. Tavernier à l'article premier de la proposition de loi visant à moderniser et rééquilibrer le fonctionnement du titre-restaurant (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 10,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "8683",
+      "date": "2026-10-12",
+      "titre": "l'amendement n° 19 de Mme Piron et les amendements identiques suivants à l'article premier de la proposition de loi visant à moderniser et rééquilibrer le fonctionnement du titre-restaurant (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 10,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "8682",
+      "date": "2026-10-12",
+      "titre": "l'amendement n° 15 de Mme Hignet à l'article premier de la proposition de loi visant à moderniser et rééquilibrer le fonctionnement du titre-restaurant (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 10,
+      "contre": 0,
+      "abstentions": 0
+    },
     {
       "numero": "8681",
       "date": "2026-10-12",
@@ -16169,6 +16769,156 @@
   ],
   "PO845425": [
     {
+      "numero": "8696",
+      "date": "2026-10-12",
+      "titre": "l'article unique du projet de loi autorisant l'approbation de la convention d'extradition entre le Gouvernement de la République française et le Gouvernement de la République de Colombie (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 4,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "8695",
+      "date": "2026-10-12",
+      "titre": "l'ensemble de la proposition de loi relative à l'expérimentation d'une gouvernance territoriale unifiée pour le centre de ressources, d'expertise et de performance sportive (CREPS) de Vichy (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 4,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "8694",
+      "date": "2026-10-12",
+      "titre": "l'ensemble de la proposition de loi visant à assouplir la procédure d'autorisation des établissements et services sociaux et médico-sociaux à caractère expérimental (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 2,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "8693",
+      "date": "2026-10-12",
+      "titre": "l'ensemble de la proposition de loi visant à moderniser et rééquilibrer le fonctionnement du titre-restaurant (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 4,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "8692",
+      "date": "2026-10-12",
+      "titre": "l'amendement n° 79 de M. Weber à l'article 4 de la proposition de loi visant à moderniser et rééquilibrer le fonctionnement du titre-restaurant (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 3,
+      "abstentions": 0
+    },
+    {
+      "numero": "8691",
+      "date": "2026-10-12",
+      "titre": "l'amendement n° 54 de M. Casterman à l'article 4 de la proposition de loi visant à moderniser et rééquilibrer le fonctionnement du titre-restaurant (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 3,
+      "abstentions": 0
+    },
+    {
+      "numero": "8690",
+      "date": "2026-10-12",
+      "titre": "l'amendement n° 6 de M. Tavernier après l'article 2 de la proposition de loi visant à moderniser et rééquilibrer le fonctionnement du titre-restaurant (première lecture).",
+      "resultat": "adopté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 4,
+      "abstentions": 0
+    },
+    {
+      "numero": "8689",
+      "date": "2026-10-12",
+      "titre": "l'amendement n° 7 de M. Tavernier à l'article 2 de la proposition de loi visant à moderniser et rééquilibrer le fonctionnement du titre-restaurant (première lecture).",
+      "resultat": "adopté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 3,
+      "abstentions": 1
+    },
+    {
+      "numero": "8688",
+      "date": "2026-10-12",
+      "titre": "l'amendement n° 78 (rect.) de M. Weber à l'article 2 de la proposition de loi visant à moderniser et rééquilibrer le fonctionnement du titre-restaurant (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 4,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "8687",
+      "date": "2026-10-12",
+      "titre": "l'amendement n° 77 de M. Weber à l'article 2 de la proposition de loi visant à moderniser et rééquilibrer le fonctionnement du titre-restaurant (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 1,
+      "contre": 3,
+      "abstentions": 0
+    },
+    {
+      "numero": "8686",
+      "date": "2026-10-12",
+      "titre": "l'article premier de la proposition de loi visant à moderniser et rééquilibrer le fonctionnement du titre-restaurant (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 4,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "8685",
+      "date": "2026-10-12",
+      "titre": "l'amendement n° 63 de Mme Godard à l'article premier de la proposition de loi visant à moderniser et rééquilibrer le fonctionnement du titre-restaurant (première lecture).",
+      "resultat": "adopté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 3,
+      "abstentions": 1
+    },
+    {
+      "numero": "8684",
+      "date": "2026-10-12",
+      "titre": "l'amendement n° 44 de M. Tavernier à l'article premier de la proposition de loi visant à moderniser et rééquilibrer le fonctionnement du titre-restaurant (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 4,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "8683",
+      "date": "2026-10-12",
+      "titre": "l'amendement n° 19 de Mme Piron et les amendements identiques suivants à l'article premier de la proposition de loi visant à moderniser et rééquilibrer le fonctionnement du titre-restaurant (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 4,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "8682",
+      "date": "2026-10-12",
+      "titre": "l'amendement n° 15 de Mme Hignet à l'article premier de la proposition de loi visant à moderniser et rééquilibrer le fonctionnement du titre-restaurant (première lecture).",
+      "resultat": "rejeté",
+      "position": "abstention",
+      "pour": 0,
+      "contre": 0,
+      "abstentions": 3
+    },
+    {
       "numero": "8681",
       "date": "2026-10-12",
       "titre": "l'amendement n° 12 de M. Ramos à l'article premier de la proposition de loi visant à moderniser et rééquilibrer le fonctionnement du titre-restaurant (première lecture).",
@@ -20210,6 +20960,156 @@
     }
   ],
   "PO845439": [
+    {
+      "numero": "8696",
+      "date": "2026-10-12",
+      "titre": "l'article unique du projet de loi autorisant l'approbation de la convention d'extradition entre le Gouvernement de la République française et le Gouvernement de la République de Colombie (première lecture).",
+      "resultat": "adopté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 2,
+      "abstentions": 0
+    },
+    {
+      "numero": "8695",
+      "date": "2026-10-12",
+      "titre": "l'ensemble de la proposition de loi relative à l'expérimentation d'une gouvernance territoriale unifiée pour le centre de ressources, d'expertise et de performance sportive (CREPS) de Vichy (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 3,
+      "contre": 0,
+      "abstentions": 2
+    },
+    {
+      "numero": "8694",
+      "date": "2026-10-12",
+      "titre": "l'ensemble de la proposition de loi visant à assouplir la procédure d'autorisation des établissements et services sociaux et médico-sociaux à caractère expérimental (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 3,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "8693",
+      "date": "2026-10-12",
+      "titre": "l'ensemble de la proposition de loi visant à moderniser et rééquilibrer le fonctionnement du titre-restaurant (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 8,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "8692",
+      "date": "2026-10-12",
+      "titre": "l'amendement n° 79 de M. Weber à l'article 4 de la proposition de loi visant à moderniser et rééquilibrer le fonctionnement du titre-restaurant (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 7,
+      "abstentions": 0
+    },
+    {
+      "numero": "8691",
+      "date": "2026-10-12",
+      "titre": "l'amendement n° 54 de M. Casterman à l'article 4 de la proposition de loi visant à moderniser et rééquilibrer le fonctionnement du titre-restaurant (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 7,
+      "abstentions": 0
+    },
+    {
+      "numero": "8690",
+      "date": "2026-10-12",
+      "titre": "l'amendement n° 6 de M. Tavernier après l'article 2 de la proposition de loi visant à moderniser et rééquilibrer le fonctionnement du titre-restaurant (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 7,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "8689",
+      "date": "2026-10-12",
+      "titre": "l'amendement n° 7 de M. Tavernier à l'article 2 de la proposition de loi visant à moderniser et rééquilibrer le fonctionnement du titre-restaurant (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 8,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "8688",
+      "date": "2026-10-12",
+      "titre": "l'amendement n° 78 (rect.) de M. Weber à l'article 2 de la proposition de loi visant à moderniser et rééquilibrer le fonctionnement du titre-restaurant (première lecture).",
+      "resultat": "adopté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 8,
+      "abstentions": 0
+    },
+    {
+      "numero": "8687",
+      "date": "2026-10-12",
+      "titre": "l'amendement n° 77 de M. Weber à l'article 2 de la proposition de loi visant à moderniser et rééquilibrer le fonctionnement du titre-restaurant (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 8,
+      "abstentions": 0
+    },
+    {
+      "numero": "8686",
+      "date": "2026-10-12",
+      "titre": "l'article premier de la proposition de loi visant à moderniser et rééquilibrer le fonctionnement du titre-restaurant (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 7,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "8685",
+      "date": "2026-10-12",
+      "titre": "l'amendement n° 63 de Mme Godard à l'article premier de la proposition de loi visant à moderniser et rééquilibrer le fonctionnement du titre-restaurant (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 8,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "8684",
+      "date": "2026-10-12",
+      "titre": "l'amendement n° 44 de M. Tavernier à l'article premier de la proposition de loi visant à moderniser et rééquilibrer le fonctionnement du titre-restaurant (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 8,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "8683",
+      "date": "2026-10-12",
+      "titre": "l'amendement n° 19 de Mme Piron et les amendements identiques suivants à l'article premier de la proposition de loi visant à moderniser et rééquilibrer le fonctionnement du titre-restaurant (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 8,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "8682",
+      "date": "2026-10-12",
+      "titre": "l'amendement n° 15 de Mme Hignet à l'article premier de la proposition de loi visant à moderniser et rééquilibrer le fonctionnement du titre-restaurant (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 8,
+      "contre": 0,
+      "abstentions": 0
+    },
     {
       "numero": "8681",
       "date": "2026-10-12",
@@ -24253,6 +25153,156 @@
   ],
   "PO845454": [
     {
+      "numero": "8696",
+      "date": "2026-10-12",
+      "titre": "l'article unique du projet de loi autorisant l'approbation de la convention d'extradition entre le Gouvernement de la République française et le Gouvernement de la République de Colombie (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 4,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "8695",
+      "date": "2026-10-12",
+      "titre": "l'ensemble de la proposition de loi relative à l'expérimentation d'une gouvernance territoriale unifiée pour le centre de ressources, d'expertise et de performance sportive (CREPS) de Vichy (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 4,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "8694",
+      "date": "2026-10-12",
+      "titre": "l'ensemble de la proposition de loi visant à assouplir la procédure d'autorisation des établissements et services sociaux et médico-sociaux à caractère expérimental (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 2,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "8693",
+      "date": "2026-10-12",
+      "titre": "l'ensemble de la proposition de loi visant à moderniser et rééquilibrer le fonctionnement du titre-restaurant (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 4,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "8692",
+      "date": "2026-10-12",
+      "titre": "l'amendement n° 79 de M. Weber à l'article 4 de la proposition de loi visant à moderniser et rééquilibrer le fonctionnement du titre-restaurant (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 5,
+      "abstentions": 0
+    },
+    {
+      "numero": "8691",
+      "date": "2026-10-12",
+      "titre": "l'amendement n° 54 de M. Casterman à l'article 4 de la proposition de loi visant à moderniser et rééquilibrer le fonctionnement du titre-restaurant (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 1,
+      "contre": 4,
+      "abstentions": 0
+    },
+    {
+      "numero": "8690",
+      "date": "2026-10-12",
+      "titre": "l'amendement n° 6 de M. Tavernier après l'article 2 de la proposition de loi visant à moderniser et rééquilibrer le fonctionnement du titre-restaurant (première lecture).",
+      "resultat": "adopté",
+      "position": "contre",
+      "pour": 1,
+      "contre": 4,
+      "abstentions": 0
+    },
+    {
+      "numero": "8689",
+      "date": "2026-10-12",
+      "titre": "l'amendement n° 7 de M. Tavernier à l'article 2 de la proposition de loi visant à moderniser et rééquilibrer le fonctionnement du titre-restaurant (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 2,
+      "contre": 2,
+      "abstentions": 0
+    },
+    {
+      "numero": "8688",
+      "date": "2026-10-12",
+      "titre": "l'amendement n° 78 (rect.) de M. Weber à l'article 2 de la proposition de loi visant à moderniser et rééquilibrer le fonctionnement du titre-restaurant (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 1,
+      "contre": 1,
+      "abstentions": 1
+    },
+    {
+      "numero": "8687",
+      "date": "2026-10-12",
+      "titre": "l'amendement n° 77 de M. Weber à l'article 2 de la proposition de loi visant à moderniser et rééquilibrer le fonctionnement du titre-restaurant (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 5,
+      "abstentions": 0
+    },
+    {
+      "numero": "8686",
+      "date": "2026-10-12",
+      "titre": "l'article premier de la proposition de loi visant à moderniser et rééquilibrer le fonctionnement du titre-restaurant (première lecture).",
+      "resultat": "adopté",
+      "position": "abstention",
+      "pour": 1,
+      "contre": 0,
+      "abstentions": 3
+    },
+    {
+      "numero": "8685",
+      "date": "2026-10-12",
+      "titre": "l'amendement n° 63 de Mme Godard à l'article premier de la proposition de loi visant à moderniser et rééquilibrer le fonctionnement du titre-restaurant (première lecture).",
+      "resultat": "adopté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 5,
+      "abstentions": 0
+    },
+    {
+      "numero": "8684",
+      "date": "2026-10-12",
+      "titre": "l'amendement n° 44 de M. Tavernier à l'article premier de la proposition de loi visant à moderniser et rééquilibrer le fonctionnement du titre-restaurant (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 4,
+      "abstentions": 0
+    },
+    {
+      "numero": "8683",
+      "date": "2026-10-12",
+      "titre": "l'amendement n° 19 de Mme Piron et les amendements identiques suivants à l'article premier de la proposition de loi visant à moderniser et rééquilibrer le fonctionnement du titre-restaurant (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 4,
+      "abstentions": 1
+    },
+    {
+      "numero": "8682",
+      "date": "2026-10-12",
+      "titre": "l'amendement n° 15 de Mme Hignet à l'article premier de la proposition de loi visant à moderniser et rééquilibrer le fonctionnement du titre-restaurant (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 4,
+      "abstentions": 1
+    },
+    {
       "numero": "8681",
       "date": "2026-10-12",
       "titre": "l'amendement n° 12 de M. Ramos à l'article premier de la proposition de loi visant à moderniser et rééquilibrer le fonctionnement du titre-restaurant (première lecture).",
@@ -28294,6 +29344,156 @@
     }
   ],
   "PO845470": [
+    {
+      "numero": "8696",
+      "date": "2026-10-12",
+      "titre": "l'article unique du projet de loi autorisant l'approbation de la convention d'extradition entre le Gouvernement de la République française et le Gouvernement de la République de Colombie (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 3,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "8695",
+      "date": "2026-10-12",
+      "titre": "l'ensemble de la proposition de loi relative à l'expérimentation d'une gouvernance territoriale unifiée pour le centre de ressources, d'expertise et de performance sportive (CREPS) de Vichy (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 4,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "8694",
+      "date": "2026-10-12",
+      "titre": "l'ensemble de la proposition de loi visant à assouplir la procédure d'autorisation des établissements et services sociaux et médico-sociaux à caractère expérimental (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 2,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "8693",
+      "date": "2026-10-12",
+      "titre": "l'ensemble de la proposition de loi visant à moderniser et rééquilibrer le fonctionnement du titre-restaurant (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 6,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "8692",
+      "date": "2026-10-12",
+      "titre": "l'amendement n° 79 de M. Weber à l'article 4 de la proposition de loi visant à moderniser et rééquilibrer le fonctionnement du titre-restaurant (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 5,
+      "abstentions": 0
+    },
+    {
+      "numero": "8691",
+      "date": "2026-10-12",
+      "titre": "l'amendement n° 54 de M. Casterman à l'article 4 de la proposition de loi visant à moderniser et rééquilibrer le fonctionnement du titre-restaurant (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 5,
+      "abstentions": 0
+    },
+    {
+      "numero": "8690",
+      "date": "2026-10-12",
+      "titre": "l'amendement n° 6 de M. Tavernier après l'article 2 de la proposition de loi visant à moderniser et rééquilibrer le fonctionnement du titre-restaurant (première lecture).",
+      "resultat": "adopté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 3,
+      "abstentions": 0
+    },
+    {
+      "numero": "8689",
+      "date": "2026-10-12",
+      "titre": "l'amendement n° 7 de M. Tavernier à l'article 2 de la proposition de loi visant à moderniser et rééquilibrer le fonctionnement du titre-restaurant (première lecture).",
+      "resultat": "adopté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 4,
+      "abstentions": 0
+    },
+    {
+      "numero": "8688",
+      "date": "2026-10-12",
+      "titre": "l'amendement n° 78 (rect.) de M. Weber à l'article 2 de la proposition de loi visant à moderniser et rééquilibrer le fonctionnement du titre-restaurant (première lecture).",
+      "resultat": "adopté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 4,
+      "abstentions": 0
+    },
+    {
+      "numero": "8687",
+      "date": "2026-10-12",
+      "titre": "l'amendement n° 77 de M. Weber à l'article 2 de la proposition de loi visant à moderniser et rééquilibrer le fonctionnement du titre-restaurant (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 4,
+      "abstentions": 0
+    },
+    {
+      "numero": "8686",
+      "date": "2026-10-12",
+      "titre": "l'article premier de la proposition de loi visant à moderniser et rééquilibrer le fonctionnement du titre-restaurant (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 4,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "8685",
+      "date": "2026-10-12",
+      "titre": "l'amendement n° 63 de Mme Godard à l'article premier de la proposition de loi visant à moderniser et rééquilibrer le fonctionnement du titre-restaurant (première lecture).",
+      "resultat": "adopté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 4,
+      "abstentions": 0
+    },
+    {
+      "numero": "8684",
+      "date": "2026-10-12",
+      "titre": "l'amendement n° 44 de M. Tavernier à l'article premier de la proposition de loi visant à moderniser et rééquilibrer le fonctionnement du titre-restaurant (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 1,
+      "contre": 2,
+      "abstentions": 1
+    },
+    {
+      "numero": "8683",
+      "date": "2026-10-12",
+      "titre": "l'amendement n° 19 de Mme Piron et les amendements identiques suivants à l'article premier de la proposition de loi visant à moderniser et rééquilibrer le fonctionnement du titre-restaurant (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 2,
+      "contre": 2,
+      "abstentions": 0
+    },
+    {
+      "numero": "8682",
+      "date": "2026-10-12",
+      "titre": "l'amendement n° 15 de Mme Hignet à l'article premier de la proposition de loi visant à moderniser et rééquilibrer le fonctionnement du titre-restaurant (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 3,
+      "abstentions": 1
+    },
     {
       "numero": "8681",
       "date": "2026-10-12",
@@ -32337,6 +33537,156 @@
   ],
   "PO845485": [
     {
+      "numero": "8696",
+      "date": "2026-10-12",
+      "titre": "l'article unique du projet de loi autorisant l'approbation de la convention d'extradition entre le Gouvernement de la République française et le Gouvernement de la République de Colombie (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 1,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "8695",
+      "date": "2026-10-12",
+      "titre": "l'ensemble de la proposition de loi relative à l'expérimentation d'une gouvernance territoriale unifiée pour le centre de ressources, d'expertise et de performance sportive (CREPS) de Vichy (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 1,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "8694",
+      "date": "2026-10-12",
+      "titre": "l'ensemble de la proposition de loi visant à assouplir la procédure d'autorisation des établissements et services sociaux et médico-sociaux à caractère expérimental (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 2,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "8693",
+      "date": "2026-10-12",
+      "titre": "l'ensemble de la proposition de loi visant à moderniser et rééquilibrer le fonctionnement du titre-restaurant (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 6,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "8692",
+      "date": "2026-10-12",
+      "titre": "l'amendement n° 79 de M. Weber à l'article 4 de la proposition de loi visant à moderniser et rééquilibrer le fonctionnement du titre-restaurant (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 5,
+      "abstentions": 0
+    },
+    {
+      "numero": "8691",
+      "date": "2026-10-12",
+      "titre": "l'amendement n° 54 de M. Casterman à l'article 4 de la proposition de loi visant à moderniser et rééquilibrer le fonctionnement du titre-restaurant (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 4,
+      "abstentions": 0
+    },
+    {
+      "numero": "8690",
+      "date": "2026-10-12",
+      "titre": "l'amendement n° 6 de M. Tavernier après l'article 2 de la proposition de loi visant à moderniser et rééquilibrer le fonctionnement du titre-restaurant (première lecture).",
+      "resultat": "adopté",
+      "position": "contre",
+      "pour": 2,
+      "contre": 3,
+      "abstentions": 0
+    },
+    {
+      "numero": "8689",
+      "date": "2026-10-12",
+      "titre": "l'amendement n° 7 de M. Tavernier à l'article 2 de la proposition de loi visant à moderniser et rééquilibrer le fonctionnement du titre-restaurant (première lecture).",
+      "resultat": "adopté",
+      "position": "contre",
+      "pour": 1,
+      "contre": 4,
+      "abstentions": 0
+    },
+    {
+      "numero": "8688",
+      "date": "2026-10-12",
+      "titre": "l'amendement n° 78 (rect.) de M. Weber à l'article 2 de la proposition de loi visant à moderniser et rééquilibrer le fonctionnement du titre-restaurant (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 4,
+      "contre": 1,
+      "abstentions": 0
+    },
+    {
+      "numero": "8687",
+      "date": "2026-10-12",
+      "titre": "l'amendement n° 77 de M. Weber à l'article 2 de la proposition de loi visant à moderniser et rééquilibrer le fonctionnement du titre-restaurant (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 1,
+      "contre": 2,
+      "abstentions": 2
+    },
+    {
+      "numero": "8686",
+      "date": "2026-10-12",
+      "titre": "l'article premier de la proposition de loi visant à moderniser et rééquilibrer le fonctionnement du titre-restaurant (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 5,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "8685",
+      "date": "2026-10-12",
+      "titre": "l'amendement n° 63 de Mme Godard à l'article premier de la proposition de loi visant à moderniser et rééquilibrer le fonctionnement du titre-restaurant (première lecture).",
+      "resultat": "adopté",
+      "position": "contre",
+      "pour": 1,
+      "contre": 4,
+      "abstentions": 0
+    },
+    {
+      "numero": "8684",
+      "date": "2026-10-12",
+      "titre": "l'amendement n° 44 de M. Tavernier à l'article premier de la proposition de loi visant à moderniser et rééquilibrer le fonctionnement du titre-restaurant (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 1,
+      "contre": 3,
+      "abstentions": 0
+    },
+    {
+      "numero": "8683",
+      "date": "2026-10-12",
+      "titre": "l'amendement n° 19 de Mme Piron et les amendements identiques suivants à l'article premier de la proposition de loi visant à moderniser et rééquilibrer le fonctionnement du titre-restaurant (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 1,
+      "contre": 3,
+      "abstentions": 0
+    },
+    {
+      "numero": "8682",
+      "date": "2026-10-12",
+      "titre": "l'amendement n° 15 de Mme Hignet à l'article premier de la proposition de loi visant à moderniser et rééquilibrer le fonctionnement du titre-restaurant (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 1,
+      "contre": 3,
+      "abstentions": 0
+    },
+    {
       "numero": "8681",
       "date": "2026-10-12",
       "titre": "l'amendement n° 12 de M. Ramos à l'article premier de la proposition de loi visant à moderniser et rééquilibrer le fonctionnement du titre-restaurant (première lecture).",
@@ -36378,6 +37728,156 @@
     }
   ],
   "PO872880": [
+    {
+      "numero": "8696",
+      "date": "2026-10-12",
+      "titre": "l'article unique du projet de loi autorisant l'approbation de la convention d'extradition entre le Gouvernement de la République française et le Gouvernement de la République de Colombie (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 4,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "8695",
+      "date": "2026-10-12",
+      "titre": "l'ensemble de la proposition de loi relative à l'expérimentation d'une gouvernance territoriale unifiée pour le centre de ressources, d'expertise et de performance sportive (CREPS) de Vichy (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 5,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "8694",
+      "date": "2026-10-12",
+      "titre": "l'ensemble de la proposition de loi visant à assouplir la procédure d'autorisation des établissements et services sociaux et médico-sociaux à caractère expérimental (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 4,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "8693",
+      "date": "2026-10-12",
+      "titre": "l'ensemble de la proposition de loi visant à moderniser et rééquilibrer le fonctionnement du titre-restaurant (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 3,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "8692",
+      "date": "2026-10-12",
+      "titre": "l'amendement n° 79 de M. Weber à l'article 4 de la proposition de loi visant à moderniser et rééquilibrer le fonctionnement du titre-restaurant (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 3,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "8691",
+      "date": "2026-10-12",
+      "titre": "l'amendement n° 54 de M. Casterman à l'article 4 de la proposition de loi visant à moderniser et rééquilibrer le fonctionnement du titre-restaurant (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 3,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "8690",
+      "date": "2026-10-12",
+      "titre": "l'amendement n° 6 de M. Tavernier après l'article 2 de la proposition de loi visant à moderniser et rééquilibrer le fonctionnement du titre-restaurant (première lecture).",
+      "resultat": "adopté",
+      "position": "abstention",
+      "pour": 0,
+      "contre": 0,
+      "abstentions": 3
+    },
+    {
+      "numero": "8689",
+      "date": "2026-10-12",
+      "titre": "l'amendement n° 7 de M. Tavernier à l'article 2 de la proposition de loi visant à moderniser et rééquilibrer le fonctionnement du titre-restaurant (première lecture).",
+      "resultat": "adopté",
+      "position": "abstention",
+      "pour": 0,
+      "contre": 0,
+      "abstentions": 4
+    },
+    {
+      "numero": "8688",
+      "date": "2026-10-12",
+      "titre": "l'amendement n° 78 (rect.) de M. Weber à l'article 2 de la proposition de loi visant à moderniser et rééquilibrer le fonctionnement du titre-restaurant (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 4,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "8687",
+      "date": "2026-10-12",
+      "titre": "l'amendement n° 77 de M. Weber à l'article 2 de la proposition de loi visant à moderniser et rééquilibrer le fonctionnement du titre-restaurant (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 4,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "8686",
+      "date": "2026-10-12",
+      "titre": "l'article premier de la proposition de loi visant à moderniser et rééquilibrer le fonctionnement du titre-restaurant (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 4,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "8685",
+      "date": "2026-10-12",
+      "titre": "l'amendement n° 63 de Mme Godard à l'article premier de la proposition de loi visant à moderniser et rééquilibrer le fonctionnement du titre-restaurant (première lecture).",
+      "resultat": "adopté",
+      "position": "abstention",
+      "pour": 0,
+      "contre": 0,
+      "abstentions": 4
+    },
+    {
+      "numero": "8684",
+      "date": "2026-10-12",
+      "titre": "l'amendement n° 44 de M. Tavernier à l'article premier de la proposition de loi visant à moderniser et rééquilibrer le fonctionnement du titre-restaurant (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 5,
+      "abstentions": 0
+    },
+    {
+      "numero": "8683",
+      "date": "2026-10-12",
+      "titre": "l'amendement n° 19 de Mme Piron et les amendements identiques suivants à l'article premier de la proposition de loi visant à moderniser et rééquilibrer le fonctionnement du titre-restaurant (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 4,
+      "abstentions": 1
+    },
+    {
+      "numero": "8682",
+      "date": "2026-10-12",
+      "titre": "l'amendement n° 15 de Mme Hignet à l'article premier de la proposition de loi visant à moderniser et rééquilibrer le fonctionnement du titre-restaurant (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 3,
+      "contre": 2,
+      "abstentions": 0
+    },
     {
       "numero": "8681",
       "date": "2026-10-12",
@@ -40421,6 +41921,156 @@
   ],
   "PO845514": [
     {
+      "numero": "8696",
+      "date": "2026-10-12",
+      "titre": "l'article unique du projet de loi autorisant l'approbation de la convention d'extradition entre le Gouvernement de la République française et le Gouvernement de la République de Colombie (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 0,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "8695",
+      "date": "2026-10-12",
+      "titre": "l'ensemble de la proposition de loi relative à l'expérimentation d'une gouvernance territoriale unifiée pour le centre de ressources, d'expertise et de performance sportive (CREPS) de Vichy (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 2,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "8694",
+      "date": "2026-10-12",
+      "titre": "l'ensemble de la proposition de loi visant à assouplir la procédure d'autorisation des établissements et services sociaux et médico-sociaux à caractère expérimental (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 0,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "8693",
+      "date": "2026-10-12",
+      "titre": "l'ensemble de la proposition de loi visant à moderniser et rééquilibrer le fonctionnement du titre-restaurant (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 2,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "8692",
+      "date": "2026-10-12",
+      "titre": "l'amendement n° 79 de M. Weber à l'article 4 de la proposition de loi visant à moderniser et rééquilibrer le fonctionnement du titre-restaurant (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 2,
+      "abstentions": 0
+    },
+    {
+      "numero": "8691",
+      "date": "2026-10-12",
+      "titre": "l'amendement n° 54 de M. Casterman à l'article 4 de la proposition de loi visant à moderniser et rééquilibrer le fonctionnement du titre-restaurant (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 0,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "8690",
+      "date": "2026-10-12",
+      "titre": "l'amendement n° 6 de M. Tavernier après l'article 2 de la proposition de loi visant à moderniser et rééquilibrer le fonctionnement du titre-restaurant (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 2,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "8689",
+      "date": "2026-10-12",
+      "titre": "l'amendement n° 7 de M. Tavernier à l'article 2 de la proposition de loi visant à moderniser et rééquilibrer le fonctionnement du titre-restaurant (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 2,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "8688",
+      "date": "2026-10-12",
+      "titre": "l'amendement n° 78 (rect.) de M. Weber à l'article 2 de la proposition de loi visant à moderniser et rééquilibrer le fonctionnement du titre-restaurant (première lecture).",
+      "resultat": "adopté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 2,
+      "abstentions": 0
+    },
+    {
+      "numero": "8687",
+      "date": "2026-10-12",
+      "titre": "l'amendement n° 77 de M. Weber à l'article 2 de la proposition de loi visant à moderniser et rééquilibrer le fonctionnement du titre-restaurant (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 2,
+      "abstentions": 0
+    },
+    {
+      "numero": "8686",
+      "date": "2026-10-12",
+      "titre": "l'article premier de la proposition de loi visant à moderniser et rééquilibrer le fonctionnement du titre-restaurant (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 2,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "8685",
+      "date": "2026-10-12",
+      "titre": "l'amendement n° 63 de Mme Godard à l'article premier de la proposition de loi visant à moderniser et rééquilibrer le fonctionnement du titre-restaurant (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 2,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "8684",
+      "date": "2026-10-12",
+      "titre": "l'amendement n° 44 de M. Tavernier à l'article premier de la proposition de loi visant à moderniser et rééquilibrer le fonctionnement du titre-restaurant (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 2,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "8683",
+      "date": "2026-10-12",
+      "titre": "l'amendement n° 19 de Mme Piron et les amendements identiques suivants à l'article premier de la proposition de loi visant à moderniser et rééquilibrer le fonctionnement du titre-restaurant (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 2,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "8682",
+      "date": "2026-10-12",
+      "titre": "l'amendement n° 15 de Mme Hignet à l'article premier de la proposition de loi visant à moderniser et rééquilibrer le fonctionnement du titre-restaurant (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 2,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
       "numero": "8681",
       "date": "2026-10-12",
       "titre": "l'amendement n° 12 de M. Ramos à l'article premier de la proposition de loi visant à moderniser et rééquilibrer le fonctionnement du titre-restaurant (première lecture).",
@@ -44462,6 +46112,156 @@
     }
   ],
   "PO840056": [
+    {
+      "numero": "8696",
+      "date": "2026-10-12",
+      "titre": "l'article unique du projet de loi autorisant l'approbation de la convention d'extradition entre le Gouvernement de la République française et le Gouvernement de la République de Colombie (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 0,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "8695",
+      "date": "2026-10-12",
+      "titre": "l'ensemble de la proposition de loi relative à l'expérimentation d'une gouvernance territoriale unifiée pour le centre de ressources, d'expertise et de performance sportive (CREPS) de Vichy (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 0,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "8694",
+      "date": "2026-10-12",
+      "titre": "l'ensemble de la proposition de loi visant à assouplir la procédure d'autorisation des établissements et services sociaux et médico-sociaux à caractère expérimental (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 0,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "8693",
+      "date": "2026-10-12",
+      "titre": "l'ensemble de la proposition de loi visant à moderniser et rééquilibrer le fonctionnement du titre-restaurant (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 0,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "8692",
+      "date": "2026-10-12",
+      "titre": "l'amendement n° 79 de M. Weber à l'article 4 de la proposition de loi visant à moderniser et rééquilibrer le fonctionnement du titre-restaurant (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 0,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "8691",
+      "date": "2026-10-12",
+      "titre": "l'amendement n° 54 de M. Casterman à l'article 4 de la proposition de loi visant à moderniser et rééquilibrer le fonctionnement du titre-restaurant (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 0,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "8690",
+      "date": "2026-10-12",
+      "titre": "l'amendement n° 6 de M. Tavernier après l'article 2 de la proposition de loi visant à moderniser et rééquilibrer le fonctionnement du titre-restaurant (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 0,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "8689",
+      "date": "2026-10-12",
+      "titre": "l'amendement n° 7 de M. Tavernier à l'article 2 de la proposition de loi visant à moderniser et rééquilibrer le fonctionnement du titre-restaurant (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 0,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "8688",
+      "date": "2026-10-12",
+      "titre": "l'amendement n° 78 (rect.) de M. Weber à l'article 2 de la proposition de loi visant à moderniser et rééquilibrer le fonctionnement du titre-restaurant (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 0,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "8687",
+      "date": "2026-10-12",
+      "titre": "l'amendement n° 77 de M. Weber à l'article 2 de la proposition de loi visant à moderniser et rééquilibrer le fonctionnement du titre-restaurant (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 0,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "8686",
+      "date": "2026-10-12",
+      "titre": "l'article premier de la proposition de loi visant à moderniser et rééquilibrer le fonctionnement du titre-restaurant (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 0,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "8685",
+      "date": "2026-10-12",
+      "titre": "l'amendement n° 63 de Mme Godard à l'article premier de la proposition de loi visant à moderniser et rééquilibrer le fonctionnement du titre-restaurant (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 0,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "8684",
+      "date": "2026-10-12",
+      "titre": "l'amendement n° 44 de M. Tavernier à l'article premier de la proposition de loi visant à moderniser et rééquilibrer le fonctionnement du titre-restaurant (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 0,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "8683",
+      "date": "2026-10-12",
+      "titre": "l'amendement n° 19 de Mme Piron et les amendements identiques suivants à l'article premier de la proposition de loi visant à moderniser et rééquilibrer le fonctionnement du titre-restaurant (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 0,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "8682",
+      "date": "2026-10-12",
+      "titre": "l'amendement n° 15 de Mme Hignet à l'article premier de la proposition de loi visant à moderniser et rééquilibrer le fonctionnement du titre-restaurant (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 0,
+      "contre": 0,
+      "abstentions": 0
+    },
     {
       "numero": "8681",
       "date": "2026-10-12",
