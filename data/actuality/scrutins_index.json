@@ -1,5 +1,19 @@
 [
   {
+    "numero": "8708",
+    "date": "2026-10-14",
+    "titre": "l'amendement n° 312 de M. Le Coq et les amendements identiques suivants de suppression de l'article liminaire du projet de loi de finances pour 2027 (première lecture).",
+    "seanceRef": "RUANR5L17S2027IDS30942",
+    "dossier": "Projet de loi de finances pour 2027",
+    "dossierRef": "DLR5L17N54629",
+    "typeVote": "scrutin public ordinaire",
+    "resultat": "adopté",
+    "votants": 193,
+    "pour": 135,
+    "contre": 53,
+    "abstentions": 5
+  },
+  {
     "numero": "8707",
     "date": "2026-10-13",
     "titre": "la motion de rejet préalable, déposée par M. Boris Vallaud, du projet de loi de finances pour 2027 (première lecture).",
@@ -72,7 +86,7 @@
   {
     "numero": "8702",
     "date": "2026-10-13",
-    "titre": "l'amendement n° 4 de Mme Thiébault-Martinez à l'article 44 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (seconde délibération) (première lecture).",
+    "titre": "l'amendement n° 4 (rect.) de Mme Thiébault-Martinez à l'article 44 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (seconde délibération) (première lecture).",
     "seanceRef": "RUANR5L17S2027IDS30940",
     "dossier": "Apporter une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants",
     "dossierRef": "DLR5L17N54776",
