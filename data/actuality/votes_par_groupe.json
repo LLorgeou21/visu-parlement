@@ -1,6 +1,116 @@
 {
   "PO845401": [
     {
+      "numero": "8707",
+      "date": "2026-10-13",
+      "titre": "la motion de rejet préalable, déposée par M. Boris Vallaud, du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 62,
+      "abstentions": 0
+    },
+    {
+      "numero": "8706",
+      "date": "2026-10-13",
+      "titre": "la proposition de loi organique visant à adapter l'autorité judiciaire à la lutte contre les violences sexuelles et intrafamiliales (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 121,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "8705",
+      "date": "2026-10-13",
+      "titre": "la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 121,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "8704",
+      "date": "2026-10-13",
+      "titre": "l'amendement n° 5 de Mme Thiébault-Martinez de rétablissement de l'article 46 (supprimé) de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (seconde délibération) (première lecture).",
+      "resultat": "adopté",
+      "position": "contre",
+      "pour": 1,
+      "contre": 85,
+      "abstentions": 0
+    },
+    {
+      "numero": "8703",
+      "date": "2026-10-13",
+      "titre": "l'amendement n° 7 de M. Ménagé de rétablissement de l'article 46 (supprimé) de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (seconde délibération) (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 86,
+      "contre": 1,
+      "abstentions": 0
+    },
+    {
+      "numero": "8702",
+      "date": "2026-10-13",
+      "titre": "l'amendement n° 4 de Mme Thiébault-Martinez à l'article 44 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (seconde délibération) (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 1,
+      "contre": 82,
+      "abstentions": 0
+    },
+    {
+      "numero": "8701",
+      "date": "2026-10-13",
+      "titre": "l'article 32 bis de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (seconde délibération) (première lecture).",
+      "resultat": "adopté",
+      "position": "abstention",
+      "pour": 0,
+      "contre": 1,
+      "abstentions": 73
+    },
+    {
+      "numero": "8700",
+      "date": "2026-10-13",
+      "titre": "l'amendement n° 3 de Mme Thiébault-Martinez à l'article 32 bis de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (seconde délibération) (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 76,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "8699",
+      "date": "2026-10-13",
+      "titre": "l'amendement n° 6 de Mme Thiébault-Martinez à l'article 31 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (seconde délibération) (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 74,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "8698",
+      "date": "2026-10-13",
+      "titre": "l'amendement n° 2 de Mme Thiébault-Martinez à l'article 28 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (seconde délibération) (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 64,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "8697",
+      "date": "2026-10-13",
+      "titre": "l'amendement n° 1 de Mme Thiébault-Martinez à l'article 3 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (seconde délibération) (première lecture).",
+      "resultat": "adopté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 53,
+      "abstentions": 0
+    },
+    {
       "numero": "8696",
       "date": "2026-10-12",
       "titre": "l'article unique du projet de loi autorisant l'approbation de la convention d'extradition entre le Gouvernement de la République française et le Gouvernement de la République de Colombie (première lecture).",
@@ -123,7 +233,7 @@
     {
       "numero": "8684",
       "date": "2026-10-12",
-      "titre": "l'amendement n° 44 de M. Tavernier à l'article premier de la proposition de loi visant à moderniser et rééquilibrer le fonctionnement du titre-restaurant (première lecture).",
+      "titre": "l'amendement n° 44 (rect.) de M. Tavernier à l'article premier de la proposition de loi visant à moderniser et rééquilibrer le fonctionnement du titre-restaurant (première lecture).",
       "resultat": "rejeté",
       "position": "contre",
       "pour": 0,
@@ -133,7 +243,7 @@
     {
       "numero": "8683",
       "date": "2026-10-12",
-      "titre": "l'amendement n° 19 de Mme Piron et les amendements identiques suivants à l'article premier de la proposition de loi visant à moderniser et rééquilibrer le fonctionnement du titre-restaurant (première lecture).",
+      "titre": "l'amendement n° 19 de Mme Piron et l'amendement identique suivant à l'article premier de la proposition de loi visant à moderniser et rééquilibrer le fonctionnement du titre-restaurant (première lecture).",
       "resultat": "rejeté",
       "position": "contre",
       "pour": 0,
@@ -4069,129 +4179,119 @@
       "pour": 1,
       "contre": 5,
       "abstentions": 0
-    },
-    {
-      "numero": "8289",
-      "date": "2026-07-15",
-      "titre": "l'amendement n° 1183 du Gouvernement à l'article 6 (examen prioritaire) du projet de loi relatif à la protection des enfants (première lecture).",
-      "resultat": "adopté",
-      "position": "pour",
-      "pour": 19,
-      "contre": 0,
-      "abstentions": 0
-    },
-    {
-      "numero": "8288",
-      "date": "2026-07-15",
-      "titre": "le sous-amendement n° 1188 de Mme Perrine Goulet et le sous-amendement identique suivant à l'amendement n° 1183 du Gouvernement à l'article 6 (examen prioritaire) du projet de loi relatif à la protection des enfants (première lecture).",
-      "resultat": "adopté",
-      "position": "pour",
-      "pour": 19,
-      "contre": 0,
-      "abstentions": 0
-    },
-    {
-      "numero": "8287",
-      "date": "2026-07-15",
-      "titre": "le sous-amendement n° 1189 de Mme Perrine Goulet à l'amendement n° 1183 du Gouvernement à l'article 6 (examen prioritaire) du projet de loi relatif à la protection des enfants (première lecture).",
-      "resultat": "adopté",
-      "position": "abstention",
-      "pour": 0,
-      "contre": 0,
-      "abstentions": 18
-    },
-    {
-      "numero": "8286",
-      "date": "2026-07-15",
-      "titre": "le sous-amendement n° 1215 de M. Fait à l'amendement n° 1183 du Gouvernement à l'article 6 (examen prioritaire) du projet de loi relatif à la protection des enfants (première lecture).",
-      "resultat": "adopté",
-      "position": "contre",
-      "pour": 0,
-      "contre": 18,
-      "abstentions": 0
-    },
-    {
-      "numero": "8285",
-      "date": "2026-07-15",
-      "titre": "le sous-amendement n° 1993 de Mme Ibled à l'amendement n° 1183 du Gouvernement à l'article 6 (examen prioritaire) du projet de loi relatif à la protection des enfants (première lecture).",
-      "resultat": "adopté",
-      "position": "contre",
-      "pour": 0,
-      "contre": 18,
-      "abstentions": 0
-    },
-    {
-      "numero": "8284",
-      "date": "2026-07-15",
-      "titre": "le sous-amendement n° 1190 de Mme Perrine Goulet à l'amendement n° 1183 du Gouvernement à l'article 6 (examen prioritaire) du projet de loi relatif à la protection des enfants (première lecture).",
-      "resultat": "adopté",
-      "position": "contre",
-      "pour": 0,
-      "contre": 18,
-      "abstentions": 0
-    },
-    {
-      "numero": "8283",
-      "date": "2026-07-15",
-      "titre": "le sous-amendement n° 1192 de Mme Ibled à l'amendement n° 1183 du Gouvernement à l'article 6 (examen prioritaire) du projet de loi relatif à la protection des enfants (première lecture).",
-      "resultat": "adopté",
-      "position": "contre",
-      "pour": 0,
-      "contre": 18,
-      "abstentions": 0
-    },
-    {
-      "numero": "8282",
-      "date": "2026-07-15",
-      "titre": "l'amendement n° 397 de Mme Capdevielle à l'article 6 (examen prioritaire) du projet de loi relatif à la protection des enfants (première lecture).",
-      "resultat": "rejeté",
-      "position": "contre",
-      "pour": 0,
-      "contre": 19,
-      "abstentions": 0
-    },
-    {
-      "numero": "8281",
-      "date": "2026-07-15",
-      "titre": "l'amendement n° 393 de Mme Capdevielle de suppression de l'article 6 (examen prioritaire) du projet de loi relatif à la protection des enfants (première lecture).",
-      "resultat": "rejeté",
-      "position": "contre",
-      "pour": 0,
-      "contre": 22,
-      "abstentions": 0
-    },
-    {
-      "numero": "8280",
-      "date": "2026-07-15",
-      "titre": "l'ensemble de la proposition de loi relative au droit à l'aide à mourir (lecture définitive).",
-      "resultat": "adopté",
-      "position": "pour",
-      "pour": 12,
-      "contre": 106,
-      "abstentions": 0
-    },
-    {
-      "numero": "8279",
-      "date": "2026-07-15",
-      "titre": "l'ensemble du projet de loi visant à offrir des réponses immédiates aux phénomènes troublant l'ordre public, la sécurité et la tranquillité de nos concitoyens (première lecture).",
-      "resultat": "adopté",
-      "position": "pour",
-      "pour": 119,
-      "contre": 0,
-      "abstentions": 0
-    },
-    {
-      "numero": "8278",
-      "date": "2026-07-15",
-      "titre": "l'amendement n° 1 du Gouvernement après l'article 6 quater du projet de loi visant à offrir des réponses immédiates aux phénomènes troublant l'ordre public, la sécurité et la tranquillité de nos concitoyens (seconde délibération) (première lecture).",
-      "resultat": "adopté",
-      "position": "pour",
-      "pour": 66,
-      "contre": 0,
-      "abstentions": 0
     }
   ],
   "PO845407": [
+    {
+      "numero": "8707",
+      "date": "2026-10-13",
+      "titre": "la motion de rejet préalable, déposée par M. Boris Vallaud, du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 64,
+      "abstentions": 0
+    },
+    {
+      "numero": "8706",
+      "date": "2026-10-13",
+      "titre": "la proposition de loi organique visant à adapter l'autorité judiciaire à la lutte contre les violences sexuelles et intrafamiliales (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 89,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "8705",
+      "date": "2026-10-13",
+      "titre": "la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 90,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "8704",
+      "date": "2026-10-13",
+      "titre": "l'amendement n° 5 de Mme Thiébault-Martinez de rétablissement de l'article 46 (supprimé) de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (seconde délibération) (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 39,
+      "contre": 0,
+      "abstentions": 3
+    },
+    {
+      "numero": "8703",
+      "date": "2026-10-13",
+      "titre": "l'amendement n° 7 de M. Ménagé de rétablissement de l'article 46 (supprimé) de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (seconde délibération) (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 42,
+      "abstentions": 2
+    },
+    {
+      "numero": "8702",
+      "date": "2026-10-13",
+      "titre": "l'amendement n° 4 de Mme Thiébault-Martinez à l'article 44 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (seconde délibération) (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 7,
+      "contre": 31,
+      "abstentions": 1
+    },
+    {
+      "numero": "8701",
+      "date": "2026-10-13",
+      "titre": "l'article 32 bis de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (seconde délibération) (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 38,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "8700",
+      "date": "2026-10-13",
+      "titre": "l'amendement n° 3 de Mme Thiébault-Martinez à l'article 32 bis de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (seconde délibération) (première lecture).",
+      "resultat": "adopté",
+      "position": "contre",
+      "pour": 19,
+      "contre": 21,
+      "abstentions": 0
+    },
+    {
+      "numero": "8699",
+      "date": "2026-10-13",
+      "titre": "l'amendement n° 6 de Mme Thiébault-Martinez à l'article 31 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (seconde délibération) (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 43,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "8698",
+      "date": "2026-10-13",
+      "titre": "l'amendement n° 2 de Mme Thiébault-Martinez à l'article 28 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (seconde délibération) (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 37,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "8697",
+      "date": "2026-10-13",
+      "titre": "l'amendement n° 1 de Mme Thiébault-Martinez à l'article 3 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (seconde délibération) (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 15,
+      "contre": 10,
+      "abstentions": 1
+    },
     {
       "numero": "8696",
       "date": "2026-10-12",
@@ -4315,7 +4415,7 @@
     {
       "numero": "8684",
       "date": "2026-10-12",
-      "titre": "l'amendement n° 44 de M. Tavernier à l'article premier de la proposition de loi visant à moderniser et rééquilibrer le fonctionnement du titre-restaurant (première lecture).",
+      "titre": "l'amendement n° 44 (rect.) de M. Tavernier à l'article premier de la proposition de loi visant à moderniser et rééquilibrer le fonctionnement du titre-restaurant (première lecture).",
       "resultat": "rejeté",
       "position": "contre",
       "pour": 0,
@@ -4325,7 +4425,7 @@
     {
       "numero": "8683",
       "date": "2026-10-12",
-      "titre": "l'amendement n° 19 de Mme Piron et les amendements identiques suivants à l'article premier de la proposition de loi visant à moderniser et rééquilibrer le fonctionnement du titre-restaurant (première lecture).",
+      "titre": "l'amendement n° 19 de Mme Piron et l'amendement identique suivant à l'article premier de la proposition de loi visant à moderniser et rééquilibrer le fonctionnement du titre-restaurant (première lecture).",
       "resultat": "rejeté",
       "position": "contre",
       "pour": 0,
@@ -8261,129 +8361,119 @@
       "pour": 0,
       "contre": 9,
       "abstentions": 1
-    },
-    {
-      "numero": "8289",
-      "date": "2026-07-15",
-      "titre": "l'amendement n° 1183 du Gouvernement à l'article 6 (examen prioritaire) du projet de loi relatif à la protection des enfants (première lecture).",
-      "resultat": "adopté",
-      "position": "pour",
-      "pour": 29,
-      "contre": 1,
-      "abstentions": 0
-    },
-    {
-      "numero": "8288",
-      "date": "2026-07-15",
-      "titre": "le sous-amendement n° 1188 de Mme Perrine Goulet et le sous-amendement identique suivant à l'amendement n° 1183 du Gouvernement à l'article 6 (examen prioritaire) du projet de loi relatif à la protection des enfants (première lecture).",
-      "resultat": "adopté",
-      "position": "pour",
-      "pour": 30,
-      "contre": 0,
-      "abstentions": 0
-    },
-    {
-      "numero": "8287",
-      "date": "2026-07-15",
-      "titre": "le sous-amendement n° 1189 de Mme Perrine Goulet à l'amendement n° 1183 du Gouvernement à l'article 6 (examen prioritaire) du projet de loi relatif à la protection des enfants (première lecture).",
-      "resultat": "adopté",
-      "position": "pour",
-      "pour": 30,
-      "contre": 0,
-      "abstentions": 0
-    },
-    {
-      "numero": "8286",
-      "date": "2026-07-15",
-      "titre": "le sous-amendement n° 1215 de M. Fait à l'amendement n° 1183 du Gouvernement à l'article 6 (examen prioritaire) du projet de loi relatif à la protection des enfants (première lecture).",
-      "resultat": "adopté",
-      "position": "pour",
-      "pour": 30,
-      "contre": 0,
-      "abstentions": 0
-    },
-    {
-      "numero": "8285",
-      "date": "2026-07-15",
-      "titre": "le sous-amendement n° 1993 de Mme Ibled à l'amendement n° 1183 du Gouvernement à l'article 6 (examen prioritaire) du projet de loi relatif à la protection des enfants (première lecture).",
-      "resultat": "adopté",
-      "position": "pour",
-      "pour": 30,
-      "contre": 0,
-      "abstentions": 0
-    },
-    {
-      "numero": "8284",
-      "date": "2026-07-15",
-      "titre": "le sous-amendement n° 1190 de Mme Perrine Goulet à l'amendement n° 1183 du Gouvernement à l'article 6 (examen prioritaire) du projet de loi relatif à la protection des enfants (première lecture).",
-      "resultat": "adopté",
-      "position": "pour",
-      "pour": 30,
-      "contre": 0,
-      "abstentions": 0
-    },
-    {
-      "numero": "8283",
-      "date": "2026-07-15",
-      "titre": "le sous-amendement n° 1192 de Mme Ibled à l'amendement n° 1183 du Gouvernement à l'article 6 (examen prioritaire) du projet de loi relatif à la protection des enfants (première lecture).",
-      "resultat": "adopté",
-      "position": "pour",
-      "pour": 30,
-      "contre": 0,
-      "abstentions": 0
-    },
-    {
-      "numero": "8282",
-      "date": "2026-07-15",
-      "titre": "l'amendement n° 397 de Mme Capdevielle à l'article 6 (examen prioritaire) du projet de loi relatif à la protection des enfants (première lecture).",
-      "resultat": "rejeté",
-      "position": "contre",
-      "pour": 0,
-      "contre": 30,
-      "abstentions": 0
-    },
-    {
-      "numero": "8281",
-      "date": "2026-07-15",
-      "titre": "l'amendement n° 393 de Mme Capdevielle de suppression de l'article 6 (examen prioritaire) du projet de loi relatif à la protection des enfants (première lecture).",
-      "resultat": "rejeté",
-      "position": "contre",
-      "pour": 0,
-      "contre": 31,
-      "abstentions": 0
-    },
-    {
-      "numero": "8280",
-      "date": "2026-07-15",
-      "titre": "l'ensemble de la proposition de loi relative au droit à l'aide à mourir (lecture définitive).",
-      "resultat": "adopté",
-      "position": "abstention",
-      "pour": 64,
-      "contre": 18,
-      "abstentions": 9
-    },
-    {
-      "numero": "8279",
-      "date": "2026-07-15",
-      "titre": "l'ensemble du projet de loi visant à offrir des réponses immédiates aux phénomènes troublant l'ordre public, la sécurité et la tranquillité de nos concitoyens (première lecture).",
-      "resultat": "adopté",
-      "position": "pour",
-      "pour": 89,
-      "contre": 0,
-      "abstentions": 0
-    },
-    {
-      "numero": "8278",
-      "date": "2026-07-15",
-      "titre": "l'amendement n° 1 du Gouvernement après l'article 6 quater du projet de loi visant à offrir des réponses immédiates aux phénomènes troublant l'ordre public, la sécurité et la tranquillité de nos concitoyens (seconde délibération) (première lecture).",
-      "resultat": "adopté",
-      "position": "pour",
-      "pour": 30,
-      "contre": 1,
-      "abstentions": 0
     }
   ],
   "PO845413": [
+    {
+      "numero": "8707",
+      "date": "2026-10-13",
+      "titre": "la motion de rejet préalable, déposée par M. Boris Vallaud, du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 51,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "8706",
+      "date": "2026-10-13",
+      "titre": "la proposition de loi organique visant à adapter l'autorité judiciaire à la lutte contre les violences sexuelles et intrafamiliales (première lecture).",
+      "resultat": "adopté",
+      "position": "abstention",
+      "pour": 4,
+      "contre": 0,
+      "abstentions": 66
+    },
+    {
+      "numero": "8705",
+      "date": "2026-10-13",
+      "titre": "la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+      "resultat": "adopté",
+      "position": "abstention",
+      "pour": 4,
+      "contre": 0,
+      "abstentions": 66
+    },
+    {
+      "numero": "8704",
+      "date": "2026-10-13",
+      "titre": "l'amendement n° 5 de Mme Thiébault-Martinez de rétablissement de l'article 46 (supprimé) de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (seconde délibération) (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 46,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "8703",
+      "date": "2026-10-13",
+      "titre": "l'amendement n° 7 de M. Ménagé de rétablissement de l'article 46 (supprimé) de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (seconde délibération) (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 46,
+      "abstentions": 0
+    },
+    {
+      "numero": "8702",
+      "date": "2026-10-13",
+      "titre": "l'amendement n° 4 de Mme Thiébault-Martinez à l'article 44 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (seconde délibération) (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 44,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "8701",
+      "date": "2026-10-13",
+      "titre": "l'article 32 bis de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (seconde délibération) (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 40,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "8700",
+      "date": "2026-10-13",
+      "titre": "l'amendement n° 3 de Mme Thiébault-Martinez à l'article 32 bis de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (seconde délibération) (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 39,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "8699",
+      "date": "2026-10-13",
+      "titre": "l'amendement n° 6 de Mme Thiébault-Martinez à l'article 31 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (seconde délibération) (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 39,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "8698",
+      "date": "2026-10-13",
+      "titre": "l'amendement n° 2 de Mme Thiébault-Martinez à l'article 28 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (seconde délibération) (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 32,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "8697",
+      "date": "2026-10-13",
+      "titre": "l'amendement n° 1 de Mme Thiébault-Martinez à l'article 3 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (seconde délibération) (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 33,
+      "contre": 0,
+      "abstentions": 0
+    },
     {
       "numero": "8696",
       "date": "2026-10-12",
@@ -8507,7 +8597,7 @@
     {
       "numero": "8684",
       "date": "2026-10-12",
-      "titre": "l'amendement n° 44 de M. Tavernier à l'article premier de la proposition de loi visant à moderniser et rééquilibrer le fonctionnement du titre-restaurant (première lecture).",
+      "titre": "l'amendement n° 44 (rect.) de M. Tavernier à l'article premier de la proposition de loi visant à moderniser et rééquilibrer le fonctionnement du titre-restaurant (première lecture).",
       "resultat": "rejeté",
       "position": "pour",
       "pour": 19,
@@ -8517,7 +8607,7 @@
     {
       "numero": "8683",
       "date": "2026-10-12",
-      "titre": "l'amendement n° 19 de Mme Piron et les amendements identiques suivants à l'article premier de la proposition de loi visant à moderniser et rééquilibrer le fonctionnement du titre-restaurant (première lecture).",
+      "titre": "l'amendement n° 19 de Mme Piron et l'amendement identique suivant à l'article premier de la proposition de loi visant à moderniser et rééquilibrer le fonctionnement du titre-restaurant (première lecture).",
       "resultat": "rejeté",
       "position": "pour",
       "pour": 20,
@@ -12453,129 +12543,119 @@
       "pour": 9,
       "contre": 0,
       "abstentions": 0
-    },
-    {
-      "numero": "8289",
-      "date": "2026-07-15",
-      "titre": "l'amendement n° 1183 du Gouvernement à l'article 6 (examen prioritaire) du projet de loi relatif à la protection des enfants (première lecture).",
-      "resultat": "adopté",
-      "position": "contre",
-      "pour": 0,
-      "contre": 25,
-      "abstentions": 0
-    },
-    {
-      "numero": "8288",
-      "date": "2026-07-15",
-      "titre": "le sous-amendement n° 1188 de Mme Perrine Goulet et le sous-amendement identique suivant à l'amendement n° 1183 du Gouvernement à l'article 6 (examen prioritaire) du projet de loi relatif à la protection des enfants (première lecture).",
-      "resultat": "adopté",
-      "position": "contre",
-      "pour": 0,
-      "contre": 25,
-      "abstentions": 0
-    },
-    {
-      "numero": "8287",
-      "date": "2026-07-15",
-      "titre": "le sous-amendement n° 1189 de Mme Perrine Goulet à l'amendement n° 1183 du Gouvernement à l'article 6 (examen prioritaire) du projet de loi relatif à la protection des enfants (première lecture).",
-      "resultat": "adopté",
-      "position": "contre",
-      "pour": 0,
-      "contre": 25,
-      "abstentions": 0
-    },
-    {
-      "numero": "8286",
-      "date": "2026-07-15",
-      "titre": "le sous-amendement n° 1215 de M. Fait à l'amendement n° 1183 du Gouvernement à l'article 6 (examen prioritaire) du projet de loi relatif à la protection des enfants (première lecture).",
-      "resultat": "adopté",
-      "position": "contre",
-      "pour": 0,
-      "contre": 25,
-      "abstentions": 0
-    },
-    {
-      "numero": "8285",
-      "date": "2026-07-15",
-      "titre": "le sous-amendement n° 1993 de Mme Ibled à l'amendement n° 1183 du Gouvernement à l'article 6 (examen prioritaire) du projet de loi relatif à la protection des enfants (première lecture).",
-      "resultat": "adopté",
-      "position": "contre",
-      "pour": 0,
-      "contre": 25,
-      "abstentions": 0
-    },
-    {
-      "numero": "8284",
-      "date": "2026-07-15",
-      "titre": "le sous-amendement n° 1190 de Mme Perrine Goulet à l'amendement n° 1183 du Gouvernement à l'article 6 (examen prioritaire) du projet de loi relatif à la protection des enfants (première lecture).",
-      "resultat": "adopté",
-      "position": "contre",
-      "pour": 0,
-      "contre": 25,
-      "abstentions": 0
-    },
-    {
-      "numero": "8283",
-      "date": "2026-07-15",
-      "titre": "le sous-amendement n° 1192 de Mme Ibled à l'amendement n° 1183 du Gouvernement à l'article 6 (examen prioritaire) du projet de loi relatif à la protection des enfants (première lecture).",
-      "resultat": "adopté",
-      "position": "contre",
-      "pour": 0,
-      "contre": 25,
-      "abstentions": 0
-    },
-    {
-      "numero": "8282",
-      "date": "2026-07-15",
-      "titre": "l'amendement n° 397 de Mme Capdevielle à l'article 6 (examen prioritaire) du projet de loi relatif à la protection des enfants (première lecture).",
-      "resultat": "rejeté",
-      "position": "contre",
-      "pour": 0,
-      "contre": 25,
-      "abstentions": 0
-    },
-    {
-      "numero": "8281",
-      "date": "2026-07-15",
-      "titre": "l'amendement n° 393 de Mme Capdevielle de suppression de l'article 6 (examen prioritaire) du projet de loi relatif à la protection des enfants (première lecture).",
-      "resultat": "rejeté",
-      "position": "contre",
-      "pour": 0,
-      "contre": 26,
-      "abstentions": 0
-    },
-    {
-      "numero": "8280",
-      "date": "2026-07-15",
-      "titre": "l'ensemble de la proposition de loi relative au droit à l'aide à mourir (lecture définitive).",
-      "resultat": "adopté",
-      "position": "pour",
-      "pour": 61,
-      "contre": 2,
-      "abstentions": 3
-    },
-    {
-      "numero": "8279",
-      "date": "2026-07-15",
-      "titre": "l'ensemble du projet de loi visant à offrir des réponses immédiates aux phénomènes troublant l'ordre public, la sécurité et la tranquillité de nos concitoyens (première lecture).",
-      "resultat": "adopté",
-      "position": "contre",
-      "pour": 0,
-      "contre": 65,
-      "abstentions": 0
-    },
-    {
-      "numero": "8278",
-      "date": "2026-07-15",
-      "titre": "l'amendement n° 1 du Gouvernement après l'article 6 quater du projet de loi visant à offrir des réponses immédiates aux phénomènes troublant l'ordre public, la sécurité et la tranquillité de nos concitoyens (seconde délibération) (première lecture).",
-      "resultat": "adopté",
-      "position": "contre",
-      "pour": 0,
-      "contre": 32,
-      "abstentions": 0
     }
   ],
   "PO845419": [
+    {
+      "numero": "8707",
+      "date": "2026-10-13",
+      "titre": "la motion de rejet préalable, déposée par M. Boris Vallaud, du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 64,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "8706",
+      "date": "2026-10-13",
+      "titre": "la proposition de loi organique visant à adapter l'autorité judiciaire à la lutte contre les violences sexuelles et intrafamiliales (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 68,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "8705",
+      "date": "2026-10-13",
+      "titre": "la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 68,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "8704",
+      "date": "2026-10-13",
+      "titre": "l'amendement n° 5 de Mme Thiébault-Martinez de rétablissement de l'article 46 (supprimé) de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (seconde délibération) (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 59,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "8703",
+      "date": "2026-10-13",
+      "titre": "l'amendement n° 7 de M. Ménagé de rétablissement de l'article 46 (supprimé) de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (seconde délibération) (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 59,
+      "abstentions": 0
+    },
+    {
+      "numero": "8702",
+      "date": "2026-10-13",
+      "titre": "l'amendement n° 4 de Mme Thiébault-Martinez à l'article 44 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (seconde délibération) (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 56,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "8701",
+      "date": "2026-10-13",
+      "titre": "l'article 32 bis de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (seconde délibération) (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 53,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "8700",
+      "date": "2026-10-13",
+      "titre": "l'amendement n° 3 de Mme Thiébault-Martinez à l'article 32 bis de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (seconde délibération) (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 55,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "8699",
+      "date": "2026-10-13",
+      "titre": "l'amendement n° 6 de Mme Thiébault-Martinez à l'article 31 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (seconde délibération) (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 52,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "8698",
+      "date": "2026-10-13",
+      "titre": "l'amendement n° 2 de Mme Thiébault-Martinez à l'article 28 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (seconde délibération) (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 47,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "8697",
+      "date": "2026-10-13",
+      "titre": "l'amendement n° 1 de Mme Thiébault-Martinez à l'article 3 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (seconde délibération) (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 45,
+      "contre": 0,
+      "abstentions": 0
+    },
     {
       "numero": "8696",
       "date": "2026-10-12",
@@ -12699,7 +12779,7 @@
     {
       "numero": "8684",
       "date": "2026-10-12",
-      "titre": "l'amendement n° 44 de M. Tavernier à l'article premier de la proposition de loi visant à moderniser et rééquilibrer le fonctionnement du titre-restaurant (première lecture).",
+      "titre": "l'amendement n° 44 (rect.) de M. Tavernier à l'article premier de la proposition de loi visant à moderniser et rééquilibrer le fonctionnement du titre-restaurant (première lecture).",
       "resultat": "rejeté",
       "position": "pour",
       "pour": 10,
@@ -12709,7 +12789,7 @@
     {
       "numero": "8683",
       "date": "2026-10-12",
-      "titre": "l'amendement n° 19 de Mme Piron et les amendements identiques suivants à l'article premier de la proposition de loi visant à moderniser et rééquilibrer le fonctionnement du titre-restaurant (première lecture).",
+      "titre": "l'amendement n° 19 de Mme Piron et l'amendement identique suivant à l'article premier de la proposition de loi visant à moderniser et rééquilibrer le fonctionnement du titre-restaurant (première lecture).",
       "resultat": "rejeté",
       "position": "pour",
       "pour": 10,
@@ -16645,129 +16725,119 @@
       "pour": 9,
       "contre": 0,
       "abstentions": 0
-    },
-    {
-      "numero": "8289",
-      "date": "2026-07-15",
-      "titre": "l'amendement n° 1183 du Gouvernement à l'article 6 (examen prioritaire) du projet de loi relatif à la protection des enfants (première lecture).",
-      "resultat": "adopté",
-      "position": "contre",
-      "pour": 10,
-      "contre": 5,
-      "abstentions": 0
-    },
-    {
-      "numero": "8288",
-      "date": "2026-07-15",
-      "titre": "le sous-amendement n° 1188 de Mme Perrine Goulet et le sous-amendement identique suivant à l'amendement n° 1183 du Gouvernement à l'article 6 (examen prioritaire) du projet de loi relatif à la protection des enfants (première lecture).",
-      "resultat": "adopté",
-      "position": "pour",
-      "pour": 9,
-      "contre": 5,
-      "abstentions": 0
-    },
-    {
-      "numero": "8287",
-      "date": "2026-07-15",
-      "titre": "le sous-amendement n° 1189 de Mme Perrine Goulet à l'amendement n° 1183 du Gouvernement à l'article 6 (examen prioritaire) du projet de loi relatif à la protection des enfants (première lecture).",
-      "resultat": "adopté",
-      "position": "contre",
-      "pour": 10,
-      "contre": 5,
-      "abstentions": 0
-    },
-    {
-      "numero": "8286",
-      "date": "2026-07-15",
-      "titre": "le sous-amendement n° 1215 de M. Fait à l'amendement n° 1183 du Gouvernement à l'article 6 (examen prioritaire) du projet de loi relatif à la protection des enfants (première lecture).",
-      "resultat": "adopté",
-      "position": "pour",
-      "pour": 9,
-      "contre": 5,
-      "abstentions": 0
-    },
-    {
-      "numero": "8285",
-      "date": "2026-07-15",
-      "titre": "le sous-amendement n° 1993 de Mme Ibled à l'amendement n° 1183 du Gouvernement à l'article 6 (examen prioritaire) du projet de loi relatif à la protection des enfants (première lecture).",
-      "resultat": "adopté",
-      "position": "pour",
-      "pour": 9,
-      "contre": 6,
-      "abstentions": 0
-    },
-    {
-      "numero": "8284",
-      "date": "2026-07-15",
-      "titre": "le sous-amendement n° 1190 de Mme Perrine Goulet à l'amendement n° 1183 du Gouvernement à l'article 6 (examen prioritaire) du projet de loi relatif à la protection des enfants (première lecture).",
-      "resultat": "adopté",
-      "position": "contre",
-      "pour": 10,
-      "contre": 5,
-      "abstentions": 0
-    },
-    {
-      "numero": "8283",
-      "date": "2026-07-15",
-      "titre": "le sous-amendement n° 1192 de Mme Ibled à l'amendement n° 1183 du Gouvernement à l'article 6 (examen prioritaire) du projet de loi relatif à la protection des enfants (première lecture).",
-      "resultat": "adopté",
-      "position": "contre",
-      "pour": 0,
-      "contre": 13,
-      "abstentions": 0
-    },
-    {
-      "numero": "8282",
-      "date": "2026-07-15",
-      "titre": "l'amendement n° 397 de Mme Capdevielle à l'article 6 (examen prioritaire) du projet de loi relatif à la protection des enfants (première lecture).",
-      "resultat": "rejeté",
-      "position": "pour",
-      "pour": 5,
-      "contre": 4,
-      "abstentions": 4
-    },
-    {
-      "numero": "8281",
-      "date": "2026-07-15",
-      "titre": "l'amendement n° 393 de Mme Capdevielle de suppression de l'article 6 (examen prioritaire) du projet de loi relatif à la protection des enfants (première lecture).",
-      "resultat": "rejeté",
-      "position": "contre",
-      "pour": 6,
-      "contre": 9,
-      "abstentions": 2
-    },
-    {
-      "numero": "8280",
-      "date": "2026-07-15",
-      "titre": "l'ensemble de la proposition de loi relative au droit à l'aide à mourir (lecture définitive).",
-      "resultat": "adopté",
-      "position": "abstention",
-      "pour": 57,
-      "contre": 4,
-      "abstentions": 6
-    },
-    {
-      "numero": "8279",
-      "date": "2026-07-15",
-      "titre": "l'ensemble du projet de loi visant à offrir des réponses immédiates aux phénomènes troublant l'ordre public, la sécurité et la tranquillité de nos concitoyens (première lecture).",
-      "resultat": "adopté",
-      "position": "contre",
-      "pour": 0,
-      "contre": 63,
-      "abstentions": 2
-    },
-    {
-      "numero": "8278",
-      "date": "2026-07-15",
-      "titre": "l'amendement n° 1 du Gouvernement après l'article 6 quater du projet de loi visant à offrir des réponses immédiates aux phénomènes troublant l'ordre public, la sécurité et la tranquillité de nos concitoyens (seconde délibération) (première lecture).",
-      "resultat": "adopté",
-      "position": "contre",
-      "pour": 0,
-      "contre": 16,
-      "abstentions": 0
     }
   ],
   "PO845425": [
+    {
+      "numero": "8707",
+      "date": "2026-10-13",
+      "titre": "la motion de rejet préalable, déposée par M. Boris Vallaud, du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 33,
+      "abstentions": 0
+    },
+    {
+      "numero": "8706",
+      "date": "2026-10-13",
+      "titre": "la proposition de loi organique visant à adapter l'autorité judiciaire à la lutte contre les violences sexuelles et intrafamiliales (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 45,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "8705",
+      "date": "2026-10-13",
+      "titre": "la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 45,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "8704",
+      "date": "2026-10-13",
+      "titre": "l'amendement n° 5 de Mme Thiébault-Martinez de rétablissement de l'article 46 (supprimé) de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (seconde délibération) (première lecture).",
+      "resultat": "adopté",
+      "position": "abstention",
+      "pour": 1,
+      "contre": 0,
+      "abstentions": 25
+    },
+    {
+      "numero": "8703",
+      "date": "2026-10-13",
+      "titre": "l'amendement n° 7 de M. Ménagé de rétablissement de l'article 46 (supprimé) de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (seconde délibération) (première lecture).",
+      "resultat": "rejeté",
+      "position": "abstention",
+      "pour": 0,
+      "contre": 20,
+      "abstentions": 6
+    },
+    {
+      "numero": "8702",
+      "date": "2026-10-13",
+      "titre": "l'amendement n° 4 de Mme Thiébault-Martinez à l'article 44 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (seconde délibération) (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 2,
+      "contre": 22,
+      "abstentions": 1
+    },
+    {
+      "numero": "8701",
+      "date": "2026-10-13",
+      "titre": "l'article 32 bis de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (seconde délibération) (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 22,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "8700",
+      "date": "2026-10-13",
+      "titre": "l'amendement n° 3 de Mme Thiébault-Martinez à l'article 32 bis de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (seconde délibération) (première lecture).",
+      "resultat": "adopté",
+      "position": "contre",
+      "pour": 19,
+      "contre": 2,
+      "abstentions": 2
+    },
+    {
+      "numero": "8699",
+      "date": "2026-10-13",
+      "titre": "l'amendement n° 6 de Mme Thiébault-Martinez à l'article 31 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (seconde délibération) (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 22,
+      "contre": 0,
+      "abstentions": 1
+    },
+    {
+      "numero": "8698",
+      "date": "2026-10-13",
+      "titre": "l'amendement n° 2 de Mme Thiébault-Martinez à l'article 28 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (seconde délibération) (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 20,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "8697",
+      "date": "2026-10-13",
+      "titre": "l'amendement n° 1 de Mme Thiébault-Martinez à l'article 3 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (seconde délibération) (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 17,
+      "contre": 0,
+      "abstentions": 0
+    },
     {
       "numero": "8696",
       "date": "2026-10-12",
@@ -16891,7 +16961,7 @@
     {
       "numero": "8684",
       "date": "2026-10-12",
-      "titre": "l'amendement n° 44 de M. Tavernier à l'article premier de la proposition de loi visant à moderniser et rééquilibrer le fonctionnement du titre-restaurant (première lecture).",
+      "titre": "l'amendement n° 44 (rect.) de M. Tavernier à l'article premier de la proposition de loi visant à moderniser et rééquilibrer le fonctionnement du titre-restaurant (première lecture).",
       "resultat": "rejeté",
       "position": "pour",
       "pour": 4,
@@ -16901,7 +16971,7 @@
     {
       "numero": "8683",
       "date": "2026-10-12",
-      "titre": "l'amendement n° 19 de Mme Piron et les amendements identiques suivants à l'article premier de la proposition de loi visant à moderniser et rééquilibrer le fonctionnement du titre-restaurant (première lecture).",
+      "titre": "l'amendement n° 19 de Mme Piron et l'amendement identique suivant à l'article premier de la proposition de loi visant à moderniser et rééquilibrer le fonctionnement du titre-restaurant (première lecture).",
       "resultat": "rejeté",
       "position": "pour",
       "pour": 4,
@@ -20837,129 +20907,119 @@
       "pour": 0,
       "contre": 0,
       "abstentions": 0
-    },
-    {
-      "numero": "8289",
-      "date": "2026-07-15",
-      "titre": "l'amendement n° 1183 du Gouvernement à l'article 6 (examen prioritaire) du projet de loi relatif à la protection des enfants (première lecture).",
-      "resultat": "adopté",
-      "position": "pour",
-      "pour": 16,
-      "contre": 0,
-      "abstentions": 0
-    },
-    {
-      "numero": "8288",
-      "date": "2026-07-15",
-      "titre": "le sous-amendement n° 1188 de Mme Perrine Goulet et le sous-amendement identique suivant à l'amendement n° 1183 du Gouvernement à l'article 6 (examen prioritaire) du projet de loi relatif à la protection des enfants (première lecture).",
-      "resultat": "adopté",
-      "position": "pour",
-      "pour": 16,
-      "contre": 0,
-      "abstentions": 0
-    },
-    {
-      "numero": "8287",
-      "date": "2026-07-15",
-      "titre": "le sous-amendement n° 1189 de Mme Perrine Goulet à l'amendement n° 1183 du Gouvernement à l'article 6 (examen prioritaire) du projet de loi relatif à la protection des enfants (première lecture).",
-      "resultat": "adopté",
-      "position": "pour",
-      "pour": 16,
-      "contre": 0,
-      "abstentions": 0
-    },
-    {
-      "numero": "8286",
-      "date": "2026-07-15",
-      "titre": "le sous-amendement n° 1215 de M. Fait à l'amendement n° 1183 du Gouvernement à l'article 6 (examen prioritaire) du projet de loi relatif à la protection des enfants (première lecture).",
-      "resultat": "adopté",
-      "position": "pour",
-      "pour": 16,
-      "contre": 0,
-      "abstentions": 0
-    },
-    {
-      "numero": "8285",
-      "date": "2026-07-15",
-      "titre": "le sous-amendement n° 1993 de Mme Ibled à l'amendement n° 1183 du Gouvernement à l'article 6 (examen prioritaire) du projet de loi relatif à la protection des enfants (première lecture).",
-      "resultat": "adopté",
-      "position": "pour",
-      "pour": 16,
-      "contre": 0,
-      "abstentions": 0
-    },
-    {
-      "numero": "8284",
-      "date": "2026-07-15",
-      "titre": "le sous-amendement n° 1190 de Mme Perrine Goulet à l'amendement n° 1183 du Gouvernement à l'article 6 (examen prioritaire) du projet de loi relatif à la protection des enfants (première lecture).",
-      "resultat": "adopté",
-      "position": "pour",
-      "pour": 14,
-      "contre": 0,
-      "abstentions": 0
-    },
-    {
-      "numero": "8283",
-      "date": "2026-07-15",
-      "titre": "le sous-amendement n° 1192 de Mme Ibled à l'amendement n° 1183 du Gouvernement à l'article 6 (examen prioritaire) du projet de loi relatif à la protection des enfants (première lecture).",
-      "resultat": "adopté",
-      "position": "pour",
-      "pour": 16,
-      "contre": 0,
-      "abstentions": 0
-    },
-    {
-      "numero": "8282",
-      "date": "2026-07-15",
-      "titre": "l'amendement n° 397 de Mme Capdevielle à l'article 6 (examen prioritaire) du projet de loi relatif à la protection des enfants (première lecture).",
-      "resultat": "rejeté",
-      "position": "contre",
-      "pour": 0,
-      "contre": 16,
-      "abstentions": 0
-    },
-    {
-      "numero": "8281",
-      "date": "2026-07-15",
-      "titre": "l'amendement n° 393 de Mme Capdevielle de suppression de l'article 6 (examen prioritaire) du projet de loi relatif à la protection des enfants (première lecture).",
-      "resultat": "rejeté",
-      "position": "contre",
-      "pour": 0,
-      "contre": 15,
-      "abstentions": 0
-    },
-    {
-      "numero": "8280",
-      "date": "2026-07-15",
-      "titre": "l'ensemble de la proposition de loi relative au droit à l'aide à mourir (lecture définitive).",
-      "resultat": "adopté",
-      "position": "pour",
-      "pour": 5,
-      "contre": 41,
-      "abstentions": 2
-    },
-    {
-      "numero": "8279",
-      "date": "2026-07-15",
-      "titre": "l'ensemble du projet de loi visant à offrir des réponses immédiates aux phénomènes troublant l'ordre public, la sécurité et la tranquillité de nos concitoyens (première lecture).",
-      "resultat": "adopté",
-      "position": "pour",
-      "pour": 46,
-      "contre": 0,
-      "abstentions": 2
-    },
-    {
-      "numero": "8278",
-      "date": "2026-07-15",
-      "titre": "l'amendement n° 1 du Gouvernement après l'article 6 quater du projet de loi visant à offrir des réponses immédiates aux phénomènes troublant l'ordre public, la sécurité et la tranquillité de nos concitoyens (seconde délibération) (première lecture).",
-      "resultat": "adopté",
-      "position": "pour",
-      "pour": 12,
-      "contre": 0,
-      "abstentions": 0
     }
   ],
   "PO845439": [
+    {
+      "numero": "8707",
+      "date": "2026-10-13",
+      "titre": "la motion de rejet préalable, déposée par M. Boris Vallaud, du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 26,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "8706",
+      "date": "2026-10-13",
+      "titre": "la proposition de loi organique visant à adapter l'autorité judiciaire à la lutte contre les violences sexuelles et intrafamiliales (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 38,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "8705",
+      "date": "2026-10-13",
+      "titre": "la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 38,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "8704",
+      "date": "2026-10-13",
+      "titre": "l'amendement n° 5 de Mme Thiébault-Martinez de rétablissement de l'article 46 (supprimé) de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (seconde délibération) (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 31,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "8703",
+      "date": "2026-10-13",
+      "titre": "l'amendement n° 7 de M. Ménagé de rétablissement de l'article 46 (supprimé) de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (seconde délibération) (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 31,
+      "abstentions": 0
+    },
+    {
+      "numero": "8702",
+      "date": "2026-10-13",
+      "titre": "l'amendement n° 4 de Mme Thiébault-Martinez à l'article 44 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (seconde délibération) (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 30,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "8701",
+      "date": "2026-10-13",
+      "titre": "l'article 32 bis de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (seconde délibération) (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 29,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "8700",
+      "date": "2026-10-13",
+      "titre": "l'amendement n° 3 de Mme Thiébault-Martinez à l'article 32 bis de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (seconde délibération) (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 29,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "8699",
+      "date": "2026-10-13",
+      "titre": "l'amendement n° 6 de Mme Thiébault-Martinez à l'article 31 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (seconde délibération) (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 29,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "8698",
+      "date": "2026-10-13",
+      "titre": "l'amendement n° 2 de Mme Thiébault-Martinez à l'article 28 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (seconde délibération) (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 28,
+      "contre": 0,
+      "abstentions": 1
+    },
+    {
+      "numero": "8697",
+      "date": "2026-10-13",
+      "titre": "l'amendement n° 1 de Mme Thiébault-Martinez à l'article 3 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (seconde délibération) (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 25,
+      "contre": 0,
+      "abstentions": 0
+    },
     {
       "numero": "8696",
       "date": "2026-10-12",
@@ -21083,7 +21143,7 @@
     {
       "numero": "8684",
       "date": "2026-10-12",
-      "titre": "l'amendement n° 44 de M. Tavernier à l'article premier de la proposition de loi visant à moderniser et rééquilibrer le fonctionnement du titre-restaurant (première lecture).",
+      "titre": "l'amendement n° 44 (rect.) de M. Tavernier à l'article premier de la proposition de loi visant à moderniser et rééquilibrer le fonctionnement du titre-restaurant (première lecture).",
       "resultat": "rejeté",
       "position": "pour",
       "pour": 8,
@@ -21093,7 +21153,7 @@
     {
       "numero": "8683",
       "date": "2026-10-12",
-      "titre": "l'amendement n° 19 de Mme Piron et les amendements identiques suivants à l'article premier de la proposition de loi visant à moderniser et rééquilibrer le fonctionnement du titre-restaurant (première lecture).",
+      "titre": "l'amendement n° 19 de Mme Piron et l'amendement identique suivant à l'article premier de la proposition de loi visant à moderniser et rééquilibrer le fonctionnement du titre-restaurant (première lecture).",
       "resultat": "rejeté",
       "position": "pour",
       "pour": 8,
@@ -25029,129 +25089,119 @@
       "pour": 1,
       "contre": 0,
       "abstentions": 0
-    },
-    {
-      "numero": "8289",
-      "date": "2026-07-15",
-      "titre": "l'amendement n° 1183 du Gouvernement à l'article 6 (examen prioritaire) du projet de loi relatif à la protection des enfants (première lecture).",
-      "resultat": "adopté",
-      "position": "contre",
-      "pour": 1,
-      "contre": 9,
-      "abstentions": 0
-    },
-    {
-      "numero": "8288",
-      "date": "2026-07-15",
-      "titre": "le sous-amendement n° 1188 de Mme Perrine Goulet et le sous-amendement identique suivant à l'amendement n° 1183 du Gouvernement à l'article 6 (examen prioritaire) du projet de loi relatif à la protection des enfants (première lecture).",
-      "resultat": "adopté",
-      "position": "pour",
-      "pour": 10,
-      "contre": 0,
-      "abstentions": 0
-    },
-    {
-      "numero": "8287",
-      "date": "2026-07-15",
-      "titre": "le sous-amendement n° 1189 de Mme Perrine Goulet à l'amendement n° 1183 du Gouvernement à l'article 6 (examen prioritaire) du projet de loi relatif à la protection des enfants (première lecture).",
-      "resultat": "adopté",
-      "position": "pour",
-      "pour": 10,
-      "contre": 0,
-      "abstentions": 0
-    },
-    {
-      "numero": "8286",
-      "date": "2026-07-15",
-      "titre": "le sous-amendement n° 1215 de M. Fait à l'amendement n° 1183 du Gouvernement à l'article 6 (examen prioritaire) du projet de loi relatif à la protection des enfants (première lecture).",
-      "resultat": "adopté",
-      "position": "pour",
-      "pour": 9,
-      "contre": 1,
-      "abstentions": 0
-    },
-    {
-      "numero": "8285",
-      "date": "2026-07-15",
-      "titre": "le sous-amendement n° 1993 de Mme Ibled à l'amendement n° 1183 du Gouvernement à l'article 6 (examen prioritaire) du projet de loi relatif à la protection des enfants (première lecture).",
-      "resultat": "adopté",
-      "position": "pour",
-      "pour": 10,
-      "contre": 0,
-      "abstentions": 0
-    },
-    {
-      "numero": "8284",
-      "date": "2026-07-15",
-      "titre": "le sous-amendement n° 1190 de Mme Perrine Goulet à l'amendement n° 1183 du Gouvernement à l'article 6 (examen prioritaire) du projet de loi relatif à la protection des enfants (première lecture).",
-      "resultat": "adopté",
-      "position": "pour",
-      "pour": 9,
-      "contre": 1,
-      "abstentions": 0
-    },
-    {
-      "numero": "8283",
-      "date": "2026-07-15",
-      "titre": "le sous-amendement n° 1192 de Mme Ibled à l'amendement n° 1183 du Gouvernement à l'article 6 (examen prioritaire) du projet de loi relatif à la protection des enfants (première lecture).",
-      "resultat": "adopté",
-      "position": "contre",
-      "pour": 0,
-      "contre": 10,
-      "abstentions": 0
-    },
-    {
-      "numero": "8282",
-      "date": "2026-07-15",
-      "titre": "l'amendement n° 397 de Mme Capdevielle à l'article 6 (examen prioritaire) du projet de loi relatif à la protection des enfants (première lecture).",
-      "resultat": "rejeté",
-      "position": "contre",
-      "pour": 0,
-      "contre": 10,
-      "abstentions": 0
-    },
-    {
-      "numero": "8281",
-      "date": "2026-07-15",
-      "titre": "l'amendement n° 393 de Mme Capdevielle de suppression de l'article 6 (examen prioritaire) du projet de loi relatif à la protection des enfants (première lecture).",
-      "resultat": "rejeté",
-      "position": "contre",
-      "pour": 0,
-      "contre": 10,
-      "abstentions": 0
-    },
-    {
-      "numero": "8280",
-      "date": "2026-07-15",
-      "titre": "l'ensemble de la proposition de loi relative au droit à l'aide à mourir (lecture définitive).",
-      "resultat": "adopté",
-      "position": "pour",
-      "pour": 33,
-      "contre": 2,
-      "abstentions": 1
-    },
-    {
-      "numero": "8279",
-      "date": "2026-07-15",
-      "titre": "l'ensemble du projet de loi visant à offrir des réponses immédiates aux phénomènes troublant l'ordre public, la sécurité et la tranquillité de nos concitoyens (première lecture).",
-      "resultat": "adopté",
-      "position": "contre",
-      "pour": 0,
-      "contre": 36,
-      "abstentions": 0
-    },
-    {
-      "numero": "8278",
-      "date": "2026-07-15",
-      "titre": "l'amendement n° 1 du Gouvernement après l'article 6 quater du projet de loi visant à offrir des réponses immédiates aux phénomènes troublant l'ordre public, la sécurité et la tranquillité de nos concitoyens (seconde délibération) (première lecture).",
-      "resultat": "adopté",
-      "position": "contre",
-      "pour": 0,
-      "contre": 12,
-      "abstentions": 0
     }
   ],
   "PO845454": [
+    {
+      "numero": "8707",
+      "date": "2026-10-13",
+      "titre": "la motion de rejet préalable, déposée par M. Boris Vallaud, du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 29,
+      "abstentions": 0
+    },
+    {
+      "numero": "8706",
+      "date": "2026-10-13",
+      "titre": "la proposition de loi organique visant à adapter l'autorité judiciaire à la lutte contre les violences sexuelles et intrafamiliales (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 37,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "8705",
+      "date": "2026-10-13",
+      "titre": "la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 36,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "8704",
+      "date": "2026-10-13",
+      "titre": "l'amendement n° 5 de Mme Thiébault-Martinez de rétablissement de l'article 46 (supprimé) de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (seconde délibération) (première lecture).",
+      "resultat": "adopté",
+      "position": "contre",
+      "pour": 13,
+      "contre": 5,
+      "abstentions": 5
+    },
+    {
+      "numero": "8703",
+      "date": "2026-10-13",
+      "titre": "l'amendement n° 7 de M. Ménagé de rétablissement de l'article 46 (supprimé) de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (seconde délibération) (première lecture).",
+      "resultat": "rejeté",
+      "position": "abstention",
+      "pour": 0,
+      "contre": 18,
+      "abstentions": 3
+    },
+    {
+      "numero": "8702",
+      "date": "2026-10-13",
+      "titre": "l'amendement n° 4 de Mme Thiébault-Martinez à l'article 44 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (seconde délibération) (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 14,
+      "contre": 6,
+      "abstentions": 2
+    },
+    {
+      "numero": "8701",
+      "date": "2026-10-13",
+      "titre": "l'article 32 bis de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (seconde délibération) (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 16,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "8700",
+      "date": "2026-10-13",
+      "titre": "l'amendement n° 3 de Mme Thiébault-Martinez à l'article 32 bis de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (seconde délibération) (première lecture).",
+      "resultat": "adopté",
+      "position": "abstention",
+      "pour": 16,
+      "contre": 1,
+      "abstentions": 4
+    },
+    {
+      "numero": "8699",
+      "date": "2026-10-13",
+      "titre": "l'amendement n° 6 de Mme Thiébault-Martinez à l'article 31 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (seconde délibération) (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 17,
+      "contre": 1,
+      "abstentions": 1
+    },
+    {
+      "numero": "8698",
+      "date": "2026-10-13",
+      "titre": "l'amendement n° 2 de Mme Thiébault-Martinez à l'article 28 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (seconde délibération) (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 15,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "8697",
+      "date": "2026-10-13",
+      "titre": "l'amendement n° 1 de Mme Thiébault-Martinez à l'article 3 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (seconde délibération) (première lecture).",
+      "resultat": "adopté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 10,
+      "abstentions": 1
+    },
     {
       "numero": "8696",
       "date": "2026-10-12",
@@ -25275,7 +25325,7 @@
     {
       "numero": "8684",
       "date": "2026-10-12",
-      "titre": "l'amendement n° 44 de M. Tavernier à l'article premier de la proposition de loi visant à moderniser et rééquilibrer le fonctionnement du titre-restaurant (première lecture).",
+      "titre": "l'amendement n° 44 (rect.) de M. Tavernier à l'article premier de la proposition de loi visant à moderniser et rééquilibrer le fonctionnement du titre-restaurant (première lecture).",
       "resultat": "rejeté",
       "position": "contre",
       "pour": 0,
@@ -25285,7 +25335,7 @@
     {
       "numero": "8683",
       "date": "2026-10-12",
-      "titre": "l'amendement n° 19 de Mme Piron et les amendements identiques suivants à l'article premier de la proposition de loi visant à moderniser et rééquilibrer le fonctionnement du titre-restaurant (première lecture).",
+      "titre": "l'amendement n° 19 de Mme Piron et l'amendement identique suivant à l'article premier de la proposition de loi visant à moderniser et rééquilibrer le fonctionnement du titre-restaurant (première lecture).",
       "resultat": "rejeté",
       "position": "contre",
       "pour": 0,
@@ -29221,129 +29271,119 @@
       "pour": 2,
       "contre": 3,
       "abstentions": 0
-    },
-    {
-      "numero": "8289",
-      "date": "2026-07-15",
-      "titre": "l'amendement n° 1183 du Gouvernement à l'article 6 (examen prioritaire) du projet de loi relatif à la protection des enfants (première lecture).",
-      "resultat": "adopté",
-      "position": "pour",
-      "pour": 14,
-      "contre": 0,
-      "abstentions": 0
-    },
-    {
-      "numero": "8288",
-      "date": "2026-07-15",
-      "titre": "le sous-amendement n° 1188 de Mme Perrine Goulet et le sous-amendement identique suivant à l'amendement n° 1183 du Gouvernement à l'article 6 (examen prioritaire) du projet de loi relatif à la protection des enfants (première lecture).",
-      "resultat": "adopté",
-      "position": "pour",
-      "pour": 15,
-      "contre": 0,
-      "abstentions": 1
-    },
-    {
-      "numero": "8287",
-      "date": "2026-07-15",
-      "titre": "le sous-amendement n° 1189 de Mme Perrine Goulet à l'amendement n° 1183 du Gouvernement à l'article 6 (examen prioritaire) du projet de loi relatif à la protection des enfants (première lecture).",
-      "resultat": "adopté",
-      "position": "pour",
-      "pour": 16,
-      "contre": 0,
-      "abstentions": 0
-    },
-    {
-      "numero": "8286",
-      "date": "2026-07-15",
-      "titre": "le sous-amendement n° 1215 de M. Fait à l'amendement n° 1183 du Gouvernement à l'article 6 (examen prioritaire) du projet de loi relatif à la protection des enfants (première lecture).",
-      "resultat": "adopté",
-      "position": "pour",
-      "pour": 14,
-      "contre": 0,
-      "abstentions": 0
-    },
-    {
-      "numero": "8285",
-      "date": "2026-07-15",
-      "titre": "le sous-amendement n° 1993 de Mme Ibled à l'amendement n° 1183 du Gouvernement à l'article 6 (examen prioritaire) du projet de loi relatif à la protection des enfants (première lecture).",
-      "resultat": "adopté",
-      "position": "pour",
-      "pour": 16,
-      "contre": 0,
-      "abstentions": 0
-    },
-    {
-      "numero": "8284",
-      "date": "2026-07-15",
-      "titre": "le sous-amendement n° 1190 de Mme Perrine Goulet à l'amendement n° 1183 du Gouvernement à l'article 6 (examen prioritaire) du projet de loi relatif à la protection des enfants (première lecture).",
-      "resultat": "adopté",
-      "position": "pour",
-      "pour": 16,
-      "contre": 0,
-      "abstentions": 0
-    },
-    {
-      "numero": "8283",
-      "date": "2026-07-15",
-      "titre": "le sous-amendement n° 1192 de Mme Ibled à l'amendement n° 1183 du Gouvernement à l'article 6 (examen prioritaire) du projet de loi relatif à la protection des enfants (première lecture).",
-      "resultat": "adopté",
-      "position": "pour",
-      "pour": 16,
-      "contre": 0,
-      "abstentions": 0
-    },
-    {
-      "numero": "8282",
-      "date": "2026-07-15",
-      "titre": "l'amendement n° 397 de Mme Capdevielle à l'article 6 (examen prioritaire) du projet de loi relatif à la protection des enfants (première lecture).",
-      "resultat": "rejeté",
-      "position": "contre",
-      "pour": 0,
-      "contre": 16,
-      "abstentions": 0
-    },
-    {
-      "numero": "8281",
-      "date": "2026-07-15",
-      "titre": "l'amendement n° 393 de Mme Capdevielle de suppression de l'article 6 (examen prioritaire) du projet de loi relatif à la protection des enfants (première lecture).",
-      "resultat": "rejeté",
-      "position": "contre",
-      "pour": 0,
-      "contre": 15,
-      "abstentions": 0
-    },
-    {
-      "numero": "8280",
-      "date": "2026-07-15",
-      "titre": "l'ensemble de la proposition de loi relative au droit à l'aide à mourir (lecture définitive).",
-      "resultat": "adopté",
-      "position": "pour",
-      "pour": 20,
-      "contre": 16,
-      "abstentions": 0
-    },
-    {
-      "numero": "8279",
-      "date": "2026-07-15",
-      "titre": "l'ensemble du projet de loi visant à offrir des réponses immédiates aux phénomènes troublant l'ordre public, la sécurité et la tranquillité de nos concitoyens (première lecture).",
-      "resultat": "adopté",
-      "position": "pour",
-      "pour": 35,
-      "contre": 0,
-      "abstentions": 0
-    },
-    {
-      "numero": "8278",
-      "date": "2026-07-15",
-      "titre": "l'amendement n° 1 du Gouvernement après l'article 6 quater du projet de loi visant à offrir des réponses immédiates aux phénomènes troublant l'ordre public, la sécurité et la tranquillité de nos concitoyens (seconde délibération) (première lecture).",
-      "resultat": "adopté",
-      "position": "pour",
-      "pour": 17,
-      "contre": 0,
-      "abstentions": 0
     }
   ],
   "PO845470": [
+    {
+      "numero": "8707",
+      "date": "2026-10-13",
+      "titre": "la motion de rejet préalable, déposée par M. Boris Vallaud, du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 27,
+      "abstentions": 0
+    },
+    {
+      "numero": "8706",
+      "date": "2026-10-13",
+      "titre": "la proposition de loi organique visant à adapter l'autorité judiciaire à la lutte contre les violences sexuelles et intrafamiliales (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 34,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "8705",
+      "date": "2026-10-13",
+      "titre": "la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 34,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "8704",
+      "date": "2026-10-13",
+      "titre": "l'amendement n° 5 de Mme Thiébault-Martinez de rétablissement de l'article 46 (supprimé) de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (seconde délibération) (première lecture).",
+      "resultat": "adopté",
+      "position": "contre",
+      "pour": 3,
+      "contre": 9,
+      "abstentions": 10
+    },
+    {
+      "numero": "8703",
+      "date": "2026-10-13",
+      "titre": "l'amendement n° 7 de M. Ménagé de rétablissement de l'article 46 (supprimé) de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (seconde délibération) (première lecture).",
+      "resultat": "rejeté",
+      "position": "abstention",
+      "pour": 0,
+      "contre": 19,
+      "abstentions": 2
+    },
+    {
+      "numero": "8702",
+      "date": "2026-10-13",
+      "titre": "l'amendement n° 4 de Mme Thiébault-Martinez à l'article 44 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (seconde délibération) (première lecture).",
+      "resultat": "rejeté",
+      "position": "abstention",
+      "pour": 0,
+      "contre": 18,
+      "abstentions": 2
+    },
+    {
+      "numero": "8701",
+      "date": "2026-10-13",
+      "titre": "l'article 32 bis de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (seconde délibération) (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 20,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "8700",
+      "date": "2026-10-13",
+      "titre": "l'amendement n° 3 de Mme Thiébault-Martinez à l'article 32 bis de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (seconde délibération) (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 20,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "8699",
+      "date": "2026-10-13",
+      "titre": "l'amendement n° 6 de Mme Thiébault-Martinez à l'article 31 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (seconde délibération) (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 20,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "8698",
+      "date": "2026-10-13",
+      "titre": "l'amendement n° 2 de Mme Thiébault-Martinez à l'article 28 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (seconde délibération) (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 19,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "8697",
+      "date": "2026-10-13",
+      "titre": "l'amendement n° 1 de Mme Thiébault-Martinez à l'article 3 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (seconde délibération) (première lecture).",
+      "resultat": "adopté",
+      "position": "contre",
+      "pour": 1,
+      "contre": 14,
+      "abstentions": 1
+    },
     {
       "numero": "8696",
       "date": "2026-10-12",
@@ -29467,7 +29507,7 @@
     {
       "numero": "8684",
       "date": "2026-10-12",
-      "titre": "l'amendement n° 44 de M. Tavernier à l'article premier de la proposition de loi visant à moderniser et rééquilibrer le fonctionnement du titre-restaurant (première lecture).",
+      "titre": "l'amendement n° 44 (rect.) de M. Tavernier à l'article premier de la proposition de loi visant à moderniser et rééquilibrer le fonctionnement du titre-restaurant (première lecture).",
       "resultat": "rejeté",
       "position": "contre",
       "pour": 1,
@@ -29477,7 +29517,7 @@
     {
       "numero": "8683",
       "date": "2026-10-12",
-      "titre": "l'amendement n° 19 de Mme Piron et les amendements identiques suivants à l'article premier de la proposition de loi visant à moderniser et rééquilibrer le fonctionnement du titre-restaurant (première lecture).",
+      "titre": "l'amendement n° 19 de Mme Piron et l'amendement identique suivant à l'article premier de la proposition de loi visant à moderniser et rééquilibrer le fonctionnement du titre-restaurant (première lecture).",
       "resultat": "rejeté",
       "position": "pour",
       "pour": 2,
@@ -33413,129 +33453,119 @@
       "pour": 0,
       "contre": 0,
       "abstentions": 0
+    }
+  ],
+  "PO845485": [
+    {
+      "numero": "8707",
+      "date": "2026-10-13",
+      "titre": "la motion de rejet préalable, déposée par M. Boris Vallaud, du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 8,
+      "abstentions": 0
     },
     {
-      "numero": "8289",
-      "date": "2026-07-15",
-      "titre": "l'amendement n° 1183 du Gouvernement à l'article 6 (examen prioritaire) du projet de loi relatif à la protection des enfants (première lecture).",
+      "numero": "8706",
+      "date": "2026-10-13",
+      "titre": "la proposition de loi organique visant à adapter l'autorité judiciaire à la lutte contre les violences sexuelles et intrafamiliales (première lecture).",
       "resultat": "adopté",
       "position": "pour",
-      "pour": 8,
+      "pour": 23,
       "contre": 0,
       "abstentions": 0
     },
     {
-      "numero": "8288",
-      "date": "2026-07-15",
-      "titre": "le sous-amendement n° 1188 de Mme Perrine Goulet et le sous-amendement identique suivant à l'amendement n° 1183 du Gouvernement à l'article 6 (examen prioritaire) du projet de loi relatif à la protection des enfants (première lecture).",
+      "numero": "8705",
+      "date": "2026-10-13",
+      "titre": "la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
       "resultat": "adopté",
       "position": "pour",
-      "pour": 8,
+      "pour": 23,
       "contre": 0,
       "abstentions": 0
     },
     {
-      "numero": "8287",
-      "date": "2026-07-15",
-      "titre": "le sous-amendement n° 1189 de Mme Perrine Goulet à l'amendement n° 1183 du Gouvernement à l'article 6 (examen prioritaire) du projet de loi relatif à la protection des enfants (première lecture).",
-      "resultat": "adopté",
-      "position": "pour",
-      "pour": 8,
-      "contre": 0,
-      "abstentions": 0
-    },
-    {
-      "numero": "8286",
-      "date": "2026-07-15",
-      "titre": "le sous-amendement n° 1215 de M. Fait à l'amendement n° 1183 du Gouvernement à l'article 6 (examen prioritaire) du projet de loi relatif à la protection des enfants (première lecture).",
+      "numero": "8704",
+      "date": "2026-10-13",
+      "titre": "l'amendement n° 5 de Mme Thiébault-Martinez de rétablissement de l'article 46 (supprimé) de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (seconde délibération) (première lecture).",
       "resultat": "adopté",
       "position": "pour",
       "pour": 7,
       "contre": 0,
-      "abstentions": 0
+      "abstentions": 4
     },
     {
-      "numero": "8285",
-      "date": "2026-07-15",
-      "titre": "le sous-amendement n° 1993 de Mme Ibled à l'amendement n° 1183 du Gouvernement à l'article 6 (examen prioritaire) du projet de loi relatif à la protection des enfants (première lecture).",
+      "numero": "8703",
+      "date": "2026-10-13",
+      "titre": "l'amendement n° 7 de M. Ménagé de rétablissement de l'article 46 (supprimé) de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (seconde délibération) (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 9,
+      "abstentions": 1
+    },
+    {
+      "numero": "8702",
+      "date": "2026-10-13",
+      "titre": "l'amendement n° 4 de Mme Thiébault-Martinez à l'article 44 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (seconde délibération) (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 3,
+      "contre": 3,
+      "abstentions": 1
+    },
+    {
+      "numero": "8701",
+      "date": "2026-10-13",
+      "titre": "l'article 32 bis de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (seconde délibération) (première lecture).",
       "resultat": "adopté",
       "position": "pour",
-      "pour": 8,
+      "pour": 5,
       "contre": 0,
       "abstentions": 0
     },
     {
-      "numero": "8284",
-      "date": "2026-07-15",
-      "titre": "le sous-amendement n° 1190 de Mme Perrine Goulet à l'amendement n° 1183 du Gouvernement à l'article 6 (examen prioritaire) du projet de loi relatif à la protection des enfants (première lecture).",
+      "numero": "8700",
+      "date": "2026-10-13",
+      "titre": "l'amendement n° 3 de Mme Thiébault-Martinez à l'article 32 bis de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (seconde délibération) (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 7,
+      "contre": 0,
+      "abstentions": 1
+    },
+    {
+      "numero": "8699",
+      "date": "2026-10-13",
+      "titre": "l'amendement n° 6 de Mme Thiébault-Martinez à l'article 31 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (seconde délibération) (première lecture).",
       "resultat": "adopté",
       "position": "pour",
       "pour": 6,
       "contre": 0,
-      "abstentions": 0
-    },
-    {
-      "numero": "8283",
-      "date": "2026-07-15",
-      "titre": "le sous-amendement n° 1192 de Mme Ibled à l'amendement n° 1183 du Gouvernement à l'article 6 (examen prioritaire) du projet de loi relatif à la protection des enfants (première lecture).",
-      "resultat": "adopté",
-      "position": "pour",
-      "pour": 8,
-      "contre": 0,
-      "abstentions": 0
-    },
-    {
-      "numero": "8282",
-      "date": "2026-07-15",
-      "titre": "l'amendement n° 397 de Mme Capdevielle à l'article 6 (examen prioritaire) du projet de loi relatif à la protection des enfants (première lecture).",
-      "resultat": "rejeté",
-      "position": "contre",
-      "pour": 0,
-      "contre": 8,
-      "abstentions": 0
-    },
-    {
-      "numero": "8281",
-      "date": "2026-07-15",
-      "titre": "l'amendement n° 393 de Mme Capdevielle de suppression de l'article 6 (examen prioritaire) du projet de loi relatif à la protection des enfants (première lecture).",
-      "resultat": "rejeté",
-      "position": "contre",
-      "pour": 0,
-      "contre": 8,
-      "abstentions": 0
-    },
-    {
-      "numero": "8280",
-      "date": "2026-07-15",
-      "titre": "l'ensemble de la proposition de loi relative au droit à l'aide à mourir (lecture définitive).",
-      "resultat": "adopté",
-      "position": "contre",
-      "pour": 16,
-      "contre": 18,
       "abstentions": 1
     },
     {
-      "numero": "8279",
-      "date": "2026-07-15",
-      "titre": "l'ensemble du projet de loi visant à offrir des réponses immédiates aux phénomènes troublant l'ordre public, la sécurité et la tranquillité de nos concitoyens (première lecture).",
+      "numero": "8698",
+      "date": "2026-10-13",
+      "titre": "l'amendement n° 2 de Mme Thiébault-Martinez à l'article 28 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (seconde délibération) (première lecture).",
       "resultat": "adopté",
       "position": "pour",
-      "pour": 33,
+      "pour": 4,
       "contre": 0,
-      "abstentions": 0
+      "abstentions": 1
     },
     {
-      "numero": "8278",
-      "date": "2026-07-15",
-      "titre": "l'amendement n° 1 du Gouvernement après l'article 6 quater du projet de loi visant à offrir des réponses immédiates aux phénomènes troublant l'ordre public, la sécurité et la tranquillité de nos concitoyens (seconde délibération) (première lecture).",
+      "numero": "8697",
+      "date": "2026-10-13",
+      "titre": "l'amendement n° 1 de Mme Thiébault-Martinez à l'article 3 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (seconde délibération) (première lecture).",
       "resultat": "adopté",
       "position": "pour",
-      "pour": 13,
-      "contre": 0,
+      "pour": 2,
+      "contre": 2,
       "abstentions": 0
-    }
-  ],
-  "PO845485": [
+    },
     {
       "numero": "8696",
       "date": "2026-10-12",
@@ -33659,7 +33689,7 @@
     {
       "numero": "8684",
       "date": "2026-10-12",
-      "titre": "l'amendement n° 44 de M. Tavernier à l'article premier de la proposition de loi visant à moderniser et rééquilibrer le fonctionnement du titre-restaurant (première lecture).",
+      "titre": "l'amendement n° 44 (rect.) de M. Tavernier à l'article premier de la proposition de loi visant à moderniser et rééquilibrer le fonctionnement du titre-restaurant (première lecture).",
       "resultat": "rejeté",
       "position": "contre",
       "pour": 1,
@@ -33669,7 +33699,7 @@
     {
       "numero": "8683",
       "date": "2026-10-12",
-      "titre": "l'amendement n° 19 de Mme Piron et les amendements identiques suivants à l'article premier de la proposition de loi visant à moderniser et rééquilibrer le fonctionnement du titre-restaurant (première lecture).",
+      "titre": "l'amendement n° 19 de Mme Piron et l'amendement identique suivant à l'article premier de la proposition de loi visant à moderniser et rééquilibrer le fonctionnement du titre-restaurant (première lecture).",
       "resultat": "rejeté",
       "position": "contre",
       "pour": 1,
@@ -37605,129 +37635,119 @@
       "pour": 0,
       "contre": 0,
       "abstentions": 0
-    },
-    {
-      "numero": "8289",
-      "date": "2026-07-15",
-      "titre": "l'amendement n° 1183 du Gouvernement à l'article 6 (examen prioritaire) du projet de loi relatif à la protection des enfants (première lecture).",
-      "resultat": "adopté",
-      "position": "pour",
-      "pour": 3,
-      "contre": 0,
-      "abstentions": 0
-    },
-    {
-      "numero": "8288",
-      "date": "2026-07-15",
-      "titre": "le sous-amendement n° 1188 de Mme Perrine Goulet et le sous-amendement identique suivant à l'amendement n° 1183 du Gouvernement à l'article 6 (examen prioritaire) du projet de loi relatif à la protection des enfants (première lecture).",
-      "resultat": "adopté",
-      "position": "pour",
-      "pour": 3,
-      "contre": 0,
-      "abstentions": 0
-    },
-    {
-      "numero": "8287",
-      "date": "2026-07-15",
-      "titre": "le sous-amendement n° 1189 de Mme Perrine Goulet à l'amendement n° 1183 du Gouvernement à l'article 6 (examen prioritaire) du projet de loi relatif à la protection des enfants (première lecture).",
-      "resultat": "adopté",
-      "position": "pour",
-      "pour": 3,
-      "contre": 0,
-      "abstentions": 0
-    },
-    {
-      "numero": "8286",
-      "date": "2026-07-15",
-      "titre": "le sous-amendement n° 1215 de M. Fait à l'amendement n° 1183 du Gouvernement à l'article 6 (examen prioritaire) du projet de loi relatif à la protection des enfants (première lecture).",
-      "resultat": "adopté",
-      "position": "pour",
-      "pour": 3,
-      "contre": 0,
-      "abstentions": 0
-    },
-    {
-      "numero": "8285",
-      "date": "2026-07-15",
-      "titre": "le sous-amendement n° 1993 de Mme Ibled à l'amendement n° 1183 du Gouvernement à l'article 6 (examen prioritaire) du projet de loi relatif à la protection des enfants (première lecture).",
-      "resultat": "adopté",
-      "position": "pour",
-      "pour": 3,
-      "contre": 0,
-      "abstentions": 0
-    },
-    {
-      "numero": "8284",
-      "date": "2026-07-15",
-      "titre": "le sous-amendement n° 1190 de Mme Perrine Goulet à l'amendement n° 1183 du Gouvernement à l'article 6 (examen prioritaire) du projet de loi relatif à la protection des enfants (première lecture).",
-      "resultat": "adopté",
-      "position": "pour",
-      "pour": 3,
-      "contre": 0,
-      "abstentions": 0
-    },
-    {
-      "numero": "8283",
-      "date": "2026-07-15",
-      "titre": "le sous-amendement n° 1192 de Mme Ibled à l'amendement n° 1183 du Gouvernement à l'article 6 (examen prioritaire) du projet de loi relatif à la protection des enfants (première lecture).",
-      "resultat": "adopté",
-      "position": "pour",
-      "pour": 3,
-      "contre": 0,
-      "abstentions": 0
-    },
-    {
-      "numero": "8282",
-      "date": "2026-07-15",
-      "titre": "l'amendement n° 397 de Mme Capdevielle à l'article 6 (examen prioritaire) du projet de loi relatif à la protection des enfants (première lecture).",
-      "resultat": "rejeté",
-      "position": "contre",
-      "pour": 0,
-      "contre": 3,
-      "abstentions": 0
-    },
-    {
-      "numero": "8281",
-      "date": "2026-07-15",
-      "titre": "l'amendement n° 393 de Mme Capdevielle de suppression de l'article 6 (examen prioritaire) du projet de loi relatif à la protection des enfants (première lecture).",
-      "resultat": "rejeté",
-      "position": "contre",
-      "pour": 0,
-      "contre": 3,
-      "abstentions": 0
-    },
-    {
-      "numero": "8280",
-      "date": "2026-07-15",
-      "titre": "l'ensemble de la proposition de loi relative au droit à l'aide à mourir (lecture définitive).",
-      "resultat": "adopté",
-      "position": "contre",
-      "pour": 10,
-      "contre": 8,
-      "abstentions": 4
-    },
-    {
-      "numero": "8279",
-      "date": "2026-07-15",
-      "titre": "l'ensemble du projet de loi visant à offrir des réponses immédiates aux phénomènes troublant l'ordre public, la sécurité et la tranquillité de nos concitoyens (première lecture).",
-      "resultat": "adopté",
-      "position": "abstention",
-      "pour": 18,
-      "contre": 2,
-      "abstentions": 3
-    },
-    {
-      "numero": "8278",
-      "date": "2026-07-15",
-      "titre": "l'amendement n° 1 du Gouvernement après l'article 6 quater du projet de loi visant à offrir des réponses immédiates aux phénomènes troublant l'ordre public, la sécurité et la tranquillité de nos concitoyens (seconde délibération) (première lecture).",
-      "resultat": "adopté",
-      "position": "pour",
-      "pour": 2,
-      "contre": 0,
-      "abstentions": 0
     }
   ],
   "PO872880": [
+    {
+      "numero": "8707",
+      "date": "2026-10-13",
+      "titre": "la motion de rejet préalable, déposée par M. Boris Vallaud, du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 9,
+      "abstentions": 0
+    },
+    {
+      "numero": "8706",
+      "date": "2026-10-13",
+      "titre": "la proposition de loi organique visant à adapter l'autorité judiciaire à la lutte contre les violences sexuelles et intrafamiliales (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 16,
+      "contre": 0,
+      "abstentions": 1
+    },
+    {
+      "numero": "8705",
+      "date": "2026-10-13",
+      "titre": "la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 16,
+      "contre": 0,
+      "abstentions": 1
+    },
+    {
+      "numero": "8704",
+      "date": "2026-10-13",
+      "titre": "l'amendement n° 5 de Mme Thiébault-Martinez de rétablissement de l'article 46 (supprimé) de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (seconde délibération) (première lecture).",
+      "resultat": "adopté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 11,
+      "abstentions": 0
+    },
+    {
+      "numero": "8703",
+      "date": "2026-10-13",
+      "titre": "l'amendement n° 7 de M. Ménagé de rétablissement de l'article 46 (supprimé) de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (seconde délibération) (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 11,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "8702",
+      "date": "2026-10-13",
+      "titre": "l'amendement n° 4 de Mme Thiébault-Martinez à l'article 44 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (seconde délibération) (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 11,
+      "abstentions": 0
+    },
+    {
+      "numero": "8701",
+      "date": "2026-10-13",
+      "titre": "l'article 32 bis de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (seconde délibération) (première lecture).",
+      "resultat": "adopté",
+      "position": "abstention",
+      "pour": 0,
+      "contre": 2,
+      "abstentions": 9
+    },
+    {
+      "numero": "8700",
+      "date": "2026-10-13",
+      "titre": "l'amendement n° 3 de Mme Thiébault-Martinez à l'article 32 bis de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (seconde délibération) (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 11,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "8699",
+      "date": "2026-10-13",
+      "titre": "l'amendement n° 6 de Mme Thiébault-Martinez à l'article 31 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (seconde délibération) (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 11,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "8698",
+      "date": "2026-10-13",
+      "titre": "l'amendement n° 2 de Mme Thiébault-Martinez à l'article 28 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (seconde délibération) (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 10,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "8697",
+      "date": "2026-10-13",
+      "titre": "l'amendement n° 1 de Mme Thiébault-Martinez à l'article 3 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (seconde délibération) (première lecture).",
+      "resultat": "adopté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 9,
+      "abstentions": 0
+    },
     {
       "numero": "8696",
       "date": "2026-10-12",
@@ -37851,7 +37871,7 @@
     {
       "numero": "8684",
       "date": "2026-10-12",
-      "titre": "l'amendement n° 44 de M. Tavernier à l'article premier de la proposition de loi visant à moderniser et rééquilibrer le fonctionnement du titre-restaurant (première lecture).",
+      "titre": "l'amendement n° 44 (rect.) de M. Tavernier à l'article premier de la proposition de loi visant à moderniser et rééquilibrer le fonctionnement du titre-restaurant (première lecture).",
       "resultat": "rejeté",
       "position": "contre",
       "pour": 0,
@@ -37861,7 +37881,7 @@
     {
       "numero": "8683",
       "date": "2026-10-12",
-      "titre": "l'amendement n° 19 de Mme Piron et les amendements identiques suivants à l'article premier de la proposition de loi visant à moderniser et rééquilibrer le fonctionnement du titre-restaurant (première lecture).",
+      "titre": "l'amendement n° 19 de Mme Piron et l'amendement identique suivant à l'article premier de la proposition de loi visant à moderniser et rééquilibrer le fonctionnement du titre-restaurant (première lecture).",
       "resultat": "rejeté",
       "position": "contre",
       "pour": 0,
@@ -41797,111 +41817,23 @@
       "pour": 0,
       "contre": 0,
       "abstentions": 0
-    },
+    }
+  ],
+  "PO845514": [
     {
-      "numero": "8289",
-      "date": "2026-07-15",
-      "titre": "l'amendement n° 1183 du Gouvernement à l'article 6 (examen prioritaire) du projet de loi relatif à la protection des enfants (première lecture).",
-      "resultat": "adopté",
-      "position": "pour",
-      "pour": 2,
-      "contre": 0,
-      "abstentions": 0
-    },
-    {
-      "numero": "8288",
-      "date": "2026-07-15",
-      "titre": "le sous-amendement n° 1188 de Mme Perrine Goulet et le sous-amendement identique suivant à l'amendement n° 1183 du Gouvernement à l'article 6 (examen prioritaire) du projet de loi relatif à la protection des enfants (première lecture).",
-      "resultat": "adopté",
-      "position": "pour",
-      "pour": 2,
-      "contre": 0,
-      "abstentions": 0
-    },
-    {
-      "numero": "8287",
-      "date": "2026-07-15",
-      "titre": "le sous-amendement n° 1189 de Mme Perrine Goulet à l'amendement n° 1183 du Gouvernement à l'article 6 (examen prioritaire) du projet de loi relatif à la protection des enfants (première lecture).",
-      "resultat": "adopté",
-      "position": "abstention",
-      "pour": 0,
-      "contre": 0,
-      "abstentions": 2
-    },
-    {
-      "numero": "8286",
-      "date": "2026-07-15",
-      "titre": "le sous-amendement n° 1215 de M. Fait à l'amendement n° 1183 du Gouvernement à l'article 6 (examen prioritaire) du projet de loi relatif à la protection des enfants (première lecture).",
-      "resultat": "adopté",
-      "position": "contre",
-      "pour": 0,
-      "contre": 2,
-      "abstentions": 0
-    },
-    {
-      "numero": "8285",
-      "date": "2026-07-15",
-      "titre": "le sous-amendement n° 1993 de Mme Ibled à l'amendement n° 1183 du Gouvernement à l'article 6 (examen prioritaire) du projet de loi relatif à la protection des enfants (première lecture).",
-      "resultat": "adopté",
-      "position": "contre",
-      "pour": 0,
-      "contre": 2,
-      "abstentions": 0
-    },
-    {
-      "numero": "8284",
-      "date": "2026-07-15",
-      "titre": "le sous-amendement n° 1190 de Mme Perrine Goulet à l'amendement n° 1183 du Gouvernement à l'article 6 (examen prioritaire) du projet de loi relatif à la protection des enfants (première lecture).",
-      "resultat": "adopté",
-      "position": "contre",
-      "pour": 0,
-      "contre": 2,
-      "abstentions": 0
-    },
-    {
-      "numero": "8283",
-      "date": "2026-07-15",
-      "titre": "le sous-amendement n° 1192 de Mme Ibled à l'amendement n° 1183 du Gouvernement à l'article 6 (examen prioritaire) du projet de loi relatif à la protection des enfants (première lecture).",
-      "resultat": "adopté",
-      "position": "contre",
-      "pour": 0,
-      "contre": 2,
-      "abstentions": 0
-    },
-    {
-      "numero": "8282",
-      "date": "2026-07-15",
-      "titre": "l'amendement n° 397 de Mme Capdevielle à l'article 6 (examen prioritaire) du projet de loi relatif à la protection des enfants (première lecture).",
+      "numero": "8707",
+      "date": "2026-10-13",
+      "titre": "la motion de rejet préalable, déposée par M. Boris Vallaud, du projet de loi de finances pour 2027 (première lecture).",
       "resultat": "rejeté",
-      "position": "contre",
-      "pour": 0,
-      "contre": 2,
+      "position": "pour",
+      "pour": 8,
+      "contre": 0,
       "abstentions": 0
     },
     {
-      "numero": "8281",
-      "date": "2026-07-15",
-      "titre": "l'amendement n° 393 de Mme Capdevielle de suppression de l'article 6 (examen prioritaire) du projet de loi relatif à la protection des enfants (première lecture).",
-      "resultat": "rejeté",
-      "position": "contre",
-      "pour": 0,
-      "contre": 2,
-      "abstentions": 0
-    },
-    {
-      "numero": "8280",
-      "date": "2026-07-15",
-      "titre": "l'ensemble de la proposition de loi relative au droit à l'aide à mourir (lecture définitive).",
-      "resultat": "adopté",
-      "position": "contre",
-      "pour": 0,
-      "contre": 17,
-      "abstentions": 0
-    },
-    {
-      "numero": "8279",
-      "date": "2026-07-15",
-      "titre": "l'ensemble du projet de loi visant à offrir des réponses immédiates aux phénomènes troublant l'ordre public, la sécurité et la tranquillité de nos concitoyens (première lecture).",
+      "numero": "8706",
+      "date": "2026-10-13",
+      "titre": "la proposition de loi organique visant à adapter l'autorité judiciaire à la lutte contre les violences sexuelles et intrafamiliales (première lecture).",
       "resultat": "adopté",
       "position": "pour",
       "pour": 17,
@@ -41909,17 +41841,95 @@
       "abstentions": 0
     },
     {
-      "numero": "8278",
-      "date": "2026-07-15",
-      "titre": "l'amendement n° 1 du Gouvernement après l'article 6 quater du projet de loi visant à offrir des réponses immédiates aux phénomènes troublant l'ordre public, la sécurité et la tranquillité de nos concitoyens (seconde délibération) (première lecture).",
+      "numero": "8705",
+      "date": "2026-10-13",
+      "titre": "la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
       "resultat": "adopté",
       "position": "pour",
-      "pour": 2,
+      "pour": 17,
       "contre": 0,
       "abstentions": 0
-    }
-  ],
-  "PO845514": [
+    },
+    {
+      "numero": "8704",
+      "date": "2026-10-13",
+      "titre": "l'amendement n° 5 de Mme Thiébault-Martinez de rétablissement de l'article 46 (supprimé) de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (seconde délibération) (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 11,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "8703",
+      "date": "2026-10-13",
+      "titre": "l'amendement n° 7 de M. Ménagé de rétablissement de l'article 46 (supprimé) de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (seconde délibération) (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 11,
+      "abstentions": 0
+    },
+    {
+      "numero": "8702",
+      "date": "2026-10-13",
+      "titre": "l'amendement n° 4 de Mme Thiébault-Martinez à l'article 44 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (seconde délibération) (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 9,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "8701",
+      "date": "2026-10-13",
+      "titre": "l'article 32 bis de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (seconde délibération) (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 9,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "8700",
+      "date": "2026-10-13",
+      "titre": "l'amendement n° 3 de Mme Thiébault-Martinez à l'article 32 bis de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (seconde délibération) (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 9,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "8699",
+      "date": "2026-10-13",
+      "titre": "l'amendement n° 6 de Mme Thiébault-Martinez à l'article 31 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (seconde délibération) (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 7,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "8698",
+      "date": "2026-10-13",
+      "titre": "l'amendement n° 2 de Mme Thiébault-Martinez à l'article 28 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (seconde délibération) (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 7,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "8697",
+      "date": "2026-10-13",
+      "titre": "l'amendement n° 1 de Mme Thiébault-Martinez à l'article 3 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (seconde délibération) (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 6,
+      "contre": 0,
+      "abstentions": 0
+    },
     {
       "numero": "8696",
       "date": "2026-10-12",
@@ -42043,7 +42053,7 @@
     {
       "numero": "8684",
       "date": "2026-10-12",
-      "titre": "l'amendement n° 44 de M. Tavernier à l'article premier de la proposition de loi visant à moderniser et rééquilibrer le fonctionnement du titre-restaurant (première lecture).",
+      "titre": "l'amendement n° 44 (rect.) de M. Tavernier à l'article premier de la proposition de loi visant à moderniser et rééquilibrer le fonctionnement du titre-restaurant (première lecture).",
       "resultat": "rejeté",
       "position": "pour",
       "pour": 2,
@@ -42053,7 +42063,7 @@
     {
       "numero": "8683",
       "date": "2026-10-12",
-      "titre": "l'amendement n° 19 de Mme Piron et les amendements identiques suivants à l'article premier de la proposition de loi visant à moderniser et rééquilibrer le fonctionnement du titre-restaurant (première lecture).",
+      "titre": "l'amendement n° 19 de Mme Piron et l'amendement identique suivant à l'article premier de la proposition de loi visant à moderniser et rééquilibrer le fonctionnement du titre-restaurant (première lecture).",
       "resultat": "rejeté",
       "position": "pour",
       "pour": 2,
@@ -45989,129 +45999,119 @@
       "pour": 0,
       "contre": 0,
       "abstentions": 0
-    },
-    {
-      "numero": "8289",
-      "date": "2026-07-15",
-      "titre": "l'amendement n° 1183 du Gouvernement à l'article 6 (examen prioritaire) du projet de loi relatif à la protection des enfants (première lecture).",
-      "resultat": "adopté",
-      "position": "contre",
-      "pour": 0,
-      "contre": 2,
-      "abstentions": 0
-    },
-    {
-      "numero": "8288",
-      "date": "2026-07-15",
-      "titre": "le sous-amendement n° 1188 de Mme Perrine Goulet et le sous-amendement identique suivant à l'amendement n° 1183 du Gouvernement à l'article 6 (examen prioritaire) du projet de loi relatif à la protection des enfants (première lecture).",
-      "resultat": "adopté",
-      "position": "contre",
-      "pour": 0,
-      "contre": 1,
-      "abstentions": 0
-    },
-    {
-      "numero": "8287",
-      "date": "2026-07-15",
-      "titre": "le sous-amendement n° 1189 de Mme Perrine Goulet à l'amendement n° 1183 du Gouvernement à l'article 6 (examen prioritaire) du projet de loi relatif à la protection des enfants (première lecture).",
-      "resultat": "adopté",
-      "position": "contre",
-      "pour": 0,
-      "contre": 1,
-      "abstentions": 0
-    },
-    {
-      "numero": "8286",
-      "date": "2026-07-15",
-      "titre": "le sous-amendement n° 1215 de M. Fait à l'amendement n° 1183 du Gouvernement à l'article 6 (examen prioritaire) du projet de loi relatif à la protection des enfants (première lecture).",
-      "resultat": "adopté",
-      "position": "contre",
-      "pour": 0,
-      "contre": 1,
-      "abstentions": 1
-    },
-    {
-      "numero": "8285",
-      "date": "2026-07-15",
-      "titre": "le sous-amendement n° 1993 de Mme Ibled à l'amendement n° 1183 du Gouvernement à l'article 6 (examen prioritaire) du projet de loi relatif à la protection des enfants (première lecture).",
-      "resultat": "adopté",
-      "position": "contre",
-      "pour": 0,
-      "contre": 2,
-      "abstentions": 0
-    },
-    {
-      "numero": "8284",
-      "date": "2026-07-15",
-      "titre": "le sous-amendement n° 1190 de Mme Perrine Goulet à l'amendement n° 1183 du Gouvernement à l'article 6 (examen prioritaire) du projet de loi relatif à la protection des enfants (première lecture).",
-      "resultat": "adopté",
-      "position": "contre",
-      "pour": 0,
-      "contre": 2,
-      "abstentions": 0
-    },
-    {
-      "numero": "8283",
-      "date": "2026-07-15",
-      "titre": "le sous-amendement n° 1192 de Mme Ibled à l'amendement n° 1183 du Gouvernement à l'article 6 (examen prioritaire) du projet de loi relatif à la protection des enfants (première lecture).",
-      "resultat": "adopté",
-      "position": "contre",
-      "pour": 0,
-      "contre": 2,
-      "abstentions": 0
-    },
-    {
-      "numero": "8282",
-      "date": "2026-07-15",
-      "titre": "l'amendement n° 397 de Mme Capdevielle à l'article 6 (examen prioritaire) du projet de loi relatif à la protection des enfants (première lecture).",
-      "resultat": "rejeté",
-      "position": "contre",
-      "pour": 0,
-      "contre": 2,
-      "abstentions": 0
-    },
-    {
-      "numero": "8281",
-      "date": "2026-07-15",
-      "titre": "l'amendement n° 393 de Mme Capdevielle de suppression de l'article 6 (examen prioritaire) du projet de loi relatif à la protection des enfants (première lecture).",
-      "resultat": "rejeté",
-      "position": "contre",
-      "pour": 0,
-      "contre": 2,
-      "abstentions": 0
-    },
-    {
-      "numero": "8280",
-      "date": "2026-07-15",
-      "titre": "l'ensemble de la proposition de loi relative au droit à l'aide à mourir (lecture définitive).",
-      "resultat": "adopté",
-      "position": "abstention",
-      "pour": 10,
-      "contre": 2,
-      "abstentions": 3
-    },
-    {
-      "numero": "8279",
-      "date": "2026-07-15",
-      "titre": "l'ensemble du projet de loi visant à offrir des réponses immédiates aux phénomènes troublant l'ordre public, la sécurité et la tranquillité de nos concitoyens (première lecture).",
-      "resultat": "adopté",
-      "position": "contre",
-      "pour": 0,
-      "contre": 16,
-      "abstentions": 0
-    },
-    {
-      "numero": "8278",
-      "date": "2026-07-15",
-      "titre": "l'amendement n° 1 du Gouvernement après l'article 6 quater du projet de loi visant à offrir des réponses immédiates aux phénomènes troublant l'ordre public, la sécurité et la tranquillité de nos concitoyens (seconde délibération) (première lecture).",
-      "resultat": "adopté",
-      "position": "contre",
-      "pour": 0,
-      "contre": 6,
-      "abstentions": 0
     }
   ],
   "PO840056": [
+    {
+      "numero": "8707",
+      "date": "2026-10-13",
+      "titre": "la motion de rejet préalable, déposée par M. Boris Vallaud, du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 4,
+      "abstentions": 0
+    },
+    {
+      "numero": "8706",
+      "date": "2026-10-13",
+      "titre": "la proposition de loi organique visant à adapter l'autorité judiciaire à la lutte contre les violences sexuelles et intrafamiliales (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 11,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "8705",
+      "date": "2026-10-13",
+      "titre": "la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 11,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "8704",
+      "date": "2026-10-13",
+      "titre": "l'amendement n° 5 de Mme Thiébault-Martinez de rétablissement de l'article 46 (supprimé) de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (seconde délibération) (première lecture).",
+      "resultat": "adopté",
+      "position": "abstention",
+      "pour": 2,
+      "contre": 1,
+      "abstentions": 3
+    },
+    {
+      "numero": "8703",
+      "date": "2026-10-13",
+      "titre": "l'amendement n° 7 de M. Ménagé de rétablissement de l'article 46 (supprimé) de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (seconde délibération) (première lecture).",
+      "resultat": "rejeté",
+      "position": "abstention",
+      "pour": 1,
+      "contre": 1,
+      "abstentions": 4
+    },
+    {
+      "numero": "8702",
+      "date": "2026-10-13",
+      "titre": "l'amendement n° 4 de Mme Thiébault-Martinez à l'article 44 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (seconde délibération) (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 1,
+      "contre": 4,
+      "abstentions": 1
+    },
+    {
+      "numero": "8701",
+      "date": "2026-10-13",
+      "titre": "l'article 32 bis de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (seconde délibération) (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 4,
+      "contre": 0,
+      "abstentions": 1
+    },
+    {
+      "numero": "8700",
+      "date": "2026-10-13",
+      "titre": "l'amendement n° 3 de Mme Thiébault-Martinez à l'article 32 bis de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (seconde délibération) (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 4,
+      "contre": 0,
+      "abstentions": 1
+    },
+    {
+      "numero": "8699",
+      "date": "2026-10-13",
+      "titre": "l'amendement n° 6 de Mme Thiébault-Martinez à l'article 31 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (seconde délibération) (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 4,
+      "contre": 0,
+      "abstentions": 1
+    },
+    {
+      "numero": "8698",
+      "date": "2026-10-13",
+      "titre": "l'amendement n° 2 de Mme Thiébault-Martinez à l'article 28 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (seconde délibération) (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 4,
+      "contre": 0,
+      "abstentions": 1
+    },
+    {
+      "numero": "8697",
+      "date": "2026-10-13",
+      "titre": "l'amendement n° 1 de Mme Thiébault-Martinez à l'article 3 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (seconde délibération) (première lecture).",
+      "resultat": "adopté",
+      "position": "contre",
+      "pour": 2,
+      "contre": 3,
+      "abstentions": 0
+    },
     {
       "numero": "8696",
       "date": "2026-10-12",
@@ -46235,7 +46235,7 @@
     {
       "numero": "8684",
       "date": "2026-10-12",
-      "titre": "l'amendement n° 44 de M. Tavernier à l'article premier de la proposition de loi visant à moderniser et rééquilibrer le fonctionnement du titre-restaurant (première lecture).",
+      "titre": "l'amendement n° 44 (rect.) de M. Tavernier à l'article premier de la proposition de loi visant à moderniser et rééquilibrer le fonctionnement du titre-restaurant (première lecture).",
       "resultat": "rejeté",
       "position": "pour",
       "pour": 0,
@@ -46245,7 +46245,7 @@
     {
       "numero": "8683",
       "date": "2026-10-12",
-      "titre": "l'amendement n° 19 de Mme Piron et les amendements identiques suivants à l'article premier de la proposition de loi visant à moderniser et rééquilibrer le fonctionnement du titre-restaurant (première lecture).",
+      "titre": "l'amendement n° 19 de Mme Piron et l'amendement identique suivant à l'article premier de la proposition de loi visant à moderniser et rééquilibrer le fonctionnement du titre-restaurant (première lecture).",
       "resultat": "rejeté",
       "position": "pour",
       "pour": 0,
@@ -50180,126 +50180,6 @@
       "position": "pour",
       "pour": 0,
       "contre": 0,
-      "abstentions": 0
-    },
-    {
-      "numero": "8289",
-      "date": "2026-07-15",
-      "titre": "l'amendement n° 1183 du Gouvernement à l'article 6 (examen prioritaire) du projet de loi relatif à la protection des enfants (première lecture).",
-      "resultat": "adopté",
-      "position": "pour",
-      "pour": 1,
-      "contre": 0,
-      "abstentions": 0
-    },
-    {
-      "numero": "8288",
-      "date": "2026-07-15",
-      "titre": "le sous-amendement n° 1188 de Mme Perrine Goulet et le sous-amendement identique suivant à l'amendement n° 1183 du Gouvernement à l'article 6 (examen prioritaire) du projet de loi relatif à la protection des enfants (première lecture).",
-      "resultat": "adopté",
-      "position": "pour",
-      "pour": 1,
-      "contre": 0,
-      "abstentions": 0
-    },
-    {
-      "numero": "8287",
-      "date": "2026-07-15",
-      "titre": "le sous-amendement n° 1189 de Mme Perrine Goulet à l'amendement n° 1183 du Gouvernement à l'article 6 (examen prioritaire) du projet de loi relatif à la protection des enfants (première lecture).",
-      "resultat": "adopté",
-      "position": "pour",
-      "pour": 1,
-      "contre": 0,
-      "abstentions": 0
-    },
-    {
-      "numero": "8286",
-      "date": "2026-07-15",
-      "titre": "le sous-amendement n° 1215 de M. Fait à l'amendement n° 1183 du Gouvernement à l'article 6 (examen prioritaire) du projet de loi relatif à la protection des enfants (première lecture).",
-      "resultat": "adopté",
-      "position": "pour",
-      "pour": 1,
-      "contre": 0,
-      "abstentions": 0
-    },
-    {
-      "numero": "8285",
-      "date": "2026-07-15",
-      "titre": "le sous-amendement n° 1993 de Mme Ibled à l'amendement n° 1183 du Gouvernement à l'article 6 (examen prioritaire) du projet de loi relatif à la protection des enfants (première lecture).",
-      "resultat": "adopté",
-      "position": "pour",
-      "pour": 1,
-      "contre": 0,
-      "abstentions": 0
-    },
-    {
-      "numero": "8284",
-      "date": "2026-07-15",
-      "titre": "le sous-amendement n° 1190 de Mme Perrine Goulet à l'amendement n° 1183 du Gouvernement à l'article 6 (examen prioritaire) du projet de loi relatif à la protection des enfants (première lecture).",
-      "resultat": "adopté",
-      "position": "pour",
-      "pour": 1,
-      "contre": 0,
-      "abstentions": 0
-    },
-    {
-      "numero": "8283",
-      "date": "2026-07-15",
-      "titre": "le sous-amendement n° 1192 de Mme Ibled à l'amendement n° 1183 du Gouvernement à l'article 6 (examen prioritaire) du projet de loi relatif à la protection des enfants (première lecture).",
-      "resultat": "adopté",
-      "position": "pour",
-      "pour": 1,
-      "contre": 0,
-      "abstentions": 0
-    },
-    {
-      "numero": "8282",
-      "date": "2026-07-15",
-      "titre": "l'amendement n° 397 de Mme Capdevielle à l'article 6 (examen prioritaire) du projet de loi relatif à la protection des enfants (première lecture).",
-      "resultat": "rejeté",
-      "position": "contre",
-      "pour": 0,
-      "contre": 1,
-      "abstentions": 0
-    },
-    {
-      "numero": "8281",
-      "date": "2026-07-15",
-      "titre": "l'amendement n° 393 de Mme Capdevielle de suppression de l'article 6 (examen prioritaire) du projet de loi relatif à la protection des enfants (première lecture).",
-      "resultat": "rejeté",
-      "position": "contre",
-      "pour": 0,
-      "contre": 1,
-      "abstentions": 0
-    },
-    {
-      "numero": "8280",
-      "date": "2026-07-15",
-      "titre": "l'ensemble de la proposition de loi relative au droit à l'aide à mourir (lecture définitive).",
-      "resultat": "adopté",
-      "position": "contre",
-      "pour": 3,
-      "contre": 7,
-      "abstentions": 0
-    },
-    {
-      "numero": "8279",
-      "date": "2026-07-15",
-      "titre": "l'ensemble du projet de loi visant à offrir des réponses immédiates aux phénomènes troublant l'ordre public, la sécurité et la tranquillité de nos concitoyens (première lecture).",
-      "resultat": "adopté",
-      "position": "pour",
-      "pour": 9,
-      "contre": 0,
-      "abstentions": 1
-    },
-    {
-      "numero": "8278",
-      "date": "2026-07-15",
-      "titre": "l'amendement n° 1 du Gouvernement après l'article 6 quater du projet de loi visant à offrir des réponses immédiates aux phénomènes troublant l'ordre public, la sécurité et la tranquillité de nos concitoyens (seconde délibération) (première lecture).",
-      "resultat": "adopté",
-      "position": "pour",
-      "pour": 6,
-      "contre": 1,
       "abstentions": 0
     }
   ]
