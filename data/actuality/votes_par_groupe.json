@@ -1,6 +1,296 @@
 {
   "PO845401": [
     {
+      "numero": "8853",
+      "date": "2026-10-16",
+      "titre": "l'amendement n° 2276 de M. Jolivet après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 29,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "8852",
+      "date": "2026-10-16",
+      "titre": "l'amendement n° 3655 de M. Attal après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "abstention",
+      "pour": 0,
+      "contre": 0,
+      "abstentions": 26
+    },
+    {
+      "numero": "8851",
+      "date": "2026-10-16",
+      "titre": "l'amendement n° 3656 de M. Attal après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "abstention",
+      "pour": 0,
+      "contre": 0,
+      "abstentions": 25
+    },
+    {
+      "numero": "8850",
+      "date": "2026-10-16",
+      "titre": "l'amendement n° 816 de M. Lahais et l'amendement identique suivant après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 23,
+      "abstentions": 1
+    },
+    {
+      "numero": "8849",
+      "date": "2026-10-16",
+      "titre": "l'amendement n° 3968 de M. Wauquiez après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "abstention",
+      "pour": 0,
+      "contre": 0,
+      "abstentions": 13
+    },
+    {
+      "numero": "8848",
+      "date": "2026-10-16",
+      "titre": "l'amendement n° 1085 de M. Le Coq après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 28,
+      "abstentions": 0
+    },
+    {
+      "numero": "8847",
+      "date": "2026-10-16",
+      "titre": "l'amendement n° 55 de Mme Sas après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 27,
+      "abstentions": 0
+    },
+    {
+      "numero": "8846",
+      "date": "2026-10-16",
+      "titre": "l'amendement n° 809 de M. Lahais après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 28,
+      "abstentions": 0
+    },
+    {
+      "numero": "8845",
+      "date": "2026-10-16",
+      "titre": "l'amendement n° 3930 de M. Sansu après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 28,
+      "abstentions": 0
+    },
+    {
+      "numero": "8844",
+      "date": "2026-10-16",
+      "titre": "l'amendement n° 1086 de Mme Maximi après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 33,
+      "abstentions": 0
+    },
+    {
+      "numero": "8843",
+      "date": "2026-10-16",
+      "titre": "l'amendement n° 3929 de M. Sansu après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 32,
+      "abstentions": 0
+    },
+    {
+      "numero": "8842",
+      "date": "2026-10-16",
+      "titre": "l'amendement n° 465 de Mme Mercier après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 32,
+      "abstentions": 0
+    },
+    {
+      "numero": "8841",
+      "date": "2026-10-16",
+      "titre": "l'amendement n° 472 de Mme Pirès Beaune après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 30,
+      "abstentions": 0
+    },
+    {
+      "numero": "8840",
+      "date": "2026-10-16",
+      "titre": "l'amendement n° 3933 de M. Sansu après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 31,
+      "abstentions": 0
+    },
+    {
+      "numero": "8839",
+      "date": "2026-10-16",
+      "titre": "l'amendement n° 260 de M. Arnaud Bonnet après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 32,
+      "abstentions": 0
+    },
+    {
+      "numero": "8838",
+      "date": "2026-10-16",
+      "titre": "l'amendement n° 3469 de Mme Trouvé après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 31,
+      "abstentions": 0
+    },
+    {
+      "numero": "8837",
+      "date": "2026-10-16",
+      "titre": "l'amendement n° 3653 de M. Attal après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 34,
+      "abstentions": 1
+    },
+    {
+      "numero": "8836",
+      "date": "2026-10-16",
+      "titre": "l'amendement n° 3898 de M. Sansu après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "adopté",
+      "position": "abstention",
+      "pour": 0,
+      "contre": 10,
+      "abstentions": 25
+    },
+    {
+      "numero": "8835",
+      "date": "2026-10-16",
+      "titre": "l'amendement n° 1460 de M. Echaniz après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 32,
+      "abstentions": 0
+    },
+    {
+      "numero": "8834",
+      "date": "2026-10-16",
+      "titre": "l'amendement n° 300 de Mme Lejeune après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 25,
+      "abstentions": 0
+    },
+    {
+      "numero": "8833",
+      "date": "2026-10-16",
+      "titre": "l'amendement n° 113 de M. Falcon après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 24,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "8832",
+      "date": "2026-10-16",
+      "titre": "l'amendement n° 3443 de M. Piquemal après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 32,
+      "abstentions": 0
+    },
+    {
+      "numero": "8831",
+      "date": "2026-10-16",
+      "titre": "l'amendement n° 1665 de M. Dufau et l'amendement identique suivant après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 33,
+      "abstentions": 0
+    },
+    {
+      "numero": "8830",
+      "date": "2026-10-16",
+      "titre": "l'amendement n° 2565 de M. Le Coq après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 33,
+      "abstentions": 0
+    },
+    {
+      "numero": "8829",
+      "date": "2026-10-16",
+      "titre": "l'amendement n° 2925 de Mme Mercier après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 39,
+      "abstentions": 0
+    },
+    {
+      "numero": "8828",
+      "date": "2026-10-16",
+      "titre": "l'amendement n° 53 de Mme Sas après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 39,
+      "abstentions": 0
+    },
+    {
+      "numero": "8827",
+      "date": "2026-10-16",
+      "titre": "l'amendement n° 3914 de M. Sansu après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 40,
+      "abstentions": 0
+    },
+    {
+      "numero": "8826",
+      "date": "2026-10-16",
+      "titre": "l'amendement n° 1088 de M. Coquerel après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 39,
+      "abstentions": 1
+    },
+    {
+      "numero": "8825",
+      "date": "2026-10-16",
+      "titre": "l'amendement n° 469 de Mme Mercier après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 39,
+      "abstentions": 1
+    },
+    {
       "numero": "8824",
       "date": "2026-10-16",
       "titre": "l'amendement n° 1084 de Mme Feld après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
@@ -23,7 +313,7 @@
     {
       "numero": "8822",
       "date": "2026-10-16",
-      "titre": "l'amendement n°3932 de M. Sansu après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
+      "titre": "l'amendement n° 3932 de M. Sansu après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
       "resultat": "rejeté",
       "position": "contre",
       "pour": 0,
@@ -43,7 +333,7 @@
     {
       "numero": "8820",
       "date": "2026-10-16",
-      "titre": "l'amendement n°3533 (rect.) de Mme Trouvé après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
+      "titre": "l'amendement n° 3533 (rect.) de Mme Trouvé après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
       "resultat": "rejeté",
       "position": "abstention",
       "pour": 1,
@@ -53,7 +343,7 @@
     {
       "numero": "8819",
       "date": "2026-10-16",
-      "titre": "l'amendement n°3652 de M. Attal et l'amendement identique suivant après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
+      "titre": "l'amendement n° 3652 de M. Attal et l'amendement identique suivant après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
       "resultat": "adopté",
       "position": "pour",
       "pour": 28,
@@ -4073,6 +4363,296 @@
   ],
   "PO845407": [
     {
+      "numero": "8853",
+      "date": "2026-10-16",
+      "titre": "l'amendement n° 2276 de M. Jolivet après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "adopté",
+      "position": "contre",
+      "pour": 11,
+      "contre": 2,
+      "abstentions": 0
+    },
+    {
+      "numero": "8852",
+      "date": "2026-10-16",
+      "titre": "l'amendement n° 3655 de M. Attal après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 10,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "8851",
+      "date": "2026-10-16",
+      "titre": "l'amendement n° 3656 de M. Attal après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 12,
+      "contre": 2,
+      "abstentions": 0
+    },
+    {
+      "numero": "8850",
+      "date": "2026-10-16",
+      "titre": "l'amendement n° 816 de M. Lahais et l'amendement identique suivant après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 13,
+      "abstentions": 0
+    },
+    {
+      "numero": "8849",
+      "date": "2026-10-16",
+      "titre": "l'amendement n° 3968 de M. Wauquiez après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 1,
+      "contre": 5,
+      "abstentions": 0
+    },
+    {
+      "numero": "8848",
+      "date": "2026-10-16",
+      "titre": "l'amendement n° 1085 de M. Le Coq après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 16,
+      "abstentions": 0
+    },
+    {
+      "numero": "8847",
+      "date": "2026-10-16",
+      "titre": "l'amendement n° 55 de Mme Sas après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 16,
+      "abstentions": 0
+    },
+    {
+      "numero": "8846",
+      "date": "2026-10-16",
+      "titre": "l'amendement n° 809 de M. Lahais après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 16,
+      "abstentions": 0
+    },
+    {
+      "numero": "8845",
+      "date": "2026-10-16",
+      "titre": "l'amendement n° 3930 de M. Sansu après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 15,
+      "abstentions": 0
+    },
+    {
+      "numero": "8844",
+      "date": "2026-10-16",
+      "titre": "l'amendement n° 1086 de Mme Maximi après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 15,
+      "abstentions": 0
+    },
+    {
+      "numero": "8843",
+      "date": "2026-10-16",
+      "titre": "l'amendement n° 3929 de M. Sansu après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 12,
+      "abstentions": 0
+    },
+    {
+      "numero": "8842",
+      "date": "2026-10-16",
+      "titre": "l'amendement n° 465 de Mme Mercier après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 14,
+      "abstentions": 0
+    },
+    {
+      "numero": "8841",
+      "date": "2026-10-16",
+      "titre": "l'amendement n° 472 de Mme Pirès Beaune après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 14,
+      "abstentions": 0
+    },
+    {
+      "numero": "8840",
+      "date": "2026-10-16",
+      "titre": "l'amendement n° 3933 de M. Sansu après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 14,
+      "abstentions": 0
+    },
+    {
+      "numero": "8839",
+      "date": "2026-10-16",
+      "titre": "l'amendement n° 260 de M. Arnaud Bonnet après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 13,
+      "abstentions": 0
+    },
+    {
+      "numero": "8838",
+      "date": "2026-10-16",
+      "titre": "l'amendement n° 3469 de Mme Trouvé après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 14,
+      "abstentions": 0
+    },
+    {
+      "numero": "8837",
+      "date": "2026-10-16",
+      "titre": "l'amendement n° 3653 de M. Attal après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 12,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "8836",
+      "date": "2026-10-16",
+      "titre": "l'amendement n° 3898 de M. Sansu après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "adopté",
+      "position": "contre",
+      "pour": 1,
+      "contre": 12,
+      "abstentions": 0
+    },
+    {
+      "numero": "8835",
+      "date": "2026-10-16",
+      "titre": "l'amendement n° 1460 de M. Echaniz après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 8,
+      "abstentions": 0
+    },
+    {
+      "numero": "8834",
+      "date": "2026-10-16",
+      "titre": "l'amendement n° 300 de Mme Lejeune après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 9,
+      "abstentions": 0
+    },
+    {
+      "numero": "8833",
+      "date": "2026-10-16",
+      "titre": "l'amendement n° 113 de M. Falcon après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 9,
+      "abstentions": 0
+    },
+    {
+      "numero": "8832",
+      "date": "2026-10-16",
+      "titre": "l'amendement n° 3443 de M. Piquemal après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 7,
+      "abstentions": 0
+    },
+    {
+      "numero": "8831",
+      "date": "2026-10-16",
+      "titre": "l'amendement n° 1665 de M. Dufau et l'amendement identique suivant après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 9,
+      "abstentions": 0
+    },
+    {
+      "numero": "8830",
+      "date": "2026-10-16",
+      "titre": "l'amendement n° 2565 de M. Le Coq après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 8,
+      "abstentions": 0
+    },
+    {
+      "numero": "8829",
+      "date": "2026-10-16",
+      "titre": "l'amendement n° 2925 de Mme Mercier après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 8,
+      "abstentions": 0
+    },
+    {
+      "numero": "8828",
+      "date": "2026-10-16",
+      "titre": "l'amendement n° 53 de Mme Sas après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 8,
+      "abstentions": 0
+    },
+    {
+      "numero": "8827",
+      "date": "2026-10-16",
+      "titre": "l'amendement n° 3914 de M. Sansu après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 7,
+      "abstentions": 0
+    },
+    {
+      "numero": "8826",
+      "date": "2026-10-16",
+      "titre": "l'amendement n° 1088 de M. Coquerel après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 5,
+      "abstentions": 0
+    },
+    {
+      "numero": "8825",
+      "date": "2026-10-16",
+      "titre": "l'amendement n° 469 de Mme Mercier après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 9,
+      "abstentions": 0
+    },
+    {
       "numero": "8824",
       "date": "2026-10-16",
       "titre": "l'amendement n° 1084 de Mme Feld après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
@@ -4095,7 +4675,7 @@
     {
       "numero": "8822",
       "date": "2026-10-16",
-      "titre": "l'amendement n°3932 de M. Sansu après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
+      "titre": "l'amendement n° 3932 de M. Sansu après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
       "resultat": "rejeté",
       "position": "contre",
       "pour": 0,
@@ -4115,7 +4695,7 @@
     {
       "numero": "8820",
       "date": "2026-10-16",
-      "titre": "l'amendement n°3533 (rect.) de Mme Trouvé après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
+      "titre": "l'amendement n° 3533 (rect.) de Mme Trouvé après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
       "resultat": "rejeté",
       "position": "contre",
       "pour": 0,
@@ -4125,7 +4705,7 @@
     {
       "numero": "8819",
       "date": "2026-10-16",
-      "titre": "l'amendement n°3652 de M. Attal et l'amendement identique suivant après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
+      "titre": "l'amendement n° 3652 de M. Attal et l'amendement identique suivant après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
       "resultat": "adopté",
       "position": "pour",
       "pour": 5,
@@ -8145,6 +8725,296 @@
   ],
   "PO845413": [
     {
+      "numero": "8853",
+      "date": "2026-10-16",
+      "titre": "l'amendement n° 2276 de M. Jolivet après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "adopté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 9,
+      "abstentions": 0
+    },
+    {
+      "numero": "8852",
+      "date": "2026-10-16",
+      "titre": "l'amendement n° 3655 de M. Attal après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 11,
+      "abstentions": 0
+    },
+    {
+      "numero": "8851",
+      "date": "2026-10-16",
+      "titre": "l'amendement n° 3656 de M. Attal après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 13,
+      "abstentions": 0
+    },
+    {
+      "numero": "8850",
+      "date": "2026-10-16",
+      "titre": "l'amendement n° 816 de M. Lahais et l'amendement identique suivant après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 8,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "8849",
+      "date": "2026-10-16",
+      "titre": "l'amendement n° 3968 de M. Wauquiez après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 4,
+      "abstentions": 0
+    },
+    {
+      "numero": "8848",
+      "date": "2026-10-16",
+      "titre": "l'amendement n° 1085 de M. Le Coq après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 15,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "8847",
+      "date": "2026-10-16",
+      "titre": "l'amendement n° 55 de Mme Sas après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 13,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "8846",
+      "date": "2026-10-16",
+      "titre": "l'amendement n° 809 de M. Lahais après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 15,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "8845",
+      "date": "2026-10-16",
+      "titre": "l'amendement n° 3930 de M. Sansu après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 13,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "8844",
+      "date": "2026-10-16",
+      "titre": "l'amendement n° 1086 de Mme Maximi après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 12,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "8843",
+      "date": "2026-10-16",
+      "titre": "l'amendement n° 3929 de M. Sansu après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 12,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "8842",
+      "date": "2026-10-16",
+      "titre": "l'amendement n° 465 de Mme Mercier après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 12,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "8841",
+      "date": "2026-10-16",
+      "titre": "l'amendement n° 472 de Mme Pirès Beaune après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 11,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "8840",
+      "date": "2026-10-16",
+      "titre": "l'amendement n° 3933 de M. Sansu après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 12,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "8839",
+      "date": "2026-10-16",
+      "titre": "l'amendement n° 260 de M. Arnaud Bonnet après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 12,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "8838",
+      "date": "2026-10-16",
+      "titre": "l'amendement n° 3469 de Mme Trouvé après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 18,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "8837",
+      "date": "2026-10-16",
+      "titre": "l'amendement n° 3653 de M. Attal après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 11,
+      "abstentions": 0
+    },
+    {
+      "numero": "8836",
+      "date": "2026-10-16",
+      "titre": "l'amendement n° 3898 de M. Sansu après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 12,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "8835",
+      "date": "2026-10-16",
+      "titre": "l'amendement n° 1460 de M. Echaniz après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "abstention",
+      "pour": 1,
+      "contre": 0,
+      "abstentions": 7
+    },
+    {
+      "numero": "8834",
+      "date": "2026-10-16",
+      "titre": "l'amendement n° 300 de Mme Lejeune après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 9,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "8833",
+      "date": "2026-10-16",
+      "titre": "l'amendement n° 113 de M. Falcon après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 7,
+      "abstentions": 0
+    },
+    {
+      "numero": "8832",
+      "date": "2026-10-16",
+      "titre": "l'amendement n° 3443 de M. Piquemal après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 8,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "8831",
+      "date": "2026-10-16",
+      "titre": "l'amendement n° 1665 de M. Dufau et l'amendement identique suivant après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 9,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "8830",
+      "date": "2026-10-16",
+      "titre": "l'amendement n° 2565 de M. Le Coq après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 9,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "8829",
+      "date": "2026-10-16",
+      "titre": "l'amendement n° 2925 de Mme Mercier après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 11,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "8828",
+      "date": "2026-10-16",
+      "titre": "l'amendement n° 53 de Mme Sas après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 11,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "8827",
+      "date": "2026-10-16",
+      "titre": "l'amendement n° 3914 de M. Sansu après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 8,
+      "contre": 2,
+      "abstentions": 0
+    },
+    {
+      "numero": "8826",
+      "date": "2026-10-16",
+      "titre": "l'amendement n° 1088 de M. Coquerel après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 10,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "8825",
+      "date": "2026-10-16",
+      "titre": "l'amendement n° 469 de Mme Mercier après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 10,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
       "numero": "8824",
       "date": "2026-10-16",
       "titre": "l'amendement n° 1084 de Mme Feld après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
@@ -8167,7 +9037,7 @@
     {
       "numero": "8822",
       "date": "2026-10-16",
-      "titre": "l'amendement n°3932 de M. Sansu après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
+      "titre": "l'amendement n° 3932 de M. Sansu après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
       "resultat": "rejeté",
       "position": "pour",
       "pour": 10,
@@ -8187,7 +9057,7 @@
     {
       "numero": "8820",
       "date": "2026-10-16",
-      "titre": "l'amendement n°3533 (rect.) de Mme Trouvé après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
+      "titre": "l'amendement n° 3533 (rect.) de Mme Trouvé après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
       "resultat": "rejeté",
       "position": "pour",
       "pour": 9,
@@ -8197,7 +9067,7 @@
     {
       "numero": "8819",
       "date": "2026-10-16",
-      "titre": "l'amendement n°3652 de M. Attal et l'amendement identique suivant après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
+      "titre": "l'amendement n° 3652 de M. Attal et l'amendement identique suivant après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
       "resultat": "adopté",
       "position": "contre",
       "pour": 0,
@@ -12217,6 +13087,296 @@
   ],
   "PO845419": [
     {
+      "numero": "8853",
+      "date": "2026-10-16",
+      "titre": "l'amendement n° 2276 de M. Jolivet après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "adopté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 9,
+      "abstentions": 0
+    },
+    {
+      "numero": "8852",
+      "date": "2026-10-16",
+      "titre": "l'amendement n° 3655 de M. Attal après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 9,
+      "abstentions": 0
+    },
+    {
+      "numero": "8851",
+      "date": "2026-10-16",
+      "titre": "l'amendement n° 3656 de M. Attal après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 9,
+      "abstentions": 0
+    },
+    {
+      "numero": "8850",
+      "date": "2026-10-16",
+      "titre": "l'amendement n° 816 de M. Lahais et l'amendement identique suivant après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 5,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "8849",
+      "date": "2026-10-16",
+      "titre": "l'amendement n° 3968 de M. Wauquiez après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 3,
+      "abstentions": 0
+    },
+    {
+      "numero": "8848",
+      "date": "2026-10-16",
+      "titre": "l'amendement n° 1085 de M. Le Coq après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "abstention",
+      "pour": 1,
+      "contre": 0,
+      "abstentions": 6
+    },
+    {
+      "numero": "8847",
+      "date": "2026-10-16",
+      "titre": "l'amendement n° 55 de Mme Sas après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 7,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "8846",
+      "date": "2026-10-16",
+      "titre": "l'amendement n° 809 de M. Lahais après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 7,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "8845",
+      "date": "2026-10-16",
+      "titre": "l'amendement n° 3930 de M. Sansu après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 7,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "8844",
+      "date": "2026-10-16",
+      "titre": "l'amendement n° 1086 de Mme Maximi après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "abstention",
+      "pour": 3,
+      "contre": 0,
+      "abstentions": 4
+    },
+    {
+      "numero": "8843",
+      "date": "2026-10-16",
+      "titre": "l'amendement n° 3929 de M. Sansu après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 8,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "8842",
+      "date": "2026-10-16",
+      "titre": "l'amendement n° 465 de Mme Mercier après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 9,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "8841",
+      "date": "2026-10-16",
+      "titre": "l'amendement n° 472 de Mme Pirès Beaune après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 9,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "8840",
+      "date": "2026-10-16",
+      "titre": "l'amendement n° 3933 de M. Sansu après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 9,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "8839",
+      "date": "2026-10-16",
+      "titre": "l'amendement n° 260 de M. Arnaud Bonnet après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 5,
+      "contre": 0,
+      "abstentions": 2
+    },
+    {
+      "numero": "8838",
+      "date": "2026-10-16",
+      "titre": "l'amendement n° 3469 de Mme Trouvé après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "abstention",
+      "pour": 3,
+      "contre": 0,
+      "abstentions": 4
+    },
+    {
+      "numero": "8837",
+      "date": "2026-10-16",
+      "titre": "l'amendement n° 3653 de M. Attal après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 8,
+      "abstentions": 0
+    },
+    {
+      "numero": "8836",
+      "date": "2026-10-16",
+      "titre": "l'amendement n° 3898 de M. Sansu après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 9,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "8835",
+      "date": "2026-10-16",
+      "titre": "l'amendement n° 1460 de M. Echaniz après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 10,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "8834",
+      "date": "2026-10-16",
+      "titre": "l'amendement n° 300 de Mme Lejeune après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 6,
+      "contre": 1,
+      "abstentions": 2
+    },
+    {
+      "numero": "8833",
+      "date": "2026-10-16",
+      "titre": "l'amendement n° 113 de M. Falcon après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 10,
+      "abstentions": 0
+    },
+    {
+      "numero": "8832",
+      "date": "2026-10-16",
+      "titre": "l'amendement n° 3443 de M. Piquemal après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 4,
+      "contre": 0,
+      "abstentions": 4
+    },
+    {
+      "numero": "8831",
+      "date": "2026-10-16",
+      "titre": "l'amendement n° 1665 de M. Dufau et l'amendement identique suivant après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 9,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "8830",
+      "date": "2026-10-16",
+      "titre": "l'amendement n° 2565 de M. Le Coq après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 9,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "8829",
+      "date": "2026-10-16",
+      "titre": "l'amendement n° 2925 de Mme Mercier après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 10,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "8828",
+      "date": "2026-10-16",
+      "titre": "l'amendement n° 53 de Mme Sas après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 10,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "8827",
+      "date": "2026-10-16",
+      "titre": "l'amendement n° 3914 de M. Sansu après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 10,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "8826",
+      "date": "2026-10-16",
+      "titre": "l'amendement n° 1088 de M. Coquerel après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 10,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "8825",
+      "date": "2026-10-16",
+      "titre": "l'amendement n° 469 de Mme Mercier après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 10,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
       "numero": "8824",
       "date": "2026-10-16",
       "titre": "l'amendement n° 1084 de Mme Feld après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
@@ -12239,7 +13399,7 @@
     {
       "numero": "8822",
       "date": "2026-10-16",
-      "titre": "l'amendement n°3932 de M. Sansu après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
+      "titre": "l'amendement n° 3932 de M. Sansu après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
       "resultat": "rejeté",
       "position": "pour",
       "pour": 7,
@@ -12259,7 +13419,7 @@
     {
       "numero": "8820",
       "date": "2026-10-16",
-      "titre": "l'amendement n°3533 (rect.) de Mme Trouvé après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
+      "titre": "l'amendement n° 3533 (rect.) de Mme Trouvé après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
       "resultat": "rejeté",
       "position": "pour",
       "pour": 4,
@@ -12269,7 +13429,7 @@
     {
       "numero": "8819",
       "date": "2026-10-16",
-      "titre": "l'amendement n°3652 de M. Attal et l'amendement identique suivant après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
+      "titre": "l'amendement n° 3652 de M. Attal et l'amendement identique suivant après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
       "resultat": "adopté",
       "position": "contre",
       "pour": 0,
@@ -16289,6 +17449,296 @@
   ],
   "PO845425": [
     {
+      "numero": "8853",
+      "date": "2026-10-16",
+      "titre": "l'amendement n° 2276 de M. Jolivet après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 4,
+      "contre": 1,
+      "abstentions": 0
+    },
+    {
+      "numero": "8852",
+      "date": "2026-10-16",
+      "titre": "l'amendement n° 3655 de M. Attal après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 1,
+      "contre": 3,
+      "abstentions": 0
+    },
+    {
+      "numero": "8851",
+      "date": "2026-10-16",
+      "titre": "l'amendement n° 3656 de M. Attal après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 3,
+      "contre": 0,
+      "abstentions": 2
+    },
+    {
+      "numero": "8850",
+      "date": "2026-10-16",
+      "titre": "l'amendement n° 816 de M. Lahais et l'amendement identique suivant après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 5,
+      "abstentions": 0
+    },
+    {
+      "numero": "8849",
+      "date": "2026-10-16",
+      "titre": "l'amendement n° 3968 de M. Wauquiez après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 5,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "8848",
+      "date": "2026-10-16",
+      "titre": "l'amendement n° 1085 de M. Le Coq après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 5,
+      "abstentions": 0
+    },
+    {
+      "numero": "8847",
+      "date": "2026-10-16",
+      "titre": "l'amendement n° 55 de Mme Sas après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 5,
+      "abstentions": 0
+    },
+    {
+      "numero": "8846",
+      "date": "2026-10-16",
+      "titre": "l'amendement n° 809 de M. Lahais après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 5,
+      "abstentions": 0
+    },
+    {
+      "numero": "8845",
+      "date": "2026-10-16",
+      "titre": "l'amendement n° 3930 de M. Sansu après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 5,
+      "abstentions": 0
+    },
+    {
+      "numero": "8844",
+      "date": "2026-10-16",
+      "titre": "l'amendement n° 1086 de Mme Maximi après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 2,
+      "abstentions": 0
+    },
+    {
+      "numero": "8843",
+      "date": "2026-10-16",
+      "titre": "l'amendement n° 3929 de M. Sansu après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 1,
+      "abstentions": 0
+    },
+    {
+      "numero": "8842",
+      "date": "2026-10-16",
+      "titre": "l'amendement n° 465 de Mme Mercier après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 1,
+      "abstentions": 0
+    },
+    {
+      "numero": "8841",
+      "date": "2026-10-16",
+      "titre": "l'amendement n° 472 de Mme Pirès Beaune après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 3,
+      "abstentions": 0
+    },
+    {
+      "numero": "8840",
+      "date": "2026-10-16",
+      "titre": "l'amendement n° 3933 de M. Sansu après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 4,
+      "abstentions": 0
+    },
+    {
+      "numero": "8839",
+      "date": "2026-10-16",
+      "titre": "l'amendement n° 260 de M. Arnaud Bonnet après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 4,
+      "abstentions": 0
+    },
+    {
+      "numero": "8838",
+      "date": "2026-10-16",
+      "titre": "l'amendement n° 3469 de Mme Trouvé après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 2,
+      "abstentions": 0
+    },
+    {
+      "numero": "8837",
+      "date": "2026-10-16",
+      "titre": "l'amendement n° 3653 de M. Attal après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 1,
+      "contre": 3,
+      "abstentions": 1
+    },
+    {
+      "numero": "8836",
+      "date": "2026-10-16",
+      "titre": "l'amendement n° 3898 de M. Sansu après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "adopté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 5,
+      "abstentions": 0
+    },
+    {
+      "numero": "8835",
+      "date": "2026-10-16",
+      "titre": "l'amendement n° 1460 de M. Echaniz après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 4,
+      "abstentions": 0
+    },
+    {
+      "numero": "8834",
+      "date": "2026-10-16",
+      "titre": "l'amendement n° 300 de Mme Lejeune après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 3,
+      "abstentions": 0
+    },
+    {
+      "numero": "8833",
+      "date": "2026-10-16",
+      "titre": "l'amendement n° 113 de M. Falcon après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 3,
+      "abstentions": 0
+    },
+    {
+      "numero": "8832",
+      "date": "2026-10-16",
+      "titre": "l'amendement n° 3443 de M. Piquemal après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 4,
+      "abstentions": 0
+    },
+    {
+      "numero": "8831",
+      "date": "2026-10-16",
+      "titre": "l'amendement n° 1665 de M. Dufau et l'amendement identique suivant après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 5,
+      "abstentions": 0
+    },
+    {
+      "numero": "8830",
+      "date": "2026-10-16",
+      "titre": "l'amendement n° 2565 de M. Le Coq après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 5,
+      "abstentions": 0
+    },
+    {
+      "numero": "8829",
+      "date": "2026-10-16",
+      "titre": "l'amendement n° 2925 de Mme Mercier après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 5,
+      "abstentions": 0
+    },
+    {
+      "numero": "8828",
+      "date": "2026-10-16",
+      "titre": "l'amendement n° 53 de Mme Sas après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 5,
+      "abstentions": 0
+    },
+    {
+      "numero": "8827",
+      "date": "2026-10-16",
+      "titre": "l'amendement n° 3914 de M. Sansu après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 4,
+      "abstentions": 0
+    },
+    {
+      "numero": "8826",
+      "date": "2026-10-16",
+      "titre": "l'amendement n° 1088 de M. Coquerel après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 4,
+      "abstentions": 0
+    },
+    {
+      "numero": "8825",
+      "date": "2026-10-16",
+      "titre": "l'amendement n° 469 de Mme Mercier après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 4,
+      "abstentions": 0
+    },
+    {
       "numero": "8824",
       "date": "2026-10-16",
       "titre": "l'amendement n° 1084 de Mme Feld après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
@@ -16311,7 +17761,7 @@
     {
       "numero": "8822",
       "date": "2026-10-16",
-      "titre": "l'amendement n°3932 de M. Sansu après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
+      "titre": "l'amendement n° 3932 de M. Sansu après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
       "resultat": "rejeté",
       "position": "contre",
       "pour": 0,
@@ -16331,7 +17781,7 @@
     {
       "numero": "8820",
       "date": "2026-10-16",
-      "titre": "l'amendement n°3533 (rect.) de Mme Trouvé après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
+      "titre": "l'amendement n° 3533 (rect.) de Mme Trouvé après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
       "resultat": "rejeté",
       "position": "contre",
       "pour": 0,
@@ -16341,7 +17791,7 @@
     {
       "numero": "8819",
       "date": "2026-10-16",
-      "titre": "l'amendement n°3652 de M. Attal et l'amendement identique suivant après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
+      "titre": "l'amendement n° 3652 de M. Attal et l'amendement identique suivant après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
       "resultat": "adopté",
       "position": "pour",
       "pour": 3,
@@ -20361,6 +21811,296 @@
   ],
   "PO845439": [
     {
+      "numero": "8853",
+      "date": "2026-10-16",
+      "titre": "l'amendement n° 2276 de M. Jolivet après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "adopté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 9,
+      "abstentions": 0
+    },
+    {
+      "numero": "8852",
+      "date": "2026-10-16",
+      "titre": "l'amendement n° 3655 de M. Attal après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 7,
+      "abstentions": 0
+    },
+    {
+      "numero": "8851",
+      "date": "2026-10-16",
+      "titre": "l'amendement n° 3656 de M. Attal après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 5,
+      "abstentions": 0
+    },
+    {
+      "numero": "8850",
+      "date": "2026-10-16",
+      "titre": "l'amendement n° 816 de M. Lahais et l'amendement identique suivant après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 2,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "8849",
+      "date": "2026-10-16",
+      "titre": "l'amendement n° 3968 de M. Wauquiez après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 2,
+      "abstentions": 0
+    },
+    {
+      "numero": "8848",
+      "date": "2026-10-16",
+      "titre": "l'amendement n° 1085 de M. Le Coq après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 9,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "8847",
+      "date": "2026-10-16",
+      "titre": "l'amendement n° 55 de Mme Sas après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 8,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "8846",
+      "date": "2026-10-16",
+      "titre": "l'amendement n° 809 de M. Lahais après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 6,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "8845",
+      "date": "2026-10-16",
+      "titre": "l'amendement n° 3930 de M. Sansu après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 8,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "8844",
+      "date": "2026-10-16",
+      "titre": "l'amendement n° 1086 de Mme Maximi après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 6,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "8843",
+      "date": "2026-10-16",
+      "titre": "l'amendement n° 3929 de M. Sansu après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 6,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "8842",
+      "date": "2026-10-16",
+      "titre": "l'amendement n° 465 de Mme Mercier après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 6,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "8841",
+      "date": "2026-10-16",
+      "titre": "l'amendement n° 472 de Mme Pirès Beaune après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 3,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "8840",
+      "date": "2026-10-16",
+      "titre": "l'amendement n° 3933 de M. Sansu après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 6,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "8839",
+      "date": "2026-10-16",
+      "titre": "l'amendement n° 260 de M. Arnaud Bonnet après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 8,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "8838",
+      "date": "2026-10-16",
+      "titre": "l'amendement n° 3469 de Mme Trouvé après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 8,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "8837",
+      "date": "2026-10-16",
+      "titre": "l'amendement n° 3653 de M. Attal après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 8,
+      "abstentions": 0
+    },
+    {
+      "numero": "8836",
+      "date": "2026-10-16",
+      "titre": "l'amendement n° 3898 de M. Sansu après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 8,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "8835",
+      "date": "2026-10-16",
+      "titre": "l'amendement n° 1460 de M. Echaniz après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 7,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "8834",
+      "date": "2026-10-16",
+      "titre": "l'amendement n° 300 de Mme Lejeune après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 7,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "8833",
+      "date": "2026-10-16",
+      "titre": "l'amendement n° 113 de M. Falcon après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 7,
+      "abstentions": 0
+    },
+    {
+      "numero": "8832",
+      "date": "2026-10-16",
+      "titre": "l'amendement n° 3443 de M. Piquemal après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 4,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "8831",
+      "date": "2026-10-16",
+      "titre": "l'amendement n° 1665 de M. Dufau et l'amendement identique suivant après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 5,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "8830",
+      "date": "2026-10-16",
+      "titre": "l'amendement n° 2565 de M. Le Coq après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 6,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "8829",
+      "date": "2026-10-16",
+      "titre": "l'amendement n° 2925 de Mme Mercier après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 7,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "8828",
+      "date": "2026-10-16",
+      "titre": "l'amendement n° 53 de Mme Sas après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 7,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "8827",
+      "date": "2026-10-16",
+      "titre": "l'amendement n° 3914 de M. Sansu après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 6,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "8826",
+      "date": "2026-10-16",
+      "titre": "l'amendement n° 1088 de M. Coquerel après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 6,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "8825",
+      "date": "2026-10-16",
+      "titre": "l'amendement n° 469 de Mme Mercier après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 6,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
       "numero": "8824",
       "date": "2026-10-16",
       "titre": "l'amendement n° 1084 de Mme Feld après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
@@ -20383,7 +22123,7 @@
     {
       "numero": "8822",
       "date": "2026-10-16",
-      "titre": "l'amendement n°3932 de M. Sansu après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
+      "titre": "l'amendement n° 3932 de M. Sansu après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
       "resultat": "rejeté",
       "position": "pour",
       "pour": 6,
@@ -20403,7 +22143,7 @@
     {
       "numero": "8820",
       "date": "2026-10-16",
-      "titre": "l'amendement n°3533 (rect.) de Mme Trouvé après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
+      "titre": "l'amendement n° 3533 (rect.) de Mme Trouvé après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
       "resultat": "rejeté",
       "position": "pour",
       "pour": 6,
@@ -20413,7 +22153,7 @@
     {
       "numero": "8819",
       "date": "2026-10-16",
-      "titre": "l'amendement n°3652 de M. Attal et l'amendement identique suivant après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
+      "titre": "l'amendement n° 3652 de M. Attal et l'amendement identique suivant après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
       "resultat": "adopté",
       "position": "contre",
       "pour": 0,
@@ -24433,6 +26173,296 @@
   ],
   "PO845454": [
     {
+      "numero": "8853",
+      "date": "2026-10-16",
+      "titre": "l'amendement n° 2276 de M. Jolivet après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 3,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "8852",
+      "date": "2026-10-16",
+      "titre": "l'amendement n° 3655 de M. Attal après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 3,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "8851",
+      "date": "2026-10-16",
+      "titre": "l'amendement n° 3656 de M. Attal après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 3,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "8850",
+      "date": "2026-10-16",
+      "titre": "l'amendement n° 816 de M. Lahais et l'amendement identique suivant après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 1,
+      "abstentions": 0
+    },
+    {
+      "numero": "8849",
+      "date": "2026-10-16",
+      "titre": "l'amendement n° 3968 de M. Wauquiez après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 0,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "8848",
+      "date": "2026-10-16",
+      "titre": "l'amendement n° 1085 de M. Le Coq après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 6,
+      "abstentions": 0
+    },
+    {
+      "numero": "8847",
+      "date": "2026-10-16",
+      "titre": "l'amendement n° 55 de Mme Sas après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 6,
+      "abstentions": 0
+    },
+    {
+      "numero": "8846",
+      "date": "2026-10-16",
+      "titre": "l'amendement n° 809 de M. Lahais après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 6,
+      "abstentions": 0
+    },
+    {
+      "numero": "8845",
+      "date": "2026-10-16",
+      "titre": "l'amendement n° 3930 de M. Sansu après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 6,
+      "abstentions": 0
+    },
+    {
+      "numero": "8844",
+      "date": "2026-10-16",
+      "titre": "l'amendement n° 1086 de Mme Maximi après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 6,
+      "abstentions": 0
+    },
+    {
+      "numero": "8843",
+      "date": "2026-10-16",
+      "titre": "l'amendement n° 3929 de M. Sansu après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 1,
+      "contre": 5,
+      "abstentions": 0
+    },
+    {
+      "numero": "8842",
+      "date": "2026-10-16",
+      "titre": "l'amendement n° 465 de Mme Mercier après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 6,
+      "abstentions": 0
+    },
+    {
+      "numero": "8841",
+      "date": "2026-10-16",
+      "titre": "l'amendement n° 472 de Mme Pirès Beaune après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 5,
+      "abstentions": 0
+    },
+    {
+      "numero": "8840",
+      "date": "2026-10-16",
+      "titre": "l'amendement n° 3933 de M. Sansu après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 5,
+      "abstentions": 0
+    },
+    {
+      "numero": "8839",
+      "date": "2026-10-16",
+      "titre": "l'amendement n° 260 de M. Arnaud Bonnet après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 5,
+      "abstentions": 0
+    },
+    {
+      "numero": "8838",
+      "date": "2026-10-16",
+      "titre": "l'amendement n° 3469 de Mme Trouvé après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 5,
+      "abstentions": 0
+    },
+    {
+      "numero": "8837",
+      "date": "2026-10-16",
+      "titre": "l'amendement n° 3653 de M. Attal après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 5,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "8836",
+      "date": "2026-10-16",
+      "titre": "l'amendement n° 3898 de M. Sansu après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 4,
+      "contre": 1,
+      "abstentions": 0
+    },
+    {
+      "numero": "8835",
+      "date": "2026-10-16",
+      "titre": "l'amendement n° 1460 de M. Echaniz après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "abstention",
+      "pour": 0,
+      "contre": 1,
+      "abstentions": 3
+    },
+    {
+      "numero": "8834",
+      "date": "2026-10-16",
+      "titre": "l'amendement n° 300 de Mme Lejeune après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 1,
+      "abstentions": 0
+    },
+    {
+      "numero": "8833",
+      "date": "2026-10-16",
+      "titre": "l'amendement n° 113 de M. Falcon après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 2,
+      "abstentions": 0
+    },
+    {
+      "numero": "8832",
+      "date": "2026-10-16",
+      "titre": "l'amendement n° 3443 de M. Piquemal après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 6,
+      "abstentions": 0
+    },
+    {
+      "numero": "8831",
+      "date": "2026-10-16",
+      "titre": "l'amendement n° 1665 de M. Dufau et l'amendement identique suivant après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 4,
+      "contre": 0,
+      "abstentions": 2
+    },
+    {
+      "numero": "8830",
+      "date": "2026-10-16",
+      "titre": "l'amendement n° 2565 de M. Le Coq après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 5,
+      "contre": 0,
+      "abstentions": 2
+    },
+    {
+      "numero": "8829",
+      "date": "2026-10-16",
+      "titre": "l'amendement n° 2925 de Mme Mercier après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 6,
+      "abstentions": 0
+    },
+    {
+      "numero": "8828",
+      "date": "2026-10-16",
+      "titre": "l'amendement n° 53 de Mme Sas après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 6,
+      "abstentions": 0
+    },
+    {
+      "numero": "8827",
+      "date": "2026-10-16",
+      "titre": "l'amendement n° 3914 de M. Sansu après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 5,
+      "abstentions": 0
+    },
+    {
+      "numero": "8826",
+      "date": "2026-10-16",
+      "titre": "l'amendement n° 1088 de M. Coquerel après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 5,
+      "abstentions": 0
+    },
+    {
+      "numero": "8825",
+      "date": "2026-10-16",
+      "titre": "l'amendement n° 469 de Mme Mercier après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 5,
+      "abstentions": 0
+    },
+    {
       "numero": "8824",
       "date": "2026-10-16",
       "titre": "l'amendement n° 1084 de Mme Feld après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
@@ -24455,7 +26485,7 @@
     {
       "numero": "8822",
       "date": "2026-10-16",
-      "titre": "l'amendement n°3932 de M. Sansu après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
+      "titre": "l'amendement n° 3932 de M. Sansu après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
       "resultat": "rejeté",
       "position": "contre",
       "pour": 0,
@@ -24475,7 +26505,7 @@
     {
       "numero": "8820",
       "date": "2026-10-16",
-      "titre": "l'amendement n°3533 (rect.) de Mme Trouvé après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
+      "titre": "l'amendement n° 3533 (rect.) de Mme Trouvé après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
       "resultat": "rejeté",
       "position": "contre",
       "pour": 0,
@@ -24485,7 +26515,7 @@
     {
       "numero": "8819",
       "date": "2026-10-16",
-      "titre": "l'amendement n°3652 de M. Attal et l'amendement identique suivant après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
+      "titre": "l'amendement n° 3652 de M. Attal et l'amendement identique suivant après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
       "resultat": "adopté",
       "position": "pour",
       "pour": 0,
@@ -28505,6 +30535,296 @@
   ],
   "PO845470": [
     {
+      "numero": "8853",
+      "date": "2026-10-16",
+      "titre": "l'amendement n° 2276 de M. Jolivet après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 4,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "8852",
+      "date": "2026-10-16",
+      "titre": "l'amendement n° 3655 de M. Attal après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "abstention",
+      "pour": 0,
+      "contre": 1,
+      "abstentions": 2
+    },
+    {
+      "numero": "8851",
+      "date": "2026-10-16",
+      "titre": "l'amendement n° 3656 de M. Attal après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 1,
+      "abstentions": 1
+    },
+    {
+      "numero": "8850",
+      "date": "2026-10-16",
+      "titre": "l'amendement n° 816 de M. Lahais et l'amendement identique suivant après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 1,
+      "abstentions": 0
+    },
+    {
+      "numero": "8849",
+      "date": "2026-10-16",
+      "titre": "l'amendement n° 3968 de M. Wauquiez après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 1,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "8848",
+      "date": "2026-10-16",
+      "titre": "l'amendement n° 1085 de M. Le Coq après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 4,
+      "abstentions": 0
+    },
+    {
+      "numero": "8847",
+      "date": "2026-10-16",
+      "titre": "l'amendement n° 55 de Mme Sas après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 4,
+      "abstentions": 0
+    },
+    {
+      "numero": "8846",
+      "date": "2026-10-16",
+      "titre": "l'amendement n° 809 de M. Lahais après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 4,
+      "abstentions": 0
+    },
+    {
+      "numero": "8845",
+      "date": "2026-10-16",
+      "titre": "l'amendement n° 3930 de M. Sansu après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 4,
+      "abstentions": 0
+    },
+    {
+      "numero": "8844",
+      "date": "2026-10-16",
+      "titre": "l'amendement n° 1086 de Mme Maximi après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 3,
+      "abstentions": 0
+    },
+    {
+      "numero": "8843",
+      "date": "2026-10-16",
+      "titre": "l'amendement n° 3929 de M. Sansu après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 3,
+      "abstentions": 0
+    },
+    {
+      "numero": "8842",
+      "date": "2026-10-16",
+      "titre": "l'amendement n° 465 de Mme Mercier après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 3,
+      "abstentions": 0
+    },
+    {
+      "numero": "8841",
+      "date": "2026-10-16",
+      "titre": "l'amendement n° 472 de Mme Pirès Beaune après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 3,
+      "abstentions": 0
+    },
+    {
+      "numero": "8840",
+      "date": "2026-10-16",
+      "titre": "l'amendement n° 3933 de M. Sansu après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 3,
+      "abstentions": 0
+    },
+    {
+      "numero": "8839",
+      "date": "2026-10-16",
+      "titre": "l'amendement n° 260 de M. Arnaud Bonnet après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 4,
+      "abstentions": 0
+    },
+    {
+      "numero": "8838",
+      "date": "2026-10-16",
+      "titre": "l'amendement n° 3469 de Mme Trouvé après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 4,
+      "abstentions": 0
+    },
+    {
+      "numero": "8837",
+      "date": "2026-10-16",
+      "titre": "l'amendement n° 3653 de M. Attal après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 2,
+      "abstentions": 1
+    },
+    {
+      "numero": "8836",
+      "date": "2026-10-16",
+      "titre": "l'amendement n° 3898 de M. Sansu après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "adopté",
+      "position": "contre",
+      "pour": 1,
+      "contre": 3,
+      "abstentions": 0
+    },
+    {
+      "numero": "8835",
+      "date": "2026-10-16",
+      "titre": "l'amendement n° 1460 de M. Echaniz après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 4,
+      "abstentions": 0
+    },
+    {
+      "numero": "8834",
+      "date": "2026-10-16",
+      "titre": "l'amendement n° 300 de Mme Lejeune après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 4,
+      "abstentions": 0
+    },
+    {
+      "numero": "8833",
+      "date": "2026-10-16",
+      "titre": "l'amendement n° 113 de M. Falcon après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 1,
+      "abstentions": 1
+    },
+    {
+      "numero": "8832",
+      "date": "2026-10-16",
+      "titre": "l'amendement n° 3443 de M. Piquemal après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 2,
+      "abstentions": 0
+    },
+    {
+      "numero": "8831",
+      "date": "2026-10-16",
+      "titre": "l'amendement n° 1665 de M. Dufau et l'amendement identique suivant après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 2,
+      "abstentions": 0
+    },
+    {
+      "numero": "8830",
+      "date": "2026-10-16",
+      "titre": "l'amendement n° 2565 de M. Le Coq après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 1,
+      "abstentions": 0
+    },
+    {
+      "numero": "8829",
+      "date": "2026-10-16",
+      "titre": "l'amendement n° 2925 de Mme Mercier après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 1,
+      "abstentions": 0
+    },
+    {
+      "numero": "8828",
+      "date": "2026-10-16",
+      "titre": "l'amendement n° 53 de Mme Sas après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 1,
+      "abstentions": 0
+    },
+    {
+      "numero": "8827",
+      "date": "2026-10-16",
+      "titre": "l'amendement n° 3914 de M. Sansu après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 1,
+      "abstentions": 0
+    },
+    {
+      "numero": "8826",
+      "date": "2026-10-16",
+      "titre": "l'amendement n° 1088 de M. Coquerel après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 2,
+      "abstentions": 0
+    },
+    {
+      "numero": "8825",
+      "date": "2026-10-16",
+      "titre": "l'amendement n° 469 de Mme Mercier après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 2,
+      "abstentions": 0
+    },
+    {
       "numero": "8824",
       "date": "2026-10-16",
       "titre": "l'amendement n° 1084 de Mme Feld après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
@@ -28527,7 +30847,7 @@
     {
       "numero": "8822",
       "date": "2026-10-16",
-      "titre": "l'amendement n°3932 de M. Sansu après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
+      "titre": "l'amendement n° 3932 de M. Sansu après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
       "resultat": "rejeté",
       "position": "contre",
       "pour": 0,
@@ -28547,7 +30867,7 @@
     {
       "numero": "8820",
       "date": "2026-10-16",
-      "titre": "l'amendement n°3533 (rect.) de Mme Trouvé après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
+      "titre": "l'amendement n° 3533 (rect.) de Mme Trouvé après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
       "resultat": "rejeté",
       "position": "contre",
       "pour": 0,
@@ -28557,7 +30877,7 @@
     {
       "numero": "8819",
       "date": "2026-10-16",
-      "titre": "l'amendement n°3652 de M. Attal et l'amendement identique suivant après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
+      "titre": "l'amendement n° 3652 de M. Attal et l'amendement identique suivant après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
       "resultat": "adopté",
       "position": "abstention",
       "pour": 0,
@@ -32577,6 +34897,296 @@
   ],
   "PO845485": [
     {
+      "numero": "8853",
+      "date": "2026-10-16",
+      "titre": "l'amendement n° 2276 de M. Jolivet après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 3,
+      "contre": 1,
+      "abstentions": 1
+    },
+    {
+      "numero": "8852",
+      "date": "2026-10-16",
+      "titre": "l'amendement n° 3655 de M. Attal après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 2,
+      "abstentions": 2
+    },
+    {
+      "numero": "8851",
+      "date": "2026-10-16",
+      "titre": "l'amendement n° 3656 de M. Attal après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 3,
+      "abstentions": 1
+    },
+    {
+      "numero": "8850",
+      "date": "2026-10-16",
+      "titre": "l'amendement n° 816 de M. Lahais et l'amendement identique suivant après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 4,
+      "abstentions": 0
+    },
+    {
+      "numero": "8849",
+      "date": "2026-10-16",
+      "titre": "l'amendement n° 3968 de M. Wauquiez après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 0,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "8848",
+      "date": "2026-10-16",
+      "titre": "l'amendement n° 1085 de M. Le Coq après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 4,
+      "abstentions": 1
+    },
+    {
+      "numero": "8847",
+      "date": "2026-10-16",
+      "titre": "l'amendement n° 55 de Mme Sas après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 1,
+      "contre": 4,
+      "abstentions": 0
+    },
+    {
+      "numero": "8846",
+      "date": "2026-10-16",
+      "titre": "l'amendement n° 809 de M. Lahais après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 4,
+      "abstentions": 0
+    },
+    {
+      "numero": "8845",
+      "date": "2026-10-16",
+      "titre": "l'amendement n° 3930 de M. Sansu après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 1,
+      "contre": 5,
+      "abstentions": 0
+    },
+    {
+      "numero": "8844",
+      "date": "2026-10-16",
+      "titre": "l'amendement n° 1086 de Mme Maximi après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 5,
+      "abstentions": 0
+    },
+    {
+      "numero": "8843",
+      "date": "2026-10-16",
+      "titre": "l'amendement n° 3929 de M. Sansu après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 1,
+      "abstentions": 0
+    },
+    {
+      "numero": "8842",
+      "date": "2026-10-16",
+      "titre": "l'amendement n° 465 de Mme Mercier après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 5,
+      "abstentions": 0
+    },
+    {
+      "numero": "8841",
+      "date": "2026-10-16",
+      "titre": "l'amendement n° 472 de Mme Pirès Beaune après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 4,
+      "abstentions": 1
+    },
+    {
+      "numero": "8840",
+      "date": "2026-10-16",
+      "titre": "l'amendement n° 3933 de M. Sansu après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 4,
+      "abstentions": 0
+    },
+    {
+      "numero": "8839",
+      "date": "2026-10-16",
+      "titre": "l'amendement n° 260 de M. Arnaud Bonnet après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 5,
+      "abstentions": 0
+    },
+    {
+      "numero": "8838",
+      "date": "2026-10-16",
+      "titre": "l'amendement n° 3469 de Mme Trouvé après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 5,
+      "abstentions": 0
+    },
+    {
+      "numero": "8837",
+      "date": "2026-10-16",
+      "titre": "l'amendement n° 3653 de M. Attal après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 5,
+      "abstentions": 0
+    },
+    {
+      "numero": "8836",
+      "date": "2026-10-16",
+      "titre": "l'amendement n° 3898 de M. Sansu après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "adopté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 5,
+      "abstentions": 0
+    },
+    {
+      "numero": "8835",
+      "date": "2026-10-16",
+      "titre": "l'amendement n° 1460 de M. Echaniz après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 5,
+      "abstentions": 0
+    },
+    {
+      "numero": "8834",
+      "date": "2026-10-16",
+      "titre": "l'amendement n° 300 de Mme Lejeune après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 5,
+      "abstentions": 0
+    },
+    {
+      "numero": "8833",
+      "date": "2026-10-16",
+      "titre": "l'amendement n° 113 de M. Falcon après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 4,
+      "abstentions": 0
+    },
+    {
+      "numero": "8832",
+      "date": "2026-10-16",
+      "titre": "l'amendement n° 3443 de M. Piquemal après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 1,
+      "contre": 2,
+      "abstentions": 0
+    },
+    {
+      "numero": "8831",
+      "date": "2026-10-16",
+      "titre": "l'amendement n° 1665 de M. Dufau et l'amendement identique suivant après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 2,
+      "abstentions": 2
+    },
+    {
+      "numero": "8830",
+      "date": "2026-10-16",
+      "titre": "l'amendement n° 2565 de M. Le Coq après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 4,
+      "abstentions": 0
+    },
+    {
+      "numero": "8829",
+      "date": "2026-10-16",
+      "titre": "l'amendement n° 2925 de Mme Mercier après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 2,
+      "abstentions": 0
+    },
+    {
+      "numero": "8828",
+      "date": "2026-10-16",
+      "titre": "l'amendement n° 53 de Mme Sas après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 4,
+      "abstentions": 0
+    },
+    {
+      "numero": "8827",
+      "date": "2026-10-16",
+      "titre": "l'amendement n° 3914 de M. Sansu après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 4,
+      "abstentions": 0
+    },
+    {
+      "numero": "8826",
+      "date": "2026-10-16",
+      "titre": "l'amendement n° 1088 de M. Coquerel après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 3,
+      "abstentions": 0
+    },
+    {
+      "numero": "8825",
+      "date": "2026-10-16",
+      "titre": "l'amendement n° 469 de Mme Mercier après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 4,
+      "abstentions": 0
+    },
+    {
       "numero": "8824",
       "date": "2026-10-16",
       "titre": "l'amendement n° 1084 de Mme Feld après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
@@ -32599,7 +35209,7 @@
     {
       "numero": "8822",
       "date": "2026-10-16",
-      "titre": "l'amendement n°3932 de M. Sansu après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
+      "titre": "l'amendement n° 3932 de M. Sansu après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
       "resultat": "rejeté",
       "position": "contre",
       "pour": 0,
@@ -32619,7 +35229,7 @@
     {
       "numero": "8820",
       "date": "2026-10-16",
-      "titre": "l'amendement n°3533 (rect.) de Mme Trouvé après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
+      "titre": "l'amendement n° 3533 (rect.) de Mme Trouvé après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
       "resultat": "rejeté",
       "position": "contre",
       "pour": 0,
@@ -32629,7 +35239,7 @@
     {
       "numero": "8819",
       "date": "2026-10-16",
-      "titre": "l'amendement n°3652 de M. Attal et l'amendement identique suivant après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
+      "titre": "l'amendement n° 3652 de M. Attal et l'amendement identique suivant après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
       "resultat": "adopté",
       "position": "pour",
       "pour": 1,
@@ -36649,6 +39259,296 @@
   ],
   "PO872880": [
     {
+      "numero": "8853",
+      "date": "2026-10-16",
+      "titre": "l'amendement n° 2276 de M. Jolivet après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 2,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "8852",
+      "date": "2026-10-16",
+      "titre": "l'amendement n° 3655 de M. Attal après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "abstention",
+      "pour": 0,
+      "contre": 0,
+      "abstentions": 2
+    },
+    {
+      "numero": "8851",
+      "date": "2026-10-16",
+      "titre": "l'amendement n° 3656 de M. Attal après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "abstention",
+      "pour": 0,
+      "contre": 0,
+      "abstentions": 2
+    },
+    {
+      "numero": "8850",
+      "date": "2026-10-16",
+      "titre": "l'amendement n° 816 de M. Lahais et l'amendement identique suivant après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 2,
+      "abstentions": 0
+    },
+    {
+      "numero": "8849",
+      "date": "2026-10-16",
+      "titre": "l'amendement n° 3968 de M. Wauquiez après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "abstention",
+      "pour": 0,
+      "contre": 0,
+      "abstentions": 2
+    },
+    {
+      "numero": "8848",
+      "date": "2026-10-16",
+      "titre": "l'amendement n° 1085 de M. Le Coq après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 2,
+      "abstentions": 0
+    },
+    {
+      "numero": "8847",
+      "date": "2026-10-16",
+      "titre": "l'amendement n° 55 de Mme Sas après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 3,
+      "abstentions": 0
+    },
+    {
+      "numero": "8846",
+      "date": "2026-10-16",
+      "titre": "l'amendement n° 809 de M. Lahais après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 3,
+      "abstentions": 0
+    },
+    {
+      "numero": "8845",
+      "date": "2026-10-16",
+      "titre": "l'amendement n° 3930 de M. Sansu après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 3,
+      "abstentions": 0
+    },
+    {
+      "numero": "8844",
+      "date": "2026-10-16",
+      "titre": "l'amendement n° 1086 de Mme Maximi après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 3,
+      "abstentions": 0
+    },
+    {
+      "numero": "8843",
+      "date": "2026-10-16",
+      "titre": "l'amendement n° 3929 de M. Sansu après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 3,
+      "abstentions": 0
+    },
+    {
+      "numero": "8842",
+      "date": "2026-10-16",
+      "titre": "l'amendement n° 465 de Mme Mercier après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "abstention",
+      "pour": 0,
+      "contre": 1,
+      "abstentions": 2
+    },
+    {
+      "numero": "8841",
+      "date": "2026-10-16",
+      "titre": "l'amendement n° 472 de Mme Pirès Beaune après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "abstention",
+      "pour": 0,
+      "contre": 1,
+      "abstentions": 2
+    },
+    {
+      "numero": "8840",
+      "date": "2026-10-16",
+      "titre": "l'amendement n° 3933 de M. Sansu après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 3,
+      "abstentions": 0
+    },
+    {
+      "numero": "8839",
+      "date": "2026-10-16",
+      "titre": "l'amendement n° 260 de M. Arnaud Bonnet après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 2,
+      "abstentions": 0
+    },
+    {
+      "numero": "8838",
+      "date": "2026-10-16",
+      "titre": "l'amendement n° 3469 de Mme Trouvé après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 0,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "8837",
+      "date": "2026-10-16",
+      "titre": "l'amendement n° 3653 de M. Attal après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 0,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "8836",
+      "date": "2026-10-16",
+      "titre": "l'amendement n° 3898 de M. Sansu après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 0,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "8835",
+      "date": "2026-10-16",
+      "titre": "l'amendement n° 1460 de M. Echaniz après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 0,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "8834",
+      "date": "2026-10-16",
+      "titre": "l'amendement n° 300 de Mme Lejeune après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 0,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "8833",
+      "date": "2026-10-16",
+      "titre": "l'amendement n° 113 de M. Falcon après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 0,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "8832",
+      "date": "2026-10-16",
+      "titre": "l'amendement n° 3443 de M. Piquemal après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 4,
+      "abstentions": 0
+    },
+    {
+      "numero": "8831",
+      "date": "2026-10-16",
+      "titre": "l'amendement n° 1665 de M. Dufau et l'amendement identique suivant après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 4,
+      "abstentions": 0
+    },
+    {
+      "numero": "8830",
+      "date": "2026-10-16",
+      "titre": "l'amendement n° 2565 de M. Le Coq après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 3,
+      "abstentions": 0
+    },
+    {
+      "numero": "8829",
+      "date": "2026-10-16",
+      "titre": "l'amendement n° 2925 de Mme Mercier après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 1,
+      "abstentions": 0
+    },
+    {
+      "numero": "8828",
+      "date": "2026-10-16",
+      "titre": "l'amendement n° 53 de Mme Sas après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 1,
+      "abstentions": 0
+    },
+    {
+      "numero": "8827",
+      "date": "2026-10-16",
+      "titre": "l'amendement n° 3914 de M. Sansu après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 4,
+      "abstentions": 0
+    },
+    {
+      "numero": "8826",
+      "date": "2026-10-16",
+      "titre": "l'amendement n° 1088 de M. Coquerel après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 4,
+      "abstentions": 0
+    },
+    {
+      "numero": "8825",
+      "date": "2026-10-16",
+      "titre": "l'amendement n° 469 de Mme Mercier après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 4,
+      "abstentions": 0
+    },
+    {
       "numero": "8824",
       "date": "2026-10-16",
       "titre": "l'amendement n° 1084 de Mme Feld après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
@@ -36671,7 +39571,7 @@
     {
       "numero": "8822",
       "date": "2026-10-16",
-      "titre": "l'amendement n°3932 de M. Sansu après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
+      "titre": "l'amendement n° 3932 de M. Sansu après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
       "resultat": "rejeté",
       "position": "contre",
       "pour": 0,
@@ -36691,7 +39591,7 @@
     {
       "numero": "8820",
       "date": "2026-10-16",
-      "titre": "l'amendement n°3533 (rect.) de Mme Trouvé après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
+      "titre": "l'amendement n° 3533 (rect.) de Mme Trouvé après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
       "resultat": "rejeté",
       "position": "contre",
       "pour": 0,
@@ -36701,7 +39601,7 @@
     {
       "numero": "8819",
       "date": "2026-10-16",
-      "titre": "l'amendement n°3652 de M. Attal et l'amendement identique suivant après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
+      "titre": "l'amendement n° 3652 de M. Attal et l'amendement identique suivant après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
       "resultat": "adopté",
       "position": "pour",
       "pour": 2,
@@ -40721,6 +43621,296 @@
   ],
   "PO845514": [
     {
+      "numero": "8853",
+      "date": "2026-10-16",
+      "titre": "l'amendement n° 2276 de M. Jolivet après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "adopté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 1,
+      "abstentions": 0
+    },
+    {
+      "numero": "8852",
+      "date": "2026-10-16",
+      "titre": "l'amendement n° 3655 de M. Attal après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 2,
+      "abstentions": 0
+    },
+    {
+      "numero": "8851",
+      "date": "2026-10-16",
+      "titre": "l'amendement n° 3656 de M. Attal après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 2,
+      "abstentions": 0
+    },
+    {
+      "numero": "8850",
+      "date": "2026-10-16",
+      "titre": "l'amendement n° 816 de M. Lahais et l'amendement identique suivant après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 2,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "8849",
+      "date": "2026-10-16",
+      "titre": "l'amendement n° 3968 de M. Wauquiez après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 2,
+      "abstentions": 0
+    },
+    {
+      "numero": "8848",
+      "date": "2026-10-16",
+      "titre": "l'amendement n° 1085 de M. Le Coq après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 1,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "8847",
+      "date": "2026-10-16",
+      "titre": "l'amendement n° 55 de Mme Sas après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 2,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "8846",
+      "date": "2026-10-16",
+      "titre": "l'amendement n° 809 de M. Lahais après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 2,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "8845",
+      "date": "2026-10-16",
+      "titre": "l'amendement n° 3930 de M. Sansu après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 2,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "8844",
+      "date": "2026-10-16",
+      "titre": "l'amendement n° 1086 de Mme Maximi après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 2,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "8843",
+      "date": "2026-10-16",
+      "titre": "l'amendement n° 3929 de M. Sansu après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 2,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "8842",
+      "date": "2026-10-16",
+      "titre": "l'amendement n° 465 de Mme Mercier après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 2,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "8841",
+      "date": "2026-10-16",
+      "titre": "l'amendement n° 472 de Mme Pirès Beaune après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 2,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "8840",
+      "date": "2026-10-16",
+      "titre": "l'amendement n° 3933 de M. Sansu après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 2,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "8839",
+      "date": "2026-10-16",
+      "titre": "l'amendement n° 260 de M. Arnaud Bonnet après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 2,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "8838",
+      "date": "2026-10-16",
+      "titre": "l'amendement n° 3469 de Mme Trouvé après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 2,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "8837",
+      "date": "2026-10-16",
+      "titre": "l'amendement n° 3653 de M. Attal après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 3,
+      "abstentions": 0
+    },
+    {
+      "numero": "8836",
+      "date": "2026-10-16",
+      "titre": "l'amendement n° 3898 de M. Sansu après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 3,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "8835",
+      "date": "2026-10-16",
+      "titre": "l'amendement n° 1460 de M. Echaniz après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 1,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "8834",
+      "date": "2026-10-16",
+      "titre": "l'amendement n° 300 de Mme Lejeune après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 1,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "8833",
+      "date": "2026-10-16",
+      "titre": "l'amendement n° 113 de M. Falcon après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 1,
+      "abstentions": 0
+    },
+    {
+      "numero": "8832",
+      "date": "2026-10-16",
+      "titre": "l'amendement n° 3443 de M. Piquemal après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 0,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "8831",
+      "date": "2026-10-16",
+      "titre": "l'amendement n° 1665 de M. Dufau et l'amendement identique suivant après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 1,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "8830",
+      "date": "2026-10-16",
+      "titre": "l'amendement n° 2565 de M. Le Coq après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 1,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "8829",
+      "date": "2026-10-16",
+      "titre": "l'amendement n° 2925 de Mme Mercier après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 1,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "8828",
+      "date": "2026-10-16",
+      "titre": "l'amendement n° 53 de Mme Sas après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 1,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "8827",
+      "date": "2026-10-16",
+      "titre": "l'amendement n° 3914 de M. Sansu après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 2,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "8826",
+      "date": "2026-10-16",
+      "titre": "l'amendement n° 1088 de M. Coquerel après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 2,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "8825",
+      "date": "2026-10-16",
+      "titre": "l'amendement n° 469 de Mme Mercier après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 2,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
       "numero": "8824",
       "date": "2026-10-16",
       "titre": "l'amendement n° 1084 de Mme Feld après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
@@ -40743,7 +43933,7 @@
     {
       "numero": "8822",
       "date": "2026-10-16",
-      "titre": "l'amendement n°3932 de M. Sansu après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
+      "titre": "l'amendement n° 3932 de M. Sansu après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
       "resultat": "rejeté",
       "position": "pour",
       "pour": 2,
@@ -40763,7 +43953,7 @@
     {
       "numero": "8820",
       "date": "2026-10-16",
-      "titre": "l'amendement n°3533 (rect.) de Mme Trouvé après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
+      "titre": "l'amendement n° 3533 (rect.) de Mme Trouvé après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
       "resultat": "rejeté",
       "position": "pour",
       "pour": 2,
@@ -40773,7 +43963,7 @@
     {
       "numero": "8819",
       "date": "2026-10-16",
-      "titre": "l'amendement n°3652 de M. Attal et l'amendement identique suivant après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
+      "titre": "l'amendement n° 3652 de M. Attal et l'amendement identique suivant après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
       "resultat": "adopté",
       "position": "contre",
       "pour": 0,
@@ -44793,6 +47983,296 @@
   ],
   "PO840056": [
     {
+      "numero": "8853",
+      "date": "2026-10-16",
+      "titre": "l'amendement n° 2276 de M. Jolivet après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 1,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "8852",
+      "date": "2026-10-16",
+      "titre": "l'amendement n° 3655 de M. Attal après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "abstention",
+      "pour": 0,
+      "contre": 0,
+      "abstentions": 1
+    },
+    {
+      "numero": "8851",
+      "date": "2026-10-16",
+      "titre": "l'amendement n° 3656 de M. Attal après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 1,
+      "abstentions": 0
+    },
+    {
+      "numero": "8850",
+      "date": "2026-10-16",
+      "titre": "l'amendement n° 816 de M. Lahais et l'amendement identique suivant après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 1,
+      "abstentions": 0
+    },
+    {
+      "numero": "8849",
+      "date": "2026-10-16",
+      "titre": "l'amendement n° 3968 de M. Wauquiez après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 0,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "8848",
+      "date": "2026-10-16",
+      "titre": "l'amendement n° 1085 de M. Le Coq après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 1,
+      "abstentions": 0
+    },
+    {
+      "numero": "8847",
+      "date": "2026-10-16",
+      "titre": "l'amendement n° 55 de Mme Sas après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 1,
+      "abstentions": 0
+    },
+    {
+      "numero": "8846",
+      "date": "2026-10-16",
+      "titre": "l'amendement n° 809 de M. Lahais après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 1,
+      "abstentions": 0
+    },
+    {
+      "numero": "8845",
+      "date": "2026-10-16",
+      "titre": "l'amendement n° 3930 de M. Sansu après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 1,
+      "abstentions": 0
+    },
+    {
+      "numero": "8844",
+      "date": "2026-10-16",
+      "titre": "l'amendement n° 1086 de Mme Maximi après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 1,
+      "abstentions": 0
+    },
+    {
+      "numero": "8843",
+      "date": "2026-10-16",
+      "titre": "l'amendement n° 3929 de M. Sansu après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 0,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "8842",
+      "date": "2026-10-16",
+      "titre": "l'amendement n° 465 de Mme Mercier après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 1,
+      "abstentions": 0
+    },
+    {
+      "numero": "8841",
+      "date": "2026-10-16",
+      "titre": "l'amendement n° 472 de Mme Pirès Beaune après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 1,
+      "abstentions": 0
+    },
+    {
+      "numero": "8840",
+      "date": "2026-10-16",
+      "titre": "l'amendement n° 3933 de M. Sansu après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 1,
+      "abstentions": 0
+    },
+    {
+      "numero": "8839",
+      "date": "2026-10-16",
+      "titre": "l'amendement n° 260 de M. Arnaud Bonnet après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 1,
+      "abstentions": 0
+    },
+    {
+      "numero": "8838",
+      "date": "2026-10-16",
+      "titre": "l'amendement n° 3469 de Mme Trouvé après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 1,
+      "abstentions": 0
+    },
+    {
+      "numero": "8837",
+      "date": "2026-10-16",
+      "titre": "l'amendement n° 3653 de M. Attal après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 1,
+      "abstentions": 0
+    },
+    {
+      "numero": "8836",
+      "date": "2026-10-16",
+      "titre": "l'amendement n° 3898 de M. Sansu après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "adopté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 1,
+      "abstentions": 0
+    },
+    {
+      "numero": "8835",
+      "date": "2026-10-16",
+      "titre": "l'amendement n° 1460 de M. Echaniz après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 1,
+      "abstentions": 0
+    },
+    {
+      "numero": "8834",
+      "date": "2026-10-16",
+      "titre": "l'amendement n° 300 de Mme Lejeune après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 1,
+      "abstentions": 0
+    },
+    {
+      "numero": "8833",
+      "date": "2026-10-16",
+      "titre": "l'amendement n° 113 de M. Falcon après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 1,
+      "abstentions": 0
+    },
+    {
+      "numero": "8832",
+      "date": "2026-10-16",
+      "titre": "l'amendement n° 3443 de M. Piquemal après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 1,
+      "contre": 0,
+      "abstentions": 1
+    },
+    {
+      "numero": "8831",
+      "date": "2026-10-16",
+      "titre": "l'amendement n° 1665 de M. Dufau et l'amendement identique suivant après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "abstention",
+      "pour": 0,
+      "contre": 0,
+      "abstentions": 1
+    },
+    {
+      "numero": "8830",
+      "date": "2026-10-16",
+      "titre": "l'amendement n° 2565 de M. Le Coq après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 1,
+      "abstentions": 0
+    },
+    {
+      "numero": "8829",
+      "date": "2026-10-16",
+      "titre": "l'amendement n° 2925 de Mme Mercier après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 1,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "8828",
+      "date": "2026-10-16",
+      "titre": "l'amendement n° 53 de Mme Sas après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 1,
+      "abstentions": 0
+    },
+    {
+      "numero": "8827",
+      "date": "2026-10-16",
+      "titre": "l'amendement n° 3914 de M. Sansu après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 1,
+      "abstentions": 0
+    },
+    {
+      "numero": "8826",
+      "date": "2026-10-16",
+      "titre": "l'amendement n° 1088 de M. Coquerel après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 1,
+      "abstentions": 0
+    },
+    {
+      "numero": "8825",
+      "date": "2026-10-16",
+      "titre": "l'amendement n° 469 de Mme Mercier après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 1,
+      "abstentions": 0
+    },
+    {
       "numero": "8824",
       "date": "2026-10-16",
       "titre": "l'amendement n° 1084 de Mme Feld après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
@@ -44815,7 +48295,7 @@
     {
       "numero": "8822",
       "date": "2026-10-16",
-      "titre": "l'amendement n°3932 de M. Sansu après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
+      "titre": "l'amendement n° 3932 de M. Sansu après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
       "resultat": "rejeté",
       "position": "contre",
       "pour": 0,
@@ -44835,7 +48315,7 @@
     {
       "numero": "8820",
       "date": "2026-10-16",
-      "titre": "l'amendement n°3533 (rect.) de Mme Trouvé après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
+      "titre": "l'amendement n° 3533 (rect.) de Mme Trouvé après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
       "resultat": "rejeté",
       "position": "contre",
       "pour": 0,
@@ -44845,7 +48325,7 @@
     {
       "numero": "8819",
       "date": "2026-10-16",
-      "titre": "l'amendement n°3652 de M. Attal et l'amendement identique suivant après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
+      "titre": "l'amendement n° 3652 de M. Attal et l'amendement identique suivant après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
       "resultat": "adopté",
       "position": "pour",
       "pour": 0,
