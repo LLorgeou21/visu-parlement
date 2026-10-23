@@ -1,6 +1,136 @@
 {
   "PO845401": [
     {
+      "numero": "9097",
+      "date": "2026-10-23",
+      "titre": "la deuxième partie du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 60,
+      "abstentions": 0
+    },
+    {
+      "numero": "9096",
+      "date": "2026-10-23",
+      "titre": "l'amendement n° 105 de Mme Runel et les amendements identiques suivants de suppression de l'article 19 et annexe du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 57,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "9095",
+      "date": "2026-10-23",
+      "titre": "l'amendement n° 2787 de Mme Mélin après l'article 18 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 57,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "9094",
+      "date": "2026-10-23",
+      "titre": "l'amendement n° 1474 de Mme Hamdane après l'article 18 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 57,
+      "abstentions": 0
+    },
+    {
+      "numero": "9093",
+      "date": "2026-10-23",
+      "titre": "l'article 18 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "abstention",
+      "pour": 0,
+      "contre": 0,
+      "abstentions": 57
+    },
+    {
+      "numero": "9092",
+      "date": "2026-10-23",
+      "titre": "l'amendement n° 1644 de Mme Hamdane et l'amendements identique suivant à l'article 18 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "abstention",
+      "pour": 0,
+      "contre": 0,
+      "abstentions": 57
+    },
+    {
+      "numero": "9091",
+      "date": "2026-10-23",
+      "titre": "l'amendement n° 1471 de Mme Hamdane et l'amendement identique suivant après l'article 17 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 49,
+      "abstentions": 0
+    },
+    {
+      "numero": "9090",
+      "date": "2026-10-23",
+      "titre": "l'amendement n° 661 de M. Bénard et les amendements identiques suivants de suppression de l'article 17 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
+      "resultat": "adopté",
+      "position": "abstention",
+      "pour": 0,
+      "contre": 0,
+      "abstentions": 49
+    },
+    {
+      "numero": "9089",
+      "date": "2026-10-23",
+      "titre": "l'amendement n° 104 de Mme Runel et les amendements identiques suivants de suppression de l'article 16 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 55,
+      "contre": 2,
+      "abstentions": 0
+    },
+    {
+      "numero": "9088",
+      "date": "2026-10-23",
+      "titre": "l'amendement n° 1461 de Mme Erodi après l'article 15 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 59,
+      "abstentions": 0
+    },
+    {
+      "numero": "9087",
+      "date": "2026-10-23",
+      "titre": "l'amendement n° 3081 de M. Bazin après l'article 15 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "abstention",
+      "pour": 0,
+      "contre": 1,
+      "abstentions": 58
+    },
+    {
+      "numero": "9086",
+      "date": "2026-10-23",
+      "titre": "l'amendement n° 508 de Mme Corneloup et les amendements identiques suivants après l'article 15 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "abstention",
+      "pour": 0,
+      "contre": 0,
+      "abstentions": 59
+    },
+    {
+      "numero": "9085",
+      "date": "2026-10-23",
+      "titre": "l'amendement n° 869 de Mme Ranc après l'article 15 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 55,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
       "numero": "9084",
       "date": "2026-10-23",
       "titre": "l'article 15 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
@@ -6502,6 +6632,136 @@
     }
   ],
   "PO845407": [
+    {
+      "numero": "9097",
+      "date": "2026-10-23",
+      "titre": "la deuxième partie du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "abstention",
+      "pour": 0,
+      "contre": 2,
+      "abstentions": 4
+    },
+    {
+      "numero": "9096",
+      "date": "2026-10-23",
+      "titre": "l'amendement n° 105 de Mme Runel et les amendements identiques suivants de suppression de l'article 19 et annexe du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
+      "resultat": "adopté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 5,
+      "abstentions": 0
+    },
+    {
+      "numero": "9095",
+      "date": "2026-10-23",
+      "titre": "l'amendement n° 2787 de Mme Mélin après l'article 18 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
+      "resultat": "adopté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 5,
+      "abstentions": 0
+    },
+    {
+      "numero": "9094",
+      "date": "2026-10-23",
+      "titre": "l'amendement n° 1474 de Mme Hamdane après l'article 18 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 5,
+      "abstentions": 0
+    },
+    {
+      "numero": "9093",
+      "date": "2026-10-23",
+      "titre": "l'article 18 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 5,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "9092",
+      "date": "2026-10-23",
+      "titre": "l'amendement n° 1644 de Mme Hamdane et l'amendements identique suivant à l'article 18 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 5,
+      "abstentions": 0
+    },
+    {
+      "numero": "9091",
+      "date": "2026-10-23",
+      "titre": "l'amendement n° 1471 de Mme Hamdane et l'amendement identique suivant après l'article 17 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 5,
+      "abstentions": 0
+    },
+    {
+      "numero": "9090",
+      "date": "2026-10-23",
+      "titre": "l'amendement n° 661 de M. Bénard et les amendements identiques suivants de suppression de l'article 17 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
+      "resultat": "adopté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 5,
+      "abstentions": 0
+    },
+    {
+      "numero": "9089",
+      "date": "2026-10-23",
+      "titre": "l'amendement n° 104 de Mme Runel et les amendements identiques suivants de suppression de l'article 16 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
+      "resultat": "adopté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 5,
+      "abstentions": 0
+    },
+    {
+      "numero": "9088",
+      "date": "2026-10-23",
+      "titre": "l'amendement n° 1461 de Mme Erodi après l'article 15 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 5,
+      "abstentions": 0
+    },
+    {
+      "numero": "9087",
+      "date": "2026-10-23",
+      "titre": "l'amendement n° 3081 de M. Bazin après l'article 15 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 5,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "9086",
+      "date": "2026-10-23",
+      "titre": "l'amendement n° 508 de Mme Corneloup et les amendements identiques suivants après l'article 15 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 4,
+      "contre": 1,
+      "abstentions": 0
+    },
+    {
+      "numero": "9085",
+      "date": "2026-10-23",
+      "titre": "l'amendement n° 869 de Mme Ranc après l'article 15 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
+      "resultat": "adopté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 5,
+      "abstentions": 0
+    },
     {
       "numero": "9084",
       "date": "2026-10-23",
@@ -13005,6 +13265,136 @@
   ],
   "PO845413": [
     {
+      "numero": "9097",
+      "date": "2026-10-23",
+      "titre": "la deuxième partie du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 21,
+      "abstentions": 0
+    },
+    {
+      "numero": "9096",
+      "date": "2026-10-23",
+      "titre": "l'amendement n° 105 de Mme Runel et les amendements identiques suivants de suppression de l'article 19 et annexe du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 14,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "9095",
+      "date": "2026-10-23",
+      "titre": "l'amendement n° 2787 de Mme Mélin après l'article 18 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
+      "resultat": "adopté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 14,
+      "abstentions": 0
+    },
+    {
+      "numero": "9094",
+      "date": "2026-10-23",
+      "titre": "l'amendement n° 1474 de Mme Hamdane après l'article 18 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 14,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "9093",
+      "date": "2026-10-23",
+      "titre": "l'article 18 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 14,
+      "abstentions": 0
+    },
+    {
+      "numero": "9092",
+      "date": "2026-10-23",
+      "titre": "l'amendement n° 1644 de Mme Hamdane et l'amendements identique suivant à l'article 18 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 14,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "9091",
+      "date": "2026-10-23",
+      "titre": "l'amendement n° 1471 de Mme Hamdane et l'amendement identique suivant après l'article 17 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 11,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "9090",
+      "date": "2026-10-23",
+      "titre": "l'amendement n° 661 de M. Bénard et les amendements identiques suivants de suppression de l'article 17 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 10,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "9089",
+      "date": "2026-10-23",
+      "titre": "l'amendement n° 104 de Mme Runel et les amendements identiques suivants de suppression de l'article 16 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 11,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "9088",
+      "date": "2026-10-23",
+      "titre": "l'amendement n° 1461 de Mme Erodi après l'article 15 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 11,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "9087",
+      "date": "2026-10-23",
+      "titre": "l'amendement n° 3081 de M. Bazin après l'article 15 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 12,
+      "abstentions": 0
+    },
+    {
+      "numero": "9086",
+      "date": "2026-10-23",
+      "titre": "l'amendement n° 508 de Mme Corneloup et les amendements identiques suivants après l'article 15 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 13,
+      "abstentions": 0
+    },
+    {
+      "numero": "9085",
+      "date": "2026-10-23",
+      "titre": "l'amendement n° 869 de Mme Ranc après l'article 15 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
+      "resultat": "adopté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 11,
+      "abstentions": 0
+    },
+    {
       "numero": "9084",
       "date": "2026-10-23",
       "titre": "l'article 15 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
@@ -19506,6 +19896,136 @@
     }
   ],
   "PO845419": [
+    {
+      "numero": "9097",
+      "date": "2026-10-23",
+      "titre": "la deuxième partie du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 8,
+      "abstentions": 0
+    },
+    {
+      "numero": "9096",
+      "date": "2026-10-23",
+      "titre": "l'amendement n° 105 de Mme Runel et les amendements identiques suivants de suppression de l'article 19 et annexe du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 7,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "9095",
+      "date": "2026-10-23",
+      "titre": "l'amendement n° 2787 de Mme Mélin après l'article 18 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
+      "resultat": "adopté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 7,
+      "abstentions": 0
+    },
+    {
+      "numero": "9094",
+      "date": "2026-10-23",
+      "titre": "l'amendement n° 1474 de Mme Hamdane après l'article 18 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "abstention",
+      "pour": 0,
+      "contre": 0,
+      "abstentions": 2
+    },
+    {
+      "numero": "9093",
+      "date": "2026-10-23",
+      "titre": "l'article 18 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "abstention",
+      "pour": 0,
+      "contre": 0,
+      "abstentions": 7
+    },
+    {
+      "numero": "9092",
+      "date": "2026-10-23",
+      "titre": "l'amendement n° 1644 de Mme Hamdane et l'amendements identique suivant à l'article 18 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "abstention",
+      "pour": 0,
+      "contre": 0,
+      "abstentions": 7
+    },
+    {
+      "numero": "9091",
+      "date": "2026-10-23",
+      "titre": "l'amendement n° 1471 de Mme Hamdane et l'amendement identique suivant après l'article 17 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 2,
+      "contre": 5,
+      "abstentions": 0
+    },
+    {
+      "numero": "9090",
+      "date": "2026-10-23",
+      "titre": "l'amendement n° 661 de M. Bénard et les amendements identiques suivants de suppression de l'article 17 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
+      "resultat": "adopté",
+      "position": "abstention",
+      "pour": 0,
+      "contre": 2,
+      "abstentions": 5
+    },
+    {
+      "numero": "9089",
+      "date": "2026-10-23",
+      "titre": "l'amendement n° 104 de Mme Runel et les amendements identiques suivants de suppression de l'article 16 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 7,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "9088",
+      "date": "2026-10-23",
+      "titre": "l'amendement n° 1461 de Mme Erodi après l'article 15 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 7,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "9087",
+      "date": "2026-10-23",
+      "titre": "l'amendement n° 3081 de M. Bazin après l'article 15 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 7,
+      "abstentions": 0
+    },
+    {
+      "numero": "9086",
+      "date": "2026-10-23",
+      "titre": "l'amendement n° 508 de Mme Corneloup et les amendements identiques suivants après l'article 15 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "abstention",
+      "pour": 0,
+      "contre": 0,
+      "abstentions": 5
+    },
+    {
+      "numero": "9085",
+      "date": "2026-10-23",
+      "titre": "l'amendement n° 869 de Mme Ranc après l'article 15 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
+      "resultat": "adopté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 7,
+      "abstentions": 0
+    },
     {
       "numero": "9084",
       "date": "2026-10-23",
@@ -26009,6 +26529,136 @@
   ],
   "PO845425": [
     {
+      "numero": "9097",
+      "date": "2026-10-23",
+      "titre": "la deuxième partie du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 8,
+      "abstentions": 1
+    },
+    {
+      "numero": "9096",
+      "date": "2026-10-23",
+      "titre": "l'amendement n° 105 de Mme Runel et les amendements identiques suivants de suppression de l'article 19 et annexe du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
+      "resultat": "adopté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 4,
+      "abstentions": 0
+    },
+    {
+      "numero": "9095",
+      "date": "2026-10-23",
+      "titre": "l'amendement n° 2787 de Mme Mélin après l'article 18 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
+      "resultat": "adopté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 4,
+      "abstentions": 0
+    },
+    {
+      "numero": "9094",
+      "date": "2026-10-23",
+      "titre": "l'amendement n° 1474 de Mme Hamdane après l'article 18 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 4,
+      "abstentions": 0
+    },
+    {
+      "numero": "9093",
+      "date": "2026-10-23",
+      "titre": "l'article 18 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 4,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "9092",
+      "date": "2026-10-23",
+      "titre": "l'amendement n° 1644 de Mme Hamdane et l'amendements identique suivant à l'article 18 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 4,
+      "abstentions": 0
+    },
+    {
+      "numero": "9091",
+      "date": "2026-10-23",
+      "titre": "l'amendement n° 1471 de Mme Hamdane et l'amendement identique suivant après l'article 17 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 3,
+      "abstentions": 1
+    },
+    {
+      "numero": "9090",
+      "date": "2026-10-23",
+      "titre": "l'amendement n° 661 de M. Bénard et les amendements identiques suivants de suppression de l'article 17 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
+      "resultat": "adopté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 4,
+      "abstentions": 0
+    },
+    {
+      "numero": "9089",
+      "date": "2026-10-23",
+      "titre": "l'amendement n° 104 de Mme Runel et les amendements identiques suivants de suppression de l'article 16 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
+      "resultat": "adopté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 5,
+      "abstentions": 0
+    },
+    {
+      "numero": "9088",
+      "date": "2026-10-23",
+      "titre": "l'amendement n° 1461 de Mme Erodi après l'article 15 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 4,
+      "abstentions": 0
+    },
+    {
+      "numero": "9087",
+      "date": "2026-10-23",
+      "titre": "l'amendement n° 3081 de M. Bazin après l'article 15 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 5,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "9086",
+      "date": "2026-10-23",
+      "titre": "l'amendement n° 508 de Mme Corneloup et les amendements identiques suivants après l'article 15 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 4,
+      "contre": 0,
+      "abstentions": 1
+    },
+    {
+      "numero": "9085",
+      "date": "2026-10-23",
+      "titre": "l'amendement n° 869 de Mme Ranc après l'article 15 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
+      "resultat": "adopté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 5,
+      "abstentions": 0
+    },
+    {
       "numero": "9084",
       "date": "2026-10-23",
       "titre": "l'article 15 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
@@ -32510,6 +33160,136 @@
     }
   ],
   "PO845439": [
+    {
+      "numero": "9097",
+      "date": "2026-10-23",
+      "titre": "la deuxième partie du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 10,
+      "abstentions": 0
+    },
+    {
+      "numero": "9096",
+      "date": "2026-10-23",
+      "titre": "l'amendement n° 105 de Mme Runel et les amendements identiques suivants de suppression de l'article 19 et annexe du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 8,
+      "contre": 0,
+      "abstentions": 1
+    },
+    {
+      "numero": "9095",
+      "date": "2026-10-23",
+      "titre": "l'amendement n° 2787 de Mme Mélin après l'article 18 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
+      "resultat": "adopté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 7,
+      "abstentions": 0
+    },
+    {
+      "numero": "9094",
+      "date": "2026-10-23",
+      "titre": "l'amendement n° 1474 de Mme Hamdane après l'article 18 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 7,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "9093",
+      "date": "2026-10-23",
+      "titre": "l'article 18 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 7,
+      "abstentions": 0
+    },
+    {
+      "numero": "9092",
+      "date": "2026-10-23",
+      "titre": "l'amendement n° 1644 de Mme Hamdane et l'amendements identique suivant à l'article 18 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 6,
+      "contre": 0,
+      "abstentions": 1
+    },
+    {
+      "numero": "9091",
+      "date": "2026-10-23",
+      "titre": "l'amendement n° 1471 de Mme Hamdane et l'amendement identique suivant après l'article 17 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 6,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "9090",
+      "date": "2026-10-23",
+      "titre": "l'amendement n° 661 de M. Bénard et les amendements identiques suivants de suppression de l'article 17 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 5,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "9089",
+      "date": "2026-10-23",
+      "titre": "l'amendement n° 104 de Mme Runel et les amendements identiques suivants de suppression de l'article 16 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 6,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "9088",
+      "date": "2026-10-23",
+      "titre": "l'amendement n° 1461 de Mme Erodi après l'article 15 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 5,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "9087",
+      "date": "2026-10-23",
+      "titre": "l'amendement n° 3081 de M. Bazin après l'article 15 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 5,
+      "abstentions": 0
+    },
+    {
+      "numero": "9086",
+      "date": "2026-10-23",
+      "titre": "l'amendement n° 508 de Mme Corneloup et les amendements identiques suivants après l'article 15 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 5,
+      "abstentions": 0
+    },
+    {
+      "numero": "9085",
+      "date": "2026-10-23",
+      "titre": "l'amendement n° 869 de Mme Ranc après l'article 15 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
+      "resultat": "adopté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 5,
+      "abstentions": 0
+    },
     {
       "numero": "9084",
       "date": "2026-10-23",
@@ -39013,6 +39793,136 @@
   ],
   "PO845454": [
     {
+      "numero": "9097",
+      "date": "2026-10-23",
+      "titre": "la deuxième partie du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "abstention",
+      "pour": 1,
+      "contre": 0,
+      "abstentions": 12
+    },
+    {
+      "numero": "9096",
+      "date": "2026-10-23",
+      "titre": "l'amendement n° 105 de Mme Runel et les amendements identiques suivants de suppression de l'article 19 et annexe du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
+      "resultat": "adopté",
+      "position": "contre",
+      "pour": 1,
+      "contre": 9,
+      "abstentions": 0
+    },
+    {
+      "numero": "9095",
+      "date": "2026-10-23",
+      "titre": "l'amendement n° 2787 de Mme Mélin après l'article 18 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
+      "resultat": "adopté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 9,
+      "abstentions": 0
+    },
+    {
+      "numero": "9094",
+      "date": "2026-10-23",
+      "titre": "l'amendement n° 1474 de Mme Hamdane après l'article 18 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 6,
+      "abstentions": 0
+    },
+    {
+      "numero": "9093",
+      "date": "2026-10-23",
+      "titre": "l'article 18 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 9,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "9092",
+      "date": "2026-10-23",
+      "titre": "l'amendement n° 1644 de Mme Hamdane et l'amendements identique suivant à l'article 18 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 9,
+      "abstentions": 0
+    },
+    {
+      "numero": "9091",
+      "date": "2026-10-23",
+      "titre": "l'amendement n° 1471 de Mme Hamdane et l'amendement identique suivant après l'article 17 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 7,
+      "abstentions": 0
+    },
+    {
+      "numero": "9090",
+      "date": "2026-10-23",
+      "titre": "l'amendement n° 661 de M. Bénard et les amendements identiques suivants de suppression de l'article 17 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 0,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "9089",
+      "date": "2026-10-23",
+      "titre": "l'amendement n° 104 de Mme Runel et les amendements identiques suivants de suppression de l'article 16 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
+      "resultat": "adopté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 8,
+      "abstentions": 0
+    },
+    {
+      "numero": "9088",
+      "date": "2026-10-23",
+      "titre": "l'amendement n° 1461 de Mme Erodi après l'article 15 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 6,
+      "abstentions": 0
+    },
+    {
+      "numero": "9087",
+      "date": "2026-10-23",
+      "titre": "l'amendement n° 3081 de M. Bazin après l'article 15 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 1,
+      "contre": 4,
+      "abstentions": 0
+    },
+    {
+      "numero": "9086",
+      "date": "2026-10-23",
+      "titre": "l'amendement n° 508 de Mme Corneloup et les amendements identiques suivants après l'article 15 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 1,
+      "contre": 6,
+      "abstentions": 0
+    },
+    {
+      "numero": "9085",
+      "date": "2026-10-23",
+      "titre": "l'amendement n° 869 de Mme Ranc après l'article 15 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
+      "resultat": "adopté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 7,
+      "abstentions": 0
+    },
+    {
       "numero": "9084",
       "date": "2026-10-23",
       "titre": "l'article 15 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
@@ -45514,6 +46424,136 @@
     }
   ],
   "PO845470": [
+    {
+      "numero": "9097",
+      "date": "2026-10-23",
+      "titre": "la deuxième partie du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "abstention",
+      "pour": 0,
+      "contre": 0,
+      "abstentions": 5
+    },
+    {
+      "numero": "9096",
+      "date": "2026-10-23",
+      "titre": "l'amendement n° 105 de Mme Runel et les amendements identiques suivants de suppression de l'article 19 et annexe du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
+      "resultat": "adopté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 4,
+      "abstentions": 0
+    },
+    {
+      "numero": "9095",
+      "date": "2026-10-23",
+      "titre": "l'amendement n° 2787 de Mme Mélin après l'article 18 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
+      "resultat": "adopté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 4,
+      "abstentions": 0
+    },
+    {
+      "numero": "9094",
+      "date": "2026-10-23",
+      "titre": "l'amendement n° 1474 de Mme Hamdane après l'article 18 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 4,
+      "abstentions": 0
+    },
+    {
+      "numero": "9093",
+      "date": "2026-10-23",
+      "titre": "l'article 18 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 4,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "9092",
+      "date": "2026-10-23",
+      "titre": "l'amendement n° 1644 de Mme Hamdane et l'amendements identique suivant à l'article 18 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 4,
+      "abstentions": 0
+    },
+    {
+      "numero": "9091",
+      "date": "2026-10-23",
+      "titre": "l'amendement n° 1471 de Mme Hamdane et l'amendement identique suivant après l'article 17 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 4,
+      "abstentions": 0
+    },
+    {
+      "numero": "9090",
+      "date": "2026-10-23",
+      "titre": "l'amendement n° 661 de M. Bénard et les amendements identiques suivants de suppression de l'article 17 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
+      "resultat": "adopté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 3,
+      "abstentions": 0
+    },
+    {
+      "numero": "9089",
+      "date": "2026-10-23",
+      "titre": "l'amendement n° 104 de Mme Runel et les amendements identiques suivants de suppression de l'article 16 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
+      "resultat": "adopté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 3,
+      "abstentions": 0
+    },
+    {
+      "numero": "9088",
+      "date": "2026-10-23",
+      "titre": "l'amendement n° 1461 de Mme Erodi après l'article 15 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 3,
+      "abstentions": 0
+    },
+    {
+      "numero": "9087",
+      "date": "2026-10-23",
+      "titre": "l'amendement n° 3081 de M. Bazin après l'article 15 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 2,
+      "contre": 0,
+      "abstentions": 1
+    },
+    {
+      "numero": "9086",
+      "date": "2026-10-23",
+      "titre": "l'amendement n° 508 de Mme Corneloup et les amendements identiques suivants après l'article 15 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 3,
+      "abstentions": 0
+    },
+    {
+      "numero": "9085",
+      "date": "2026-10-23",
+      "titre": "l'amendement n° 869 de Mme Ranc après l'article 15 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
+      "resultat": "adopté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 2,
+      "abstentions": 0
+    },
     {
       "numero": "9084",
       "date": "2026-10-23",
@@ -52017,6 +53057,136 @@
   ],
   "PO845485": [
     {
+      "numero": "9097",
+      "date": "2026-10-23",
+      "titre": "la deuxième partie du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 1,
+      "abstentions": 0
+    },
+    {
+      "numero": "9096",
+      "date": "2026-10-23",
+      "titre": "l'amendement n° 105 de Mme Runel et les amendements identiques suivants de suppression de l'article 19 et annexe du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 1,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "9095",
+      "date": "2026-10-23",
+      "titre": "l'amendement n° 2787 de Mme Mélin après l'article 18 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 0,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "9094",
+      "date": "2026-10-23",
+      "titre": "l'amendement n° 1474 de Mme Hamdane après l'article 18 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 0,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "9093",
+      "date": "2026-10-23",
+      "titre": "l'article 18 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 0,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "9092",
+      "date": "2026-10-23",
+      "titre": "l'amendement n° 1644 de Mme Hamdane et l'amendements identique suivant à l'article 18 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 0,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "9091",
+      "date": "2026-10-23",
+      "titre": "l'amendement n° 1471 de Mme Hamdane et l'amendement identique suivant après l'article 17 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 0,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "9090",
+      "date": "2026-10-23",
+      "titre": "l'amendement n° 661 de M. Bénard et les amendements identiques suivants de suppression de l'article 17 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 0,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "9089",
+      "date": "2026-10-23",
+      "titre": "l'amendement n° 104 de Mme Runel et les amendements identiques suivants de suppression de l'article 16 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 1,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "9088",
+      "date": "2026-10-23",
+      "titre": "l'amendement n° 1461 de Mme Erodi après l'article 15 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 1,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "9087",
+      "date": "2026-10-23",
+      "titre": "l'amendement n° 3081 de M. Bazin après l'article 15 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 1,
+      "abstentions": 0
+    },
+    {
+      "numero": "9086",
+      "date": "2026-10-23",
+      "titre": "l'amendement n° 508 de Mme Corneloup et les amendements identiques suivants après l'article 15 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 1,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "9085",
+      "date": "2026-10-23",
+      "titre": "l'amendement n° 869 de Mme Ranc après l'article 15 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
+      "resultat": "adopté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 1,
+      "abstentions": 0
+    },
+    {
       "numero": "9084",
       "date": "2026-10-23",
       "titre": "l'article 15 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
@@ -58518,6 +59688,136 @@
     }
   ],
   "PO872880": [
+    {
+      "numero": "9097",
+      "date": "2026-10-23",
+      "titre": "la deuxième partie du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 3,
+      "abstentions": 0
+    },
+    {
+      "numero": "9096",
+      "date": "2026-10-23",
+      "titre": "l'amendement n° 105 de Mme Runel et les amendements identiques suivants de suppression de l'article 19 et annexe du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 3,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "9095",
+      "date": "2026-10-23",
+      "titre": "l'amendement n° 2787 de Mme Mélin après l'article 18 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 3,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "9094",
+      "date": "2026-10-23",
+      "titre": "l'amendement n° 1474 de Mme Hamdane après l'article 18 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 3,
+      "abstentions": 0
+    },
+    {
+      "numero": "9093",
+      "date": "2026-10-23",
+      "titre": "l'article 18 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "abstention",
+      "pour": 0,
+      "contre": 0,
+      "abstentions": 3
+    },
+    {
+      "numero": "9092",
+      "date": "2026-10-23",
+      "titre": "l'amendement n° 1644 de Mme Hamdane et l'amendements identique suivant à l'article 18 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "abstention",
+      "pour": 0,
+      "contre": 0,
+      "abstentions": 3
+    },
+    {
+      "numero": "9091",
+      "date": "2026-10-23",
+      "titre": "l'amendement n° 1471 de Mme Hamdane et l'amendement identique suivant après l'article 17 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 3,
+      "abstentions": 0
+    },
+    {
+      "numero": "9090",
+      "date": "2026-10-23",
+      "titre": "l'amendement n° 661 de M. Bénard et les amendements identiques suivants de suppression de l'article 17 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
+      "resultat": "adopté",
+      "position": "abstention",
+      "pour": 0,
+      "contre": 0,
+      "abstentions": 3
+    },
+    {
+      "numero": "9089",
+      "date": "2026-10-23",
+      "titre": "l'amendement n° 104 de Mme Runel et les amendements identiques suivants de suppression de l'article 16 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 3,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "9088",
+      "date": "2026-10-23",
+      "titre": "l'amendement n° 1461 de Mme Erodi après l'article 15 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 1,
+      "abstentions": 0
+    },
+    {
+      "numero": "9087",
+      "date": "2026-10-23",
+      "titre": "l'amendement n° 3081 de M. Bazin après l'article 15 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "abstention",
+      "pour": 0,
+      "contre": 0,
+      "abstentions": 1
+    },
+    {
+      "numero": "9086",
+      "date": "2026-10-23",
+      "titre": "l'amendement n° 508 de Mme Corneloup et les amendements identiques suivants après l'article 15 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "abstention",
+      "pour": 0,
+      "contre": 0,
+      "abstentions": 1
+    },
+    {
+      "numero": "9085",
+      "date": "2026-10-23",
+      "titre": "l'amendement n° 869 de Mme Ranc après l'article 15 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 1,
+      "contre": 0,
+      "abstentions": 0
+    },
     {
       "numero": "9084",
       "date": "2026-10-23",
@@ -65021,6 +66321,136 @@
   ],
   "PO845514": [
     {
+      "numero": "9097",
+      "date": "2026-10-23",
+      "titre": "la deuxième partie du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 2,
+      "abstentions": 0
+    },
+    {
+      "numero": "9096",
+      "date": "2026-10-23",
+      "titre": "l'amendement n° 105 de Mme Runel et les amendements identiques suivants de suppression de l'article 19 et annexe du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 1,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "9095",
+      "date": "2026-10-23",
+      "titre": "l'amendement n° 2787 de Mme Mélin après l'article 18 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
+      "resultat": "adopté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 1,
+      "abstentions": 0
+    },
+    {
+      "numero": "9094",
+      "date": "2026-10-23",
+      "titre": "l'amendement n° 1474 de Mme Hamdane après l'article 18 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 1,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "9093",
+      "date": "2026-10-23",
+      "titre": "l'article 18 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 1,
+      "abstentions": 0
+    },
+    {
+      "numero": "9092",
+      "date": "2026-10-23",
+      "titre": "l'amendement n° 1644 de Mme Hamdane et l'amendements identique suivant à l'article 18 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 1,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "9091",
+      "date": "2026-10-23",
+      "titre": "l'amendement n° 1471 de Mme Hamdane et l'amendement identique suivant après l'article 17 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 1,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "9090",
+      "date": "2026-10-23",
+      "titre": "l'amendement n° 661 de M. Bénard et les amendements identiques suivants de suppression de l'article 17 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 0,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "9089",
+      "date": "2026-10-23",
+      "titre": "l'amendement n° 104 de Mme Runel et les amendements identiques suivants de suppression de l'article 16 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 1,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "9088",
+      "date": "2026-10-23",
+      "titre": "l'amendement n° 1461 de Mme Erodi après l'article 15 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 1,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "9087",
+      "date": "2026-10-23",
+      "titre": "l'amendement n° 3081 de M. Bazin après l'article 15 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 1,
+      "abstentions": 0
+    },
+    {
+      "numero": "9086",
+      "date": "2026-10-23",
+      "titre": "l'amendement n° 508 de Mme Corneloup et les amendements identiques suivants après l'article 15 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 1,
+      "abstentions": 0
+    },
+    {
+      "numero": "9085",
+      "date": "2026-10-23",
+      "titre": "l'amendement n° 869 de Mme Ranc après l'article 15 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
+      "resultat": "adopté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 1,
+      "abstentions": 0
+    },
+    {
       "numero": "9084",
       "date": "2026-10-23",
       "titre": "l'article 15 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
@@ -71522,6 +72952,136 @@
     }
   ],
   "PO840056": [
+    {
+      "numero": "9097",
+      "date": "2026-10-23",
+      "titre": "la deuxième partie du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 0,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "9096",
+      "date": "2026-10-23",
+      "titre": "l'amendement n° 105 de Mme Runel et les amendements identiques suivants de suppression de l'article 19 et annexe du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 0,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "9095",
+      "date": "2026-10-23",
+      "titre": "l'amendement n° 2787 de Mme Mélin après l'article 18 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 0,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "9094",
+      "date": "2026-10-23",
+      "titre": "l'amendement n° 1474 de Mme Hamdane après l'article 18 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 0,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "9093",
+      "date": "2026-10-23",
+      "titre": "l'article 18 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 0,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "9092",
+      "date": "2026-10-23",
+      "titre": "l'amendement n° 1644 de Mme Hamdane et l'amendements identique suivant à l'article 18 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 0,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "9091",
+      "date": "2026-10-23",
+      "titre": "l'amendement n° 1471 de Mme Hamdane et l'amendement identique suivant après l'article 17 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 0,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "9090",
+      "date": "2026-10-23",
+      "titre": "l'amendement n° 661 de M. Bénard et les amendements identiques suivants de suppression de l'article 17 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 0,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "9089",
+      "date": "2026-10-23",
+      "titre": "l'amendement n° 104 de Mme Runel et les amendements identiques suivants de suppression de l'article 16 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 0,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "9088",
+      "date": "2026-10-23",
+      "titre": "l'amendement n° 1461 de Mme Erodi après l'article 15 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 0,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "9087",
+      "date": "2026-10-23",
+      "titre": "l'amendement n° 3081 de M. Bazin après l'article 15 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 0,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "9086",
+      "date": "2026-10-23",
+      "titre": "l'amendement n° 508 de Mme Corneloup et les amendements identiques suivants après l'article 15 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 0,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "9085",
+      "date": "2026-10-23",
+      "titre": "l'amendement n° 869 de Mme Ranc après l'article 15 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 0,
+      "contre": 0,
+      "abstentions": 0
+    },
     {
       "numero": "9084",
       "date": "2026-10-23",
