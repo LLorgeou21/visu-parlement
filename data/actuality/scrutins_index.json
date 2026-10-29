@@ -1,5 +1,33 @@
 [
   {
+    "numero": "9202",
+    "date": "2026-10-29",
+    "titre": "l'article premier de la proposition de loi visant à créer un corps de fonctionnaires de catégorie B pour les accompagnants d’élèves en situation de handicap (première lecture).",
+    "seanceRef": "RUANR5L17S2027IDS30968",
+    "dossier": "Créer un corps de fonctionnaires de catégorie B pour les accompagnants d’élèves en situation de handicap",
+    "dossierRef": "DLR5L17N54901",
+    "typeVote": "scrutin public ordinaire",
+    "resultat": "adopté",
+    "votants": 296,
+    "pour": 161,
+    "contre": 119,
+    "abstentions": 16
+  },
+  {
+    "numero": "9201",
+    "date": "2026-10-29",
+    "titre": "l'article premier de la proposition de loi visant à rétablir le droit commun de la prescription acquisitive dans les Collectivités régies par l’article 73 de la Constitution ainsi qu’à Saint-Martin et Saint-Barthélemy (première lecture).",
+    "seanceRef": "RUANR5L17S2027IDS30968",
+    "dossier": "Rétablir le droit commun de la prescription acquisitive dans les collectivités régies par l’article 73 de la Constitution ainsi qu’à Saint-Martin et Saint-Barthélemy",
+    "dossierRef": "DLR5L17N53331",
+    "typeVote": "scrutin public ordinaire",
+    "resultat": "adopté",
+    "votants": 212,
+    "pour": 116,
+    "contre": 4,
+    "abstentions": 92
+  },
+  {
     "numero": "9200",
     "date": "2026-10-28",
     "titre": "l'amendement n° 1022 de M. Fournier après l'article 15 (examen prioritaire) du projet de loi de finances pour 2027 (première lecture).",
