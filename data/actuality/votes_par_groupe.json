@@ -1,6 +1,456 @@
 {
   "PO845401": [
     {
+      "numero": "9402",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 2750 de M. Masséglia à l'article 12 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "adopté",
+      "position": "abstention",
+      "pour": 0,
+      "contre": 0,
+      "abstentions": 31
+    },
+    {
+      "numero": "9401",
+      "date": "2026-10-30",
+      "titre": "l'article 11 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "adopté",
+      "position": "contre",
+      "pour": 24,
+      "contre": 3,
+      "abstentions": 2
+    },
+    {
+      "numero": "9400",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 1015 de Mme Laporte après l'article 10 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 28,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "9399",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 1489 de M. Portier après l'article 10 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 26,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "9398",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 3147 de M. Kasbarian après l'article 10 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "abstention",
+      "pour": 0,
+      "contre": 0,
+      "abstentions": 25
+    },
+    {
+      "numero": "9397",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 3608 de Mme Lejeune après l'article 10 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 24,
+      "abstentions": 0
+    },
+    {
+      "numero": "9396",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 3601 de M. Le Coq après l'article 10 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 16,
+      "abstentions": 0
+    },
+    {
+      "numero": "9395",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 1103 de Mme Maximi après l'article 10 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 27,
+      "abstentions": 0
+    },
+    {
+      "numero": "9394",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 1105 de M. Bilongo après l'article 10 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 26,
+      "abstentions": 0
+    },
+    {
+      "numero": "9393",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 3938 de M. Sansu après l'article 10 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 1,
+      "contre": 29,
+      "abstentions": 0
+    },
+    {
+      "numero": "9392",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 3940 de M. Sansu après l'article 10 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 30,
+      "abstentions": 0
+    },
+    {
+      "numero": "9391",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 1091 de M. Coquerel après l'article 10 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 30,
+      "abstentions": 0
+    },
+    {
+      "numero": "9390",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 3605 de M. Coquerel après l'article 10 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 2,
+      "contre": 30,
+      "abstentions": 0
+    },
+    {
+      "numero": "9389",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 43 de Mme Sas après l'article 10 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 32,
+      "abstentions": 0
+    },
+    {
+      "numero": "9388",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 3937 de M. Sansu après l'article 10 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 33,
+      "abstentions": 0
+    },
+    {
+      "numero": "9387",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 1089 de M. Le Coq après l'article 10 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 33,
+      "abstentions": 0
+    },
+    {
+      "numero": "9386",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 3603 de Mme Maximi après l'article 10 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 33,
+      "abstentions": 0
+    },
+    {
+      "numero": "9385",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 1092 de M. Le Coq après l'article 10 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 2,
+      "contre": 31,
+      "abstentions": 0
+    },
+    {
+      "numero": "9384",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 1090 de M. Le Coq après l'article 10 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 32,
+      "abstentions": 0
+    },
+    {
+      "numero": "9383",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 1475 de M. Loubet après l'article 10 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 33,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "9382",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 785 de Mme Mercier après l'article 10 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 29,
+      "abstentions": 0
+    },
+    {
+      "numero": "9381",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 44 de Mme Sas après l'article 10 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 29,
+      "abstentions": 0
+    },
+    {
+      "numero": "9380",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 3941 de M. Sansu après l'article 10 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 2,
+      "contre": 27,
+      "abstentions": 0
+    },
+    {
+      "numero": "9379",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 3939 de M. Sansu après l'article 10 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 2,
+      "contre": 27,
+      "abstentions": 0
+    },
+    {
+      "numero": "9378",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 787 de M. Potier après l'article 10 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 29,
+      "abstentions": 0
+    },
+    {
+      "numero": "9377",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 1017 de Mme Laporte après  l'article 10 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 29,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "9376",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 1429 de M. Potier après  l'article 10 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "adopté",
+      "position": "abstention",
+      "pour": 0,
+      "contre": 0,
+      "abstentions": 29
+    },
+    {
+      "numero": "9375",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 3735 de M. Potier et l'amendement identique suivant à l'article 10 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "abstention",
+      "pour": 0,
+      "contre": 0,
+      "abstentions": 30
+    },
+    {
+      "numero": "9374",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 3671 de M. Attal et l'amendement identique suivant à l'article 10 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "abstention",
+      "pour": 0,
+      "contre": 0,
+      "abstentions": 29
+    },
+    {
+      "numero": "9373",
+      "date": "2026-10-30",
+      "titre": "l'article 8 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "abstention",
+      "pour": 0,
+      "contre": 0,
+      "abstentions": 32
+    },
+    {
+      "numero": "9372",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 112 de M. Falcon et l'amendement identique suivant de suppression de l'article 8 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 35,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "9371",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 2061 de Mme Maximi après l'article 7 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 33,
+      "abstentions": 0
+    },
+    {
+      "numero": "9370",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 2404 (rect.) de M. Le Coq après l'article 7 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 33,
+      "abstentions": 0
+    },
+    {
+      "numero": "9369",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 3817 de M. Martineau après l'article 7 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "adopté",
+      "position": "abstention",
+      "pour": 0,
+      "contre": 0,
+      "abstentions": 34
+    },
+    {
+      "numero": "9368",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 2631 de Mme Battistel après l'article 7 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 32,
+      "abstentions": 0
+    },
+    {
+      "numero": "9367",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 3203 de M. Bataille après l'article 7 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 27,
+      "abstentions": 2
+    },
+    {
+      "numero": "9366",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 540 de M. Falcon après l'article 7 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 35,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "9365",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 1511 de M. Echaniz après l'article 7 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "adopté",
+      "position": "abstention",
+      "pour": 0,
+      "contre": 0,
+      "abstentions": 33
+    },
+    {
+      "numero": "9364",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 1149 de Mme Létard et l'amendement identique suivant après l'article 7 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 35,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "9363",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 3453 de M. Piquemal après l'article 7 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 34,
+      "abstentions": 0
+    },
+    {
+      "numero": "9362",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 667 (rect.) de M. Jean-Philippe Tanguy après l'article 7 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 29,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "9361",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 1048 de Mme Gillet après l'article 7 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 26,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "9360",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 1153 de Mme Létard et les amendements identiques suivants après l'article 7 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 27,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "9359",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 96 de M. Falcon et les amendements identiques suivants à l'article 7 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 37,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "9358",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 170 de M. Bazin et l'amendement identique suivant à l'article 7 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 37,
+      "abstentions": 0
+    },
+    {
       "numero": "9357",
       "date": "2026-10-30",
       "titre": "l'amendement n° 3195 de Mme de Pélichy à l'article 7 du projet de loi de finances pour 2027 (première lecture).",
@@ -9232,6 +9682,456 @@
     }
   ],
   "PO845407": [
+    {
+      "numero": "9402",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 2750 de M. Masséglia à l'article 12 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "adopté",
+      "position": "contre",
+      "pour": 4,
+      "contre": 5,
+      "abstentions": 0
+    },
+    {
+      "numero": "9401",
+      "date": "2026-10-30",
+      "titre": "l'article 11 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 10,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "9400",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 1015 de Mme Laporte après l'article 10 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 11,
+      "abstentions": 0
+    },
+    {
+      "numero": "9399",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 1489 de M. Portier après l'article 10 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "adopté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 10,
+      "abstentions": 0
+    },
+    {
+      "numero": "9398",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 3147 de M. Kasbarian après l'article 10 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 9,
+      "contre": 1,
+      "abstentions": 0
+    },
+    {
+      "numero": "9397",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 3608 de Mme Lejeune après l'article 10 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 10,
+      "abstentions": 0
+    },
+    {
+      "numero": "9396",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 3601 de M. Le Coq après l'article 10 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 8,
+      "abstentions": 0
+    },
+    {
+      "numero": "9395",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 1103 de Mme Maximi après l'article 10 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 8,
+      "abstentions": 0
+    },
+    {
+      "numero": "9394",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 1105 de M. Bilongo après l'article 10 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 10,
+      "abstentions": 0
+    },
+    {
+      "numero": "9393",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 3938 de M. Sansu après l'article 10 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 9,
+      "abstentions": 0
+    },
+    {
+      "numero": "9392",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 3940 de M. Sansu après l'article 10 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 6,
+      "abstentions": 0
+    },
+    {
+      "numero": "9391",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 1091 de M. Coquerel après l'article 10 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 8,
+      "abstentions": 0
+    },
+    {
+      "numero": "9390",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 3605 de M. Coquerel après l'article 10 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 9,
+      "abstentions": 0
+    },
+    {
+      "numero": "9389",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 43 de Mme Sas après l'article 10 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 10,
+      "abstentions": 0
+    },
+    {
+      "numero": "9388",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 3937 de M. Sansu après l'article 10 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 9,
+      "abstentions": 0
+    },
+    {
+      "numero": "9387",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 1089 de M. Le Coq après l'article 10 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 9,
+      "abstentions": 0
+    },
+    {
+      "numero": "9386",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 3603 de Mme Maximi après l'article 10 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 9,
+      "abstentions": 0
+    },
+    {
+      "numero": "9385",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 1092 de M. Le Coq après l'article 10 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 9,
+      "abstentions": 0
+    },
+    {
+      "numero": "9384",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 1090 de M. Le Coq après l'article 10 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 9,
+      "abstentions": 0
+    },
+    {
+      "numero": "9383",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 1475 de M. Loubet après l'article 10 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 8,
+      "abstentions": 0
+    },
+    {
+      "numero": "9382",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 785 de Mme Mercier après l'article 10 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 8,
+      "abstentions": 0
+    },
+    {
+      "numero": "9381",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 44 de Mme Sas après l'article 10 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 8,
+      "abstentions": 0
+    },
+    {
+      "numero": "9380",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 3941 de M. Sansu après l'article 10 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 8,
+      "abstentions": 0
+    },
+    {
+      "numero": "9379",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 3939 de M. Sansu après l'article 10 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 8,
+      "abstentions": 0
+    },
+    {
+      "numero": "9378",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 787 de M. Potier après l'article 10 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 5,
+      "abstentions": 0
+    },
+    {
+      "numero": "9377",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 1017 de Mme Laporte après  l'article 10 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "adopté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 5,
+      "abstentions": 0
+    },
+    {
+      "numero": "9376",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 1429 de M. Potier après  l'article 10 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "adopté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 4,
+      "abstentions": 0
+    },
+    {
+      "numero": "9375",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 3735 de M. Potier et l'amendement identique suivant à l'article 10 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 6,
+      "abstentions": 0
+    },
+    {
+      "numero": "9374",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 3671 de M. Attal et l'amendement identique suivant à l'article 10 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 7,
+      "abstentions": 0
+    },
+    {
+      "numero": "9373",
+      "date": "2026-10-30",
+      "titre": "l'article 8 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 7,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "9372",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 112 de M. Falcon et l'amendement identique suivant de suppression de l'article 8 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "adopté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 6,
+      "abstentions": 0
+    },
+    {
+      "numero": "9371",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 2061 de Mme Maximi après l'article 7 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 8,
+      "abstentions": 0
+    },
+    {
+      "numero": "9370",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 2404 (rect.) de M. Le Coq après l'article 7 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 8,
+      "abstentions": 0
+    },
+    {
+      "numero": "9369",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 3817 de M. Martineau après l'article 7 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "adopté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 8,
+      "abstentions": 0
+    },
+    {
+      "numero": "9368",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 2631 de Mme Battistel après l'article 7 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 8,
+      "abstentions": 0
+    },
+    {
+      "numero": "9367",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 3203 de M. Bataille après l'article 7 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 8,
+      "abstentions": 0
+    },
+    {
+      "numero": "9366",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 540 de M. Falcon après l'article 7 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "adopté",
+      "position": "contre",
+      "pour": 1,
+      "contre": 6,
+      "abstentions": 0
+    },
+    {
+      "numero": "9365",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 1511 de M. Echaniz après l'article 7 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "adopté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 9,
+      "abstentions": 0
+    },
+    {
+      "numero": "9364",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 1149 de Mme Létard et l'amendement identique suivant après l'article 7 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "adopté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 9,
+      "abstentions": 0
+    },
+    {
+      "numero": "9363",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 3453 de M. Piquemal après l'article 7 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 5,
+      "abstentions": 0
+    },
+    {
+      "numero": "9362",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 667 (rect.) de M. Jean-Philippe Tanguy après l'article 7 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "adopté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 4,
+      "abstentions": 0
+    },
+    {
+      "numero": "9361",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 1048 de Mme Gillet après l'article 7 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "adopté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 4,
+      "abstentions": 1
+    },
+    {
+      "numero": "9360",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 1153 de Mme Létard et les amendements identiques suivants après l'article 7 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "adopté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 8,
+      "abstentions": 0
+    },
+    {
+      "numero": "9359",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 96 de M. Falcon et les amendements identiques suivants à l'article 7 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "adopté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 10,
+      "abstentions": 0
+    },
+    {
+      "numero": "9358",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 170 de M. Bazin et l'amendement identique suivant à l'article 7 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 11,
+      "abstentions": 0
+    },
     {
       "numero": "9357",
       "date": "2026-10-30",
@@ -18465,6 +19365,456 @@
   ],
   "PO845413": [
     {
+      "numero": "9402",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 2750 de M. Masséglia à l'article 12 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "adopté",
+      "position": "abstention",
+      "pour": 0,
+      "contre": 0,
+      "abstentions": 5
+    },
+    {
+      "numero": "9401",
+      "date": "2026-10-30",
+      "titre": "l'article 11 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "adopté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 5,
+      "abstentions": 0
+    },
+    {
+      "numero": "9400",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 1015 de Mme Laporte après l'article 10 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 7,
+      "abstentions": 0
+    },
+    {
+      "numero": "9399",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 1489 de M. Portier après l'article 10 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "adopté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 7,
+      "abstentions": 0
+    },
+    {
+      "numero": "9398",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 3147 de M. Kasbarian après l'article 10 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 8,
+      "abstentions": 0
+    },
+    {
+      "numero": "9397",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 3608 de Mme Lejeune après l'article 10 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 5,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "9396",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 3601 de M. Le Coq après l'article 10 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 2,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "9395",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 1103 de Mme Maximi après l'article 10 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 6,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "9394",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 1105 de M. Bilongo après l'article 10 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 7,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "9393",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 3938 de M. Sansu après l'article 10 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 6,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "9392",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 3940 de M. Sansu après l'article 10 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 6,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "9391",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 1091 de M. Coquerel après l'article 10 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 6,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "9390",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 3605 de M. Coquerel après l'article 10 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 7,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "9389",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 43 de Mme Sas après l'article 10 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 7,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "9388",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 3937 de M. Sansu après l'article 10 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 7,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "9387",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 1089 de M. Le Coq après l'article 10 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 7,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "9386",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 3603 de Mme Maximi après l'article 10 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 7,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "9385",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 1092 de M. Le Coq après l'article 10 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 7,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "9384",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 1090 de M. Le Coq après l'article 10 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 5,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "9383",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 1475 de M. Loubet après l'article 10 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 5,
+      "abstentions": 0
+    },
+    {
+      "numero": "9382",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 785 de Mme Mercier après l'article 10 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 5,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "9381",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 44 de Mme Sas après l'article 10 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 5,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "9380",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 3941 de M. Sansu après l'article 10 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 5,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "9379",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 3939 de M. Sansu après l'article 10 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 5,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "9378",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 787 de M. Potier après l'article 10 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 4,
+      "abstentions": 1
+    },
+    {
+      "numero": "9377",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 1017 de Mme Laporte après  l'article 10 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "adopté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 4,
+      "abstentions": 0
+    },
+    {
+      "numero": "9376",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 1429 de M. Potier après  l'article 10 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "adopté",
+      "position": "contre",
+      "pour": 1,
+      "contre": 3,
+      "abstentions": 0
+    },
+    {
+      "numero": "9375",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 3735 de M. Potier et l'amendement identique suivant à l'article 10 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 2,
+      "contre": 3,
+      "abstentions": 0
+    },
+    {
+      "numero": "9374",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 3671 de M. Attal et l'amendement identique suivant à l'article 10 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 3,
+      "contre": 2,
+      "abstentions": 0
+    },
+    {
+      "numero": "9373",
+      "date": "2026-10-30",
+      "titre": "l'article 8 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 1,
+      "contre": 4,
+      "abstentions": 0
+    },
+    {
+      "numero": "9372",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 112 de M. Falcon et l'amendement identique suivant de suppression de l'article 8 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "adopté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 6,
+      "abstentions": 0
+    },
+    {
+      "numero": "9371",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 2061 de Mme Maximi après l'article 7 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 8,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "9370",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 2404 (rect.) de M. Le Coq après l'article 7 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 7,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "9369",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 3817 de M. Martineau après l'article 7 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 6,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "9368",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 2631 de Mme Battistel après l'article 7 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 8,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "9367",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 3203 de M. Bataille après l'article 7 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "abstention",
+      "pour": 0,
+      "contre": 0,
+      "abstentions": 6
+    },
+    {
+      "numero": "9366",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 540 de M. Falcon après l'article 7 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "adopté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 8,
+      "abstentions": 0
+    },
+    {
+      "numero": "9365",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 1511 de M. Echaniz après l'article 7 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 8,
+      "contre": 1,
+      "abstentions": 0
+    },
+    {
+      "numero": "9364",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 1149 de Mme Létard et l'amendement identique suivant après l'article 7 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "adopté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 7,
+      "abstentions": 0
+    },
+    {
+      "numero": "9363",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 3453 de M. Piquemal après l'article 7 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 6,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "9362",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 667 (rect.) de M. Jean-Philippe Tanguy après l'article 7 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "adopté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 3,
+      "abstentions": 0
+    },
+    {
+      "numero": "9361",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 1048 de Mme Gillet après l'article 7 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "adopté",
+      "position": "abstention",
+      "pour": 0,
+      "contre": 1,
+      "abstentions": 2
+    },
+    {
+      "numero": "9360",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 1153 de Mme Létard et les amendements identiques suivants après l'article 7 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 10,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "9359",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 96 de M. Falcon et les amendements identiques suivants à l'article 7 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "adopté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 11,
+      "abstentions": 0
+    },
+    {
+      "numero": "9358",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 170 de M. Bazin et l'amendement identique suivant à l'article 7 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 13,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
       "numero": "9357",
       "date": "2026-10-30",
       "titre": "l'amendement n° 3195 de Mme de Pélichy à l'article 7 du projet de loi de finances pour 2027 (première lecture).",
@@ -27696,6 +29046,456 @@
     }
   ],
   "PO845419": [
+    {
+      "numero": "9402",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 2750 de M. Masséglia à l'article 12 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 4,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "9401",
+      "date": "2026-10-30",
+      "titre": "l'article 11 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 4,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "9400",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 1015 de Mme Laporte après l'article 10 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 4,
+      "abstentions": 0
+    },
+    {
+      "numero": "9399",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 1489 de M. Portier après l'article 10 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "adopté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 4,
+      "abstentions": 0
+    },
+    {
+      "numero": "9398",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 3147 de M. Kasbarian après l'article 10 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 4,
+      "abstentions": 0
+    },
+    {
+      "numero": "9397",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 3608 de Mme Lejeune après l'article 10 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 2,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "9396",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 3601 de M. Le Coq après l'article 10 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 0,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "9395",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 1103 de Mme Maximi après l'article 10 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 4,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "9394",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 1105 de M. Bilongo après l'article 10 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 4,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "9393",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 3938 de M. Sansu après l'article 10 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 6,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "9392",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 3940 de M. Sansu après l'article 10 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 6,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "9391",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 1091 de M. Coquerel après l'article 10 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 6,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "9390",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 3605 de M. Coquerel après l'article 10 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 6,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "9389",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 43 de Mme Sas après l'article 10 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 6,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "9388",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 3937 de M. Sansu après l'article 10 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 6,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "9387",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 1089 de M. Le Coq après l'article 10 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "abstention",
+      "pour": 0,
+      "contre": 0,
+      "abstentions": 6
+    },
+    {
+      "numero": "9386",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 3603 de Mme Maximi après l'article 10 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "abstention",
+      "pour": 0,
+      "contre": 0,
+      "abstentions": 6
+    },
+    {
+      "numero": "9385",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 1092 de M. Le Coq après l'article 10 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "abstention",
+      "pour": 0,
+      "contre": 0,
+      "abstentions": 6
+    },
+    {
+      "numero": "9384",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 1090 de M. Le Coq après l'article 10 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 6,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "9383",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 1475 de M. Loubet après l'article 10 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 6,
+      "abstentions": 0
+    },
+    {
+      "numero": "9382",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 785 de Mme Mercier après l'article 10 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 6,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "9381",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 44 de Mme Sas après l'article 10 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 6,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "9380",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 3941 de M. Sansu après l'article 10 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 6,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "9379",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 3939 de M. Sansu après l'article 10 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 6,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "9378",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 787 de M. Potier après l'article 10 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 6,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "9377",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 1017 de Mme Laporte après  l'article 10 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "adopté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 6,
+      "abstentions": 0
+    },
+    {
+      "numero": "9376",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 1429 de M. Potier après  l'article 10 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 6,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "9375",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 3735 de M. Potier et l'amendement identique suivant à l'article 10 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 4,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "9374",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 3671 de M. Attal et l'amendement identique suivant à l'article 10 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 4,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "9373",
+      "date": "2026-10-30",
+      "titre": "l'article 8 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 4,
+      "abstentions": 0
+    },
+    {
+      "numero": "9372",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 112 de M. Falcon et l'amendement identique suivant de suppression de l'article 8 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "adopté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 6,
+      "abstentions": 0
+    },
+    {
+      "numero": "9371",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 2061 de Mme Maximi après l'article 7 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 4,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "9370",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 2404 (rect.) de M. Le Coq après l'article 7 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 4,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "9369",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 3817 de M. Martineau après l'article 7 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 6,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "9368",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 2631 de Mme Battistel après l'article 7 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 4,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "9367",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 3203 de M. Bataille après l'article 7 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 6,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "9366",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 540 de M. Falcon après l'article 7 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "adopté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 4,
+      "abstentions": 0
+    },
+    {
+      "numero": "9365",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 1511 de M. Echaniz après l'article 7 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 6,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "9364",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 1149 de Mme Létard et l'amendement identique suivant après l'article 7 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "adopté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 4,
+      "abstentions": 0
+    },
+    {
+      "numero": "9363",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 3453 de M. Piquemal après l'article 7 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 2,
+      "abstentions": 2
+    },
+    {
+      "numero": "9362",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 667 (rect.) de M. Jean-Philippe Tanguy après l'article 7 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "adopté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 4,
+      "abstentions": 0
+    },
+    {
+      "numero": "9361",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 1048 de Mme Gillet après l'article 7 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "adopté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 8,
+      "abstentions": 0
+    },
+    {
+      "numero": "9360",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 1153 de Mme Létard et les amendements identiques suivants après l'article 7 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 8,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "9359",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 96 de M. Falcon et les amendements identiques suivants à l'article 7 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "adopté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 5,
+      "abstentions": 0
+    },
+    {
+      "numero": "9358",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 170 de M. Bazin et l'amendement identique suivant à l'article 7 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 9,
+      "contre": 0,
+      "abstentions": 0
+    },
     {
       "numero": "9357",
       "date": "2026-10-30",
@@ -36929,6 +38729,456 @@
   ],
   "PO845425": [
     {
+      "numero": "9402",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 2750 de M. Masséglia à l'article 12 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "adopté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 6,
+      "abstentions": 0
+    },
+    {
+      "numero": "9401",
+      "date": "2026-10-30",
+      "titre": "l'article 11 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 5,
+      "contre": 0,
+      "abstentions": 1
+    },
+    {
+      "numero": "9400",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 1015 de Mme Laporte après l'article 10 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 2,
+      "abstentions": 1
+    },
+    {
+      "numero": "9399",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 1489 de M. Portier après l'article 10 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 3,
+      "contre": 2,
+      "abstentions": 0
+    },
+    {
+      "numero": "9398",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 3147 de M. Kasbarian après l'article 10 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 4,
+      "contre": 1,
+      "abstentions": 0
+    },
+    {
+      "numero": "9397",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 3608 de Mme Lejeune après l'article 10 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 1,
+      "abstentions": 0
+    },
+    {
+      "numero": "9396",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 3601 de M. Le Coq après l'article 10 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 0,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "9395",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 1103 de Mme Maximi après l'article 10 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 4,
+      "abstentions": 0
+    },
+    {
+      "numero": "9394",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 1105 de M. Bilongo après l'article 10 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 4,
+      "abstentions": 0
+    },
+    {
+      "numero": "9393",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 3938 de M. Sansu après l'article 10 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 6,
+      "abstentions": 0
+    },
+    {
+      "numero": "9392",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 3940 de M. Sansu après l'article 10 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 6,
+      "abstentions": 0
+    },
+    {
+      "numero": "9391",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 1091 de M. Coquerel après l'article 10 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 6,
+      "abstentions": 0
+    },
+    {
+      "numero": "9390",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 3605 de M. Coquerel après l'article 10 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 6,
+      "abstentions": 0
+    },
+    {
+      "numero": "9389",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 43 de Mme Sas après l'article 10 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 6,
+      "abstentions": 0
+    },
+    {
+      "numero": "9388",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 3937 de M. Sansu après l'article 10 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 6,
+      "abstentions": 0
+    },
+    {
+      "numero": "9387",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 1089 de M. Le Coq après l'article 10 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 6,
+      "abstentions": 0
+    },
+    {
+      "numero": "9386",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 3603 de Mme Maximi après l'article 10 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 6,
+      "abstentions": 0
+    },
+    {
+      "numero": "9385",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 1092 de M. Le Coq après l'article 10 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 6,
+      "abstentions": 0
+    },
+    {
+      "numero": "9384",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 1090 de M. Le Coq après l'article 10 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 6,
+      "abstentions": 0
+    },
+    {
+      "numero": "9383",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 1475 de M. Loubet après l'article 10 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 6,
+      "abstentions": 0
+    },
+    {
+      "numero": "9382",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 785 de Mme Mercier après l'article 10 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 6,
+      "abstentions": 0
+    },
+    {
+      "numero": "9381",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 44 de Mme Sas après l'article 10 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 6,
+      "abstentions": 0
+    },
+    {
+      "numero": "9380",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 3941 de M. Sansu après l'article 10 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 6,
+      "abstentions": 0
+    },
+    {
+      "numero": "9379",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 3939 de M. Sansu après l'article 10 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 6,
+      "abstentions": 0
+    },
+    {
+      "numero": "9378",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 787 de M. Potier après l'article 10 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 6,
+      "abstentions": 0
+    },
+    {
+      "numero": "9377",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 1017 de Mme Laporte après  l'article 10 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "adopté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 3,
+      "abstentions": 3
+    },
+    {
+      "numero": "9376",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 1429 de M. Potier après  l'article 10 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "adopté",
+      "position": "contre",
+      "pour": 1,
+      "contre": 2,
+      "abstentions": 1
+    },
+    {
+      "numero": "9375",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 3735 de M. Potier et l'amendement identique suivant à l'article 10 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 3,
+      "abstentions": 0
+    },
+    {
+      "numero": "9374",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 3671 de M. Attal et l'amendement identique suivant à l'article 10 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 3,
+      "abstentions": 0
+    },
+    {
+      "numero": "9373",
+      "date": "2026-10-30",
+      "titre": "l'article 8 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 2,
+      "contre": 3,
+      "abstentions": 0
+    },
+    {
+      "numero": "9372",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 112 de M. Falcon et l'amendement identique suivant de suppression de l'article 8 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "adopté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 3,
+      "abstentions": 0
+    },
+    {
+      "numero": "9371",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 2061 de Mme Maximi après l'article 7 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 2,
+      "contre": 4,
+      "abstentions": 0
+    },
+    {
+      "numero": "9370",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 2404 (rect.) de M. Le Coq après l'article 7 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 6,
+      "abstentions": 0
+    },
+    {
+      "numero": "9369",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 3817 de M. Martineau après l'article 7 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "adopté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 6,
+      "abstentions": 0
+    },
+    {
+      "numero": "9368",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 2631 de Mme Battistel après l'article 7 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 6,
+      "abstentions": 0
+    },
+    {
+      "numero": "9367",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 3203 de M. Bataille après l'article 7 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 6,
+      "abstentions": 0
+    },
+    {
+      "numero": "9366",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 540 de M. Falcon après l'article 7 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "adopté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 3,
+      "abstentions": 0
+    },
+    {
+      "numero": "9365",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 1511 de M. Echaniz après l'article 7 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "adopté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 6,
+      "abstentions": 0
+    },
+    {
+      "numero": "9364",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 1149 de Mme Létard et l'amendement identique suivant après l'article 7 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 6,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "9363",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 3453 de M. Piquemal après l'article 7 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 5,
+      "abstentions": 0
+    },
+    {
+      "numero": "9362",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 667 (rect.) de M. Jean-Philippe Tanguy après l'article 7 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "adopté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 1,
+      "abstentions": 0
+    },
+    {
+      "numero": "9361",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 1048 de Mme Gillet après l'article 7 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 5,
+      "contre": 0,
+      "abstentions": 1
+    },
+    {
+      "numero": "9360",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 1153 de Mme Létard et les amendements identiques suivants après l'article 7 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 4,
+      "contre": 1,
+      "abstentions": 1
+    },
+    {
+      "numero": "9359",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 96 de M. Falcon et les amendements identiques suivants à l'article 7 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 4,
+      "contre": 1,
+      "abstentions": 0
+    },
+    {
+      "numero": "9358",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 170 de M. Bazin et l'amendement identique suivant à l'article 7 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 5,
+      "abstentions": 1
+    },
+    {
       "numero": "9357",
       "date": "2026-10-30",
       "titre": "l'amendement n° 3195 de Mme de Pélichy à l'article 7 du projet de loi de finances pour 2027 (première lecture).",
@@ -46160,6 +48410,456 @@
     }
   ],
   "PO845439": [
+    {
+      "numero": "9402",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 2750 de M. Masséglia à l'article 12 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 2,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "9401",
+      "date": "2026-10-30",
+      "titre": "l'article 11 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 2,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "9400",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 1015 de Mme Laporte après l'article 10 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 2,
+      "abstentions": 0
+    },
+    {
+      "numero": "9399",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 1489 de M. Portier après l'article 10 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "adopté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 1,
+      "abstentions": 0
+    },
+    {
+      "numero": "9398",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 3147 de M. Kasbarian après l'article 10 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 1,
+      "abstentions": 0
+    },
+    {
+      "numero": "9397",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 3608 de Mme Lejeune après l'article 10 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 1,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "9396",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 3601 de M. Le Coq après l'article 10 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 1,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "9395",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 1103 de Mme Maximi après l'article 10 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 2,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "9394",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 1105 de M. Bilongo après l'article 10 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 2,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "9393",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 3938 de M. Sansu après l'article 10 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 2,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "9392",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 3940 de M. Sansu après l'article 10 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 2,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "9391",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 1091 de M. Coquerel après l'article 10 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 2,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "9390",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 3605 de M. Coquerel après l'article 10 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 2,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "9389",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 43 de Mme Sas après l'article 10 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 2,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "9388",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 3937 de M. Sansu après l'article 10 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 2,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "9387",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 1089 de M. Le Coq après l'article 10 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 1,
+      "contre": 0,
+      "abstentions": 1
+    },
+    {
+      "numero": "9386",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 3603 de Mme Maximi après l'article 10 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 1,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "9385",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 1092 de M. Le Coq après l'article 10 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 1,
+      "contre": 0,
+      "abstentions": 1
+    },
+    {
+      "numero": "9384",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 1090 de M. Le Coq après l'article 10 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 2,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "9383",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 1475 de M. Loubet après l'article 10 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 2,
+      "abstentions": 0
+    },
+    {
+      "numero": "9382",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 785 de Mme Mercier après l'article 10 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 2,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "9381",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 44 de Mme Sas après l'article 10 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 2,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "9380",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 3941 de M. Sansu après l'article 10 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 2,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "9379",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 3939 de M. Sansu après l'article 10 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 2,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "9378",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 787 de M. Potier après l'article 10 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 1,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "9377",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 1017 de Mme Laporte après  l'article 10 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "adopté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 2,
+      "abstentions": 0
+    },
+    {
+      "numero": "9376",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 1429 de M. Potier après  l'article 10 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 2,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "9375",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 3735 de M. Potier et l'amendement identique suivant à l'article 10 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "abstention",
+      "pour": 0,
+      "contre": 0,
+      "abstentions": 2
+    },
+    {
+      "numero": "9374",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 3671 de M. Attal et l'amendement identique suivant à l'article 10 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 3,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "9373",
+      "date": "2026-10-30",
+      "titre": "l'article 8 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 4,
+      "abstentions": 0
+    },
+    {
+      "numero": "9372",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 112 de M. Falcon et l'amendement identique suivant de suppression de l'article 8 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "adopté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 6,
+      "abstentions": 0
+    },
+    {
+      "numero": "9371",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 2061 de Mme Maximi après l'article 7 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 10,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "9370",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 2404 (rect.) de M. Le Coq après l'article 7 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 9,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "9369",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 3817 de M. Martineau après l'article 7 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 10,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "9368",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 2631 de Mme Battistel après l'article 7 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 10,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "9367",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 3203 de M. Bataille après l'article 7 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 8,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "9366",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 540 de M. Falcon après l'article 7 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "adopté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 9,
+      "abstentions": 0
+    },
+    {
+      "numero": "9365",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 1511 de M. Echaniz après l'article 7 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 8,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "9364",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 1149 de Mme Létard et l'amendement identique suivant après l'article 7 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "adopté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 6,
+      "abstentions": 0
+    },
+    {
+      "numero": "9363",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 3453 de M. Piquemal après l'article 7 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 2,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "9362",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 667 (rect.) de M. Jean-Philippe Tanguy après l'article 7 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "adopté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 2,
+      "abstentions": 0
+    },
+    {
+      "numero": "9361",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 1048 de Mme Gillet après l'article 7 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "adopté",
+      "position": "abstention",
+      "pour": 0,
+      "contre": 2,
+      "abstentions": 5
+    },
+    {
+      "numero": "9360",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 1153 de Mme Létard et les amendements identiques suivants après l'article 7 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 9,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "9359",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 96 de M. Falcon et les amendements identiques suivants à l'article 7 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "adopté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 8,
+      "abstentions": 0
+    },
+    {
+      "numero": "9358",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 170 de M. Bazin et l'amendement identique suivant à l'article 7 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 8,
+      "contre": 0,
+      "abstentions": 0
+    },
     {
       "numero": "9357",
       "date": "2026-10-30",
@@ -55393,6 +58093,456 @@
   ],
   "PO845454": [
     {
+      "numero": "9402",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 2750 de M. Masséglia à l'article 12 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 1,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "9401",
+      "date": "2026-10-30",
+      "titre": "l'article 11 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 1,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "9400",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 1015 de Mme Laporte après l'article 10 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 0,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "9399",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 1489 de M. Portier après l'article 10 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 0,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "9398",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 3147 de M. Kasbarian après l'article 10 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 0,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "9397",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 3608 de Mme Lejeune après l'article 10 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 0,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "9396",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 3601 de M. Le Coq après l'article 10 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 0,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "9395",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 1103 de Mme Maximi après l'article 10 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 2,
+      "abstentions": 0
+    },
+    {
+      "numero": "9394",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 1105 de M. Bilongo après l'article 10 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 3,
+      "abstentions": 0
+    },
+    {
+      "numero": "9393",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 3938 de M. Sansu après l'article 10 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 3,
+      "abstentions": 0
+    },
+    {
+      "numero": "9392",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 3940 de M. Sansu après l'article 10 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 3,
+      "abstentions": 0
+    },
+    {
+      "numero": "9391",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 1091 de M. Coquerel après l'article 10 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 3,
+      "abstentions": 0
+    },
+    {
+      "numero": "9390",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 3605 de M. Coquerel après l'article 10 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 3,
+      "abstentions": 0
+    },
+    {
+      "numero": "9389",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 43 de Mme Sas après l'article 10 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 3,
+      "abstentions": 0
+    },
+    {
+      "numero": "9388",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 3937 de M. Sansu après l'article 10 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 1,
+      "abstentions": 0
+    },
+    {
+      "numero": "9387",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 1089 de M. Le Coq après l'article 10 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 1,
+      "abstentions": 0
+    },
+    {
+      "numero": "9386",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 3603 de Mme Maximi après l'article 10 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 1,
+      "abstentions": 0
+    },
+    {
+      "numero": "9385",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 1092 de M. Le Coq après l'article 10 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 1,
+      "abstentions": 0
+    },
+    {
+      "numero": "9384",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 1090 de M. Le Coq après l'article 10 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 1,
+      "abstentions": 0
+    },
+    {
+      "numero": "9383",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 1475 de M. Loubet après l'article 10 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 1,
+      "abstentions": 0
+    },
+    {
+      "numero": "9382",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 785 de Mme Mercier après l'article 10 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 1,
+      "abstentions": 0
+    },
+    {
+      "numero": "9381",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 44 de Mme Sas après l'article 10 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 1,
+      "abstentions": 0
+    },
+    {
+      "numero": "9380",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 3941 de M. Sansu après l'article 10 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 1,
+      "abstentions": 0
+    },
+    {
+      "numero": "9379",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 3939 de M. Sansu après l'article 10 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 1,
+      "abstentions": 0
+    },
+    {
+      "numero": "9378",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 787 de M. Potier après l'article 10 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 1,
+      "abstentions": 0
+    },
+    {
+      "numero": "9377",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 1017 de Mme Laporte après  l'article 10 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 0,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "9376",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 1429 de M. Potier après  l'article 10 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "adopté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 1,
+      "abstentions": 0
+    },
+    {
+      "numero": "9375",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 3735 de M. Potier et l'amendement identique suivant à l'article 10 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 1,
+      "abstentions": 0
+    },
+    {
+      "numero": "9374",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 3671 de M. Attal et l'amendement identique suivant à l'article 10 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 1,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "9373",
+      "date": "2026-10-30",
+      "titre": "l'article 8 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 1,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "9372",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 112 de M. Falcon et l'amendement identique suivant de suppression de l'article 8 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "adopté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 1,
+      "abstentions": 0
+    },
+    {
+      "numero": "9371",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 2061 de Mme Maximi après l'article 7 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 1,
+      "abstentions": 0
+    },
+    {
+      "numero": "9370",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 2404 (rect.) de M. Le Coq après l'article 7 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 1,
+      "abstentions": 0
+    },
+    {
+      "numero": "9369",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 3817 de M. Martineau après l'article 7 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 1,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "9368",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 2631 de Mme Battistel après l'article 7 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 0,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "9367",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 3203 de M. Bataille après l'article 7 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 1,
+      "abstentions": 0
+    },
+    {
+      "numero": "9366",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 540 de M. Falcon après l'article 7 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "adopté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 1,
+      "abstentions": 0
+    },
+    {
+      "numero": "9365",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 1511 de M. Echaniz après l'article 7 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "adopté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 1,
+      "abstentions": 0
+    },
+    {
+      "numero": "9364",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 1149 de Mme Létard et l'amendement identique suivant après l'article 7 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "adopté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 1,
+      "abstentions": 0
+    },
+    {
+      "numero": "9363",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 3453 de M. Piquemal après l'article 7 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 1,
+      "abstentions": 0
+    },
+    {
+      "numero": "9362",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 667 (rect.) de M. Jean-Philippe Tanguy après l'article 7 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 0,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "9361",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 1048 de Mme Gillet après l'article 7 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "adopté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 3,
+      "abstentions": 0
+    },
+    {
+      "numero": "9360",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 1153 de Mme Létard et les amendements identiques suivants après l'article 7 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 3,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "9359",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 96 de M. Falcon et les amendements identiques suivants à l'article 7 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "adopté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 3,
+      "abstentions": 0
+    },
+    {
+      "numero": "9358",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 170 de M. Bazin et l'amendement identique suivant à l'article 7 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "abstention",
+      "pour": 0,
+      "contre": 0,
+      "abstentions": 1
+    },
+    {
       "numero": "9357",
       "date": "2026-10-30",
       "titre": "l'amendement n° 3195 de Mme de Pélichy à l'article 7 du projet de loi de finances pour 2027 (première lecture).",
@@ -64624,6 +67774,456 @@
     }
   ],
   "PO845470": [
+    {
+      "numero": "9402",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 2750 de M. Masséglia à l'article 12 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "adopté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 3,
+      "abstentions": 1
+    },
+    {
+      "numero": "9401",
+      "date": "2026-10-30",
+      "titre": "l'article 11 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 4,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "9400",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 1015 de Mme Laporte après l'article 10 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 2,
+      "abstentions": 1
+    },
+    {
+      "numero": "9399",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 1489 de M. Portier après l'article 10 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 1,
+      "contre": 1,
+      "abstentions": 1
+    },
+    {
+      "numero": "9398",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 3147 de M. Kasbarian après l'article 10 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 2,
+      "contre": 1,
+      "abstentions": 0
+    },
+    {
+      "numero": "9397",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 3608 de Mme Lejeune après l'article 10 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 3,
+      "abstentions": 0
+    },
+    {
+      "numero": "9396",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 3601 de M. Le Coq après l'article 10 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "abstention",
+      "pour": 0,
+      "contre": 0,
+      "abstentions": 1
+    },
+    {
+      "numero": "9395",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 1103 de Mme Maximi après l'article 10 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 3,
+      "abstentions": 0
+    },
+    {
+      "numero": "9394",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 1105 de M. Bilongo après l'article 10 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 3,
+      "abstentions": 0
+    },
+    {
+      "numero": "9393",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 3938 de M. Sansu après l'article 10 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 3,
+      "abstentions": 0
+    },
+    {
+      "numero": "9392",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 3940 de M. Sansu après l'article 10 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 3,
+      "abstentions": 0
+    },
+    {
+      "numero": "9391",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 1091 de M. Coquerel après l'article 10 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 3,
+      "abstentions": 0
+    },
+    {
+      "numero": "9390",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 3605 de M. Coquerel après l'article 10 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 3,
+      "abstentions": 0
+    },
+    {
+      "numero": "9389",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 43 de Mme Sas après l'article 10 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 3,
+      "abstentions": 0
+    },
+    {
+      "numero": "9388",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 3937 de M. Sansu après l'article 10 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 3,
+      "abstentions": 0
+    },
+    {
+      "numero": "9387",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 1089 de M. Le Coq après l'article 10 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 3,
+      "abstentions": 0
+    },
+    {
+      "numero": "9386",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 3603 de Mme Maximi après l'article 10 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 3,
+      "abstentions": 0
+    },
+    {
+      "numero": "9385",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 1092 de M. Le Coq après l'article 10 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 3,
+      "abstentions": 0
+    },
+    {
+      "numero": "9384",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 1090 de M. Le Coq après l'article 10 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 3,
+      "abstentions": 0
+    },
+    {
+      "numero": "9383",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 1475 de M. Loubet après l'article 10 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 2,
+      "abstentions": 1
+    },
+    {
+      "numero": "9382",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 785 de Mme Mercier après l'article 10 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 3,
+      "abstentions": 0
+    },
+    {
+      "numero": "9381",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 44 de Mme Sas après l'article 10 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 3,
+      "abstentions": 0
+    },
+    {
+      "numero": "9380",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 3941 de M. Sansu après l'article 10 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 3,
+      "abstentions": 0
+    },
+    {
+      "numero": "9379",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 3939 de M. Sansu après l'article 10 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 3,
+      "abstentions": 0
+    },
+    {
+      "numero": "9378",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 787 de M. Potier après l'article 10 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 3,
+      "abstentions": 0
+    },
+    {
+      "numero": "9377",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 1017 de Mme Laporte après  l'article 10 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "adopté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 2,
+      "abstentions": 1
+    },
+    {
+      "numero": "9376",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 1429 de M. Potier après  l'article 10 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "adopté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 2,
+      "abstentions": 1
+    },
+    {
+      "numero": "9375",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 3735 de M. Potier et l'amendement identique suivant à l'article 10 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 3,
+      "abstentions": 0
+    },
+    {
+      "numero": "9374",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 3671 de M. Attal et l'amendement identique suivant à l'article 10 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 2,
+      "abstentions": 0
+    },
+    {
+      "numero": "9373",
+      "date": "2026-10-30",
+      "titre": "l'article 8 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 2,
+      "abstentions": 1
+    },
+    {
+      "numero": "9372",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 112 de M. Falcon et l'amendement identique suivant de suppression de l'article 8 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "adopté",
+      "position": "abstention",
+      "pour": 0,
+      "contre": 1,
+      "abstentions": 2
+    },
+    {
+      "numero": "9371",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 2061 de Mme Maximi après l'article 7 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 3,
+      "abstentions": 0
+    },
+    {
+      "numero": "9370",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 2404 (rect.) de M. Le Coq après l'article 7 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 3,
+      "abstentions": 0
+    },
+    {
+      "numero": "9369",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 3817 de M. Martineau après l'article 7 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "adopté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 3,
+      "abstentions": 0
+    },
+    {
+      "numero": "9368",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 2631 de Mme Battistel après l'article 7 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 3,
+      "abstentions": 0
+    },
+    {
+      "numero": "9367",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 3203 de M. Bataille après l'article 7 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 2,
+      "abstentions": 1
+    },
+    {
+      "numero": "9366",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 540 de M. Falcon après l'article 7 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "adopté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 2,
+      "abstentions": 2
+    },
+    {
+      "numero": "9365",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 1511 de M. Echaniz après l'article 7 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "adopté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 3,
+      "abstentions": 1
+    },
+    {
+      "numero": "9364",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 1149 de Mme Létard et l'amendement identique suivant après l'article 7 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "adopté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 1,
+      "abstentions": 1
+    },
+    {
+      "numero": "9363",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 3453 de M. Piquemal après l'article 7 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 2,
+      "abstentions": 0
+    },
+    {
+      "numero": "9362",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 667 (rect.) de M. Jean-Philippe Tanguy après l'article 7 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "adopté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 2,
+      "abstentions": 0
+    },
+    {
+      "numero": "9361",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 1048 de Mme Gillet après l'article 7 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "adopté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 3,
+      "abstentions": 0
+    },
+    {
+      "numero": "9360",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 1153 de Mme Létard et les amendements identiques suivants après l'article 7 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "adopté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 1,
+      "abstentions": 1
+    },
+    {
+      "numero": "9359",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 96 de M. Falcon et les amendements identiques suivants à l'article 7 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 2,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "9358",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 170 de M. Bazin et l'amendement identique suivant à l'article 7 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 4,
+      "abstentions": 1
+    },
     {
       "numero": "9357",
       "date": "2026-10-30",
@@ -73857,6 +77457,456 @@
   ],
   "PO845485": [
     {
+      "numero": "9402",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 2750 de M. Masséglia à l'article 12 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 0,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "9401",
+      "date": "2026-10-30",
+      "titre": "l'article 11 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 0,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "9400",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 1015 de Mme Laporte après l'article 10 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 0,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "9399",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 1489 de M. Portier après l'article 10 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 0,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "9398",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 3147 de M. Kasbarian après l'article 10 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 0,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "9397",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 3608 de Mme Lejeune après l'article 10 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 0,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "9396",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 3601 de M. Le Coq après l'article 10 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 0,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "9395",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 1103 de Mme Maximi après l'article 10 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 0,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "9394",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 1105 de M. Bilongo après l'article 10 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 0,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "9393",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 3938 de M. Sansu après l'article 10 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 0,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "9392",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 3940 de M. Sansu après l'article 10 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 0,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "9391",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 1091 de M. Coquerel après l'article 10 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 0,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "9390",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 3605 de M. Coquerel après l'article 10 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 0,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "9389",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 43 de Mme Sas après l'article 10 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 0,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "9388",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 3937 de M. Sansu après l'article 10 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 0,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "9387",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 1089 de M. Le Coq après l'article 10 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 0,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "9386",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 3603 de Mme Maximi après l'article 10 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 0,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "9385",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 1092 de M. Le Coq après l'article 10 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 0,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "9384",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 1090 de M. Le Coq après l'article 10 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 0,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "9383",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 1475 de M. Loubet après l'article 10 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 0,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "9382",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 785 de Mme Mercier après l'article 10 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 0,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "9381",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 44 de Mme Sas après l'article 10 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 0,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "9380",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 3941 de M. Sansu après l'article 10 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 0,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "9379",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 3939 de M. Sansu après l'article 10 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 0,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "9378",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 787 de M. Potier après l'article 10 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 0,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "9377",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 1017 de Mme Laporte après  l'article 10 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 0,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "9376",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 1429 de M. Potier après  l'article 10 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 0,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "9375",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 3735 de M. Potier et l'amendement identique suivant à l'article 10 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 0,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "9374",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 3671 de M. Attal et l'amendement identique suivant à l'article 10 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 0,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "9373",
+      "date": "2026-10-30",
+      "titre": "l'article 8 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 0,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "9372",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 112 de M. Falcon et l'amendement identique suivant de suppression de l'article 8 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "adopté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 1,
+      "abstentions": 0
+    },
+    {
+      "numero": "9371",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 2061 de Mme Maximi après l'article 7 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 1,
+      "abstentions": 0
+    },
+    {
+      "numero": "9370",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 2404 (rect.) de M. Le Coq après l'article 7 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 1,
+      "abstentions": 0
+    },
+    {
+      "numero": "9369",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 3817 de M. Martineau après l'article 7 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "adopté",
+      "position": "abstention",
+      "pour": 0,
+      "contre": 0,
+      "abstentions": 1
+    },
+    {
+      "numero": "9368",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 2631 de Mme Battistel après l'article 7 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "abstention",
+      "pour": 0,
+      "contre": 0,
+      "abstentions": 1
+    },
+    {
+      "numero": "9367",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 3203 de M. Bataille après l'article 7 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 1,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "9366",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 540 de M. Falcon après l'article 7 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "adopté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 1,
+      "abstentions": 0
+    },
+    {
+      "numero": "9365",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 1511 de M. Echaniz après l'article 7 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 1,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "9364",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 1149 de Mme Létard et l'amendement identique suivant après l'article 7 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 1,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "9363",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 3453 de M. Piquemal après l'article 7 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 1,
+      "abstentions": 0
+    },
+    {
+      "numero": "9362",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 667 (rect.) de M. Jean-Philippe Tanguy après l'article 7 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "adopté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 1,
+      "abstentions": 0
+    },
+    {
+      "numero": "9361",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 1048 de Mme Gillet après l'article 7 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "adopté",
+      "position": "abstention",
+      "pour": 0,
+      "contre": 0,
+      "abstentions": 1
+    },
+    {
+      "numero": "9360",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 1153 de Mme Létard et les amendements identiques suivants après l'article 7 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 2,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "9359",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 96 de M. Falcon et les amendements identiques suivants à l'article 7 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "adopté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 2,
+      "abstentions": 0
+    },
+    {
+      "numero": "9358",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 170 de M. Bazin et l'amendement identique suivant à l'article 7 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 1,
+      "abstentions": 0
+    },
+    {
       "numero": "9357",
       "date": "2026-10-30",
       "titre": "l'amendement n° 3195 de Mme de Pélichy à l'article 7 du projet de loi de finances pour 2027 (première lecture).",
@@ -83088,6 +87138,456 @@
     }
   ],
   "PO872880": [
+    {
+      "numero": "9402",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 2750 de M. Masséglia à l'article 12 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 0,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "9401",
+      "date": "2026-10-30",
+      "titre": "l'article 11 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 0,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "9400",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 1015 de Mme Laporte après l'article 10 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 0,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "9399",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 1489 de M. Portier après l'article 10 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 1,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "9398",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 3147 de M. Kasbarian après l'article 10 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "abstention",
+      "pour": 0,
+      "contre": 0,
+      "abstentions": 1
+    },
+    {
+      "numero": "9397",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 3608 de Mme Lejeune après l'article 10 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 1,
+      "abstentions": 0
+    },
+    {
+      "numero": "9396",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 3601 de M. Le Coq après l'article 10 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 0,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "9395",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 1103 de Mme Maximi après l'article 10 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 1,
+      "abstentions": 0
+    },
+    {
+      "numero": "9394",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 1105 de M. Bilongo après l'article 10 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 1,
+      "abstentions": 0
+    },
+    {
+      "numero": "9393",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 3938 de M. Sansu après l'article 10 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 1,
+      "abstentions": 0
+    },
+    {
+      "numero": "9392",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 3940 de M. Sansu après l'article 10 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 1,
+      "abstentions": 0
+    },
+    {
+      "numero": "9391",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 1091 de M. Coquerel après l'article 10 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 1,
+      "abstentions": 0
+    },
+    {
+      "numero": "9390",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 3605 de M. Coquerel après l'article 10 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 1,
+      "abstentions": 0
+    },
+    {
+      "numero": "9389",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 43 de Mme Sas après l'article 10 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 1,
+      "abstentions": 0
+    },
+    {
+      "numero": "9388",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 3937 de M. Sansu après l'article 10 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 1,
+      "abstentions": 0
+    },
+    {
+      "numero": "9387",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 1089 de M. Le Coq après l'article 10 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 1,
+      "abstentions": 0
+    },
+    {
+      "numero": "9386",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 3603 de Mme Maximi après l'article 10 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 1,
+      "abstentions": 0
+    },
+    {
+      "numero": "9385",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 1092 de M. Le Coq après l'article 10 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 1,
+      "abstentions": 0
+    },
+    {
+      "numero": "9384",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 1090 de M. Le Coq après l'article 10 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 1,
+      "abstentions": 0
+    },
+    {
+      "numero": "9383",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 1475 de M. Loubet après l'article 10 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 1,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "9382",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 785 de Mme Mercier après l'article 10 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 1,
+      "abstentions": 0
+    },
+    {
+      "numero": "9381",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 44 de Mme Sas après l'article 10 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 1,
+      "abstentions": 0
+    },
+    {
+      "numero": "9380",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 3941 de M. Sansu après l'article 10 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 1,
+      "abstentions": 0
+    },
+    {
+      "numero": "9379",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 3939 de M. Sansu après l'article 10 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 1,
+      "abstentions": 0
+    },
+    {
+      "numero": "9378",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 787 de M. Potier après l'article 10 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 1,
+      "abstentions": 0
+    },
+    {
+      "numero": "9377",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 1017 de Mme Laporte après  l'article 10 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "adopté",
+      "position": "abstention",
+      "pour": 0,
+      "contre": 0,
+      "abstentions": 1
+    },
+    {
+      "numero": "9376",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 1429 de M. Potier après  l'article 10 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "adopté",
+      "position": "abstention",
+      "pour": 0,
+      "contre": 0,
+      "abstentions": 1
+    },
+    {
+      "numero": "9375",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 3735 de M. Potier et l'amendement identique suivant à l'article 10 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "abstention",
+      "pour": 0,
+      "contre": 0,
+      "abstentions": 1
+    },
+    {
+      "numero": "9374",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 3671 de M. Attal et l'amendement identique suivant à l'article 10 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "abstention",
+      "pour": 0,
+      "contre": 0,
+      "abstentions": 1
+    },
+    {
+      "numero": "9373",
+      "date": "2026-10-30",
+      "titre": "l'article 8 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "abstention",
+      "pour": 0,
+      "contre": 0,
+      "abstentions": 1
+    },
+    {
+      "numero": "9372",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 112 de M. Falcon et l'amendement identique suivant de suppression de l'article 8 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 1,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "9371",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 2061 de Mme Maximi après l'article 7 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 1,
+      "abstentions": 0
+    },
+    {
+      "numero": "9370",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 2404 (rect.) de M. Le Coq après l'article 7 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 1,
+      "abstentions": 0
+    },
+    {
+      "numero": "9369",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 3817 de M. Martineau après l'article 7 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "adopté",
+      "position": "abstention",
+      "pour": 0,
+      "contre": 0,
+      "abstentions": 1
+    },
+    {
+      "numero": "9368",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 2631 de Mme Battistel après l'article 7 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 1,
+      "abstentions": 0
+    },
+    {
+      "numero": "9367",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 3203 de M. Bataille après l'article 7 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 1,
+      "abstentions": 0
+    },
+    {
+      "numero": "9366",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 540 de M. Falcon après l'article 7 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 1,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "9365",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 1511 de M. Echaniz après l'article 7 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "adopté",
+      "position": "abstention",
+      "pour": 0,
+      "contre": 0,
+      "abstentions": 1
+    },
+    {
+      "numero": "9364",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 1149 de Mme Létard et l'amendement identique suivant après l'article 7 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 0,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "9363",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 3453 de M. Piquemal après l'article 7 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 0,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "9362",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 667 (rect.) de M. Jean-Philippe Tanguy après l'article 7 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 0,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "9361",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 1048 de Mme Gillet après l'article 7 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 0,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "9360",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 1153 de Mme Létard et les amendements identiques suivants après l'article 7 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 0,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "9359",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 96 de M. Falcon et les amendements identiques suivants à l'article 7 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 2,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "9358",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 170 de M. Bazin et l'amendement identique suivant à l'article 7 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "abstention",
+      "pour": 0,
+      "contre": 0,
+      "abstentions": 1
+    },
     {
       "numero": "9357",
       "date": "2026-10-30",
@@ -92321,6 +96821,456 @@
   ],
   "PO845514": [
     {
+      "numero": "9402",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 2750 de M. Masséglia à l'article 12 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 4,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "9401",
+      "date": "2026-10-30",
+      "titre": "l'article 11 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "adopté",
+      "position": "abstention",
+      "pour": 0,
+      "contre": 0,
+      "abstentions": 1
+    },
+    {
+      "numero": "9400",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 1015 de Mme Laporte après l'article 10 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 4,
+      "abstentions": 0
+    },
+    {
+      "numero": "9399",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 1489 de M. Portier après l'article 10 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "adopté",
+      "position": "abstention",
+      "pour": 1,
+      "contre": 1,
+      "abstentions": 2
+    },
+    {
+      "numero": "9398",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 3147 de M. Kasbarian après l'article 10 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 4,
+      "abstentions": 0
+    },
+    {
+      "numero": "9397",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 3608 de Mme Lejeune après l'article 10 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 2,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "9396",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 3601 de M. Le Coq après l'article 10 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 2,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "9395",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 1103 de Mme Maximi après l'article 10 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 3,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "9394",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 1105 de M. Bilongo après l'article 10 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 3,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "9393",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 3938 de M. Sansu après l'article 10 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 5,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "9392",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 3940 de M. Sansu après l'article 10 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 4,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "9391",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 1091 de M. Coquerel après l'article 10 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 4,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "9390",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 3605 de M. Coquerel après l'article 10 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 4,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "9389",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 43 de Mme Sas après l'article 10 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 4,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "9388",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 3937 de M. Sansu après l'article 10 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 4,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "9387",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 1089 de M. Le Coq après l'article 10 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "abstention",
+      "pour": 0,
+      "contre": 0,
+      "abstentions": 3
+    },
+    {
+      "numero": "9386",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 3603 de Mme Maximi après l'article 10 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "abstention",
+      "pour": 0,
+      "contre": 0,
+      "abstentions": 3
+    },
+    {
+      "numero": "9385",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 1092 de M. Le Coq après l'article 10 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "abstention",
+      "pour": 0,
+      "contre": 0,
+      "abstentions": 4
+    },
+    {
+      "numero": "9384",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 1090 de M. Le Coq après l'article 10 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 4,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "9383",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 1475 de M. Loubet après l'article 10 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 4,
+      "abstentions": 0
+    },
+    {
+      "numero": "9382",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 785 de Mme Mercier après l'article 10 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 3,
+      "contre": 1,
+      "abstentions": 0
+    },
+    {
+      "numero": "9381",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 44 de Mme Sas après l'article 10 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 4,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "9380",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 3941 de M. Sansu après l'article 10 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 4,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "9379",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 3939 de M. Sansu après l'article 10 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 4,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "9378",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 787 de M. Potier après l'article 10 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 4,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "9377",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 1017 de Mme Laporte après  l'article 10 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "adopté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 3,
+      "abstentions": 0
+    },
+    {
+      "numero": "9376",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 1429 de M. Potier après  l'article 10 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 3,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "9375",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 3735 de M. Potier et l'amendement identique suivant à l'article 10 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 2,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "9374",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 3671 de M. Attal et l'amendement identique suivant à l'article 10 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 3,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "9373",
+      "date": "2026-10-30",
+      "titre": "l'article 8 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 3,
+      "abstentions": 0
+    },
+    {
+      "numero": "9372",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 112 de M. Falcon et l'amendement identique suivant de suppression de l'article 8 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "adopté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 3,
+      "abstentions": 0
+    },
+    {
+      "numero": "9371",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 2061 de Mme Maximi après l'article 7 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 1,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "9370",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 2404 (rect.) de M. Le Coq après l'article 7 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 1,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "9369",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 3817 de M. Martineau après l'article 7 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 1,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "9368",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 2631 de Mme Battistel après l'article 7 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 1,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "9367",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 3203 de M. Bataille après l'article 7 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 3,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "9366",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 540 de M. Falcon après l'article 7 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "adopté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 1,
+      "abstentions": 0
+    },
+    {
+      "numero": "9365",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 1511 de M. Echaniz après l'article 7 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 2,
+      "contre": 1,
+      "abstentions": 0
+    },
+    {
+      "numero": "9364",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 1149 de Mme Létard et l'amendement identique suivant après l'article 7 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 0,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "9363",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 3453 de M. Piquemal après l'article 7 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 0,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "9362",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 667 (rect.) de M. Jean-Philippe Tanguy après l'article 7 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 0,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "9361",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 1048 de Mme Gillet après l'article 7 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 0,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "9360",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 1153 de Mme Létard et les amendements identiques suivants après l'article 7 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 0,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "9359",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 96 de M. Falcon et les amendements identiques suivants à l'article 7 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 0,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "9358",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 170 de M. Bazin et l'amendement identique suivant à l'article 7 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 2,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
       "numero": "9357",
       "date": "2026-10-30",
       "titre": "l'amendement n° 3195 de Mme de Pélichy à l'article 7 du projet de loi de finances pour 2027 (première lecture).",
@@ -101552,6 +106502,456 @@
     }
   ],
   "PO840056": [
+    {
+      "numero": "9402",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 2750 de M. Masséglia à l'article 12 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 0,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "9401",
+      "date": "2026-10-30",
+      "titre": "l'article 11 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 0,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "9400",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 1015 de Mme Laporte après l'article 10 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 0,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "9399",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 1489 de M. Portier après l'article 10 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 0,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "9398",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 3147 de M. Kasbarian après l'article 10 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 0,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "9397",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 3608 de Mme Lejeune après l'article 10 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 0,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "9396",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 3601 de M. Le Coq après l'article 10 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 0,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "9395",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 1103 de Mme Maximi après l'article 10 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 0,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "9394",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 1105 de M. Bilongo après l'article 10 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 0,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "9393",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 3938 de M. Sansu après l'article 10 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 0,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "9392",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 3940 de M. Sansu après l'article 10 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 0,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "9391",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 1091 de M. Coquerel après l'article 10 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 0,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "9390",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 3605 de M. Coquerel après l'article 10 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 0,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "9389",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 43 de Mme Sas après l'article 10 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 0,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "9388",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 3937 de M. Sansu après l'article 10 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 0,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "9387",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 1089 de M. Le Coq après l'article 10 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 0,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "9386",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 3603 de Mme Maximi après l'article 10 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 0,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "9385",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 1092 de M. Le Coq après l'article 10 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 0,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "9384",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 1090 de M. Le Coq après l'article 10 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 0,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "9383",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 1475 de M. Loubet après l'article 10 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 0,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "9382",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 785 de Mme Mercier après l'article 10 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 0,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "9381",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 44 de Mme Sas après l'article 10 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 0,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "9380",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 3941 de M. Sansu après l'article 10 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 0,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "9379",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 3939 de M. Sansu après l'article 10 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 0,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "9378",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 787 de M. Potier après l'article 10 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 0,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "9377",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 1017 de Mme Laporte après  l'article 10 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 0,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "9376",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 1429 de M. Potier après  l'article 10 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 0,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "9375",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 3735 de M. Potier et l'amendement identique suivant à l'article 10 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 1,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "9374",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 3671 de M. Attal et l'amendement identique suivant à l'article 10 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 1,
+      "abstentions": 0
+    },
+    {
+      "numero": "9373",
+      "date": "2026-10-30",
+      "titre": "l'article 8 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 0,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "9372",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 112 de M. Falcon et l'amendement identique suivant de suppression de l'article 8 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 0,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "9371",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 2061 de Mme Maximi après l'article 7 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 0,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "9370",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 2404 (rect.) de M. Le Coq après l'article 7 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 0,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "9369",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 3817 de M. Martineau après l'article 7 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 0,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "9368",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 2631 de Mme Battistel après l'article 7 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 0,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "9367",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 3203 de M. Bataille après l'article 7 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 0,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "9366",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 540 de M. Falcon après l'article 7 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 0,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "9365",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 1511 de M. Echaniz après l'article 7 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 0,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "9364",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 1149 de Mme Létard et l'amendement identique suivant après l'article 7 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 1,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "9363",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 3453 de M. Piquemal après l'article 7 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 1,
+      "abstentions": 0
+    },
+    {
+      "numero": "9362",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 667 (rect.) de M. Jean-Philippe Tanguy après l'article 7 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "adopté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 1,
+      "abstentions": 0
+    },
+    {
+      "numero": "9361",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 1048 de Mme Gillet après l'article 7 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "adopté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 1,
+      "abstentions": 0
+    },
+    {
+      "numero": "9360",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 1153 de Mme Létard et les amendements identiques suivants après l'article 7 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 1,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "9359",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 96 de M. Falcon et les amendements identiques suivants à l'article 7 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "adopté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 1,
+      "abstentions": 0
+    },
+    {
+      "numero": "9358",
+      "date": "2026-10-30",
+      "titre": "l'amendement n° 170 de M. Bazin et l'amendement identique suivant à l'article 7 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 0,
+      "contre": 0,
+      "abstentions": 0
+    },
     {
       "numero": "9357",
       "date": "2026-10-30",

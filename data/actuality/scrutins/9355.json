@@ -99,11 +99,11 @@
   ],
   "votesIndividuels": [
     {
-      "depute": "PA842097",
+      "depute": "PA795966",
       "position": "contre"
     },
     {
-      "depute": "PA795966",
+      "depute": "PA842097",
       "position": "contre"
     },
     {
@@ -148,6 +148,38 @@
     },
     {
       "depute": "PA793592",
+      "position": "abstention"
+    },
+    {
+      "depute": "PA794894",
+      "position": "abstention"
+    },
+    {
+      "depute": "PA794570",
+      "position": "abstention"
+    },
+    {
+      "depute": "PA794954",
+      "position": "abstention"
+    },
+    {
+      "depute": "PA795778",
+      "position": "abstention"
+    },
+    {
+      "depute": "PA841553",
+      "position": "abstention"
+    },
+    {
+      "depute": "PA793298",
+      "position": "abstention"
+    },
+    {
+      "depute": "PA794946",
+      "position": "abstention"
+    },
+    {
+      "depute": "PA841479",
       "position": "abstention"
     },
     {
@@ -207,43 +239,11 @@
       "position": "abstention"
     },
     {
-      "depute": "PA794894",
-      "position": "abstention"
-    },
-    {
-      "depute": "PA794570",
-      "position": "abstention"
-    },
-    {
-      "depute": "PA794954",
-      "position": "abstention"
-    },
-    {
-      "depute": "PA795778",
-      "position": "abstention"
-    },
-    {
-      "depute": "PA841553",
-      "position": "abstention"
-    },
-    {
-      "depute": "PA793298",
-      "position": "abstention"
-    },
-    {
-      "depute": "PA794946",
-      "position": "abstention"
-    },
-    {
-      "depute": "PA841479",
+      "depute": "PA841079",
       "position": "abstention"
     },
     {
       "depute": "PA840067",
-      "position": "abstention"
-    },
-    {
-      "depute": "PA841079",
       "position": "abstention"
     },
     {
@@ -379,6 +379,10 @@
       "position": "pour"
     },
     {
+      "depute": "PA610002",
+      "position": "pour"
+    },
+    {
       "depute": "PA794022",
       "position": "pour"
     },
@@ -388,10 +392,6 @@
     },
     {
       "depute": "PA794154",
-      "position": "pour"
-    },
-    {
-      "depute": "PA610002",
       "position": "pour"
     },
     {
