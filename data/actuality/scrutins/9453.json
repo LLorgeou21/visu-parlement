@@ -1,7 +1,7 @@
 {
   "numero": "9453",
   "date": "2026-10-30",
-  "titre": "l'amendement n° 2757 de M. Masséglia après l'article 15 du projet de loi de finances pour 2027 (première lecture).",
+  "titre": "l'amendement n° 2757 de M. Masséglia et l'amendement identique suivant après l'article 15 du projet de loi de finances pour 2027 (première lecture).",
   "seanceRef": "RUANR5L17S2027IDS30973",
   "dossier": "Projet de loi de finances pour 2027",
   "dossierRef": "DLR5L17N54629",
@@ -191,6 +191,14 @@
       "position": "contre"
     },
     {
+      "depute": "PA722366",
+      "position": "pour"
+    },
+    {
+      "depute": "PA842147",
+      "position": "pour"
+    },
+    {
       "depute": "PA795962",
       "position": "pour"
     },
@@ -203,19 +211,11 @@
       "position": "pour"
     },
     {
-      "depute": "PA721916",
-      "position": "pour"
-    },
-    {
-      "depute": "PA722366",
-      "position": "pour"
-    },
-    {
       "depute": "PA795664",
       "position": "pour"
     },
     {
-      "depute": "PA842147",
+      "depute": "PA721916",
       "position": "pour"
     },
     {

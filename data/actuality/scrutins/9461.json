@@ -1,0 +1,218 @@
+{
+  "numero": "9461",
+  "date": "2026-11-02",
+  "titre": "l'amendement n° 1118 (rect.) de M. Ott après l'article 15 du projet de loi de finances pour 2027 (première lecture).",
+  "seanceRef": "RUANR5L17S2027IDS30974",
+  "dossier": "Projet de loi de finances pour 2027",
+  "dossierRef": "DLR5L17N54629",
+  "typeVote": "scrutin public ordinaire",
+  "resultat": "adopté",
+  "votants": 29,
+  "pour": 8,
+  "contre": 5,
+  "abstentions": 16,
+  "parGroupe": [
+    {
+      "groupe": "PO845401",
+      "position": "abstention",
+      "pour": 0,
+      "contre": 0,
+      "abstentions": 6
+    },
+    {
+      "groupe": "PO845407",
+      "position": "abstention",
+      "pour": 0,
+      "contre": 0,
+      "abstentions": 3
+    },
+    {
+      "groupe": "PO845413",
+      "position": "abstention",
+      "pour": 0,
+      "contre": 0,
+      "abstentions": 7
+    },
+    {
+      "groupe": "PO845419",
+      "position": "contre",
+      "pour": 0,
+      "contre": 4,
+      "abstentions": 0
+    },
+    {
+      "groupe": "PO845425",
+      "position": "pour",
+      "pour": 1,
+      "contre": 1,
+      "abstentions": 0
+    },
+    {
+      "groupe": "PO845439",
+      "position": "pour",
+      "pour": 2,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "groupe": "PO845454",
+      "position": "pour",
+      "pour": 1,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "groupe": "PO845470",
+      "position": "pour",
+      "pour": 0,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "groupe": "PO845485",
+      "position": "pour",
+      "pour": 1,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "groupe": "PO845514",
+      "position": "pour",
+      "pour": 3,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "groupe": "PO872880",
+      "position": "pour",
+      "pour": 0,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "groupe": "PO840056",
+      "position": "pour",
+      "pour": 0,
+      "contre": 0,
+      "abstentions": 0
+    }
+  ],
+  "votesIndividuels": [
+    {
+      "depute": "PA841737",
+      "position": "abstention"
+    },
+    {
+      "depute": "PA840757",
+      "position": "abstention"
+    },
+    {
+      "depute": "PA795900",
+      "position": "abstention"
+    },
+    {
+      "depute": "PA795974",
+      "position": "abstention"
+    },
+    {
+      "depute": "PA841563",
+      "position": "abstention"
+    },
+    {
+      "depute": "PA793298",
+      "position": "abstention"
+    },
+    {
+      "depute": "PA719472",
+      "position": "abstention"
+    },
+    {
+      "depute": "PA722366",
+      "position": "abstention"
+    },
+    {
+      "depute": "PA720146",
+      "position": "abstention"
+    },
+    {
+      "depute": "PA721202",
+      "position": "abstention"
+    },
+    {
+      "depute": "PA841251",
+      "position": "abstention"
+    },
+    {
+      "depute": "PA796070",
+      "position": "abstention"
+    },
+    {
+      "depute": "PA794686",
+      "position": "abstention"
+    },
+    {
+      "depute": "PA793872",
+      "position": "abstention"
+    },
+    {
+      "depute": "PA841845",
+      "position": "abstention"
+    },
+    {
+      "depute": "PA841531",
+      "position": "abstention"
+    },
+    {
+      "depute": "PA794094",
+      "position": "contre"
+    },
+    {
+      "depute": "PA841463",
+      "position": "contre"
+    },
+    {
+      "depute": "PA840955",
+      "position": "contre"
+    },
+    {
+      "depute": "PA826635",
+      "position": "contre"
+    },
+    {
+      "depute": "PA840979",
+      "position": "pour"
+    },
+    {
+      "depute": "PA346782",
+      "position": "contre"
+    },
+    {
+      "depute": "PA841885",
+      "position": "pour"
+    },
+    {
+      "depute": "PA2940",
+      "position": "pour"
+    },
+    {
+      "depute": "PA794830",
+      "position": "pour"
+    },
+    {
+      "depute": "PA795244",
+      "position": "pour"
+    },
+    {
+      "depute": "PA774962",
+      "position": "pour"
+    },
+    {
+      "depute": "PA796010",
+      "position": "pour"
+    },
+    {
+      "depute": "PA605745",
+      "position": "pour"
+    }
+  ]
+}
