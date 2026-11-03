@@ -1,6 +1,496 @@
 {
   "PO845401": [
     {
+      "numero": "9578",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 3444 de M. Piquemal après l'article 26 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 33,
+      "abstentions": 0
+    },
+    {
+      "numero": "9577",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 2129 de Mme Lebon et l'amendement identique suivant après l'article 26 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "adopté",
+      "position": "abstention",
+      "pour": 0,
+      "contre": 0,
+      "abstentions": 34
+    },
+    {
+      "numero": "9576",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 2007 de Mme Maximi après l'article 26 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 38,
+      "abstentions": 0
+    },
+    {
+      "numero": "9575",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 2079 de M. Bilongo après l'article 26 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 44,
+      "abstentions": 0
+    },
+    {
+      "numero": "9574",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 3926 de M. Sansu après l'article 26 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 45,
+      "abstentions": 0
+    },
+    {
+      "numero": "9573",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 3720 de Mme Arrighi après l'article 26 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 44,
+      "abstentions": 0
+    },
+    {
+      "numero": "9572",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 2779 de M. Dufau après l'article 26 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 46,
+      "abstentions": 0
+    },
+    {
+      "numero": "9571",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 759 de M. Renault (rect.) après l'article 26 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 45,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "9570",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 1407 de M. Echaniz après l'article 26 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 44,
+      "abstentions": 0
+    },
+    {
+      "numero": "9569",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 2646 de M. Lahais après l'article 26 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 1,
+      "contre": 42,
+      "abstentions": 1
+    },
+    {
+      "numero": "9568",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 2337 de M. Maudet après l'article 26 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "abstention",
+      "pour": 0,
+      "contre": 4,
+      "abstentions": 40
+    },
+    {
+      "numero": "9567",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 530 de Mme Lemoine après l'article 26 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 44,
+      "abstentions": 0
+    },
+    {
+      "numero": "9566",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 2105 de Mme Dupont après l'article 26 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 44,
+      "abstentions": 0
+    },
+    {
+      "numero": "9565",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 1189 de M. Coquerel à l'article 26 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 37,
+      "abstentions": 0
+    },
+    {
+      "numero": "9564",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 645 de M. Jean-Philippe Tanguy à l'article 26 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 38,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "9563",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 651 de M. Jean-Philippe Tanguy de suppression de l'article 26 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 38,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "9562",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 4003 du Gouvernement après l'article 25 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "adopté",
+      "position": "abstention",
+      "pour": 0,
+      "contre": 0,
+      "abstentions": 38
+    },
+    {
+      "numero": "9561",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 644 de M. Jean-Philippe Tanguy après l'article 25 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 37,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "9560",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 2930 de M. Leseul après l'article 25 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 35,
+      "abstentions": 0
+    },
+    {
+      "numero": "9559",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 305 de M. Bilongo après l'article 25 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 30,
+      "abstentions": 0
+    },
+    {
+      "numero": "9558",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 1998 de M. Bilongo après l'article 25 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 40,
+      "abstentions": 0
+    },
+    {
+      "numero": "9557",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 1992 de M. Le Coq après l'article 25 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 41,
+      "abstentions": 0
+    },
+    {
+      "numero": "9556",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 3551 de Mme Arrighi après l'article 25 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 41,
+      "abstentions": 0
+    },
+    {
+      "numero": "9555",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 495 (rect.) de Mme Klinkert après l'article 25 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 40,
+      "abstentions": 0
+    },
+    {
+      "numero": "9554",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 122 de Mme Brulebois après l'article 25 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "adopté",
+      "position": "abstention",
+      "pour": 0,
+      "contre": 0,
+      "abstentions": 41
+    },
+    {
+      "numero": "9553",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 2713 de M. Houssin après l'article 25 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 42,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "9552",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 1287 de Mme D'Intorni après l'article 25 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 40,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "9551",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 2327 de M. Fugit après l'article 25 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "abstention",
+      "pour": 1,
+      "contre": 0,
+      "abstentions": 39
+    },
+    {
+      "numero": "9550",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 1044 de Mme Galzy après l'article 25 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 36,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "9549",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 2324 de M. Fugit après l'article 25 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 34,
+      "abstentions": 0
+    },
+    {
+      "numero": "9548",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 2489 (rect.) de Mme Laernoes après l'article 25 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 20,
+      "abstentions": 13
+    },
+    {
+      "numero": "9547",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 235 de M. Dive et l'amendement identique suivant après l'article 25 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 34,
+      "contre": 2,
+      "abstentions": 0
+    },
+    {
+      "numero": "9546",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 2322 de M. Fugit après l'article 25 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "adopté",
+      "position": "abstention",
+      "pour": 0,
+      "contre": 0,
+      "abstentions": 35
+    },
+    {
+      "numero": "9545",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 1464 de M. Midy après l'article 25 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "abstention",
+      "pour": 0,
+      "contre": 0,
+      "abstentions": 31
+    },
+    {
+      "numero": "9544",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 296 de M. Le Coq après l'article 25 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 38,
+      "abstentions": 0
+    },
+    {
+      "numero": "9543",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 2325 de M. Fugit après l'article 25 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 38,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "9542",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 311 de M. Coquerel après l'article 25 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 39,
+      "abstentions": 0
+    },
+    {
+      "numero": "9541",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 310 de Mme Maximi après l'article 25 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 39,
+      "abstentions": 0
+    },
+    {
+      "numero": "9540",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 2003 de Mme Maximi après l'article 25 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 39,
+      "abstentions": 0
+    },
+    {
+      "numero": "9539",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 3774 de Mme Pannier-Runacher après l'article 25 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 39,
+      "abstentions": 0
+    },
+    {
+      "numero": "9538",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 3644 de M. Valentin après l'article 25 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 40,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "9537",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 414 de M. Le Fur après l'article 25 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 39,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "9536",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 2314 de M. Fugit et l'amendement identique suivant après l'article 25 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 38,
+      "abstentions": 0
+    },
+    {
+      "numero": "9535",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 682 de Mme Marais-Beuil après l'article 25 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 39,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "9534",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 642 de Mme Marais-Beuil après l'article 25 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 38,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "9533",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 3036 de M. Chavent après l'article 25 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 38,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "9532",
+      "date": "2026-11-02",
+      "titre": "l'article 25 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 37,
+      "abstentions": 0
+    },
+    {
+      "numero": "9531",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 2583 de Mme Lejeune à l'article 25 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 36,
+      "abstentions": 0
+    },
+    {
+      "numero": "9530",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 3773 (rect.) de Mme Pannier-Runacher à l'article 25 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 34,
+      "abstentions": 0
+    },
+    {
       "numero": "9529",
       "date": "2026-11-02",
       "titre": "l'amendement n° 2318 de M. Fugit à l'article 24 du projet de loi de finances pour 2027 (première lecture).",
@@ -10952,6 +11442,496 @@
     }
   ],
   "PO845407": [
+    {
+      "numero": "9578",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 3444 de M. Piquemal après l'article 26 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 10,
+      "abstentions": 0
+    },
+    {
+      "numero": "9577",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 2129 de Mme Lebon et l'amendement identique suivant après l'article 26 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "adopté",
+      "position": "abstention",
+      "pour": 0,
+      "contre": 0,
+      "abstentions": 6
+    },
+    {
+      "numero": "9576",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 2007 de Mme Maximi après l'article 26 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 16,
+      "abstentions": 0
+    },
+    {
+      "numero": "9575",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 2079 de M. Bilongo après l'article 26 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 15,
+      "abstentions": 0
+    },
+    {
+      "numero": "9574",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 3926 de M. Sansu après l'article 26 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 15,
+      "abstentions": 0
+    },
+    {
+      "numero": "9573",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 3720 de Mme Arrighi après l'article 26 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 15,
+      "abstentions": 0
+    },
+    {
+      "numero": "9572",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 2779 de M. Dufau après l'article 26 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 15,
+      "abstentions": 0
+    },
+    {
+      "numero": "9571",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 759 de M. Renault (rect.) après l'article 26 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 18,
+      "abstentions": 0
+    },
+    {
+      "numero": "9570",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 1407 de M. Echaniz après l'article 26 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 16,
+      "abstentions": 0
+    },
+    {
+      "numero": "9569",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 2646 de M. Lahais après l'article 26 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 15,
+      "abstentions": 0
+    },
+    {
+      "numero": "9568",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 2337 de M. Maudet après l'article 26 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 15,
+      "abstentions": 0
+    },
+    {
+      "numero": "9567",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 530 de Mme Lemoine après l'article 26 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 14,
+      "contre": 1,
+      "abstentions": 0
+    },
+    {
+      "numero": "9566",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 2105 de Mme Dupont après l'article 26 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 3,
+      "contre": 11,
+      "abstentions": 1
+    },
+    {
+      "numero": "9565",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 1189 de M. Coquerel à l'article 26 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 15,
+      "abstentions": 0
+    },
+    {
+      "numero": "9564",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 645 de M. Jean-Philippe Tanguy à l'article 26 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 15,
+      "abstentions": 0
+    },
+    {
+      "numero": "9563",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 651 de M. Jean-Philippe Tanguy de suppression de l'article 26 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 1,
+      "contre": 14,
+      "abstentions": 0
+    },
+    {
+      "numero": "9562",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 4003 du Gouvernement après l'article 25 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 14,
+      "contre": 1,
+      "abstentions": 0
+    },
+    {
+      "numero": "9561",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 644 de M. Jean-Philippe Tanguy après l'article 25 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 12,
+      "abstentions": 1
+    },
+    {
+      "numero": "9560",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 2930 de M. Leseul après l'article 25 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 13,
+      "abstentions": 1
+    },
+    {
+      "numero": "9559",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 305 de M. Bilongo après l'article 25 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 13,
+      "abstentions": 1
+    },
+    {
+      "numero": "9558",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 1998 de M. Bilongo après l'article 25 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 11,
+      "abstentions": 0
+    },
+    {
+      "numero": "9557",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 1992 de M. Le Coq après l'article 25 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 13,
+      "abstentions": 0
+    },
+    {
+      "numero": "9556",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 3551 de Mme Arrighi après l'article 25 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 13,
+      "abstentions": 0
+    },
+    {
+      "numero": "9555",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 495 (rect.) de Mme Klinkert après l'article 25 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 12,
+      "contre": 1,
+      "abstentions": 0
+    },
+    {
+      "numero": "9554",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 122 de Mme Brulebois après l'article 25 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 15,
+      "contre": 0,
+      "abstentions": 1
+    },
+    {
+      "numero": "9553",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 2713 de M. Houssin après l'article 25 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 16,
+      "abstentions": 0
+    },
+    {
+      "numero": "9552",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 1287 de Mme D'Intorni après l'article 25 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "adopté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 14,
+      "abstentions": 0
+    },
+    {
+      "numero": "9551",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 2327 de M. Fugit après l'article 25 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 13,
+      "contre": 0,
+      "abstentions": 1
+    },
+    {
+      "numero": "9550",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 1044 de Mme Galzy après l'article 25 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 1,
+      "contre": 14,
+      "abstentions": 0
+    },
+    {
+      "numero": "9549",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 2324 de M. Fugit après l'article 25 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 10,
+      "contre": 3,
+      "abstentions": 1
+    },
+    {
+      "numero": "9548",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 2489 (rect.) de Mme Laernoes après l'article 25 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 14,
+      "abstentions": 0
+    },
+    {
+      "numero": "9547",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 235 de M. Dive et l'amendement identique suivant après l'article 25 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "adopté",
+      "position": "contre",
+      "pour": 1,
+      "contre": 12,
+      "abstentions": 1
+    },
+    {
+      "numero": "9546",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 2322 de M. Fugit après l'article 25 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 12,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "9545",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 1464 de M. Midy après l'article 25 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 12,
+      "contre": 1,
+      "abstentions": 0
+    },
+    {
+      "numero": "9544",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 296 de M. Le Coq après l'article 25 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 15,
+      "abstentions": 0
+    },
+    {
+      "numero": "9543",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 2325 de M. Fugit après l'article 25 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 13,
+      "contre": 1,
+      "abstentions": 0
+    },
+    {
+      "numero": "9542",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 311 de M. Coquerel après l'article 25 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 14,
+      "abstentions": 0
+    },
+    {
+      "numero": "9541",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 310 de Mme Maximi après l'article 25 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 12,
+      "abstentions": 0
+    },
+    {
+      "numero": "9540",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 2003 de Mme Maximi après l'article 25 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 1,
+      "contre": 13,
+      "abstentions": 0
+    },
+    {
+      "numero": "9539",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 3774 de Mme Pannier-Runacher après l'article 25 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 4,
+      "contre": 4,
+      "abstentions": 4
+    },
+    {
+      "numero": "9538",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 3644 de M. Valentin après l'article 25 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 14,
+      "abstentions": 0
+    },
+    {
+      "numero": "9537",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 414 de M. Le Fur après l'article 25 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 14,
+      "abstentions": 0
+    },
+    {
+      "numero": "9536",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 2314 de M. Fugit et l'amendement identique suivant après l'article 25 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 14,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "9535",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 682 de Mme Marais-Beuil après l'article 25 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 14,
+      "abstentions": 0
+    },
+    {
+      "numero": "9534",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 642 de Mme Marais-Beuil après l'article 25 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 15,
+      "abstentions": 0
+    },
+    {
+      "numero": "9533",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 3036 de M. Chavent après l'article 25 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 13,
+      "abstentions": 0
+    },
+    {
+      "numero": "9532",
+      "date": "2026-11-02",
+      "titre": "l'article 25 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 15,
+      "contre": 1,
+      "abstentions": 0
+    },
+    {
+      "numero": "9531",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 2583 de Mme Lejeune à l'article 25 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 16,
+      "abstentions": 0
+    },
+    {
+      "numero": "9530",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 3773 (rect.) de Mme Pannier-Runacher à l'article 25 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 17,
+      "contre": 0,
+      "abstentions": 0
+    },
     {
       "numero": "9529",
       "date": "2026-11-02",
@@ -21905,6 +22885,496 @@
   ],
   "PO845413": [
     {
+      "numero": "9578",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 3444 de M. Piquemal après l'article 26 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 6,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "9577",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 2129 de Mme Lebon et l'amendement identique suivant après l'article 26 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 10,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "9576",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 2007 de Mme Maximi après l'article 26 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 14,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "9575",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 2079 de M. Bilongo après l'article 26 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 14,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "9574",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 3926 de M. Sansu après l'article 26 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 14,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "9573",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 3720 de Mme Arrighi après l'article 26 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 13,
+      "contre": 0,
+      "abstentions": 1
+    },
+    {
+      "numero": "9572",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 2779 de M. Dufau après l'article 26 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 14,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "9571",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 759 de M. Renault (rect.) après l'article 26 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 15,
+      "abstentions": 0
+    },
+    {
+      "numero": "9570",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 1407 de M. Echaniz après l'article 26 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 15,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "9569",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 2646 de M. Lahais après l'article 26 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 15,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "9568",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 2337 de M. Maudet après l'article 26 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 12,
+      "contre": 1,
+      "abstentions": 0
+    },
+    {
+      "numero": "9567",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 530 de Mme Lemoine après l'article 26 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "abstention",
+      "pour": 1,
+      "contre": 0,
+      "abstentions": 14
+    },
+    {
+      "numero": "9566",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 2105 de Mme Dupont après l'article 26 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "abstention",
+      "pour": 0,
+      "contre": 0,
+      "abstentions": 14
+    },
+    {
+      "numero": "9565",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 1189 de M. Coquerel à l'article 26 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 15,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "9564",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 645 de M. Jean-Philippe Tanguy à l'article 26 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 14,
+      "abstentions": 0
+    },
+    {
+      "numero": "9563",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 651 de M. Jean-Philippe Tanguy de suppression de l'article 26 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 15,
+      "abstentions": 0
+    },
+    {
+      "numero": "9562",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 4003 du Gouvernement après l'article 25 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "adopté",
+      "position": "abstention",
+      "pour": 1,
+      "contre": 0,
+      "abstentions": 13
+    },
+    {
+      "numero": "9561",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 644 de M. Jean-Philippe Tanguy après l'article 25 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 14,
+      "abstentions": 0
+    },
+    {
+      "numero": "9560",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 2930 de M. Leseul après l'article 25 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 12,
+      "abstentions": 0
+    },
+    {
+      "numero": "9559",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 305 de M. Bilongo après l'article 25 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 11,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "9558",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 1998 de M. Bilongo après l'article 25 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 11,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "9557",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 1992 de M. Le Coq après l'article 25 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 11,
+      "contre": 1,
+      "abstentions": 0
+    },
+    {
+      "numero": "9556",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 3551 de Mme Arrighi après l'article 25 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 14,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "9555",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 495 (rect.) de Mme Klinkert après l'article 25 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 12,
+      "abstentions": 0
+    },
+    {
+      "numero": "9554",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 122 de Mme Brulebois après l'article 25 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 13,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "9553",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 2713 de M. Houssin après l'article 25 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 11,
+      "abstentions": 0
+    },
+    {
+      "numero": "9552",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 1287 de Mme D'Intorni après l'article 25 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "adopté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 11,
+      "abstentions": 0
+    },
+    {
+      "numero": "9551",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 2327 de M. Fugit après l'article 25 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 11,
+      "abstentions": 0
+    },
+    {
+      "numero": "9550",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 1044 de Mme Galzy après l'article 25 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 1,
+      "contre": 10,
+      "abstentions": 0
+    },
+    {
+      "numero": "9549",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 2324 de M. Fugit après l'article 25 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 13,
+      "abstentions": 0
+    },
+    {
+      "numero": "9548",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 2489 (rect.) de Mme Laernoes après l'article 25 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 2,
+      "contre": 0,
+      "abstentions": 10
+    },
+    {
+      "numero": "9547",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 235 de M. Dive et l'amendement identique suivant après l'article 25 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "adopté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 14,
+      "abstentions": 0
+    },
+    {
+      "numero": "9546",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 2322 de M. Fugit après l'article 25 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "adopté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 13,
+      "abstentions": 1
+    },
+    {
+      "numero": "9545",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 1464 de M. Midy après l'article 25 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 13,
+      "abstentions": 0
+    },
+    {
+      "numero": "9544",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 296 de M. Le Coq après l'article 25 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 12,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "9543",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 2325 de M. Fugit après l'article 25 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "adopté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 11,
+      "abstentions": 0
+    },
+    {
+      "numero": "9542",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 311 de M. Coquerel après l'article 25 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 13,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "9541",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 310 de Mme Maximi après l'article 25 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 12,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "9540",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 2003 de Mme Maximi après l'article 25 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 12,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "9539",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 3774 de Mme Pannier-Runacher après l'article 25 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 11,
+      "abstentions": 0
+    },
+    {
+      "numero": "9538",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 3644 de M. Valentin après l'article 25 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 12,
+      "abstentions": 0
+    },
+    {
+      "numero": "9537",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 414 de M. Le Fur après l'article 25 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 12,
+      "abstentions": 0
+    },
+    {
+      "numero": "9536",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 2314 de M. Fugit et l'amendement identique suivant après l'article 25 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 12,
+      "abstentions": 0
+    },
+    {
+      "numero": "9535",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 682 de Mme Marais-Beuil après l'article 25 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 12,
+      "abstentions": 0
+    },
+    {
+      "numero": "9534",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 642 de Mme Marais-Beuil après l'article 25 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 10,
+      "abstentions": 0
+    },
+    {
+      "numero": "9533",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 3036 de M. Chavent après l'article 25 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 2,
+      "contre": 7,
+      "abstentions": 1
+    },
+    {
+      "numero": "9532",
+      "date": "2026-11-02",
+      "titre": "l'article 25 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 12,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "9531",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 2583 de Mme Lejeune à l'article 25 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 10,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "9530",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 3773 (rect.) de Mme Pannier-Runacher à l'article 25 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 10,
+      "abstentions": 0
+    },
+    {
       "numero": "9529",
       "date": "2026-11-02",
       "titre": "l'amendement n° 2318 de M. Fugit à l'article 24 du projet de loi de finances pour 2027 (première lecture).",
@@ -32856,6 +34326,496 @@
     }
   ],
   "PO845419": [
+    {
+      "numero": "9578",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 3444 de M. Piquemal après l'article 26 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "abstention",
+      "pour": 2,
+      "contre": 0,
+      "abstentions": 8
+    },
+    {
+      "numero": "9577",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 2129 de Mme Lebon et l'amendement identique suivant après l'article 26 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 10,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "9576",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 2007 de Mme Maximi après l'article 26 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 9,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "9575",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 2079 de M. Bilongo après l'article 26 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 9,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "9574",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 3926 de M. Sansu après l'article 26 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 9,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "9573",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 3720 de Mme Arrighi après l'article 26 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 9,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "9572",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 2779 de M. Dufau après l'article 26 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 9,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "9571",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 759 de M. Renault (rect.) après l'article 26 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 9,
+      "abstentions": 0
+    },
+    {
+      "numero": "9570",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 1407 de M. Echaniz après l'article 26 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 11,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "9569",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 2646 de M. Lahais après l'article 26 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 11,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "9568",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 2337 de M. Maudet après l'article 26 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 10,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "9567",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 530 de Mme Lemoine après l'article 26 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 11,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "9566",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 2105 de Mme Dupont après l'article 26 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 11,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "9565",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 1189 de M. Coquerel à l'article 26 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 9,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "9564",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 645 de M. Jean-Philippe Tanguy à l'article 26 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 9,
+      "abstentions": 0
+    },
+    {
+      "numero": "9563",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 651 de M. Jean-Philippe Tanguy de suppression de l'article 26 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 9,
+      "abstentions": 0
+    },
+    {
+      "numero": "9562",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 4003 du Gouvernement après l'article 25 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 9,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "9561",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 644 de M. Jean-Philippe Tanguy après l'article 25 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 10,
+      "abstentions": 0
+    },
+    {
+      "numero": "9560",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 2930 de M. Leseul après l'article 25 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 10,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "9559",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 305 de M. Bilongo après l'article 25 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 9,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "9558",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 1998 de M. Bilongo après l'article 25 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 5,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "9557",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 1992 de M. Le Coq après l'article 25 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 5,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "9556",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 3551 de Mme Arrighi après l'article 25 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 6,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "9555",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 495 (rect.) de Mme Klinkert après l'article 25 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 5,
+      "abstentions": 0
+    },
+    {
+      "numero": "9554",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 122 de Mme Brulebois après l'article 25 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 6,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "9553",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 2713 de M. Houssin après l'article 25 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 7,
+      "abstentions": 0
+    },
+    {
+      "numero": "9552",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 1287 de Mme D'Intorni après l'article 25 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "adopté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 6,
+      "abstentions": 0
+    },
+    {
+      "numero": "9551",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 2327 de M. Fugit après l'article 25 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "abstention",
+      "pour": 0,
+      "contre": 2,
+      "abstentions": 4
+    },
+    {
+      "numero": "9550",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 1044 de Mme Galzy après l'article 25 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 6,
+      "abstentions": 0
+    },
+    {
+      "numero": "9549",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 2324 de M. Fugit après l'article 25 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 6,
+      "abstentions": 0
+    },
+    {
+      "numero": "9548",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 2489 (rect.) de Mme Laernoes après l'article 25 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 2,
+      "contre": 0,
+      "abstentions": 1
+    },
+    {
+      "numero": "9547",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 235 de M. Dive et l'amendement identique suivant après l'article 25 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "adopté",
+      "position": "abstention",
+      "pour": 0,
+      "contre": 1,
+      "abstentions": 4
+    },
+    {
+      "numero": "9546",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 2322 de M. Fugit après l'article 25 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "adopté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 3,
+      "abstentions": 2
+    },
+    {
+      "numero": "9545",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 1464 de M. Midy après l'article 25 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 4,
+      "abstentions": 0
+    },
+    {
+      "numero": "9544",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 296 de M. Le Coq après l'article 25 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 5,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "9543",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 2325 de M. Fugit après l'article 25 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "adopté",
+      "position": "contre",
+      "pour": 1,
+      "contre": 4,
+      "abstentions": 0
+    },
+    {
+      "numero": "9542",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 311 de M. Coquerel après l'article 25 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 1,
+      "contre": 4,
+      "abstentions": 0
+    },
+    {
+      "numero": "9541",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 310 de Mme Maximi après l'article 25 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 5,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "9540",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 2003 de Mme Maximi après l'article 25 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 5,
+      "abstentions": 0
+    },
+    {
+      "numero": "9539",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 3774 de Mme Pannier-Runacher après l'article 25 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 2,
+      "contre": 1,
+      "abstentions": 2
+    },
+    {
+      "numero": "9538",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 3644 de M. Valentin après l'article 25 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 5,
+      "abstentions": 0
+    },
+    {
+      "numero": "9537",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 414 de M. Le Fur après l'article 25 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 5,
+      "abstentions": 0
+    },
+    {
+      "numero": "9536",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 2314 de M. Fugit et l'amendement identique suivant après l'article 25 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 5,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "9535",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 682 de Mme Marais-Beuil après l'article 25 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 3,
+      "abstentions": 0
+    },
+    {
+      "numero": "9534",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 642 de Mme Marais-Beuil après l'article 25 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 3,
+      "abstentions": 0
+    },
+    {
+      "numero": "9533",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 3036 de M. Chavent après l'article 25 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 3,
+      "abstentions": 0
+    },
+    {
+      "numero": "9532",
+      "date": "2026-11-02",
+      "titre": "l'article 25 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 3,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "9531",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 2583 de Mme Lejeune à l'article 25 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 3,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "9530",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 3773 (rect.) de Mme Pannier-Runacher à l'article 25 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "abstention",
+      "pour": 1,
+      "contre": 1,
+      "abstentions": 4
+    },
     {
       "numero": "9529",
       "date": "2026-11-02",
@@ -43809,6 +45769,496 @@
   ],
   "PO845425": [
     {
+      "numero": "9578",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 3444 de M. Piquemal après l'article 26 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 8,
+      "abstentions": 0
+    },
+    {
+      "numero": "9577",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 2129 de Mme Lebon et l'amendement identique suivant après l'article 26 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "adopté",
+      "position": "contre",
+      "pour": 2,
+      "contre": 4,
+      "abstentions": 2
+    },
+    {
+      "numero": "9576",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 2007 de Mme Maximi après l'article 26 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 9,
+      "abstentions": 0
+    },
+    {
+      "numero": "9575",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 2079 de M. Bilongo après l'article 26 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 11,
+      "abstentions": 0
+    },
+    {
+      "numero": "9574",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 3926 de M. Sansu après l'article 26 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 11,
+      "abstentions": 0
+    },
+    {
+      "numero": "9573",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 3720 de Mme Arrighi après l'article 26 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 11,
+      "abstentions": 0
+    },
+    {
+      "numero": "9572",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 2779 de M. Dufau après l'article 26 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 11,
+      "abstentions": 0
+    },
+    {
+      "numero": "9571",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 759 de M. Renault (rect.) après l'article 26 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 10,
+      "abstentions": 0
+    },
+    {
+      "numero": "9570",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 1407 de M. Echaniz après l'article 26 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 10,
+      "abstentions": 0
+    },
+    {
+      "numero": "9569",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 2646 de M. Lahais après l'article 26 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 9,
+      "abstentions": 0
+    },
+    {
+      "numero": "9568",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 2337 de M. Maudet après l'article 26 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 8,
+      "abstentions": 1
+    },
+    {
+      "numero": "9567",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 530 de Mme Lemoine après l'article 26 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 8,
+      "abstentions": 0
+    },
+    {
+      "numero": "9566",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 2105 de Mme Dupont après l'article 26 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 1,
+      "contre": 7,
+      "abstentions": 0
+    },
+    {
+      "numero": "9565",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 1189 de M. Coquerel à l'article 26 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 10,
+      "abstentions": 0
+    },
+    {
+      "numero": "9564",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 645 de M. Jean-Philippe Tanguy à l'article 26 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 10,
+      "abstentions": 0
+    },
+    {
+      "numero": "9563",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 651 de M. Jean-Philippe Tanguy de suppression de l'article 26 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 9,
+      "abstentions": 0
+    },
+    {
+      "numero": "9562",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 4003 du Gouvernement après l'article 25 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 10,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "9561",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 644 de M. Jean-Philippe Tanguy après l'article 25 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 8,
+      "abstentions": 0
+    },
+    {
+      "numero": "9560",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 2930 de M. Leseul après l'article 25 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 8,
+      "abstentions": 0
+    },
+    {
+      "numero": "9559",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 305 de M. Bilongo après l'article 25 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 8,
+      "abstentions": 0
+    },
+    {
+      "numero": "9558",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 1998 de M. Bilongo après l'article 25 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 5,
+      "abstentions": 0
+    },
+    {
+      "numero": "9557",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 1992 de M. Le Coq après l'article 25 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 5,
+      "abstentions": 0
+    },
+    {
+      "numero": "9556",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 3551 de Mme Arrighi après l'article 25 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 5,
+      "abstentions": 0
+    },
+    {
+      "numero": "9555",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 495 (rect.) de Mme Klinkert après l'article 25 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 5,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "9554",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 122 de Mme Brulebois après l'article 25 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 4,
+      "contre": 0,
+      "abstentions": 1
+    },
+    {
+      "numero": "9553",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 2713 de M. Houssin après l'article 25 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 5,
+      "abstentions": 0
+    },
+    {
+      "numero": "9552",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 1287 de Mme D'Intorni après l'article 25 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "adopté",
+      "position": "contre",
+      "pour": 1,
+      "contre": 3,
+      "abstentions": 0
+    },
+    {
+      "numero": "9551",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 2327 de M. Fugit après l'article 25 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 3,
+      "contre": 1,
+      "abstentions": 0
+    },
+    {
+      "numero": "9550",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 1044 de Mme Galzy après l'article 25 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 6,
+      "abstentions": 0
+    },
+    {
+      "numero": "9549",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 2324 de M. Fugit après l'article 25 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 2,
+      "contre": 4,
+      "abstentions": 0
+    },
+    {
+      "numero": "9548",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 2489 (rect.) de Mme Laernoes après l'article 25 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 6,
+      "abstentions": 0
+    },
+    {
+      "numero": "9547",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 235 de M. Dive et l'amendement identique suivant après l'article 25 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 4,
+      "contre": 1,
+      "abstentions": 1
+    },
+    {
+      "numero": "9546",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 2322 de M. Fugit après l'article 25 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 5,
+      "contre": 1,
+      "abstentions": 0
+    },
+    {
+      "numero": "9545",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 1464 de M. Midy après l'article 25 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 4,
+      "abstentions": 2
+    },
+    {
+      "numero": "9544",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 296 de M. Le Coq après l'article 25 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 6,
+      "abstentions": 0
+    },
+    {
+      "numero": "9543",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 2325 de M. Fugit après l'article 25 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "adopté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 4,
+      "abstentions": 2
+    },
+    {
+      "numero": "9542",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 311 de M. Coquerel après l'article 25 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 6,
+      "abstentions": 0
+    },
+    {
+      "numero": "9541",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 310 de Mme Maximi après l'article 25 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 6,
+      "abstentions": 0
+    },
+    {
+      "numero": "9540",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 2003 de Mme Maximi après l'article 25 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 6,
+      "abstentions": 0
+    },
+    {
+      "numero": "9539",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 3774 de Mme Pannier-Runacher après l'article 25 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 6,
+      "abstentions": 0
+    },
+    {
+      "numero": "9538",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 3644 de M. Valentin après l'article 25 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 1,
+      "contre": 4,
+      "abstentions": 1
+    },
+    {
+      "numero": "9537",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 414 de M. Le Fur après l'article 25 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 5,
+      "contre": 1,
+      "abstentions": 0
+    },
+    {
+      "numero": "9536",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 2314 de M. Fugit et l'amendement identique suivant après l'article 25 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 4,
+      "contre": 0,
+      "abstentions": 1
+    },
+    {
+      "numero": "9535",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 682 de Mme Marais-Beuil après l'article 25 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 6,
+      "abstentions": 0
+    },
+    {
+      "numero": "9534",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 642 de Mme Marais-Beuil après l'article 25 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 4,
+      "abstentions": 1
+    },
+    {
+      "numero": "9533",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 3036 de M. Chavent après l'article 25 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 4,
+      "abstentions": 0
+    },
+    {
+      "numero": "9532",
+      "date": "2026-11-02",
+      "titre": "l'article 25 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 1,
+      "contre": 5,
+      "abstentions": 0
+    },
+    {
+      "numero": "9531",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 2583 de Mme Lejeune à l'article 25 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 6,
+      "abstentions": 0
+    },
+    {
+      "numero": "9530",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 3773 (rect.) de Mme Pannier-Runacher à l'article 25 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 5,
+      "abstentions": 1
+    },
+    {
       "numero": "9529",
       "date": "2026-11-02",
       "titre": "l'amendement n° 2318 de M. Fugit à l'article 24 du projet de loi de finances pour 2027 (première lecture).",
@@ -54760,6 +57210,496 @@
     }
   ],
   "PO845439": [
+    {
+      "numero": "9578",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 3444 de M. Piquemal après l'article 26 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 5,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "9577",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 2129 de Mme Lebon et l'amendement identique suivant après l'article 26 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 6,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "9576",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 2007 de Mme Maximi après l'article 26 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 6,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "9575",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 2079 de M. Bilongo après l'article 26 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 6,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "9574",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 3926 de M. Sansu après l'article 26 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 6,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "9573",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 3720 de Mme Arrighi après l'article 26 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 6,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "9572",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 2779 de M. Dufau après l'article 26 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 6,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "9571",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 759 de M. Renault (rect.) après l'article 26 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 6,
+      "abstentions": 0
+    },
+    {
+      "numero": "9570",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 1407 de M. Echaniz après l'article 26 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 6,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "9569",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 2646 de M. Lahais après l'article 26 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 6,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "9568",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 2337 de M. Maudet après l'article 26 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 6,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "9567",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 530 de Mme Lemoine après l'article 26 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 6,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "9566",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 2105 de Mme Dupont après l'article 26 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 6,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "9565",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 1189 de M. Coquerel à l'article 26 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 6,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "9564",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 645 de M. Jean-Philippe Tanguy à l'article 26 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 6,
+      "abstentions": 0
+    },
+    {
+      "numero": "9563",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 651 de M. Jean-Philippe Tanguy de suppression de l'article 26 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 6,
+      "abstentions": 0
+    },
+    {
+      "numero": "9562",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 4003 du Gouvernement après l'article 25 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 5,
+      "contre": 0,
+      "abstentions": 1
+    },
+    {
+      "numero": "9561",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 644 de M. Jean-Philippe Tanguy après l'article 25 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 6,
+      "abstentions": 0
+    },
+    {
+      "numero": "9560",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 2930 de M. Leseul après l'article 25 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 4,
+      "contre": 2,
+      "abstentions": 0
+    },
+    {
+      "numero": "9559",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 305 de M. Bilongo après l'article 25 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 6,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "9558",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 1998 de M. Bilongo après l'article 25 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 7,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "9557",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 1992 de M. Le Coq après l'article 25 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 7,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "9556",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 3551 de Mme Arrighi après l'article 25 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 7,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "9555",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 495 (rect.) de Mme Klinkert après l'article 25 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 7,
+      "abstentions": 0
+    },
+    {
+      "numero": "9554",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 122 de Mme Brulebois après l'article 25 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 7,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "9553",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 2713 de M. Houssin après l'article 25 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 1,
+      "contre": 5,
+      "abstentions": 0
+    },
+    {
+      "numero": "9552",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 1287 de Mme D'Intorni après l'article 25 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "adopté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 7,
+      "abstentions": 0
+    },
+    {
+      "numero": "9551",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 2327 de M. Fugit après l'article 25 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 6,
+      "abstentions": 0
+    },
+    {
+      "numero": "9550",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 1044 de Mme Galzy après l'article 25 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 6,
+      "abstentions": 0
+    },
+    {
+      "numero": "9549",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 2324 de M. Fugit après l'article 25 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 6,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "9548",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 2489 (rect.) de Mme Laernoes après l'article 25 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 7,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "9547",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 235 de M. Dive et l'amendement identique suivant après l'article 25 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "adopté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 7,
+      "abstentions": 0
+    },
+    {
+      "numero": "9546",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 2322 de M. Fugit après l'article 25 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "adopté",
+      "position": "abstention",
+      "pour": 0,
+      "contre": 0,
+      "abstentions": 6
+    },
+    {
+      "numero": "9545",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 1464 de M. Midy après l'article 25 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 8,
+      "abstentions": 0
+    },
+    {
+      "numero": "9544",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 296 de M. Le Coq après l'article 25 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 8,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "9543",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 2325 de M. Fugit après l'article 25 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "adopté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 8,
+      "abstentions": 0
+    },
+    {
+      "numero": "9542",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 311 de M. Coquerel après l'article 25 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 8,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "9541",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 310 de Mme Maximi après l'article 25 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 6,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "9540",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 2003 de Mme Maximi après l'article 25 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 7,
+      "contre": 1,
+      "abstentions": 0
+    },
+    {
+      "numero": "9539",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 3774 de Mme Pannier-Runacher après l'article 25 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 8,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "9538",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 3644 de M. Valentin après l'article 25 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 8,
+      "abstentions": 0
+    },
+    {
+      "numero": "9537",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 414 de M. Le Fur après l'article 25 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 8,
+      "abstentions": 0
+    },
+    {
+      "numero": "9536",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 2314 de M. Fugit et l'amendement identique suivant après l'article 25 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "abstention",
+      "pour": 2,
+      "contre": 0,
+      "abstentions": 6
+    },
+    {
+      "numero": "9535",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 682 de Mme Marais-Beuil après l'article 25 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 8,
+      "abstentions": 0
+    },
+    {
+      "numero": "9534",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 642 de Mme Marais-Beuil après l'article 25 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 8,
+      "abstentions": 0
+    },
+    {
+      "numero": "9533",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 3036 de M. Chavent après l'article 25 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 8,
+      "abstentions": 0
+    },
+    {
+      "numero": "9532",
+      "date": "2026-11-02",
+      "titre": "l'article 25 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 8,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "9531",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 2583 de Mme Lejeune à l'article 25 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 8,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "9530",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 3773 (rect.) de Mme Pannier-Runacher à l'article 25 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 5,
+      "contre": 3,
+      "abstentions": 0
+    },
     {
       "numero": "9529",
       "date": "2026-11-02",
@@ -65713,6 +68653,496 @@
   ],
   "PO845454": [
     {
+      "numero": "9578",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 3444 de M. Piquemal après l'article 26 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 7,
+      "abstentions": 0
+    },
+    {
+      "numero": "9577",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 2129 de Mme Lebon et l'amendement identique suivant après l'article 26 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 7,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "9576",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 2007 de Mme Maximi après l'article 26 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 10,
+      "abstentions": 0
+    },
+    {
+      "numero": "9575",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 2079 de M. Bilongo après l'article 26 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 13,
+      "abstentions": 0
+    },
+    {
+      "numero": "9574",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 3926 de M. Sansu après l'article 26 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 13,
+      "abstentions": 0
+    },
+    {
+      "numero": "9573",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 3720 de Mme Arrighi après l'article 26 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 13,
+      "abstentions": 0
+    },
+    {
+      "numero": "9572",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 2779 de M. Dufau après l'article 26 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 12,
+      "abstentions": 0
+    },
+    {
+      "numero": "9571",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 759 de M. Renault (rect.) après l'article 26 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 13,
+      "abstentions": 0
+    },
+    {
+      "numero": "9570",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 1407 de M. Echaniz après l'article 26 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 2,
+      "contre": 8,
+      "abstentions": 0
+    },
+    {
+      "numero": "9569",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 2646 de M. Lahais après l'article 26 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 1,
+      "contre": 6,
+      "abstentions": 2
+    },
+    {
+      "numero": "9568",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 2337 de M. Maudet après l'article 26 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 5,
+      "abstentions": 2
+    },
+    {
+      "numero": "9567",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 530 de Mme Lemoine après l'article 26 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 10,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "9566",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 2105 de Mme Dupont après l'article 26 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 1,
+      "contre": 7,
+      "abstentions": 0
+    },
+    {
+      "numero": "9565",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 1189 de M. Coquerel à l'article 26 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 5,
+      "abstentions": 0
+    },
+    {
+      "numero": "9564",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 645 de M. Jean-Philippe Tanguy à l'article 26 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 6,
+      "abstentions": 0
+    },
+    {
+      "numero": "9563",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 651 de M. Jean-Philippe Tanguy de suppression de l'article 26 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 6,
+      "abstentions": 0
+    },
+    {
+      "numero": "9562",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 4003 du Gouvernement après l'article 25 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 5,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "9561",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 644 de M. Jean-Philippe Tanguy après l'article 25 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 6,
+      "abstentions": 0
+    },
+    {
+      "numero": "9560",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 2930 de M. Leseul après l'article 25 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 5,
+      "abstentions": 0
+    },
+    {
+      "numero": "9559",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 305 de M. Bilongo après l'article 25 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 3,
+      "abstentions": 0
+    },
+    {
+      "numero": "9558",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 1998 de M. Bilongo après l'article 25 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 2,
+      "abstentions": 0
+    },
+    {
+      "numero": "9557",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 1992 de M. Le Coq après l'article 25 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 2,
+      "abstentions": 0
+    },
+    {
+      "numero": "9556",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 3551 de Mme Arrighi après l'article 25 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 2,
+      "abstentions": 0
+    },
+    {
+      "numero": "9555",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 495 (rect.) de Mme Klinkert après l'article 25 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 3,
+      "contre": 1,
+      "abstentions": 1
+    },
+    {
+      "numero": "9554",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 122 de Mme Brulebois après l'article 25 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 3,
+      "contre": 1,
+      "abstentions": 1
+    },
+    {
+      "numero": "9553",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 2713 de M. Houssin après l'article 25 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 4,
+      "abstentions": 0
+    },
+    {
+      "numero": "9552",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 1287 de Mme D'Intorni après l'article 25 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 4,
+      "contre": 1,
+      "abstentions": 0
+    },
+    {
+      "numero": "9551",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 2327 de M. Fugit après l'article 25 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 3,
+      "contre": 4,
+      "abstentions": 0
+    },
+    {
+      "numero": "9550",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 1044 de Mme Galzy après l'article 25 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 6,
+      "abstentions": 0
+    },
+    {
+      "numero": "9549",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 2324 de M. Fugit après l'article 25 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 7,
+      "contre": 2,
+      "abstentions": 0
+    },
+    {
+      "numero": "9548",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 2489 (rect.) de Mme Laernoes après l'article 25 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 1,
+      "contre": 5,
+      "abstentions": 0
+    },
+    {
+      "numero": "9547",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 235 de M. Dive et l'amendement identique suivant après l'article 25 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 8,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "9546",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 2322 de M. Fugit après l'article 25 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 5,
+      "contre": 0,
+      "abstentions": 1
+    },
+    {
+      "numero": "9545",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 1464 de M. Midy après l'article 25 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 5,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "9544",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 296 de M. Le Coq après l'article 25 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 5,
+      "abstentions": 0
+    },
+    {
+      "numero": "9543",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 2325 de M. Fugit après l'article 25 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 3,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "9542",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 311 de M. Coquerel après l'article 25 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 5,
+      "abstentions": 0
+    },
+    {
+      "numero": "9541",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 310 de Mme Maximi après l'article 25 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 5,
+      "abstentions": 0
+    },
+    {
+      "numero": "9540",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 2003 de Mme Maximi après l'article 25 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 2,
+      "abstentions": 2
+    },
+    {
+      "numero": "9539",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 3774 de Mme Pannier-Runacher après l'article 25 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 1,
+      "contre": 2,
+      "abstentions": 2
+    },
+    {
+      "numero": "9538",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 3644 de M. Valentin après l'article 25 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 5,
+      "abstentions": 0
+    },
+    {
+      "numero": "9537",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 414 de M. Le Fur après l'article 25 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 5,
+      "abstentions": 0
+    },
+    {
+      "numero": "9536",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 2314 de M. Fugit et l'amendement identique suivant après l'article 25 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 6,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "9535",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 682 de Mme Marais-Beuil après l'article 25 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 6,
+      "abstentions": 0
+    },
+    {
+      "numero": "9534",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 642 de Mme Marais-Beuil après l'article 25 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 6,
+      "abstentions": 0
+    },
+    {
+      "numero": "9533",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 3036 de M. Chavent après l'article 25 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 5,
+      "abstentions": 1
+    },
+    {
+      "numero": "9532",
+      "date": "2026-11-02",
+      "titre": "l'article 25 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 4,
+      "contre": 2,
+      "abstentions": 0
+    },
+    {
+      "numero": "9531",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 2583 de Mme Lejeune à l'article 25 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 6,
+      "abstentions": 0
+    },
+    {
+      "numero": "9530",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 3773 (rect.) de Mme Pannier-Runacher à l'article 25 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 5,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
       "numero": "9529",
       "date": "2026-11-02",
       "titre": "l'amendement n° 2318 de M. Fugit à l'article 24 du projet de loi de finances pour 2027 (première lecture).",
@@ -76664,6 +80094,496 @@
     }
   ],
   "PO845470": [
+    {
+      "numero": "9578",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 3444 de M. Piquemal après l'article 26 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 6,
+      "abstentions": 0
+    },
+    {
+      "numero": "9577",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 2129 de Mme Lebon et l'amendement identique suivant après l'article 26 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 4,
+      "contre": 0,
+      "abstentions": 2
+    },
+    {
+      "numero": "9576",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 2007 de Mme Maximi après l'article 26 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 6,
+      "abstentions": 0
+    },
+    {
+      "numero": "9575",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 2079 de M. Bilongo après l'article 26 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 6,
+      "abstentions": 0
+    },
+    {
+      "numero": "9574",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 3926 de M. Sansu après l'article 26 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 6,
+      "abstentions": 0
+    },
+    {
+      "numero": "9573",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 3720 de Mme Arrighi après l'article 26 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 6,
+      "abstentions": 0
+    },
+    {
+      "numero": "9572",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 2779 de M. Dufau après l'article 26 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 5,
+      "abstentions": 0
+    },
+    {
+      "numero": "9571",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 759 de M. Renault (rect.) après l'article 26 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 6,
+      "abstentions": 0
+    },
+    {
+      "numero": "9570",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 1407 de M. Echaniz après l'article 26 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 4,
+      "abstentions": 0
+    },
+    {
+      "numero": "9569",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 2646 de M. Lahais après l'article 26 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 4,
+      "abstentions": 0
+    },
+    {
+      "numero": "9568",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 2337 de M. Maudet après l'article 26 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 4,
+      "abstentions": 0
+    },
+    {
+      "numero": "9567",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 530 de Mme Lemoine après l'article 26 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 2,
+      "contre": 1,
+      "abstentions": 2
+    },
+    {
+      "numero": "9566",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 2105 de Mme Dupont après l'article 26 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 4,
+      "contre": 1,
+      "abstentions": 0
+    },
+    {
+      "numero": "9565",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 1189 de M. Coquerel à l'article 26 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 5,
+      "abstentions": 0
+    },
+    {
+      "numero": "9564",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 645 de M. Jean-Philippe Tanguy à l'article 26 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 3,
+      "abstentions": 1
+    },
+    {
+      "numero": "9563",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 651 de M. Jean-Philippe Tanguy de suppression de l'article 26 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 1,
+      "contre": 4,
+      "abstentions": 0
+    },
+    {
+      "numero": "9562",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 4003 du Gouvernement après l'article 25 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 5,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "9561",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 644 de M. Jean-Philippe Tanguy après l'article 25 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 2,
+      "abstentions": 2
+    },
+    {
+      "numero": "9560",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 2930 de M. Leseul après l'article 25 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 5,
+      "abstentions": 0
+    },
+    {
+      "numero": "9559",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 305 de M. Bilongo après l'article 25 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 5,
+      "abstentions": 0
+    },
+    {
+      "numero": "9558",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 1998 de M. Bilongo après l'article 25 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 1,
+      "abstentions": 0
+    },
+    {
+      "numero": "9557",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 1992 de M. Le Coq après l'article 25 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 1,
+      "abstentions": 0
+    },
+    {
+      "numero": "9556",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 3551 de Mme Arrighi après l'article 25 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 2,
+      "abstentions": 0
+    },
+    {
+      "numero": "9555",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 495 (rect.) de Mme Klinkert après l'article 25 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 1,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "9554",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 122 de Mme Brulebois après l'article 25 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 2,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "9553",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 2713 de M. Houssin après l'article 25 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 2,
+      "abstentions": 0
+    },
+    {
+      "numero": "9552",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 1287 de Mme D'Intorni après l'article 25 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "adopté",
+      "position": "abstention",
+      "pour": 0,
+      "contre": 0,
+      "abstentions": 1
+    },
+    {
+      "numero": "9551",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 2327 de M. Fugit après l'article 25 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "abstention",
+      "pour": 0,
+      "contre": 0,
+      "abstentions": 1
+    },
+    {
+      "numero": "9550",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 1044 de Mme Galzy après l'article 25 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 1,
+      "abstentions": 1
+    },
+    {
+      "numero": "9549",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 2324 de M. Fugit après l'article 25 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "abstention",
+      "pour": 0,
+      "contre": 0,
+      "abstentions": 1
+    },
+    {
+      "numero": "9548",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 2489 (rect.) de Mme Laernoes après l'article 25 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "abstention",
+      "pour": 0,
+      "contre": 0,
+      "abstentions": 1
+    },
+    {
+      "numero": "9547",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 235 de M. Dive et l'amendement identique suivant après l'article 25 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "adopté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 1,
+      "abstentions": 1
+    },
+    {
+      "numero": "9546",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 2322 de M. Fugit après l'article 25 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 1,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "9545",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 1464 de M. Midy après l'article 25 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "abstention",
+      "pour": 0,
+      "contre": 0,
+      "abstentions": 1
+    },
+    {
+      "numero": "9544",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 296 de M. Le Coq après l'article 25 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 1,
+      "abstentions": 0
+    },
+    {
+      "numero": "9543",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 2325 de M. Fugit après l'article 25 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 1,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "9542",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 311 de M. Coquerel après l'article 25 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 1,
+      "abstentions": 0
+    },
+    {
+      "numero": "9541",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 310 de Mme Maximi après l'article 25 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 1,
+      "abstentions": 0
+    },
+    {
+      "numero": "9540",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 2003 de Mme Maximi après l'article 25 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 1,
+      "abstentions": 0
+    },
+    {
+      "numero": "9539",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 3774 de Mme Pannier-Runacher après l'article 25 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 1,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "9538",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 3644 de M. Valentin après l'article 25 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "abstention",
+      "pour": 0,
+      "contre": 0,
+      "abstentions": 1
+    },
+    {
+      "numero": "9537",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 414 de M. Le Fur après l'article 25 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "abstention",
+      "pour": 0,
+      "contre": 0,
+      "abstentions": 1
+    },
+    {
+      "numero": "9536",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 2314 de M. Fugit et l'amendement identique suivant après l'article 25 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 1,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "9535",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 682 de Mme Marais-Beuil après l'article 25 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 1,
+      "abstentions": 0
+    },
+    {
+      "numero": "9534",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 642 de Mme Marais-Beuil après l'article 25 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 1,
+      "abstentions": 0
+    },
+    {
+      "numero": "9533",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 3036 de M. Chavent après l'article 25 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 1,
+      "abstentions": 0
+    },
+    {
+      "numero": "9532",
+      "date": "2026-11-02",
+      "titre": "l'article 25 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 1,
+      "abstentions": 0
+    },
+    {
+      "numero": "9531",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 2583 de Mme Lejeune à l'article 25 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 1,
+      "abstentions": 0
+    },
+    {
+      "numero": "9530",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 3773 (rect.) de Mme Pannier-Runacher à l'article 25 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 1,
+      "contre": 0,
+      "abstentions": 0
+    },
     {
       "numero": "9529",
       "date": "2026-11-02",
@@ -87617,6 +91537,496 @@
   ],
   "PO845485": [
     {
+      "numero": "9578",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 3444 de M. Piquemal après l'article 26 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 3,
+      "abstentions": 0
+    },
+    {
+      "numero": "9577",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 2129 de Mme Lebon et l'amendement identique suivant après l'article 26 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 4,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "9576",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 2007 de Mme Maximi après l'article 26 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 3,
+      "abstentions": 0
+    },
+    {
+      "numero": "9575",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 2079 de M. Bilongo après l'article 26 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 3,
+      "abstentions": 0
+    },
+    {
+      "numero": "9574",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 3926 de M. Sansu après l'article 26 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 1,
+      "abstentions": 0
+    },
+    {
+      "numero": "9573",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 3720 de Mme Arrighi après l'article 26 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 3,
+      "abstentions": 0
+    },
+    {
+      "numero": "9572",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 2779 de M. Dufau après l'article 26 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 3,
+      "abstentions": 0
+    },
+    {
+      "numero": "9571",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 759 de M. Renault (rect.) après l'article 26 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 3,
+      "abstentions": 0
+    },
+    {
+      "numero": "9570",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 1407 de M. Echaniz après l'article 26 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 3,
+      "abstentions": 0
+    },
+    {
+      "numero": "9569",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 2646 de M. Lahais après l'article 26 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 3,
+      "abstentions": 0
+    },
+    {
+      "numero": "9568",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 2337 de M. Maudet après l'article 26 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 3,
+      "abstentions": 0
+    },
+    {
+      "numero": "9567",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 530 de Mme Lemoine après l'article 26 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 3,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "9566",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 2105 de Mme Dupont après l'article 26 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 1,
+      "contre": 0,
+      "abstentions": 1
+    },
+    {
+      "numero": "9565",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 1189 de M. Coquerel à l'article 26 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 3,
+      "abstentions": 0
+    },
+    {
+      "numero": "9564",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 645 de M. Jean-Philippe Tanguy à l'article 26 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 3,
+      "abstentions": 0
+    },
+    {
+      "numero": "9563",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 651 de M. Jean-Philippe Tanguy de suppression de l'article 26 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 3,
+      "abstentions": 0
+    },
+    {
+      "numero": "9562",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 4003 du Gouvernement après l'article 25 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 2,
+      "contre": 0,
+      "abstentions": 1
+    },
+    {
+      "numero": "9561",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 644 de M. Jean-Philippe Tanguy après l'article 25 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 2,
+      "abstentions": 0
+    },
+    {
+      "numero": "9560",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 2930 de M. Leseul après l'article 25 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 3,
+      "abstentions": 0
+    },
+    {
+      "numero": "9559",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 305 de M. Bilongo après l'article 25 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 3,
+      "abstentions": 0
+    },
+    {
+      "numero": "9558",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 1998 de M. Bilongo après l'article 25 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 0,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "9557",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 1992 de M. Le Coq après l'article 25 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 2,
+      "abstentions": 0
+    },
+    {
+      "numero": "9556",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 3551 de Mme Arrighi après l'article 25 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 2,
+      "abstentions": 0
+    },
+    {
+      "numero": "9555",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 495 (rect.) de Mme Klinkert après l'article 25 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 2,
+      "abstentions": 0
+    },
+    {
+      "numero": "9554",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 122 de Mme Brulebois après l'article 25 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 2,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "9553",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 2713 de M. Houssin après l'article 25 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 1,
+      "abstentions": 0
+    },
+    {
+      "numero": "9552",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 1287 de Mme D'Intorni après l'article 25 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "adopté",
+      "position": "abstention",
+      "pour": 0,
+      "contre": 0,
+      "abstentions": 2
+    },
+    {
+      "numero": "9551",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 2327 de M. Fugit après l'article 25 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 2,
+      "abstentions": 0
+    },
+    {
+      "numero": "9550",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 1044 de Mme Galzy après l'article 25 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 2,
+      "abstentions": 0
+    },
+    {
+      "numero": "9549",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 2324 de M. Fugit après l'article 25 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 2,
+      "abstentions": 0
+    },
+    {
+      "numero": "9548",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 2489 (rect.) de Mme Laernoes après l'article 25 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 2,
+      "abstentions": 0
+    },
+    {
+      "numero": "9547",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 235 de M. Dive et l'amendement identique suivant après l'article 25 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "adopté",
+      "position": "abstention",
+      "pour": 0,
+      "contre": 0,
+      "abstentions": 2
+    },
+    {
+      "numero": "9546",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 2322 de M. Fugit après l'article 25 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 2,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "9545",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 1464 de M. Midy après l'article 25 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 2,
+      "abstentions": 0
+    },
+    {
+      "numero": "9544",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 296 de M. Le Coq après l'article 25 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 2,
+      "abstentions": 0
+    },
+    {
+      "numero": "9543",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 2325 de M. Fugit après l'article 25 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "adopté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 2,
+      "abstentions": 0
+    },
+    {
+      "numero": "9542",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 311 de M. Coquerel après l'article 25 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 1,
+      "abstentions": 0
+    },
+    {
+      "numero": "9541",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 310 de Mme Maximi après l'article 25 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 2,
+      "abstentions": 0
+    },
+    {
+      "numero": "9540",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 2003 de Mme Maximi après l'article 25 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 2,
+      "abstentions": 0
+    },
+    {
+      "numero": "9539",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 3774 de Mme Pannier-Runacher après l'article 25 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 2,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "9538",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 3644 de M. Valentin après l'article 25 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 1,
+      "abstentions": 0
+    },
+    {
+      "numero": "9537",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 414 de M. Le Fur après l'article 25 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 2,
+      "abstentions": 0
+    },
+    {
+      "numero": "9536",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 2314 de M. Fugit et l'amendement identique suivant après l'article 25 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 2,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "9535",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 682 de Mme Marais-Beuil après l'article 25 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 2,
+      "abstentions": 0
+    },
+    {
+      "numero": "9534",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 642 de Mme Marais-Beuil après l'article 25 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 2,
+      "abstentions": 0
+    },
+    {
+      "numero": "9533",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 3036 de M. Chavent après l'article 25 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 1,
+      "abstentions": 0
+    },
+    {
+      "numero": "9532",
+      "date": "2026-11-02",
+      "titre": "l'article 25 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 2,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "9531",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 2583 de Mme Lejeune à l'article 25 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 2,
+      "abstentions": 0
+    },
+    {
+      "numero": "9530",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 3773 (rect.) de Mme Pannier-Runacher à l'article 25 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 2,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
       "numero": "9529",
       "date": "2026-11-02",
       "titre": "l'amendement n° 2318 de M. Fugit à l'article 24 du projet de loi de finances pour 2027 (première lecture).",
@@ -98568,6 +102978,496 @@
     }
   ],
   "PO872880": [
+    {
+      "numero": "9578",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 3444 de M. Piquemal après l'article 26 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 4,
+      "abstentions": 0
+    },
+    {
+      "numero": "9577",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 2129 de Mme Lebon et l'amendement identique suivant après l'article 26 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "adopté",
+      "position": "abstention",
+      "pour": 0,
+      "contre": 0,
+      "abstentions": 5
+    },
+    {
+      "numero": "9576",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 2007 de Mme Maximi après l'article 26 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 6,
+      "abstentions": 0
+    },
+    {
+      "numero": "9575",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 2079 de M. Bilongo après l'article 26 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 6,
+      "abstentions": 0
+    },
+    {
+      "numero": "9574",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 3926 de M. Sansu après l'article 26 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 6,
+      "abstentions": 0
+    },
+    {
+      "numero": "9573",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 3720 de Mme Arrighi après l'article 26 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 6,
+      "abstentions": 0
+    },
+    {
+      "numero": "9572",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 2779 de M. Dufau après l'article 26 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 6,
+      "abstentions": 0
+    },
+    {
+      "numero": "9571",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 759 de M. Renault (rect.) après l'article 26 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 5,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "9570",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 1407 de M. Echaniz après l'article 26 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 5,
+      "abstentions": 0
+    },
+    {
+      "numero": "9569",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 2646 de M. Lahais après l'article 26 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 5,
+      "abstentions": 0
+    },
+    {
+      "numero": "9568",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 2337 de M. Maudet après l'article 26 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "abstention",
+      "pour": 0,
+      "contre": 1,
+      "abstentions": 4
+    },
+    {
+      "numero": "9567",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 530 de Mme Lemoine après l'article 26 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 5,
+      "abstentions": 0
+    },
+    {
+      "numero": "9566",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 2105 de Mme Dupont après l'article 26 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 4,
+      "abstentions": 0
+    },
+    {
+      "numero": "9565",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 1189 de M. Coquerel à l'article 26 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 4,
+      "abstentions": 0
+    },
+    {
+      "numero": "9564",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 645 de M. Jean-Philippe Tanguy à l'article 26 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 5,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "9563",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 651 de M. Jean-Philippe Tanguy de suppression de l'article 26 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 4,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "9562",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 4003 du Gouvernement après l'article 25 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "adopté",
+      "position": "abstention",
+      "pour": 0,
+      "contre": 0,
+      "abstentions": 4
+    },
+    {
+      "numero": "9561",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 644 de M. Jean-Philippe Tanguy après l'article 25 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 3,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "9560",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 2930 de M. Leseul après l'article 25 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 3,
+      "abstentions": 0
+    },
+    {
+      "numero": "9559",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 305 de M. Bilongo après l'article 25 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 3,
+      "abstentions": 0
+    },
+    {
+      "numero": "9558",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 1998 de M. Bilongo après l'article 25 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 4,
+      "abstentions": 0
+    },
+    {
+      "numero": "9557",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 1992 de M. Le Coq après l'article 25 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 4,
+      "abstentions": 0
+    },
+    {
+      "numero": "9556",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 3551 de Mme Arrighi après l'article 25 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 4,
+      "abstentions": 0
+    },
+    {
+      "numero": "9555",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 495 (rect.) de Mme Klinkert après l'article 25 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 4,
+      "abstentions": 0
+    },
+    {
+      "numero": "9554",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 122 de Mme Brulebois après l'article 25 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "adopté",
+      "position": "abstention",
+      "pour": 0,
+      "contre": 0,
+      "abstentions": 4
+    },
+    {
+      "numero": "9553",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 2713 de M. Houssin après l'article 25 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 4,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "9552",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 1287 de Mme D'Intorni après l'article 25 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 3,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "9551",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 2327 de M. Fugit après l'article 25 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "abstention",
+      "pour": 0,
+      "contre": 0,
+      "abstentions": 3
+    },
+    {
+      "numero": "9550",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 1044 de Mme Galzy après l'article 25 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 3,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "9549",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 2324 de M. Fugit après l'article 25 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 3,
+      "abstentions": 0
+    },
+    {
+      "numero": "9548",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 2489 (rect.) de Mme Laernoes après l'article 25 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "abstention",
+      "pour": 0,
+      "contre": 0,
+      "abstentions": 3
+    },
+    {
+      "numero": "9547",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 235 de M. Dive et l'amendement identique suivant après l'article 25 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 3,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "9546",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 2322 de M. Fugit après l'article 25 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "adopté",
+      "position": "abstention",
+      "pour": 0,
+      "contre": 0,
+      "abstentions": 3
+    },
+    {
+      "numero": "9545",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 1464 de M. Midy après l'article 25 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 3,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "9544",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 296 de M. Le Coq après l'article 25 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 3,
+      "abstentions": 0
+    },
+    {
+      "numero": "9543",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 2325 de M. Fugit après l'article 25 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 2,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "9542",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 311 de M. Coquerel après l'article 25 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 3,
+      "abstentions": 0
+    },
+    {
+      "numero": "9541",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 310 de Mme Maximi après l'article 25 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 3,
+      "abstentions": 0
+    },
+    {
+      "numero": "9540",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 2003 de Mme Maximi après l'article 25 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 3,
+      "abstentions": 0
+    },
+    {
+      "numero": "9539",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 3774 de Mme Pannier-Runacher après l'article 25 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 3,
+      "abstentions": 0
+    },
+    {
+      "numero": "9538",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 3644 de M. Valentin après l'article 25 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 3,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "9537",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 414 de M. Le Fur après l'article 25 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 3,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "9536",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 2314 de M. Fugit et l'amendement identique suivant après l'article 25 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 3,
+      "abstentions": 0
+    },
+    {
+      "numero": "9535",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 682 de Mme Marais-Beuil après l'article 25 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 3,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "9534",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 642 de Mme Marais-Beuil après l'article 25 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 3,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "9533",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 3036 de M. Chavent après l'article 25 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 3,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "9532",
+      "date": "2026-11-02",
+      "titre": "l'article 25 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 3,
+      "abstentions": 0
+    },
+    {
+      "numero": "9531",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 2583 de Mme Lejeune à l'article 25 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 3,
+      "abstentions": 0
+    },
+    {
+      "numero": "9530",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 3773 (rect.) de Mme Pannier-Runacher à l'article 25 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 3,
+      "abstentions": 0
+    },
     {
       "numero": "9529",
       "date": "2026-11-02",
@@ -109521,6 +114421,496 @@
   ],
   "PO845514": [
     {
+      "numero": "9578",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 3444 de M. Piquemal après l'article 26 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 3,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "9577",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 2129 de Mme Lebon et l'amendement identique suivant après l'article 26 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 6,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "9576",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 2007 de Mme Maximi après l'article 26 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 4,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "9575",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 2079 de M. Bilongo après l'article 26 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 5,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "9574",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 3926 de M. Sansu après l'article 26 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 5,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "9573",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 3720 de Mme Arrighi après l'article 26 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 6,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "9572",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 2779 de M. Dufau après l'article 26 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 6,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "9571",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 759 de M. Renault (rect.) après l'article 26 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 6,
+      "abstentions": 0
+    },
+    {
+      "numero": "9570",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 1407 de M. Echaniz après l'article 26 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 4,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "9569",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 2646 de M. Lahais après l'article 26 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 4,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "9568",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 2337 de M. Maudet après l'article 26 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 5,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "9567",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 530 de Mme Lemoine après l'article 26 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 4,
+      "contre": 0,
+      "abstentions": 1
+    },
+    {
+      "numero": "9566",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 2105 de Mme Dupont après l'article 26 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 5,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "9565",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 1189 de M. Coquerel à l'article 26 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 6,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "9564",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 645 de M. Jean-Philippe Tanguy à l'article 26 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 5,
+      "abstentions": 0
+    },
+    {
+      "numero": "9563",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 651 de M. Jean-Philippe Tanguy de suppression de l'article 26 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 3,
+      "abstentions": 0
+    },
+    {
+      "numero": "9562",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 4003 du Gouvernement après l'article 25 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "adopté",
+      "position": "abstention",
+      "pour": 0,
+      "contre": 0,
+      "abstentions": 6
+    },
+    {
+      "numero": "9561",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 644 de M. Jean-Philippe Tanguy après l'article 25 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "abstention",
+      "pour": 0,
+      "contre": 1,
+      "abstentions": 3
+    },
+    {
+      "numero": "9560",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 2930 de M. Leseul après l'article 25 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 5,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "9559",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 305 de M. Bilongo après l'article 25 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 4,
+      "contre": 0,
+      "abstentions": 1
+    },
+    {
+      "numero": "9558",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 1998 de M. Bilongo après l'article 25 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 5,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "9557",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 1992 de M. Le Coq après l'article 25 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 3,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "9556",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 3551 de Mme Arrighi après l'article 25 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 2,
+      "contre": 0,
+      "abstentions": 1
+    },
+    {
+      "numero": "9555",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 495 (rect.) de Mme Klinkert après l'article 25 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 1,
+      "contre": 1,
+      "abstentions": 1
+    },
+    {
+      "numero": "9554",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 122 de Mme Brulebois après l'article 25 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 2,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "9553",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 2713 de M. Houssin après l'article 25 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 2,
+      "abstentions": 0
+    },
+    {
+      "numero": "9552",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 1287 de Mme D'Intorni après l'article 25 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "adopté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 5,
+      "abstentions": 0
+    },
+    {
+      "numero": "9551",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 2327 de M. Fugit après l'article 25 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "abstention",
+      "pour": 0,
+      "contre": 0,
+      "abstentions": 1
+    },
+    {
+      "numero": "9550",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 1044 de Mme Galzy après l'article 25 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 2,
+      "abstentions": 0
+    },
+    {
+      "numero": "9549",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 2324 de M. Fugit après l'article 25 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "abstention",
+      "pour": 1,
+      "contre": 0,
+      "abstentions": 2
+    },
+    {
+      "numero": "9548",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 2489 (rect.) de Mme Laernoes après l'article 25 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 1,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "9547",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 235 de M. Dive et l'amendement identique suivant après l'article 25 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "adopté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 2,
+      "abstentions": 0
+    },
+    {
+      "numero": "9546",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 2322 de M. Fugit après l'article 25 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "adopté",
+      "position": "abstention",
+      "pour": 0,
+      "contre": 0,
+      "abstentions": 2
+    },
+    {
+      "numero": "9545",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 1464 de M. Midy après l'article 25 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 3,
+      "abstentions": 0
+    },
+    {
+      "numero": "9544",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 296 de M. Le Coq après l'article 25 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 2,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "9543",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 2325 de M. Fugit après l'article 25 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 1,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "9542",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 311 de M. Coquerel après l'article 25 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 3,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "9541",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 310 de Mme Maximi après l'article 25 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 2,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "9540",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 2003 de Mme Maximi après l'article 25 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 1,
+      "contre": 0,
+      "abstentions": 1
+    },
+    {
+      "numero": "9539",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 3774 de Mme Pannier-Runacher après l'article 25 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 2,
+      "abstentions": 0
+    },
+    {
+      "numero": "9538",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 3644 de M. Valentin après l'article 25 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 2,
+      "abstentions": 0
+    },
+    {
+      "numero": "9537",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 414 de M. Le Fur après l'article 25 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 1,
+      "contre": 2,
+      "abstentions": 0
+    },
+    {
+      "numero": "9536",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 2314 de M. Fugit et l'amendement identique suivant après l'article 25 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "abstention",
+      "pour": 1,
+      "contre": 0,
+      "abstentions": 2
+    },
+    {
+      "numero": "9535",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 682 de Mme Marais-Beuil après l'article 25 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 1,
+      "abstentions": 1
+    },
+    {
+      "numero": "9534",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 642 de Mme Marais-Beuil après l'article 25 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 1,
+      "abstentions": 0
+    },
+    {
+      "numero": "9533",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 3036 de M. Chavent après l'article 25 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 2,
+      "abstentions": 0
+    },
+    {
+      "numero": "9532",
+      "date": "2026-11-02",
+      "titre": "l'article 25 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "abstention",
+      "pour": 0,
+      "contre": 0,
+      "abstentions": 1
+    },
+    {
+      "numero": "9531",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 2583 de Mme Lejeune à l'article 25 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 2,
+      "contre": 0,
+      "abstentions": 1
+    },
+    {
+      "numero": "9530",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 3773 (rect.) de Mme Pannier-Runacher à l'article 25 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "abstention",
+      "pour": 0,
+      "contre": 0,
+      "abstentions": 3
+    },
+    {
       "numero": "9529",
       "date": "2026-11-02",
       "titre": "l'amendement n° 2318 de M. Fugit à l'article 24 du projet de loi de finances pour 2027 (première lecture).",
@@ -120472,6 +125862,496 @@
     }
   ],
   "PO840056": [
+    {
+      "numero": "9578",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 3444 de M. Piquemal après l'article 26 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 1,
+      "abstentions": 0
+    },
+    {
+      "numero": "9577",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 2129 de Mme Lebon et l'amendement identique suivant après l'article 26 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 1,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "9576",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 2007 de Mme Maximi après l'article 26 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 2,
+      "abstentions": 0
+    },
+    {
+      "numero": "9575",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 2079 de M. Bilongo après l'article 26 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 1,
+      "abstentions": 1
+    },
+    {
+      "numero": "9574",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 3926 de M. Sansu après l'article 26 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 1,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "9573",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 3720 de Mme Arrighi après l'article 26 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 1,
+      "abstentions": 1
+    },
+    {
+      "numero": "9572",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 2779 de M. Dufau après l'article 26 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 1,
+      "abstentions": 1
+    },
+    {
+      "numero": "9571",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 759 de M. Renault (rect.) après l'article 26 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 2,
+      "abstentions": 0
+    },
+    {
+      "numero": "9570",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 1407 de M. Echaniz après l'article 26 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 1,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "9569",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 2646 de M. Lahais après l'article 26 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 1,
+      "abstentions": 1
+    },
+    {
+      "numero": "9568",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 2337 de M. Maudet après l'article 26 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "abstention",
+      "pour": 0,
+      "contre": 0,
+      "abstentions": 1
+    },
+    {
+      "numero": "9567",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 530 de Mme Lemoine après l'article 26 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 2,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "9566",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 2105 de Mme Dupont après l'article 26 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 1,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "9565",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 1189 de M. Coquerel à l'article 26 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 2,
+      "abstentions": 0
+    },
+    {
+      "numero": "9564",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 645 de M. Jean-Philippe Tanguy à l'article 26 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 2,
+      "abstentions": 0
+    },
+    {
+      "numero": "9563",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 651 de M. Jean-Philippe Tanguy de suppression de l'article 26 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 1,
+      "abstentions": 0
+    },
+    {
+      "numero": "9562",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 4003 du Gouvernement après l'article 25 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 1,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "9561",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 644 de M. Jean-Philippe Tanguy après l'article 25 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 2,
+      "abstentions": 0
+    },
+    {
+      "numero": "9560",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 2930 de M. Leseul après l'article 25 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 1,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "9559",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 305 de M. Bilongo après l'article 25 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "abstention",
+      "pour": 0,
+      "contre": 0,
+      "abstentions": 1
+    },
+    {
+      "numero": "9558",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 1998 de M. Bilongo après l'article 25 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 1,
+      "abstentions": 0
+    },
+    {
+      "numero": "9557",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 1992 de M. Le Coq après l'article 25 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 2,
+      "abstentions": 0
+    },
+    {
+      "numero": "9556",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 3551 de Mme Arrighi après l'article 25 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 2,
+      "abstentions": 0
+    },
+    {
+      "numero": "9555",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 495 (rect.) de Mme Klinkert après l'article 25 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 2,
+      "abstentions": 0
+    },
+    {
+      "numero": "9554",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 122 de Mme Brulebois après l'article 25 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 1,
+      "contre": 1,
+      "abstentions": 0
+    },
+    {
+      "numero": "9553",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 2713 de M. Houssin après l'article 25 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 1,
+      "contre": 1,
+      "abstentions": 0
+    },
+    {
+      "numero": "9552",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 1287 de Mme D'Intorni après l'article 25 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 1,
+      "contre": 0,
+      "abstentions": 1
+    },
+    {
+      "numero": "9551",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 2327 de M. Fugit après l'article 25 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 1,
+      "abstentions": 1
+    },
+    {
+      "numero": "9550",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 1044 de Mme Galzy après l'article 25 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 1,
+      "contre": 1,
+      "abstentions": 0
+    },
+    {
+      "numero": "9549",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 2324 de M. Fugit après l'article 25 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 2,
+      "abstentions": 0
+    },
+    {
+      "numero": "9548",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 2489 (rect.) de Mme Laernoes après l'article 25 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 2,
+      "abstentions": 0
+    },
+    {
+      "numero": "9547",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 235 de M. Dive et l'amendement identique suivant après l'article 25 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "adopté",
+      "position": "abstention",
+      "pour": 0,
+      "contre": 0,
+      "abstentions": 1
+    },
+    {
+      "numero": "9546",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 2322 de M. Fugit après l'article 25 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 1,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "9545",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 1464 de M. Midy après l'article 25 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 1,
+      "abstentions": 0
+    },
+    {
+      "numero": "9544",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 296 de M. Le Coq après l'article 25 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 1,
+      "abstentions": 0
+    },
+    {
+      "numero": "9543",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 2325 de M. Fugit après l'article 25 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "adopté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 1,
+      "abstentions": 0
+    },
+    {
+      "numero": "9542",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 311 de M. Coquerel après l'article 25 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 1,
+      "abstentions": 0
+    },
+    {
+      "numero": "9541",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 310 de Mme Maximi après l'article 25 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 1,
+      "abstentions": 0
+    },
+    {
+      "numero": "9540",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 2003 de Mme Maximi après l'article 25 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 1,
+      "abstentions": 0
+    },
+    {
+      "numero": "9539",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 3774 de Mme Pannier-Runacher après l'article 25 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 1,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "9538",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 3644 de M. Valentin après l'article 25 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 1,
+      "abstentions": 0
+    },
+    {
+      "numero": "9537",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 414 de M. Le Fur après l'article 25 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 1,
+      "abstentions": 0
+    },
+    {
+      "numero": "9536",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 2314 de M. Fugit et l'amendement identique suivant après l'article 25 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 1,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "9535",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 682 de Mme Marais-Beuil après l'article 25 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 1,
+      "abstentions": 0
+    },
+    {
+      "numero": "9534",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 642 de Mme Marais-Beuil après l'article 25 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 1,
+      "abstentions": 0
+    },
+    {
+      "numero": "9533",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 3036 de M. Chavent après l'article 25 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 1,
+      "abstentions": 0
+    },
+    {
+      "numero": "9532",
+      "date": "2026-11-02",
+      "titre": "l'article 25 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 1,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "9531",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 2583 de Mme Lejeune à l'article 25 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 1,
+      "abstentions": 0
+    },
+    {
+      "numero": "9530",
+      "date": "2026-11-02",
+      "titre": "l'amendement n° 3773 (rect.) de Mme Pannier-Runacher à l'article 25 du projet de loi de finances pour 2027 (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 1,
+      "contre": 0,
+      "abstentions": 0
+    },
     {
       "numero": "9529",
       "date": "2026-11-02",
