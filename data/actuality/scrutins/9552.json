@@ -76,17 +76,17 @@
       "abstentions": 2
     },
     {
-      "groupe": "PO872880",
-      "position": "pour",
-      "pour": 3,
-      "contre": 0,
-      "abstentions": 0
-    },
-    {
       "groupe": "PO845514",
       "position": "contre",
       "pour": 0,
       "contre": 5,
+      "abstentions": 0
+    },
+    {
+      "groupe": "PO872880",
+      "position": "pour",
+      "pour": 3,
+      "contre": 0,
       "abstentions": 0
     },
     {
@@ -459,18 +459,6 @@
       "position": "abstention"
     },
     {
-      "depute": "PA840721",
-      "position": "pour"
-    },
-    {
-      "depute": "PA793322",
-      "position": "pour"
-    },
-    {
-      "depute": "PA841973",
-      "position": "pour"
-    },
-    {
       "depute": "PA795868",
       "position": "contre"
     },
@@ -489,6 +477,18 @@
     {
       "depute": "PA605745",
       "position": "contre"
+    },
+    {
+      "depute": "PA840721",
+      "position": "pour"
+    },
+    {
+      "depute": "PA793322",
+      "position": "pour"
+    },
+    {
+      "depute": "PA841973",
+      "position": "pour"
     },
     {
       "depute": "PA795540",
