@@ -756,18 +756,6 @@
     "debutMandat": "2024-07-07"
   },
   {
-    "id": "PA796042",
-    "civilite": "M.",
-    "prenom": "Frédéric",
-    "nom": "Boccaletti",
-    "groupe": "PO845401",
-    "departement": "Var",
-    "numCirconscription": "7",
-    "region": "Provence-Alpes-Côte d'Azur",
-    "placeHemicycle": 12,
-    "debutMandat": "2024-07-07"
-  },
-  {
     "id": "PA841543",
     "civilite": "M.",
     "prenom": "Jean",
@@ -1917,6 +1905,18 @@
     "numCirconscription": "1",
     "region": "Pays de la Loire",
     "placeHemicycle": 273,
+    "debutMandat": "2024-07-07"
+  },
+  {
+    "id": "PA796046",
+    "civilite": "Mme",
+    "prenom": "Isabelle",
+    "nom": "Delyon",
+    "groupe": "PO840056",
+    "departement": "Var",
+    "numCirconscription": "7",
+    "region": "Provence-Alpes-Côte d'Azur",
+    "placeHemicycle": null,
     "debutMandat": "2024-07-07"
   },
   {
