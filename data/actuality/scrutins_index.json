@@ -1,8 +1,120 @@
 [
   {
+    "numero": "9801",
+    "date": "2026-11-10",
+    "titre": "l'amendement n° 167 de M. Latombe à l'article 36 du projet de loi relatif à la résilience des infrastructures critiques et au renforcement de la cybersécurité (première lecture).",
+    "seanceRef": "RUANR5L17S2027IDS30990",
+    "dossier": "Projet de loi relatif à la résilience des infrastructures critiques et au renforcement de la cybersécurité",
+    "dossierRef": "DLR5L17N50731",
+    "typeVote": "scrutin public ordinaire",
+    "resultat": "adopté",
+    "votants": 38,
+    "pour": 23,
+    "contre": 15,
+    "abstentions": 0
+  },
+  {
+    "numero": "9800",
+    "date": "2026-11-10",
+    "titre": "l'amendement n° 383 de M. Bénard à l'article 31 du projet de loi relatif à la résilience des infrastructures critiques et au renforcement de la cybersécurité (première lecture).",
+    "seanceRef": "RUANR5L17S2027IDS30990",
+    "dossier": "Projet de loi relatif à la résilience des infrastructures critiques et au renforcement de la cybersécurité",
+    "dossierRef": "DLR5L17N50731",
+    "typeVote": "scrutin public ordinaire",
+    "resultat": "rejeté",
+    "votants": 45,
+    "pour": 15,
+    "contre": 15,
+    "abstentions": 15
+  },
+  {
+    "numero": "9799",
+    "date": "2026-11-10",
+    "titre": "l'amendement n° 85 de M. Le Gac à l'article 24 du projet de loi relatif à la résilience des infrastructures critiques et au renforcement de la cybersécurité (première lecture).",
+    "seanceRef": "RUANR5L17S2027IDS30990",
+    "dossier": "Projet de loi relatif à la résilience des infrastructures critiques et au renforcement de la cybersécurité",
+    "dossierRef": "DLR5L17N50731",
+    "typeVote": "scrutin public ordinaire",
+    "resultat": "rejeté",
+    "votants": 36,
+    "pour": 12,
+    "contre": 16,
+    "abstentions": 8
+  },
+  {
+    "numero": "9798",
+    "date": "2026-11-10",
+    "titre": "l'amendement n° 107 de M. Saint-Pasteur à l'article 24 du projet de loi relatif à la résilience des infrastructures critiques et au renforcement de la cybersécurité (première lecture).",
+    "seanceRef": "RUANR5L17S2027IDS30990",
+    "dossier": "Projet de loi relatif à la résilience des infrastructures critiques et au renforcement de la cybersécurité",
+    "dossierRef": "DLR5L17N50731",
+    "typeVote": "scrutin public ordinaire",
+    "resultat": "rejeté",
+    "votants": 45,
+    "pour": 14,
+    "contre": 28,
+    "abstentions": 3
+  },
+  {
+    "numero": "9797",
+    "date": "2026-11-10",
+    "titre": "l'amendement n° 45 de M. Pilato à l'article 20 du projet de loi relatif à la résilience des infrastructures critiques et au renforcement de la cybersécurité (première lecture).",
+    "seanceRef": "RUANR5L17S2027IDS30990",
+    "dossier": "Projet de loi relatif à la résilience des infrastructures critiques et au renforcement de la cybersécurité",
+    "dossierRef": "DLR5L17N50731",
+    "typeVote": "scrutin public ordinaire",
+    "resultat": "rejeté",
+    "votants": 49,
+    "pour": 12,
+    "contre": 33,
+    "abstentions": 4
+  },
+  {
+    "numero": "9796",
+    "date": "2026-11-10",
+    "titre": "l'amendement n° 6 (rect.) de Mme Duby-Muller à l'article 19 du projet de loi relatif à la résilience des infrastructures critiques et au renforcement de la cybersécurité (première lecture).",
+    "seanceRef": "RUANR5L17S2027IDS30990",
+    "dossier": "Projet de loi relatif à la résilience des infrastructures critiques et au renforcement de la cybersécurité",
+    "dossierRef": "DLR5L17N50731",
+    "typeVote": "scrutin public ordinaire",
+    "resultat": "rejeté",
+    "votants": 49,
+    "pour": 23,
+    "contre": 26,
+    "abstentions": 0
+  },
+  {
+    "numero": "9795",
+    "date": "2026-11-10",
+    "titre": "l'amendement n° 44 (rect.) de M. Pilato à l'article 19 du projet de loi relatif à la résilience des infrastructures critiques et au renforcement de la cybersécurité (première lecture).",
+    "seanceRef": "RUANR5L17S2027IDS30990",
+    "dossier": "Projet de loi relatif à la résilience des infrastructures critiques et au renforcement de la cybersécurité",
+    "dossierRef": "DLR5L17N50731",
+    "typeVote": "scrutin public ordinaire",
+    "resultat": "rejeté",
+    "votants": 50,
+    "pour": 21,
+    "contre": 28,
+    "abstentions": 1
+  },
+  {
+    "numero": "9794",
+    "date": "2026-11-10",
+    "titre": "l'amendement n° 358 du Gouvernement et les amendements identiques suivants de suppression de l'article 16 bis du projet de loi relatif à la résilience des infrastructures critiques et au renforcement de la cybersécurité (première lecture).",
+    "seanceRef": "RUANR5L17S2027IDS30990",
+    "dossier": "Projet de loi relatif à la résilience des infrastructures critiques et au renforcement de la cybersécurité",
+    "dossierRef": "DLR5L17N50731",
+    "typeVote": "scrutin public ordinaire",
+    "resultat": "adopté",
+    "votants": 107,
+    "pour": 69,
+    "contre": 37,
+    "abstentions": 1
+  },
+  {
     "numero": "9793",
     "date": "2026-11-09",
-    "titre": "l'article 17 du projet de loi relative à la résilience des infrastructures critiques et au renforcement de la cybersécurité (première lecture).",
+    "titre": "l'article 17 du projet de loi relatif à la résilience des infrastructures critiques et au renforcement de la cybersécurité (première lecture).",
     "seanceRef": "RUANR5L17S2027IDS30989",
     "dossier": "Projet de loi relatif à la résilience des infrastructures critiques et au renforcement de la cybersécurité",
     "dossierRef": "DLR5L17N50731",
@@ -16,7 +128,7 @@
   {
     "numero": "9792",
     "date": "2026-11-09",
-    "titre": "l'article 16 du projet de loi relative à la résilience des infrastructures critiques et au renforcement de la cybersécurité (première lecture).",
+    "titre": "l'article 16 du projet de loi relatif à la résilience des infrastructures critiques et au renforcement de la cybersécurité (première lecture).",
     "seanceRef": "RUANR5L17S2027IDS30989",
     "dossier": "Projet de loi relatif à la résilience des infrastructures critiques et au renforcement de la cybersécurité",
     "dossierRef": "DLR5L17N50731",
@@ -30,7 +142,7 @@
   {
     "numero": "9791",
     "date": "2026-11-09",
-    "titre": "le sous-amendement n° 405 de M. Latombe à l'amendement n° 379 de M. Bénard après l'article 14 du projet de loi relative à la résilience des infrastructures critiques et au renforcement de la cybersécurité (première lecture).",
+    "titre": "le sous-amendement n° 405 de M. Latombe à l'amendement n° 379 de M. Bénard après l'article 14 du projet de loi relatif à la résilience des infrastructures critiques et au renforcement de la cybersécurité (première lecture).",
     "seanceRef": "RUANR5L17S2027IDS30989",
     "dossier": "Projet de loi relatif à la résilience des infrastructures critiques et au renforcement de la cybersécurité",
     "dossierRef": "DLR5L17N50731",
@@ -44,7 +156,7 @@
   {
     "numero": "9790",
     "date": "2026-11-09",
-    "titre": "l'amendement n° 320 de M. Sabatou à l'article 14 du projet de loi relative à la résilience des infrastructures critiques et au renforcement de la cybersécurité (première lecture).",
+    "titre": "l'amendement n° 320 de M. Sabatou à l'article 14 du projet de loi relatif à la résilience des infrastructures critiques et au renforcement de la cybersécurité (première lecture).",
     "seanceRef": "RUANR5L17S2027IDS30989",
     "dossier": "Projet de loi relatif à la résilience des infrastructures critiques et au renforcement de la cybersécurité",
     "dossierRef": "DLR5L17N50731",
@@ -58,7 +170,7 @@
   {
     "numero": "9789",
     "date": "2026-11-09",
-    "titre": "l'amendement n° 319 de M. Sabatou à l'article 14 du projet de loi relative à la résilience des infrastructures critiques et au renforcement de la cybersécurité (première lecture).",
+    "titre": "l'amendement n° 319 de M. Sabatou à l'article 14 du projet de loi relatif à la résilience des infrastructures critiques et au renforcement de la cybersécurité (première lecture).",
     "seanceRef": "RUANR5L17S2027IDS30989",
     "dossier": "Projet de loi relatif à la résilience des infrastructures critiques et au renforcement de la cybersécurité",
     "dossierRef": "DLR5L17N50731",
@@ -72,7 +184,7 @@
   {
     "numero": "9788",
     "date": "2026-11-09",
-    "titre": "l'amendement n° 39 de M. Pilato à l'article 14 du projet de loi relative à la résilience des infrastructures critiques et au renforcement de la cybersécurité (première lecture).",
+    "titre": "l'amendement n° 39 de M. Pilato à l'article 14 du projet de loi relatif à la résilience des infrastructures critiques et au renforcement de la cybersécurité (première lecture).",
     "seanceRef": "RUANR5L17S2027IDS30989",
     "dossier": "Projet de loi relatif à la résilience des infrastructures critiques et au renforcement de la cybersécurité",
     "dossierRef": "DLR5L17N50731",
@@ -86,7 +198,7 @@
   {
     "numero": "9787",
     "date": "2026-11-09",
-    "titre": "l'amendement n° 40 de M. Saint-Martin à l'article 14 du projet de loi relative à la résilience des infrastructures critiques et au renforcement de la cybersécurité (première lecture).",
+    "titre": "l'amendement n° 40 de M. Saint-Martin à l'article 14 du projet de loi relatif à la résilience des infrastructures critiques et au renforcement de la cybersécurité (première lecture).",
     "seanceRef": "RUANR5L17S2027IDS30989",
     "dossier": "Projet de loi relatif à la résilience des infrastructures critiques et au renforcement de la cybersécurité",
     "dossierRef": "DLR5L17N50731",
@@ -100,7 +212,7 @@
   {
     "numero": "9786",
     "date": "2026-11-09",
-    "titre": "l'amendement n° 140 de M. Latombe à l'article 14 du projet de loi relative à la résilience des infrastructures critiques et au renforcement de la cybersécurité (première lecture).",
+    "titre": "l'amendement n° 140 de M. Latombe à l'article 14 du projet de loi relatif à la résilience des infrastructures critiques et au renforcement de la cybersécurité (première lecture).",
     "seanceRef": "RUANR5L17S2027IDS30989",
     "dossier": "Projet de loi relatif à la résilience des infrastructures critiques et au renforcement de la cybersécurité",
     "dossierRef": "DLR5L17N50731",
@@ -114,7 +226,7 @@
   {
     "numero": "9785",
     "date": "2026-11-09",
-    "titre": "l'amendement n° 35 de M. Pilato à l'article 11 du projet de loi relative à la résilience des infrastructures critiques et au renforcement de la cybersécurité (première lecture).",
+    "titre": "l'amendement n° 35 de M. Pilato à l'article 11 du projet de loi relatif à la résilience des infrastructures critiques et au renforcement de la cybersécurité (première lecture).",
     "seanceRef": "RUANR5L17S2027IDS30989",
     "dossier": "Projet de loi relatif à la résilience des infrastructures critiques et au renforcement de la cybersécurité",
     "dossierRef": "DLR5L17N50731",
@@ -128,7 +240,7 @@
   {
     "numero": "9784",
     "date": "2026-11-09",
-    "titre": "l'amendement n° 32 de M. Saint-Martin à l'article 10 du projet de loi relative à la résilience des infrastructures critiques et au renforcement de la cybersécurité (première lecture).",
+    "titre": "l'amendement n° 32 de M. Saint-Martin à l'article 10 du projet de loi relatif à la résilience des infrastructures critiques et au renforcement de la cybersécurité (première lecture).",
     "seanceRef": "RUANR5L17S2027IDS30989",
     "dossier": "Projet de loi relatif à la résilience des infrastructures critiques et au renforcement de la cybersécurité",
     "dossierRef": "DLR5L17N50731",
@@ -142,7 +254,7 @@
   {
     "numero": "9783",
     "date": "2026-11-09",
-    "titre": "l'amendement n° 33 de M. Pilato à l'article 10 du projet de loi relative à la résilience des infrastructures critiques et au renforcement de la cybersécurité (première lecture).",
+    "titre": "l'amendement n° 33 de M. Pilato à l'article 10 du projet de loi relatif à la résilience des infrastructures critiques et au renforcement de la cybersécurité (première lecture).",
     "seanceRef": "RUANR5L17S2027IDS30989",
     "dossier": "Projet de loi relatif à la résilience des infrastructures critiques et au renforcement de la cybersécurité",
     "dossierRef": "DLR5L17N50731",
@@ -156,7 +268,7 @@
   {
     "numero": "9782",
     "date": "2026-11-09",
-    "titre": "l'amendement n° 34 de M. Saint-Martin à l'article 10 du projet de loi relative à la résilience des infrastructures critiques et au renforcement de la cybersécurité (première lecture).",
+    "titre": "l'amendement n° 34 de M. Saint-Martin à l'article 10 du projet de loi relatif à la résilience des infrastructures critiques et au renforcement de la cybersécurité (première lecture).",
     "seanceRef": "RUANR5L17S2027IDS30989",
     "dossier": "Projet de loi relatif à la résilience des infrastructures critiques et au renforcement de la cybersécurité",
     "dossierRef": "DLR5L17N50731",
@@ -170,7 +282,7 @@
   {
     "numero": "9781",
     "date": "2026-11-09",
-    "titre": "l'amendement n° 21 de M. Saint-Martin à l'article 7 du projet de loi relative à la résilience des infrastructures critiques et au renforcement de la cybersécurité (première lecture).",
+    "titre": "l'amendement n° 21 de M. Saint-Martin à l'article 7 du projet de loi relatif à la résilience des infrastructures critiques et au renforcement de la cybersécurité (première lecture).",
     "seanceRef": "RUANR5L17S2027IDS30989",
     "dossier": "Projet de loi relatif à la résilience des infrastructures critiques et au renforcement de la cybersécurité",
     "dossierRef": "DLR5L17N50731",
@@ -184,7 +296,7 @@
   {
     "numero": "9780",
     "date": "2026-11-09",
-    "titre": "l'amendement n° 25 de M. Saint-Martin à l'article 7 du projet de loi relative à la résilience des infrastructures critiques et au renforcement de la cybersécurité (première lecture).",
+    "titre": "l'amendement n° 25 de M. Saint-Martin à l'article 7 du projet de loi relatif à la résilience des infrastructures critiques et au renforcement de la cybersécurité (première lecture).",
     "seanceRef": "RUANR5L17S2027IDS30989",
     "dossier": "Projet de loi relatif à la résilience des infrastructures critiques et au renforcement de la cybersécurité",
     "dossierRef": "DLR5L17N50731",
@@ -198,7 +310,7 @@
   {
     "numero": "9779",
     "date": "2026-11-09",
-    "titre": "l'amendement n° 24 de M. Saint-Martin à l'article 7 du projet de loi relative à la résilience des infrastructures critiques et au renforcement de la cybersécurité (première lecture).",
+    "titre": "l'amendement n° 24 de M. Saint-Martin à l'article 7 du projet de loi relatif à la résilience des infrastructures critiques et au renforcement de la cybersécurité (première lecture).",
     "seanceRef": "RUANR5L17S2027IDS30988",
     "dossier": "Projet de loi relatif à la résilience des infrastructures critiques et au renforcement de la cybersécurité",
     "dossierRef": "DLR5L17N50731",
@@ -212,7 +324,7 @@
   {
     "numero": "9778",
     "date": "2026-11-09",
-    "titre": "l'amendement n° 23 de M. Saint-Martin à l'article 7 du projet de loi relative à la résilience des infrastructures critiques et au renforcement de la cybersécurité (première lecture).",
+    "titre": "l'amendement n° 23 de M. Saint-Martin à l'article 7 du projet de loi relatif à la résilience des infrastructures critiques et au renforcement de la cybersécurité (première lecture).",
     "seanceRef": "RUANR5L17S2027IDS30988",
     "dossier": "Projet de loi relatif à la résilience des infrastructures critiques et au renforcement de la cybersécurité",
     "dossierRef": "DLR5L17N50731",
@@ -226,7 +338,7 @@
   {
     "numero": "9777",
     "date": "2026-11-09",
-    "titre": "l'amendement n° 22 de M. Pilato à l'article 7 du projet de loi relative à la résilience des infrastructures critiques et au renforcement de la cybersécurité (première lecture).",
+    "titre": "l'amendement n° 22 de M. Pilato à l'article 7 du projet de loi relatif à la résilience des infrastructures critiques et au renforcement de la cybersécurité (première lecture).",
     "seanceRef": "RUANR5L17S2027IDS30988",
     "dossier": "Projet de loi relatif à la résilience des infrastructures critiques et au renforcement de la cybersécurité",
     "dossierRef": "DLR5L17N50731",
@@ -240,7 +352,7 @@
   {
     "numero": "9776",
     "date": "2026-11-09",
-    "titre": "l'article 5 bis du projet de loi relative à la résilience des infrastructures critiques et au renforcement de la cybersécurité (première lecture).",
+    "titre": "l'article 5 bis du projet de loi relatif à la résilience des infrastructures critiques et au renforcement de la cybersécurité (première lecture).",
     "seanceRef": "RUANR5L17S2027IDS30988",
     "dossier": "Projet de loi relatif à la résilience des infrastructures critiques et au renforcement de la cybersécurité",
     "dossierRef": "DLR5L17N50731",
@@ -254,7 +366,7 @@
   {
     "numero": "9775",
     "date": "2026-11-09",
-    "titre": "l'amendement n° 58 de M. Saint-Martin à l'article 5 bis du projet de loi relative à la résilience des infrastructures critiques et au renforcement de la cybersécurité (première lecture).",
+    "titre": "l'amendement n° 58 de M. Saint-Martin à l'article 5 bis du projet de loi relatif à la résilience des infrastructures critiques et au renforcement de la cybersécurité (première lecture).",
     "seanceRef": "RUANR5L17S2027IDS30988",
     "dossier": "Projet de loi relatif à la résilience des infrastructures critiques et au renforcement de la cybersécurité",
     "dossierRef": "DLR5L17N50731",
@@ -268,7 +380,7 @@
   {
     "numero": "9774",
     "date": "2026-11-09",
-    "titre": "l'amendement n° 73 de M. Salmon à l'article 5 bis du projet de loi relative à la résilience des infrastructures critiques et au renforcement de la cybersécurité (première lecture).",
+    "titre": "l'amendement n° 73 de M. Salmon à l'article 5 bis du projet de loi relatif à la résilience des infrastructures critiques et au renforcement de la cybersécurité (première lecture).",
     "seanceRef": "RUANR5L17S2027IDS30988",
     "dossier": "Projet de loi relatif à la résilience des infrastructures critiques et au renforcement de la cybersécurité",
     "dossierRef": "DLR5L17N50731",
@@ -282,7 +394,7 @@
   {
     "numero": "9773",
     "date": "2026-11-09",
-    "titre": "l'amendement n° 20 de M. Saint-Martin à l'article 5 bis du projet de loi relative à la résilience des infrastructures critiques et au renforcement de la cybersécurité (première lecture).",
+    "titre": "l'amendement n° 20 de M. Saint-Martin à l'article 5 bis du projet de loi relatif à la résilience des infrastructures critiques et au renforcement de la cybersécurité (première lecture).",
     "seanceRef": "RUANR5L17S2027IDS30988",
     "dossier": "Projet de loi relatif à la résilience des infrastructures critiques et au renforcement de la cybersécurité",
     "dossierRef": "DLR5L17N50731",
@@ -296,7 +408,7 @@
   {
     "numero": "9772",
     "date": "2026-11-09",
-    "titre": "l'amendement n° 8 de Mme Bamana à l'article 5 bis du projet de loi relative à la résilience des infrastructures critiques et au renforcement de la cybersécurité (première lecture).",
+    "titre": "l'amendement n° 8 de Mme Bamana à l'article 5 bis du projet de loi relatif à la résilience des infrastructures critiques et au renforcement de la cybersécurité (première lecture).",
     "seanceRef": "RUANR5L17S2027IDS30988",
     "dossier": "Projet de loi relatif à la résilience des infrastructures critiques et au renforcement de la cybersécurité",
     "dossierRef": "DLR5L17N50731",
@@ -310,7 +422,7 @@
   {
     "numero": "9771",
     "date": "2026-11-09",
-    "titre": "l'amendement n° 74 de M. Salmon à l'article 5 bis du projet de loi relative à la résilience des infrastructures critiques et au renforcement de la cybersécurité (première lecture).",
+    "titre": "l'amendement n° 74 de M. Salmon à l'article 5 bis du projet de loi relatif à la résilience des infrastructures critiques et au renforcement de la cybersécurité (première lecture).",
     "seanceRef": "RUANR5L17S2027IDS30988",
     "dossier": "Projet de loi relatif à la résilience des infrastructures critiques et au renforcement de la cybersécurité",
     "dossierRef": "DLR5L17N50731",
@@ -324,7 +436,7 @@
   {
     "numero": "9770",
     "date": "2026-11-09",
-    "titre": "l'amendement n° 75 de M. Salmon à l'article 5 bis du projet de loi relative à la résilience des infrastructures critiques et au renforcement de la cybersécurité (première lecture).",
+    "titre": "l'amendement n° 75 de M. Salmon à l'article 5 bis du projet de loi relatif à la résilience des infrastructures critiques et au renforcement de la cybersécurité (première lecture).",
     "seanceRef": "RUANR5L17S2027IDS30988",
     "dossier": "Projet de loi relatif à la résilience des infrastructures critiques et au renforcement de la cybersécurité",
     "dossierRef": "DLR5L17N50731",
@@ -338,7 +450,7 @@
   {
     "numero": "9769",
     "date": "2026-11-09",
-    "titre": "l'article premier du projet de loi relative à la résilience des infrastructures critiques et au renforcement de la cybersécurité (première lecture).",
+    "titre": "l'article premier du projet de loi relatif à la résilience des infrastructures critiques et au renforcement de la cybersécurité (première lecture).",
     "seanceRef": "RUANR5L17S2027IDS30988",
     "dossier": "Projet de loi relatif à la résilience des infrastructures critiques et au renforcement de la cybersécurité",
     "dossierRef": "DLR5L17N50731",
@@ -352,7 +464,7 @@
   {
     "numero": "9768",
     "date": "2026-11-09",
-    "titre": "l'amendement n° 17 de M. Saint-Martin à l'article premier du projet de loi relative à la résilience des infrastructures critiques et au renforcement de la cybersécurité (première lecture).",
+    "titre": "l'amendement n° 17 de M. Saint-Martin à l'article premier du projet de loi relatif à la résilience des infrastructures critiques et au renforcement de la cybersécurité (première lecture).",
     "seanceRef": "RUANR5L17S2027IDS30988",
     "dossier": "Projet de loi relatif à la résilience des infrastructures critiques et au renforcement de la cybersécurité",
     "dossierRef": "DLR5L17N50731",
@@ -366,7 +478,7 @@
   {
     "numero": "9767",
     "date": "2026-11-09",
-    "titre": "l'amendement n° 15 de M. Pilato à l'article premier du projet de loi relative à la résilience des infrastructures critiques et au renforcement de la cybersécurité (première lecture).",
+    "titre": "l'amendement n° 15 de M. Pilato à l'article premier du projet de loi relatif à la résilience des infrastructures critiques et au renforcement de la cybersécurité (première lecture).",
     "seanceRef": "RUANR5L17S2027IDS30988",
     "dossier": "Projet de loi relatif à la résilience des infrastructures critiques et au renforcement de la cybersécurité",
     "dossierRef": "DLR5L17N50731",
@@ -380,7 +492,7 @@
   {
     "numero": "9766",
     "date": "2026-11-09",
-    "titre": "l'amendement n° 9 de M. Saint-Martin à l'article premier du projet de loi relative à la résilience des infrastructures critiques et au renforcement de la cybersécurité (première lecture).",
+    "titre": "l'amendement n° 9 de M. Saint-Martin à l'article premier du projet de loi relatif à la résilience des infrastructures critiques et au renforcement de la cybersécurité (première lecture).",
     "seanceRef": "RUANR5L17S2027IDS30988",
     "dossier": "Projet de loi relatif à la résilience des infrastructures critiques et au renforcement de la cybersécurité",
     "dossierRef": "DLR5L17N50731",
@@ -394,7 +506,7 @@
   {
     "numero": "9765",
     "date": "2026-11-09",
-    "titre": "l'amendement n° 79 de M. Saint-Pasteur à l'article premier du projet de loi relative à la résilience des infrastructures critiques et au renforcement de la cybersécurité (première lecture).",
+    "titre": "l'amendement n° 79 de M. Saint-Pasteur à l'article premier du projet de loi relatif à la résilience des infrastructures critiques et au renforcement de la cybersécurité (première lecture).",
     "seanceRef": "RUANR5L17S2027IDS30988",
     "dossier": "Projet de loi relatif à la résilience des infrastructures critiques et au renforcement de la cybersécurité",
     "dossierRef": "DLR5L17N50731",
@@ -408,7 +520,7 @@
   {
     "numero": "9764",
     "date": "2026-11-09",
-    "titre": "l'amendement n° 347 de M. Bothorel à l'article premier du projet de loi relative à la résilience des infrastructures critiques et au renforcement de la cybersécurité (première lecture).",
+    "titre": "l'amendement n° 347 de M. Bothorel à l'article premier du projet de loi relatif à la résilience des infrastructures critiques et au renforcement de la cybersécurité (première lecture).",
     "seanceRef": "RUANR5L17S2027IDS30988",
     "dossier": "Projet de loi relatif à la résilience des infrastructures critiques et au renforcement de la cybersécurité",
     "dossierRef": "DLR5L17N50731",
@@ -422,7 +534,7 @@
   {
     "numero": "9763",
     "date": "2026-11-09",
-    "titre": "l'amendement n° 307 de M. Sabatou à l'article premier du projet de loi relative à la résilience des infrastructures critiques et au renforcement de la cybersécurité (première lecture).",
+    "titre": "l'amendement n° 307 de M. Sabatou à l'article premier du projet de loi relatif à la résilience des infrastructures critiques et au renforcement de la cybersécurité (première lecture).",
     "seanceRef": "RUANR5L17S2027IDS30988",
     "dossier": "Projet de loi relatif à la résilience des infrastructures critiques et au renforcement de la cybersécurité",
     "dossierRef": "DLR5L17N50731",
@@ -436,7 +548,7 @@
   {
     "numero": "9762",
     "date": "2026-11-09",
-    "titre": "l'amendement n° 306 de M. Sabatou à l'article premier du projet de loi relative à la résilience des infrastructures critiques et au renforcement de la cybersécurité (première lecture).",
+    "titre": "l'amendement n° 306 de M. Sabatou à l'article premier du projet de loi relatif à la résilience des infrastructures critiques et au renforcement de la cybersécurité (première lecture).",
     "seanceRef": "RUANR5L17S2027IDS30988",
     "dossier": "Projet de loi relatif à la résilience des infrastructures critiques et au renforcement de la cybersécurité",
     "dossierRef": "DLR5L17N50731",
@@ -450,7 +562,7 @@
   {
     "numero": "9761",
     "date": "2026-11-09",
-    "titre": "l'amendement n° 304 de M. Sabatou à l'article premier du projet de loi relative à la résilience des infrastructures critiques et au renforcement de la cybersécurité (première lecture).",
+    "titre": "l'amendement n° 304 de M. Sabatou à l'article premier du projet de loi relatif à la résilience des infrastructures critiques et au renforcement de la cybersécurité (première lecture).",
     "seanceRef": "RUANR5L17S2027IDS30988",
     "dossier": "Projet de loi relatif à la résilience des infrastructures critiques et au renforcement de la cybersécurité",
     "dossierRef": "DLR5L17N50731",
@@ -464,7 +576,7 @@
   {
     "numero": "9760",
     "date": "2026-11-09",
-    "titre": "l'amendement n° 303 de M. Sabatou à l'article premier du projet de loi relative à la résilience des infrastructures critiques et au renforcement de la cybersécurité (première lecture).",
+    "titre": "l'amendement n° 303 de M. Sabatou à l'article premier du projet de loi relatif à la résilience des infrastructures critiques et au renforcement de la cybersécurité (première lecture).",
     "seanceRef": "RUANR5L17S2027IDS30988",
     "dossier": "Projet de loi relatif à la résilience des infrastructures critiques et au renforcement de la cybersécurité",
     "dossierRef": "DLR5L17N50731",
