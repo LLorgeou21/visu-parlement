@@ -1912,11 +1912,11 @@
     "civilite": "Mme",
     "prenom": "Isabelle",
     "nom": "Delyon",
-    "groupe": "PO840056",
+    "groupe": "PO845401",
     "departement": "Var",
     "numCirconscription": "7",
     "region": "Provence-Alpes-Côte d'Azur",
-    "placeHemicycle": null,
+    "placeHemicycle": 12,
     "debutMandat": "2024-07-07"
   },
   {
