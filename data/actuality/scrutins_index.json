@@ -1,5 +1,33 @@
 [
   {
+    "numero": "10042",
+    "date": "2026-11-19",
+    "titre": "l'amendement n° 36 de M. Alfandari et l'amendement identique suivant à l'article premier de la proposition de loi pour retrouver la confiance et l'équilibre dans les rapports locatifs (deuxième lecture).",
+    "seanceRef": "RUANR5L17S2027IDS31054",
+    "dossier": "Retrouver la confiance et l’équilibre dans les rapports locatifs",
+    "dossierRef": "DLR5L17N53069",
+    "typeVote": "scrutin public ordinaire",
+    "resultat": "rejeté",
+    "votants": 252,
+    "pour": 106,
+    "contre": 143,
+    "abstentions": 3
+  },
+  {
+    "numero": "10041",
+    "date": "2026-11-19",
+    "titre": "le sous-amendement n° 88 de M. Falcon à l'amendement n° 36 de M. Alfandari et l'amendement identique suivant à l'article premier de la proposition de loi pour retrouver la confiance et l'équilibre dans les rapports locatifs (deuxième lecture).",
+    "seanceRef": "RUANR5L17S2027IDS31054",
+    "dossier": "Retrouver la confiance et l’équilibre dans les rapports locatifs",
+    "dossierRef": "DLR5L17N53069",
+    "typeVote": "scrutin public ordinaire",
+    "resultat": "adopté",
+    "votants": 133,
+    "pour": 91,
+    "contre": 25,
+    "abstentions": 17
+  },
+  {
     "numero": "10040",
     "date": "2026-11-19",
     "titre": "l'amendement n° 34 de M. Alfandari et l'amendement identique suivant à l'article premier de la proposition de loi pour retrouver la confiance et l'équilibre dans les rapports locatifs (deuxième lecture).",
