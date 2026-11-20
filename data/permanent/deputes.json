@@ -3044,7 +3044,7 @@
     "departement": "Rhône",
     "numCirconscription": "6",
     "region": "Auvergne-Rhône-Alpes",
-    "placeHemicycle": 555,
+    "placeHemicycle": 552,
     "debutMandat": "2024-07-07"
   },
   {
@@ -3440,7 +3440,7 @@
     "departement": "Seine-Saint-Denis",
     "numCirconscription": "8",
     "region": "Ile-de-France",
-    "placeHemicycle": 416,
+    "placeHemicycle": 555,
     "debutMandat": "2024-07-07"
   },
   {
@@ -6380,7 +6380,7 @@
     "departement": "Seine-et-Marne",
     "numCirconscription": "9",
     "region": "Ile-de-France",
-    "placeHemicycle": 552,
+    "placeHemicycle": 416,
     "debutMandat": "2024-07-07"
   },
   {
