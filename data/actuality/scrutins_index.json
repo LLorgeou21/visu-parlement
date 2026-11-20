@@ -1,5 +1,47 @@
 [
   {
+    "numero": "10101",
+    "date": "2026-11-20",
+    "titre": "l'amendement n° 972 de Mme Dufour après l'article 11 du projet de loi visant la relance et la décentralisation du logement (première lecture).",
+    "seanceRef": "RUANR5L17S2027IDS31057",
+    "dossier": "La relance et la décentralisation du logement",
+    "dossierRef": "DLR5L17N54608",
+    "typeVote": "scrutin public ordinaire",
+    "resultat": "rejeté",
+    "votants": 67,
+    "pour": 22,
+    "contre": 45,
+    "abstentions": 0
+  },
+  {
+    "numero": "10100",
+    "date": "2026-11-20",
+    "titre": "l'amendement n° 900 de Mme Bentorki après l'article 11 du projet de loi visant la relance et la décentralisation du logement (première lecture).",
+    "seanceRef": "RUANR5L17S2027IDS31057",
+    "dossier": "La relance et la décentralisation du logement",
+    "dossierRef": "DLR5L17N54608",
+    "typeVote": "scrutin public ordinaire",
+    "resultat": "rejeté",
+    "votants": 68,
+    "pour": 19,
+    "contre": 49,
+    "abstentions": 0
+  },
+  {
+    "numero": "10099",
+    "date": "2026-11-20",
+    "titre": "l'amendement n° 792 de Mme Bentorki après l'article 11 du projet de loi visant la relance et la décentralisation du logement (première lecture).",
+    "seanceRef": "RUANR5L17S2027IDS31057",
+    "dossier": "La relance et la décentralisation du logement",
+    "dossierRef": "DLR5L17N54608",
+    "typeVote": "scrutin public ordinaire",
+    "resultat": "rejeté",
+    "votants": 69,
+    "pour": 21,
+    "contre": 48,
+    "abstentions": 0
+  },
+  {
     "numero": "10098",
     "date": "2026-11-20",
     "titre": "l'amendement n° 113 de M. Falcon après l'article 9 du projet de loi visant la relance et la décentralisation du logement (première lecture).",
