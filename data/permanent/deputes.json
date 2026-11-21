@@ -2088,6 +2088,18 @@
     "debutMandat": "2024-07-07"
   },
   {
+    "id": "PA642905",
+    "civilite": "M.",
+    "prenom": "David",
+    "nom": "Duizidou",
+    "groupe": "PO840056",
+    "departement": "Pyrénées-Atlantiques",
+    "numCirconscription": "3",
+    "region": "Nouvelle-Aquitaine",
+    "placeHemicycle": null,
+    "debutMandat": "2024-07-07"
+  },
+  {
     "id": "PA870009",
     "civilite": "M.",
     "prenom": "Lionel",
@@ -2997,18 +3009,6 @@
     "numCirconscription": "7",
     "region": "Hauts-de-France",
     "placeHemicycle": 226,
-    "debutMandat": "2024-07-07"
-  },
-  {
-    "id": "PA1592",
-    "civilite": "M.",
-    "prenom": "David",
-    "nom": "Habib",
-    "groupe": "PO845485",
-    "departement": "Pyrénées-Atlantiques",
-    "numCirconscription": "3",
-    "region": "Nouvelle-Aquitaine",
-    "placeHemicycle": 455,
     "debutMandat": "2024-07-07"
   },
   {
