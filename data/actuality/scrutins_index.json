@@ -1,5 +1,19 @@
 [
   {
+    "numero": "10107",
+    "date": "2026-11-25",
+    "titre": "l'article unique de la proposition de résolution européenne relative à la révision de la directive « Services de médias audiovisuels » et à la défense de l'exception culturelle europénne.",
+    "seanceRef": "RUANR5L17S2027IDS31066",
+    "dossier": "La révision de la directive « Services de médias audiovisuels » et la défense de l’exception culturelle européenne",
+    "dossierRef": "DLR5L17N54254",
+    "typeVote": "scrutin public ordinaire",
+    "resultat": "adopté",
+    "votants": 54,
+    "pour": 43,
+    "contre": 0,
+    "abstentions": 11
+  },
+  {
     "numero": "10106",
     "date": "2026-11-24",
     "titre": "l'ensemble du projet de loi de finances de fin de gestion pour 2026 (texte de la commission mixte paritaire).",
