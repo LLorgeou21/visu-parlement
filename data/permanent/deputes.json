@@ -1400,7 +1400,7 @@
     "departement": "Haute-Corse",
     "numCirconscription": "2",
     "region": "Corse",
-    "placeHemicycle": 203,
+    "placeHemicycle": 204,
     "debutMandat": "2024-07-07"
   },
   {
@@ -2091,12 +2091,12 @@
     "id": "PA642905",
     "civilite": "M.",
     "prenom": "David",
-    "nom": "Duizidou",
-    "groupe": "PO840056",
+    "nom": "Duizidou-Agest",
+    "groupe": "PO845485",
     "departement": "Pyrénées-Atlantiques",
     "numCirconscription": "3",
     "region": "Nouvelle-Aquitaine",
-    "placeHemicycle": null,
+    "placeHemicycle": 455,
     "debutMandat": "2024-07-07"
   },
   {
@@ -2480,7 +2480,7 @@
     "departement": "Indre",
     "numCirconscription": "2",
     "region": "Centre-Val de Loire",
-    "placeHemicycle": 206,
+    "placeHemicycle": 405,
     "debutMandat": "2024-07-07"
   },
   {
@@ -4088,7 +4088,7 @@
     "departement": "Doubs",
     "numCirconscription": "5",
     "region": "Bourgogne-Franche-Comté",
-    "placeHemicycle": 205,
+    "placeHemicycle": 206,
     "debutMandat": "2024-07-07"
   },
   {
@@ -4400,7 +4400,7 @@
     "departement": "Alpes-Maritimes",
     "numCirconscription": "8",
     "region": "Provence-Alpes-Côte d'Azur",
-    "placeHemicycle": 204,
+    "placeHemicycle": 205,
     "debutMandat": "2024-07-07"
   },
   {
@@ -6020,7 +6020,7 @@
     "departement": "Haut-Rhin",
     "numCirconscription": "4",
     "region": "Grand Est",
-    "placeHemicycle": 405,
+    "placeHemicycle": 203,
     "debutMandat": "2024-07-07"
   },
   {

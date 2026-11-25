@@ -1,5 +1,19 @@
 [
   {
+    "numero": "10102",
+    "date": "2026-11-24",
+    "titre": "l'ensemble du projet de loi visant la relance et la décentralisation du logement (première lecture).",
+    "seanceRef": "RUANR5L17S2027IDS31064",
+    "dossier": "La relance et la décentralisation du logement",
+    "dossierRef": "DLR5L17N54608",
+    "typeVote": "scrutin public solennel",
+    "resultat": "adopté",
+    "votants": 530,
+    "pour": 362,
+    "contre": 118,
+    "abstentions": 50
+  },
+  {
     "numero": "10101",
     "date": "2026-11-20",
     "titre": "l'amendement n° 972 de Mme Dufour après l'article 11 du projet de loi visant la relance et la décentralisation du logement (première lecture).",
