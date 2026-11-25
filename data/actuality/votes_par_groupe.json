@@ -1,6 +1,46 @@
 {
   "PO845401": [
     {
+      "numero": "10106",
+      "date": "2026-11-24",
+      "titre": "l'ensemble du projet de loi de finances de fin de gestion pour 2026 (texte de la commission mixte paritaire).",
+      "resultat": "adopté",
+      "position": "abstention",
+      "pour": 0,
+      "contre": 0,
+      "abstentions": 55
+    },
+    {
+      "numero": "10105",
+      "date": "2026-11-24",
+      "titre": "l'amendement n° 2 du Gouvernement au projet de loi de finances de fin de gestion pour 2026 (texte de la commission mixte paritaire).",
+      "resultat": "adopté",
+      "position": "abstention",
+      "pour": 0,
+      "contre": 0,
+      "abstentions": 55
+    },
+    {
+      "numero": "10104",
+      "date": "2026-11-24",
+      "titre": "l'amendement n° 4 du Gouvernement au projet de loi de finances de fin de gestion pour 2026 (texte de la commission mixte paritaire).",
+      "resultat": "adopté",
+      "position": "abstention",
+      "pour": 0,
+      "contre": 0,
+      "abstentions": 55
+    },
+    {
+      "numero": "10103",
+      "date": "2026-11-24",
+      "titre": "la motion de rejet préalable, déposée par Mme Mathilde Panot, du projet de loi de finances de fin de gestion pour 2026 (texte de la commission mixte paritaire).",
+      "resultat": "rejeté",
+      "position": "abstention",
+      "pour": 0,
+      "contre": 2,
+      "abstentions": 57
+    },
+    {
       "numero": "10102",
       "date": "2026-11-24",
       "titre": "l'ensemble du projet de loi visant la relance et la décentralisation du logement (première lecture).",
@@ -16682,6 +16722,46 @@
     }
   ],
   "PO845407": [
+    {
+      "numero": "10106",
+      "date": "2026-11-24",
+      "titre": "l'ensemble du projet de loi de finances de fin de gestion pour 2026 (texte de la commission mixte paritaire).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 47,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "10105",
+      "date": "2026-11-24",
+      "titre": "l'amendement n° 2 du Gouvernement au projet de loi de finances de fin de gestion pour 2026 (texte de la commission mixte paritaire).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 47,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "10104",
+      "date": "2026-11-24",
+      "titre": "l'amendement n° 4 du Gouvernement au projet de loi de finances de fin de gestion pour 2026 (texte de la commission mixte paritaire).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 47,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "10103",
+      "date": "2026-11-24",
+      "titre": "la motion de rejet préalable, déposée par Mme Mathilde Panot, du projet de loi de finances de fin de gestion pour 2026 (texte de la commission mixte paritaire).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 45,
+      "abstentions": 0
+    },
     {
       "numero": "10102",
       "date": "2026-11-24",
@@ -33365,6 +33445,46 @@
   ],
   "PO845413": [
     {
+      "numero": "10106",
+      "date": "2026-11-24",
+      "titre": "l'ensemble du projet de loi de finances de fin de gestion pour 2026 (texte de la commission mixte paritaire).",
+      "resultat": "adopté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 38,
+      "abstentions": 1
+    },
+    {
+      "numero": "10105",
+      "date": "2026-11-24",
+      "titre": "l'amendement n° 2 du Gouvernement au projet de loi de finances de fin de gestion pour 2026 (texte de la commission mixte paritaire).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 39,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "10104",
+      "date": "2026-11-24",
+      "titre": "l'amendement n° 4 du Gouvernement au projet de loi de finances de fin de gestion pour 2026 (texte de la commission mixte paritaire).",
+      "resultat": "adopté",
+      "position": "contre",
+      "pour": 1,
+      "contre": 36,
+      "abstentions": 0
+    },
+    {
+      "numero": "10103",
+      "date": "2026-11-24",
+      "titre": "la motion de rejet préalable, déposée par Mme Mathilde Panot, du projet de loi de finances de fin de gestion pour 2026 (texte de la commission mixte paritaire).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 35,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
       "numero": "10102",
       "date": "2026-11-24",
       "titre": "l'ensemble du projet de loi visant la relance et la décentralisation du logement (première lecture).",
@@ -50046,6 +50166,46 @@
     }
   ],
   "PO845419": [
+    {
+      "numero": "10106",
+      "date": "2026-11-24",
+      "titre": "l'ensemble du projet de loi de finances de fin de gestion pour 2026 (texte de la commission mixte paritaire).",
+      "resultat": "adopté",
+      "position": "abstention",
+      "pour": 1,
+      "contre": 1,
+      "abstentions": 17
+    },
+    {
+      "numero": "10105",
+      "date": "2026-11-24",
+      "titre": "l'amendement n° 2 du Gouvernement au projet de loi de finances de fin de gestion pour 2026 (texte de la commission mixte paritaire).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 19,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "10104",
+      "date": "2026-11-24",
+      "titre": "l'amendement n° 4 du Gouvernement au projet de loi de finances de fin de gestion pour 2026 (texte de la commission mixte paritaire).",
+      "resultat": "adopté",
+      "position": "abstention",
+      "pour": 0,
+      "contre": 1,
+      "abstentions": 17
+    },
+    {
+      "numero": "10103",
+      "date": "2026-11-24",
+      "titre": "la motion de rejet préalable, déposée par Mme Mathilde Panot, du projet de loi de finances de fin de gestion pour 2026 (texte de la commission mixte paritaire).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 2,
+      "contre": 1,
+      "abstentions": 14
+    },
     {
       "numero": "10102",
       "date": "2026-11-24",
@@ -66729,6 +66889,46 @@
   ],
   "PO845425": [
     {
+      "numero": "10106",
+      "date": "2026-11-24",
+      "titre": "l'ensemble du projet de loi de finances de fin de gestion pour 2026 (texte de la commission mixte paritaire).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 34,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "10105",
+      "date": "2026-11-24",
+      "titre": "l'amendement n° 2 du Gouvernement au projet de loi de finances de fin de gestion pour 2026 (texte de la commission mixte paritaire).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 33,
+      "contre": 0,
+      "abstentions": 1
+    },
+    {
+      "numero": "10104",
+      "date": "2026-11-24",
+      "titre": "l'amendement n° 4 du Gouvernement au projet de loi de finances de fin de gestion pour 2026 (texte de la commission mixte paritaire).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 33,
+      "contre": 0,
+      "abstentions": 1
+    },
+    {
+      "numero": "10103",
+      "date": "2026-11-24",
+      "titre": "la motion de rejet préalable, déposée par Mme Mathilde Panot, du projet de loi de finances de fin de gestion pour 2026 (texte de la commission mixte paritaire).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 31,
+      "abstentions": 0
+    },
+    {
       "numero": "10102",
       "date": "2026-11-24",
       "titre": "l'ensemble du projet de loi visant la relance et la décentralisation du logement (première lecture).",
@@ -83410,6 +83610,46 @@
     }
   ],
   "PO845439": [
+    {
+      "numero": "10106",
+      "date": "2026-11-24",
+      "titre": "l'ensemble du projet de loi de finances de fin de gestion pour 2026 (texte de la commission mixte paritaire).",
+      "resultat": "adopté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 19,
+      "abstentions": 0
+    },
+    {
+      "numero": "10105",
+      "date": "2026-11-24",
+      "titre": "l'amendement n° 2 du Gouvernement au projet de loi de finances de fin de gestion pour 2026 (texte de la commission mixte paritaire).",
+      "resultat": "adopté",
+      "position": "abstention",
+      "pour": 14,
+      "contre": 1,
+      "abstentions": 2
+    },
+    {
+      "numero": "10104",
+      "date": "2026-11-24",
+      "titre": "l'amendement n° 4 du Gouvernement au projet de loi de finances de fin de gestion pour 2026 (texte de la commission mixte paritaire).",
+      "resultat": "adopté",
+      "position": "abstention",
+      "pour": 0,
+      "contre": 14,
+      "abstentions": 2
+    },
+    {
+      "numero": "10103",
+      "date": "2026-11-24",
+      "titre": "la motion de rejet préalable, déposée par Mme Mathilde Panot, du projet de loi de finances de fin de gestion pour 2026 (texte de la commission mixte paritaire).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 16,
+      "contre": 0,
+      "abstentions": 1
+    },
     {
       "numero": "10102",
       "date": "2026-11-24",
@@ -100093,6 +100333,46 @@
   ],
   "PO845454": [
     {
+      "numero": "10106",
+      "date": "2026-11-24",
+      "titre": "l'ensemble du projet de loi de finances de fin de gestion pour 2026 (texte de la commission mixte paritaire).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 21,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "10105",
+      "date": "2026-11-24",
+      "titre": "l'amendement n° 2 du Gouvernement au projet de loi de finances de fin de gestion pour 2026 (texte de la commission mixte paritaire).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 20,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "10104",
+      "date": "2026-11-24",
+      "titre": "l'amendement n° 4 du Gouvernement au projet de loi de finances de fin de gestion pour 2026 (texte de la commission mixte paritaire).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 20,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "10103",
+      "date": "2026-11-24",
+      "titre": "la motion de rejet préalable, déposée par Mme Mathilde Panot, du projet de loi de finances de fin de gestion pour 2026 (texte de la commission mixte paritaire).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 24,
+      "abstentions": 0
+    },
+    {
       "numero": "10102",
       "date": "2026-11-24",
       "titre": "l'ensemble du projet de loi visant la relance et la décentralisation du logement (première lecture).",
@@ -116774,6 +117054,46 @@
     }
   ],
   "PO845470": [
+    {
+      "numero": "10106",
+      "date": "2026-11-24",
+      "titre": "l'ensemble du projet de loi de finances de fin de gestion pour 2026 (texte de la commission mixte paritaire).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 17,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "10105",
+      "date": "2026-11-24",
+      "titre": "l'amendement n° 2 du Gouvernement au projet de loi de finances de fin de gestion pour 2026 (texte de la commission mixte paritaire).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 17,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "10104",
+      "date": "2026-11-24",
+      "titre": "l'amendement n° 4 du Gouvernement au projet de loi de finances de fin de gestion pour 2026 (texte de la commission mixte paritaire).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 16,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "10103",
+      "date": "2026-11-24",
+      "titre": "la motion de rejet préalable, déposée par Mme Mathilde Panot, du projet de loi de finances de fin de gestion pour 2026 (texte de la commission mixte paritaire).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 17,
+      "abstentions": 0
+    },
     {
       "numero": "10102",
       "date": "2026-11-24",
@@ -133457,6 +133777,46 @@
   ],
   "PO845485": [
     {
+      "numero": "10106",
+      "date": "2026-11-24",
+      "titre": "l'ensemble du projet de loi de finances de fin de gestion pour 2026 (texte de la commission mixte paritaire).",
+      "resultat": "adopté",
+      "position": "abstention",
+      "pour": 11,
+      "contre": 0,
+      "abstentions": 3
+    },
+    {
+      "numero": "10105",
+      "date": "2026-11-24",
+      "titre": "l'amendement n° 2 du Gouvernement au projet de loi de finances de fin de gestion pour 2026 (texte de la commission mixte paritaire).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 13,
+      "contre": 0,
+      "abstentions": 1
+    },
+    {
+      "numero": "10104",
+      "date": "2026-11-24",
+      "titre": "l'amendement n° 4 du Gouvernement au projet de loi de finances de fin de gestion pour 2026 (texte de la commission mixte paritaire).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 13,
+      "contre": 0,
+      "abstentions": 1
+    },
+    {
+      "numero": "10103",
+      "date": "2026-11-24",
+      "titre": "la motion de rejet préalable, déposée par Mme Mathilde Panot, du projet de loi de finances de fin de gestion pour 2026 (texte de la commission mixte paritaire).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 11,
+      "abstentions": 0
+    },
+    {
       "numero": "10102",
       "date": "2026-11-24",
       "titre": "l'ensemble du projet de loi visant la relance et la décentralisation du logement (première lecture).",
@@ -150138,6 +150498,46 @@
     }
   ],
   "PO872880": [
+    {
+      "numero": "10106",
+      "date": "2026-11-24",
+      "titre": "l'ensemble du projet de loi de finances de fin de gestion pour 2026 (texte de la commission mixte paritaire).",
+      "resultat": "adopté",
+      "position": "abstention",
+      "pour": 0,
+      "contre": 0,
+      "abstentions": 6
+    },
+    {
+      "numero": "10105",
+      "date": "2026-11-24",
+      "titre": "l'amendement n° 2 du Gouvernement au projet de loi de finances de fin de gestion pour 2026 (texte de la commission mixte paritaire).",
+      "resultat": "adopté",
+      "position": "abstention",
+      "pour": 0,
+      "contre": 0,
+      "abstentions": 5
+    },
+    {
+      "numero": "10104",
+      "date": "2026-11-24",
+      "titre": "l'amendement n° 4 du Gouvernement au projet de loi de finances de fin de gestion pour 2026 (texte de la commission mixte paritaire).",
+      "resultat": "adopté",
+      "position": "abstention",
+      "pour": 0,
+      "contre": 0,
+      "abstentions": 5
+    },
+    {
+      "numero": "10103",
+      "date": "2026-11-24",
+      "titre": "la motion de rejet préalable, déposée par Mme Mathilde Panot, du projet de loi de finances de fin de gestion pour 2026 (texte de la commission mixte paritaire).",
+      "resultat": "rejeté",
+      "position": "abstention",
+      "pour": 0,
+      "contre": 0,
+      "abstentions": 2
+    },
     {
       "numero": "10102",
       "date": "2026-11-24",
@@ -166821,6 +167221,46 @@
   ],
   "PO845514": [
     {
+      "numero": "10106",
+      "date": "2026-11-24",
+      "titre": "l'ensemble du projet de loi de finances de fin de gestion pour 2026 (texte de la commission mixte paritaire).",
+      "resultat": "adopté",
+      "position": "contre",
+      "pour": 1,
+      "contre": 5,
+      "abstentions": 3
+    },
+    {
+      "numero": "10105",
+      "date": "2026-11-24",
+      "titre": "l'amendement n° 2 du Gouvernement au projet de loi de finances de fin de gestion pour 2026 (texte de la commission mixte paritaire).",
+      "resultat": "adopté",
+      "position": "abstention",
+      "pour": 2,
+      "contre": 0,
+      "abstentions": 5
+    },
+    {
+      "numero": "10104",
+      "date": "2026-11-24",
+      "titre": "l'amendement n° 4 du Gouvernement au projet de loi de finances de fin de gestion pour 2026 (texte de la commission mixte paritaire).",
+      "resultat": "adopté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 7,
+      "abstentions": 1
+    },
+    {
+      "numero": "10103",
+      "date": "2026-11-24",
+      "titre": "la motion de rejet préalable, déposée par Mme Mathilde Panot, du projet de loi de finances de fin de gestion pour 2026 (texte de la commission mixte paritaire).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 7,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
       "numero": "10102",
       "date": "2026-11-24",
       "titre": "l'ensemble du projet de loi visant la relance et la décentralisation du logement (première lecture).",
@@ -183502,6 +183942,46 @@
     }
   ],
   "PO840056": [
+    {
+      "numero": "10106",
+      "date": "2026-11-24",
+      "titre": "l'ensemble du projet de loi de finances de fin de gestion pour 2026 (texte de la commission mixte paritaire).",
+      "resultat": "adopté",
+      "position": "abstention",
+      "pour": 3,
+      "contre": 1,
+      "abstentions": 4
+    },
+    {
+      "numero": "10105",
+      "date": "2026-11-24",
+      "titre": "l'amendement n° 2 du Gouvernement au projet de loi de finances de fin de gestion pour 2026 (texte de la commission mixte paritaire).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 4,
+      "contre": 0,
+      "abstentions": 4
+    },
+    {
+      "numero": "10104",
+      "date": "2026-11-24",
+      "titre": "l'amendement n° 4 du Gouvernement au projet de loi de finances de fin de gestion pour 2026 (texte de la commission mixte paritaire).",
+      "resultat": "adopté",
+      "position": "abstention",
+      "pour": 3,
+      "contre": 0,
+      "abstentions": 5
+    },
+    {
+      "numero": "10103",
+      "date": "2026-11-24",
+      "titre": "la motion de rejet préalable, déposée par Mme Mathilde Panot, du projet de loi de finances de fin de gestion pour 2026 (texte de la commission mixte paritaire).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 4,
+      "abstentions": 1
+    },
     {
       "numero": "10102",
       "date": "2026-11-24",
