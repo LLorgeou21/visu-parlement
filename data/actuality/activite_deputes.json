@@ -238,9 +238,9 @@
     "propositionsLoi": 3
   },
   "PA841419": {
-    "amendementsAuteur": 193,
+    "amendementsAuteur": 194,
     "amendementsCosignataire": 14437,
-    "amendementsAdoptes": 14,
+    "amendementsAdoptes": 33,
     "questionsEcrites": 32,
     "propositionsLoi": 3
   },
@@ -842,7 +842,7 @@
   "PA795778": {
     "amendementsAuteur": 759,
     "amendementsCosignataire": 5988,
-    "amendementsAdoptes": 81,
+    "amendementsAdoptes": 83,
     "questionsEcrites": 45,
     "propositionsLoi": 9
   },
@@ -897,21 +897,21 @@
   },
   "PA795982": {
     "amendementsAuteur": 499,
-    "amendementsCosignataire": 21836,
-    "amendementsAdoptes": 28,
+    "amendementsCosignataire": 21876,
+    "amendementsAdoptes": 32,
     "questionsEcrites": 105,
     "propositionsLoi": 2
   },
   "PA795228": {
-    "amendementsAuteur": 180,
-    "amendementsCosignataire": 22115,
+    "amendementsAuteur": 186,
+    "amendementsCosignataire": 22154,
     "amendementsAdoptes": 32,
     "questionsEcrites": 27,
     "propositionsLoi": 3
   },
   "PA793262": {
     "amendementsAuteur": 51,
-    "amendementsCosignataire": 22253,
+    "amendementsCosignataire": 22293,
     "amendementsAdoptes": 15,
     "questionsEcrites": 12,
     "propositionsLoi": 0
@@ -924,204 +924,204 @@
     "propositionsLoi": 8
   },
   "PA794138": {
-    "amendementsAuteur": 542,
-    "amendementsCosignataire": 21777,
-    "amendementsAdoptes": 61,
+    "amendementsAuteur": 543,
+    "amendementsCosignataire": 21821,
+    "amendementsAdoptes": 63,
     "questionsEcrites": 63,
     "propositionsLoi": 3
   },
   "PA795588": {
     "amendementsAuteur": 73,
-    "amendementsCosignataire": 22216,
-    "amendementsAdoptes": 12,
+    "amendementsCosignataire": 22261,
+    "amendementsAdoptes": 13,
     "questionsEcrites": 4,
     "propositionsLoi": 1
   },
   "PA795084": {
     "amendementsAuteur": 103,
-    "amendementsCosignataire": 22215,
+    "amendementsCosignataire": 22255,
     "amendementsAdoptes": 9,
     "questionsEcrites": 54,
     "propositionsLoi": 3
   },
   "PA842105": {
     "amendementsAuteur": 118,
-    "amendementsCosignataire": 22165,
+    "amendementsCosignataire": 22205,
     "amendementsAdoptes": 11,
     "questionsEcrites": 15,
     "propositionsLoi": 0
   },
   "PA841657": {
-    "amendementsAuteur": 410,
-    "amendementsCosignataire": 21911,
+    "amendementsAuteur": 422,
+    "amendementsCosignataire": 21944,
     "amendementsAdoptes": 34,
     "questionsEcrites": 24,
     "propositionsLoi": 3
   },
   "PA720430": {
     "amendementsAuteur": 630,
-    "amendementsCosignataire": 21762,
+    "amendementsCosignataire": 21807,
     "amendementsAdoptes": 55,
     "questionsEcrites": 95,
     "propositionsLoi": 7
   },
   "PA793772": {
     "amendementsAuteur": 97,
-    "amendementsCosignataire": 22209,
+    "amendementsCosignataire": 22254,
     "amendementsAdoptes": 6,
     "questionsEcrites": 38,
     "propositionsLoi": 2
   },
   "PA795616": {
     "amendementsAuteur": 167,
-    "amendementsCosignataire": 22119,
+    "amendementsCosignataire": 22165,
     "amendementsAdoptes": 23,
     "questionsEcrites": 9,
     "propositionsLoi": 2
   },
   "PA793444": {
     "amendementsAuteur": 139,
-    "amendementsCosignataire": 22172,
+    "amendementsCosignataire": 22217,
     "amendementsAdoptes": 7,
     "questionsEcrites": 18,
     "propositionsLoi": 1
   },
   "PA794938": {
     "amendementsAuteur": 114,
-    "amendementsCosignataire": 22211,
+    "amendementsCosignataire": 22251,
     "amendementsAdoptes": 26,
     "questionsEcrites": 57,
     "propositionsLoi": 5
   },
   "PA795318": {
     "amendementsAuteur": 579,
-    "amendementsCosignataire": 21725,
+    "amendementsCosignataire": 21770,
     "amendementsAdoptes": 46,
     "questionsEcrites": 6,
     "propositionsLoi": 1
   },
   "PA841023": {
     "amendementsAuteur": 272,
-    "amendementsCosignataire": 22088,
+    "amendementsCosignataire": 22133,
     "amendementsAdoptes": 26,
     "questionsEcrites": 87,
     "propositionsLoi": 3
   },
   "PA796090": {
     "amendementsAuteur": 341,
-    "amendementsCosignataire": 21995,
+    "amendementsCosignataire": 22035,
     "amendementsAdoptes": 12,
     "questionsEcrites": 2,
     "propositionsLoi": 7
   },
   "PA793912": {
     "amendementsAuteur": 170,
-    "amendementsCosignataire": 22189,
+    "amendementsCosignataire": 22234,
     "amendementsAdoptes": 32,
     "questionsEcrites": 64,
     "propositionsLoi": 2
   },
   "PA842187": {
-    "amendementsAuteur": 1023,
-    "amendementsCosignataire": 21617,
+    "amendementsAuteur": 1039,
+    "amendementsCosignataire": 21640,
     "amendementsAdoptes": 121,
     "questionsEcrites": 73,
     "propositionsLoi": 8
   },
   "PA842037": {
     "amendementsAuteur": 246,
-    "amendementsCosignataire": 22085,
+    "amendementsCosignataire": 22125,
     "amendementsAdoptes": 26,
     "questionsEcrites": 20,
     "propositionsLoi": 5
   },
   "PA791812": {
     "amendementsAuteur": 143,
-    "amendementsCosignataire": 22159,
+    "amendementsCosignataire": 22199,
     "amendementsAdoptes": 22,
     "questionsEcrites": 23,
     "propositionsLoi": 9
   },
   "PA793736": {
     "amendementsAuteur": 1134,
-    "amendementsCosignataire": 21256,
+    "amendementsCosignataire": 21296,
     "amendementsAdoptes": 107,
     "questionsEcrites": 95,
     "propositionsLoi": 23
   },
   "PA721202": {
     "amendementsAuteur": 387,
-    "amendementsCosignataire": 22030,
+    "amendementsCosignataire": 22070,
     "amendementsAdoptes": 59,
     "questionsEcrites": 4,
     "propositionsLoi": 2
   },
   "PA795136": {
     "amendementsAuteur": 568,
-    "amendementsCosignataire": 21763,
+    "amendementsCosignataire": 21803,
     "amendementsAdoptes": 29,
     "questionsEcrites": 15,
     "propositionsLoi": 5
   },
   "PA793464": {
     "amendementsAuteur": 8,
-    "amendementsCosignataire": 22306,
+    "amendementsCosignataire": 22346,
     "amendementsAdoptes": 0,
     "questionsEcrites": 18,
     "propositionsLoi": 7
   },
   "PA842155": {
     "amendementsAuteur": 23,
-    "amendementsCosignataire": 22269,
+    "amendementsCosignataire": 22309,
     "amendementsAdoptes": 5,
     "questionsEcrites": 25,
     "propositionsLoi": 1
   },
   "PA795200": {
     "amendementsAuteur": 79,
-    "amendementsCosignataire": 22228,
+    "amendementsCosignataire": 22273,
     "amendementsAdoptes": 11,
     "questionsEcrites": 1,
     "propositionsLoi": 3
   },
   "PA795844": {
     "amendementsAuteur": 380,
-    "amendementsCosignataire": 21948,
+    "amendementsCosignataire": 21993,
     "amendementsAdoptes": 25,
     "questionsEcrites": 65,
     "propositionsLoi": 3
   },
   "PA841251": {
     "amendementsAuteur": 518,
-    "amendementsCosignataire": 21810,
+    "amendementsCosignataire": 21855,
     "amendementsAdoptes": 50,
     "questionsEcrites": 35,
     "propositionsLoi": 1
   },
   "PA794786": {
     "amendementsAuteur": 108,
-    "amendementsCosignataire": 22230,
+    "amendementsCosignataire": 22275,
     "amendementsAdoptes": 15,
     "questionsEcrites": 71,
     "propositionsLoi": 2
   },
   "PA794870": {
     "amendementsAuteur": 224,
-    "amendementsCosignataire": 22067,
+    "amendementsCosignataire": 22112,
     "amendementsAdoptes": 5,
     "questionsEcrites": 88,
     "propositionsLoi": 2
   },
   "PA796070": {
     "amendementsAuteur": 91,
-    "amendementsCosignataire": 22221,
+    "amendementsCosignataire": 22261,
     "amendementsAdoptes": 29,
     "questionsEcrites": 18,
     "propositionsLoi": 0
   },
   "PA795310": {
     "amendementsAuteur": 71,
-    "amendementsCosignataire": 22249,
+    "amendementsCosignataire": 22289,
     "amendementsAdoptes": 8,
     "questionsEcrites": 92,
     "propositionsLoi": 5
@@ -1135,260 +1135,260 @@
   },
   "PA841947": {
     "amendementsAuteur": 483,
-    "amendementsCosignataire": 21846,
+    "amendementsCosignataire": 21886,
     "amendementsAdoptes": 42,
     "questionsEcrites": 15,
     "propositionsLoi": 2
   },
   "PA794082": {
     "amendementsAuteur": 703,
-    "amendementsCosignataire": 21655,
+    "amendementsCosignataire": 21700,
     "amendementsAdoptes": 45,
     "questionsEcrites": 76,
     "propositionsLoi": 5
   },
   "PA794130": {
     "amendementsAuteur": 289,
-    "amendementsCosignataire": 21379,
+    "amendementsCosignataire": 21419,
     "amendementsAdoptes": 8,
     "questionsEcrites": 14,
     "propositionsLoi": 0
   },
   "PA720846": {
     "amendementsAuteur": 2636,
-    "amendementsCosignataire": 19721,
+    "amendementsCosignataire": 19761,
     "amendementsAdoptes": 41,
     "questionsEcrites": 110,
     "propositionsLoi": 1
   },
   "PA841729": {
     "amendementsAuteur": 128,
-    "amendementsCosignataire": 22163,
+    "amendementsCosignataire": 22203,
     "amendementsAdoptes": 13,
     "questionsEcrites": 92,
     "propositionsLoi": 2
   },
   "PA795516": {
     "amendementsAuteur": 186,
-    "amendementsCosignataire": 22155,
+    "amendementsCosignataire": 22195,
     "amendementsAdoptes": 29,
     "questionsEcrites": 26,
     "propositionsLoi": 1
   },
   "PA841515": {
     "amendementsAuteur": 665,
-    "amendementsCosignataire": 21684,
+    "amendementsCosignataire": 21724,
     "amendementsAdoptes": 44,
     "questionsEcrites": 21,
     "propositionsLoi": 0
   },
   "PA795672": {
     "amendementsAuteur": 25,
-    "amendementsCosignataire": 22262,
+    "amendementsCosignataire": 22302,
     "amendementsAdoptes": 0,
     "questionsEcrites": 23,
     "propositionsLoi": 3
   },
   "PA795108": {
     "amendementsAuteur": 841,
-    "amendementsCosignataire": 21605,
+    "amendementsCosignataire": 21645,
     "amendementsAdoptes": 117,
     "questionsEcrites": 49,
     "propositionsLoi": 3
   },
   "PA795298": {
     "amendementsAuteur": 157,
-    "amendementsCosignataire": 22140,
+    "amendementsCosignataire": 22180,
     "amendementsAdoptes": 12,
     "questionsEcrites": 9,
     "propositionsLoi": 0
   },
   "PA791824": {
     "amendementsAuteur": 338,
-    "amendementsCosignataire": 21968,
+    "amendementsCosignataire": 22008,
     "amendementsAdoptes": 32,
     "questionsEcrites": 27,
     "propositionsLoi": 4
   },
   "PA842029": {
     "amendementsAuteur": 624,
-    "amendementsCosignataire": 21700,
+    "amendementsCosignataire": 21740,
     "amendementsAdoptes": 78,
     "questionsEcrites": 12,
     "propositionsLoi": 1
   },
   "PA793532": {
     "amendementsAuteur": 111,
-    "amendementsCosignataire": 22223,
+    "amendementsCosignataire": 22263,
     "amendementsAdoptes": 26,
     "questionsEcrites": 27,
     "propositionsLoi": 1
   },
   "PA795746": {
     "amendementsAuteur": 346,
-    "amendementsCosignataire": 21999,
+    "amendementsCosignataire": 22039,
     "amendementsAdoptes": 12,
     "questionsEcrites": 38,
     "propositionsLoi": 4
   },
   "PA342384": {
     "amendementsAuteur": 479,
-    "amendementsCosignataire": 21808,
+    "amendementsCosignataire": 21848,
     "amendementsAdoptes": 29,
     "questionsEcrites": 34,
     "propositionsLoi": 3
   },
   "PA795422": {
-    "amendementsAuteur": 782,
-    "amendementsCosignataire": 21664,
+    "amendementsAuteur": 783,
+    "amendementsCosignataire": 21703,
     "amendementsAdoptes": 72,
     "questionsEcrites": 32,
     "propositionsLoi": 3
   },
   "PA794686": {
     "amendementsAuteur": 608,
-    "amendementsCosignataire": 21807,
+    "amendementsCosignataire": 21847,
     "amendementsAdoptes": 119,
     "questionsEcrites": 45,
     "propositionsLoi": 7
   },
   "PA841215": {
     "amendementsAuteur": 202,
-    "amendementsCosignataire": 22166,
+    "amendementsCosignataire": 22206,
     "amendementsAdoptes": 19,
     "questionsEcrites": 20,
     "propositionsLoi": 2
   },
   "PA795482": {
     "amendementsAuteur": 446,
-    "amendementsCosignataire": 21880,
+    "amendementsCosignataire": 21920,
     "amendementsAdoptes": 66,
     "questionsEcrites": 17,
     "propositionsLoi": 2
   },
   "PA610654": {
     "amendementsAuteur": 74,
-    "amendementsCosignataire": 22230,
+    "amendementsCosignataire": 22270,
     "amendementsAdoptes": 14,
     "questionsEcrites": 12,
     "propositionsLoi": 3
   },
   "PA841191": {
     "amendementsAuteur": 338,
-    "amendementsCosignataire": 21997,
+    "amendementsCosignataire": 22037,
     "amendementsAdoptes": 43,
     "questionsEcrites": 16,
     "propositionsLoi": 1
   },
   "PA721960": {
     "amendementsAuteur": 85,
-    "amendementsCosignataire": 22198,
+    "amendementsCosignataire": 22238,
     "amendementsAdoptes": 8,
     "questionsEcrites": 13,
     "propositionsLoi": 2
   },
   "PA793872": {
     "amendementsAuteur": 27,
-    "amendementsCosignataire": 22240,
+    "amendementsCosignataire": 22280,
     "amendementsAdoptes": 0,
     "questionsEcrites": 24,
     "propositionsLoi": 0
   },
   "PA720892": {
     "amendementsAuteur": 102,
-    "amendementsCosignataire": 22225,
+    "amendementsCosignataire": 22265,
     "amendementsAdoptes": 2,
     "questionsEcrites": 26,
     "propositionsLoi": 6
   },
   "PA817211": {
     "amendementsAuteur": 218,
-    "amendementsCosignataire": 22089,
+    "amendementsCosignataire": 22129,
     "amendementsAdoptes": 33,
     "questionsEcrites": 41,
     "propositionsLoi": 5
   },
   "PA793756": {
-    "amendementsAuteur": 337,
-    "amendementsCosignataire": 21977,
+    "amendementsAuteur": 342,
+    "amendementsCosignataire": 22012,
     "amendementsAdoptes": 26,
     "questionsEcrites": 20,
     "propositionsLoi": 4
   },
   "PA796062": {
-    "amendementsAuteur": 248,
-    "amendementsCosignataire": 22077,
+    "amendementsAuteur": 263,
+    "amendementsCosignataire": 22096,
     "amendementsAdoptes": 8,
     "questionsEcrites": 61,
     "propositionsLoi": 4
   },
   "PA719578": {
     "amendementsAuteur": 361,
-    "amendementsCosignataire": 21935,
+    "amendementsCosignataire": 21975,
     "amendementsAdoptes": 12,
     "questionsEcrites": 33,
     "propositionsLoi": 4
   },
   "PA721062": {
     "amendementsAuteur": 328,
-    "amendementsCosignataire": 21948,
+    "amendementsCosignataire": 21988,
     "amendementsAdoptes": 71,
     "questionsEcrites": 10,
     "propositionsLoi": 4
   },
   "PA841845": {
     "amendementsAuteur": 250,
-    "amendementsCosignataire": 22022,
-    "amendementsAdoptes": 28,
+    "amendementsCosignataire": 22062,
+    "amendementsAdoptes": 29,
     "questionsEcrites": 35,
     "propositionsLoi": 2
   },
   "PA795466": {
     "amendementsAuteur": 191,
-    "amendementsCosignataire": 22116,
+    "amendementsCosignataire": 22156,
     "amendementsAdoptes": 13,
     "questionsEcrites": 33,
     "propositionsLoi": 4
   },
   "PA793744": {
     "amendementsAuteur": 407,
-    "amendementsCosignataire": 21925,
+    "amendementsCosignataire": 21965,
     "amendementsAdoptes": 34,
     "questionsEcrites": 14,
     "propositionsLoi": 3
   },
   "PA720952": {
     "amendementsAuteur": 1127,
-    "amendementsCosignataire": 21205,
+    "amendementsCosignataire": 21245,
     "amendementsAdoptes": 28,
     "questionsEcrites": 15,
     "propositionsLoi": 1
   },
   "PA794106": {
     "amendementsAuteur": 432,
-    "amendementsCosignataire": 21904,
+    "amendementsCosignataire": 21944,
     "amendementsAdoptes": 36,
     "questionsEcrites": 50,
     "propositionsLoi": 1
   },
   "PA794166": {
     "amendementsAuteur": 325,
-    "amendementsCosignataire": 22034,
+    "amendementsCosignataire": 22074,
     "amendementsAdoptes": 26,
     "questionsEcrites": 64,
     "propositionsLoi": 5
   },
   "PA795164": {
     "amendementsAuteur": 330,
-    "amendementsCosignataire": 21960,
+    "amendementsCosignataire": 22000,
     "amendementsAdoptes": 49,
     "questionsEcrites": 9,
     "propositionsLoi": 6
   },
   "PA795596": {
     "amendementsAuteur": 263,
-    "amendementsCosignataire": 22052,
-    "amendementsAdoptes": 37,
+    "amendementsCosignataire": 22092,
+    "amendementsAdoptes": 38,
     "questionsEcrites": 11,
     "propositionsLoi": 5
   },
@@ -1402,14 +1402,14 @@
   "PA610968": {
     "amendementsAuteur": 523,
     "amendementsCosignataire": 14838,
-    "amendementsAdoptes": 55,
+    "amendementsAdoptes": 56,
     "questionsEcrites": 26,
     "propositionsLoi": 2
   },
   "PA793780": {
     "amendementsAuteur": 636,
     "amendementsCosignataire": 14070,
-    "amendementsAdoptes": 81,
+    "amendementsAdoptes": 93,
     "questionsEcrites": 26,
     "propositionsLoi": 6
   },
@@ -1451,7 +1451,7 @@
   "PA841885": {
     "amendementsAuteur": 715,
     "amendementsCosignataire": 14064,
-    "amendementsAdoptes": 94,
+    "amendementsAdoptes": 95,
     "questionsEcrites": 5,
     "propositionsLoi": 6
   },
@@ -1479,7 +1479,7 @@
   "PA793452": {
     "amendementsAuteur": 737,
     "amendementsCosignataire": 14069,
-    "amendementsAdoptes": 71,
+    "amendementsAdoptes": 83,
     "questionsEcrites": 26,
     "propositionsLoi": 7
   },
@@ -1493,7 +1493,7 @@
   "PA793980": {
     "amendementsAuteur": 660,
     "amendementsCosignataire": 14344,
-    "amendementsAdoptes": 88,
+    "amendementsAdoptes": 90,
     "questionsEcrites": 14,
     "propositionsLoi": 7
   },
@@ -1507,7 +1507,7 @@
   "PA842013": {
     "amendementsAuteur": 322,
     "amendementsCosignataire": 14462,
-    "amendementsAdoptes": 58,
+    "amendementsAdoptes": 60,
     "questionsEcrites": 12,
     "propositionsLoi": 2
   },
@@ -1521,12 +1521,12 @@
   "PA794146": {
     "amendementsAuteur": 347,
     "amendementsCosignataire": 14628,
-    "amendementsAdoptes": 44,
+    "amendementsAdoptes": 65,
     "questionsEcrites": 19,
     "propositionsLoi": 7
   },
   "PA841223": {
-    "amendementsAuteur": 263,
+    "amendementsAuteur": 268,
     "amendementsCosignataire": 14517,
     "amendementsAdoptes": 35,
     "questionsEcrites": 8,
@@ -1619,7 +1619,7 @@
   "PA841713": {
     "amendementsAuteur": 287,
     "amendementsCosignataire": 14650,
-    "amendementsAdoptes": 34,
+    "amendementsAdoptes": 37,
     "questionsEcrites": 19,
     "propositionsLoi": 5
   },
@@ -1955,7 +1955,7 @@
   "PA841107": {
     "amendementsAuteur": 167,
     "amendementsCosignataire": 6343,
-    "amendementsAdoptes": 39,
+    "amendementsAdoptes": 40,
     "questionsEcrites": 6,
     "propositionsLoi": 1
   },
@@ -1995,9 +1995,9 @@
     "propositionsLoi": 6
   },
   "PA840955": {
-    "amendementsAuteur": 95,
+    "amendementsAuteur": 99,
     "amendementsCosignataire": 5627,
-    "amendementsAdoptes": 19,
+    "amendementsAdoptes": 23,
     "questionsEcrites": 14,
     "propositionsLoi": 0
   },
@@ -2109,7 +2109,7 @@
   "PA720992": {
     "amendementsAuteur": 201,
     "amendementsCosignataire": 6218,
-    "amendementsAdoptes": 34,
+    "amendementsAdoptes": 35,
     "questionsEcrites": 43,
     "propositionsLoi": 2
   },
@@ -2164,7 +2164,7 @@
   },
   "PA841531": {
     "amendementsAuteur": 142,
-    "amendementsCosignataire": 6026,
+    "amendementsCosignataire": 6066,
     "amendementsAdoptes": 25,
     "questionsEcrites": 4,
     "propositionsLoi": 0
@@ -2242,7 +2242,7 @@
   "PA842183": {
     "amendementsAuteur": 2,
     "amendementsCosignataire": 357,
-    "amendementsAdoptes": 0,
+    "amendementsAdoptes": 1,
     "questionsEcrites": 1,
     "propositionsLoi": 0
   },
@@ -2487,7 +2487,7 @@
   "PA796010": {
     "amendementsAuteur": 638,
     "amendementsCosignataire": 5580,
-    "amendementsAdoptes": 57,
+    "amendementsAdoptes": 58,
     "questionsEcrites": 44,
     "propositionsLoi": 3
   },
@@ -2730,8 +2730,8 @@
     "propositionsLoi": 18
   },
   "PA722390": {
-    "amendementsAuteur": 659,
-    "amendementsCosignataire": 7700,
+    "amendementsAuteur": 660,
+    "amendementsCosignataire": 7702,
     "amendementsAdoptes": 52,
     "questionsEcrites": 66,
     "propositionsLoi": 15
@@ -2998,7 +2998,7 @@
   "PA721852": {
     "amendementsAuteur": 326,
     "amendementsCosignataire": 1196,
-    "amendementsAdoptes": 58,
+    "amendementsAdoptes": 60,
     "questionsEcrites": 1,
     "propositionsLoi": 0
   },
@@ -3103,7 +3103,7 @@
   "PA719632": {
     "amendementsAuteur": 162,
     "amendementsCosignataire": 996,
-    "amendementsAdoptes": 27,
+    "amendementsAdoptes": 28,
     "questionsEcrites": 19,
     "propositionsLoi": 4
   },
@@ -3516,7 +3516,7 @@
   "PA793094": {
     "amendementsAuteur": 593,
     "amendementsCosignataire": 5444,
-    "amendementsAdoptes": 88,
+    "amendementsAdoptes": 90,
     "questionsEcrites": 52,
     "propositionsLoi": 3
   },
@@ -3707,7 +3707,7 @@
     "amendementsCosignataire": 2585,
     "amendementsAdoptes": 15,
     "questionsEcrites": 78,
-    "propositionsLoi": 23
+    "propositionsLoi": 24
   },
   "PA842117": {
     "amendementsAuteur": 17,
@@ -3796,7 +3796,7 @@
   "PA774954": {
     "amendementsAuteur": 1034,
     "amendementsCosignataire": 2330,
-    "amendementsAdoptes": 50,
+    "amendementsAdoptes": 53,
     "questionsEcrites": 29,
     "propositionsLoi": 10
   },
@@ -4020,7 +4020,7 @@
   "PA840809": {
     "amendementsAuteur": 1162,
     "amendementsCosignataire": 1260,
-    "amendementsAdoptes": 8,
+    "amendementsAdoptes": 10,
     "questionsEcrites": 7,
     "propositionsLoi": 5
   },
@@ -4083,7 +4083,7 @@
   "PA841359": {
     "amendementsAuteur": 302,
     "amendementsCosignataire": 1983,
-    "amendementsAdoptes": 49,
+    "amendementsAdoptes": 56,
     "questionsEcrites": 62,
     "propositionsLoi": 7
   },
@@ -4179,7 +4179,7 @@
     "propositionsLoi": 1
   },
   "PA870009": {
-    "amendementsAuteur": 161,
+    "amendementsAuteur": 162,
     "amendementsCosignataire": 2293,
     "amendementsAdoptes": 78,
     "questionsEcrites": 27,
@@ -4475,7 +4475,7 @@
   "PA841543": {
     "amendementsAuteur": 50,
     "amendementsCosignataire": 573,
-    "amendementsAdoptes": 10,
+    "amendementsAdoptes": 12,
     "questionsEcrites": 0,
     "propositionsLoi": 0
   },
@@ -6542,7 +6542,7 @@
     "amendementsCosignataire": 0,
     "amendementsAdoptes": 0,
     "questionsEcrites": 0,
-    "propositionsLoi": 3
+    "propositionsLoi": 4
   },
   "PA703497": {
     "amendementsAuteur": 0,
