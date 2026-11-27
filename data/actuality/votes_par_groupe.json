@@ -1,6 +1,76 @@
 {
   "PO845401": [
     {
+      "numero": "10175",
+      "date": "2026-11-26",
+      "titre": "la demande de suspension de séance formulée par M. Boyard en application de l'article 58 du Règlement de l'Assemblée nationale (proposition de loi visant à limiter à deux ans le versement du RSA pour les personnes aptes à travailler) (première lecture).",
+      "resultat": "adopté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 6,
+      "abstentions": 0
+    },
+    {
+      "numero": "10174",
+      "date": "2026-11-26",
+      "titre": "la demande de suspension de séance formulée par M. Léaument en application de l'article 58 du Règlement de l'Assemblée nationale (proposition de loi visant à limiter à deux ans le versement du RSA pour les personnes aptes à travailler) (première lecture).",
+      "resultat": "adopté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 9,
+      "abstentions": 0
+    },
+    {
+      "numero": "10173",
+      "date": "2026-11-26",
+      "titre": "la demande de suspension de séance formulée par M. Pribetich en application de l'article 58 du Règlement de l'Assemblée nationale (proposition de loi visant à limiter à deux ans le versement du RSA pour les personnes aptes à travailler) (première lecture).",
+      "resultat": "adopté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 11,
+      "abstentions": 0
+    },
+    {
+      "numero": "10172",
+      "date": "2026-11-26",
+      "titre": "l'amendement n° 48 de Mme K/Bidi à l'article unique de la proposition de loi visant à suspendre les prestations sociales pour les fraudeurs multirécidivistes (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 22,
+      "abstentions": 0
+    },
+    {
+      "numero": "10171",
+      "date": "2026-11-26",
+      "titre": "l'amendement n° 1 de M. Ray à l'article unique de la proposition de loi visant à suspendre les prestations sociales pour les fraudeurs multirécidivistes (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 21,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "10170",
+      "date": "2026-11-26",
+      "titre": "l'amendement n° 8 de Mme Allemand et les amendements identiques suivants de suppression de l'article unique de la proposition de loi visant à suspendre les prestations sociales pour les fraudeurs multirécidivistes (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 22,
+      "abstentions": 0
+    },
+    {
+      "numero": "10169",
+      "date": "2026-11-26",
+      "titre": "la demande de suspension de séance formulée par M. Pribetich en application de l'article 58 du Règlement de l'Assemblée nationale (proposition de loi visant à suspendre les prestations sociales pour les fraudeurs multirécidivistes) (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 19,
+      "abstentions": 0
+    },
+    {
       "numero": "10168",
       "date": "2026-11-26",
       "titre": "l'ensemble de la proposition de loi visant à maintenir les pharmacies existantes dans les communes rurales (première lecture).",
@@ -17342,6 +17412,76 @@
     }
   ],
   "PO845407": [
+    {
+      "numero": "10175",
+      "date": "2026-11-26",
+      "titre": "la demande de suspension de séance formulée par M. Boyard en application de l'article 58 du Règlement de l'Assemblée nationale (proposition de loi visant à limiter à deux ans le versement du RSA pour les personnes aptes à travailler) (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 0,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "10174",
+      "date": "2026-11-26",
+      "titre": "la demande de suspension de séance formulée par M. Léaument en application de l'article 58 du Règlement de l'Assemblée nationale (proposition de loi visant à limiter à deux ans le versement du RSA pour les personnes aptes à travailler) (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 0,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "10173",
+      "date": "2026-11-26",
+      "titre": "la demande de suspension de séance formulée par M. Pribetich en application de l'article 58 du Règlement de l'Assemblée nationale (proposition de loi visant à limiter à deux ans le versement du RSA pour les personnes aptes à travailler) (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 1,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "10172",
+      "date": "2026-11-26",
+      "titre": "l'amendement n° 48 de Mme K/Bidi à l'article unique de la proposition de loi visant à suspendre les prestations sociales pour les fraudeurs multirécidivistes (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 11,
+      "abstentions": 0
+    },
+    {
+      "numero": "10171",
+      "date": "2026-11-26",
+      "titre": "l'amendement n° 1 de M. Ray à l'article unique de la proposition de loi visant à suspendre les prestations sociales pour les fraudeurs multirécidivistes (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 12,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "10170",
+      "date": "2026-11-26",
+      "titre": "l'amendement n° 8 de Mme Allemand et les amendements identiques suivants de suppression de l'article unique de la proposition de loi visant à suspendre les prestations sociales pour les fraudeurs multirécidivistes (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 10,
+      "abstentions": 0
+    },
+    {
+      "numero": "10169",
+      "date": "2026-11-26",
+      "titre": "la demande de suspension de séance formulée par M. Pribetich en application de l'article 58 du Règlement de l'Assemblée nationale (proposition de loi visant à suspendre les prestations sociales pour les fraudeurs multirécidivistes) (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 10,
+      "abstentions": 0
+    },
     {
       "numero": "10168",
       "date": "2026-11-26",
@@ -34685,6 +34825,76 @@
   ],
   "PO845413": [
     {
+      "numero": "10175",
+      "date": "2026-11-26",
+      "titre": "la demande de suspension de séance formulée par M. Boyard en application de l'article 58 du Règlement de l'Assemblée nationale (proposition de loi visant à limiter à deux ans le versement du RSA pour les personnes aptes à travailler) (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 26,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "10174",
+      "date": "2026-11-26",
+      "titre": "la demande de suspension de séance formulée par M. Léaument en application de l'article 58 du Règlement de l'Assemblée nationale (proposition de loi visant à limiter à deux ans le versement du RSA pour les personnes aptes à travailler) (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 25,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "10173",
+      "date": "2026-11-26",
+      "titre": "la demande de suspension de séance formulée par M. Pribetich en application de l'article 58 du Règlement de l'Assemblée nationale (proposition de loi visant à limiter à deux ans le versement du RSA pour les personnes aptes à travailler) (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 20,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "10172",
+      "date": "2026-11-26",
+      "titre": "l'amendement n° 48 de Mme K/Bidi à l'article unique de la proposition de loi visant à suspendre les prestations sociales pour les fraudeurs multirécidivistes (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 35,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "10171",
+      "date": "2026-11-26",
+      "titre": "l'amendement n° 1 de M. Ray à l'article unique de la proposition de loi visant à suspendre les prestations sociales pour les fraudeurs multirécidivistes (première lecture).",
+      "resultat": "adopté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 33,
+      "abstentions": 0
+    },
+    {
+      "numero": "10170",
+      "date": "2026-11-26",
+      "titre": "l'amendement n° 8 de Mme Allemand et les amendements identiques suivants de suppression de l'article unique de la proposition de loi visant à suspendre les prestations sociales pour les fraudeurs multirécidivistes (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 34,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "10169",
+      "date": "2026-11-26",
+      "titre": "la demande de suspension de séance formulée par M. Pribetich en application de l'article 58 du Règlement de l'Assemblée nationale (proposition de loi visant à suspendre les prestations sociales pour les fraudeurs multirécidivistes) (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 31,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
       "numero": "10168",
       "date": "2026-11-26",
       "titre": "l'ensemble de la proposition de loi visant à maintenir les pharmacies existantes dans les communes rurales (première lecture).",
@@ -52026,6 +52236,76 @@
     }
   ],
   "PO845419": [
+    {
+      "numero": "10175",
+      "date": "2026-11-26",
+      "titre": "la demande de suspension de séance formulée par M. Boyard en application de l'article 58 du Règlement de l'Assemblée nationale (proposition de loi visant à limiter à deux ans le versement du RSA pour les personnes aptes à travailler) (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 8,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "10174",
+      "date": "2026-11-26",
+      "titre": "la demande de suspension de séance formulée par M. Léaument en application de l'article 58 du Règlement de l'Assemblée nationale (proposition de loi visant à limiter à deux ans le versement du RSA pour les personnes aptes à travailler) (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 7,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "10173",
+      "date": "2026-11-26",
+      "titre": "la demande de suspension de séance formulée par M. Pribetich en application de l'article 58 du Règlement de l'Assemblée nationale (proposition de loi visant à limiter à deux ans le versement du RSA pour les personnes aptes à travailler) (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 7,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "10172",
+      "date": "2026-11-26",
+      "titre": "l'amendement n° 48 de Mme K/Bidi à l'article unique de la proposition de loi visant à suspendre les prestations sociales pour les fraudeurs multirécidivistes (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 9,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "10171",
+      "date": "2026-11-26",
+      "titre": "l'amendement n° 1 de M. Ray à l'article unique de la proposition de loi visant à suspendre les prestations sociales pour les fraudeurs multirécidivistes (première lecture).",
+      "resultat": "adopté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 8,
+      "abstentions": 0
+    },
+    {
+      "numero": "10170",
+      "date": "2026-11-26",
+      "titre": "l'amendement n° 8 de Mme Allemand et les amendements identiques suivants de suppression de l'article unique de la proposition de loi visant à suspendre les prestations sociales pour les fraudeurs multirécidivistes (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 9,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "10169",
+      "date": "2026-11-26",
+      "titre": "la demande de suspension de séance formulée par M. Pribetich en application de l'article 58 du Règlement de l'Assemblée nationale (proposition de loi visant à suspendre les prestations sociales pour les fraudeurs multirécidivistes) (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 8,
+      "contre": 0,
+      "abstentions": 0
+    },
     {
       "numero": "10168",
       "date": "2026-11-26",
@@ -69369,6 +69649,76 @@
   ],
   "PO845425": [
     {
+      "numero": "10175",
+      "date": "2026-11-26",
+      "titre": "la demande de suspension de séance formulée par M. Boyard en application de l'article 58 du Règlement de l'Assemblée nationale (proposition de loi visant à limiter à deux ans le versement du RSA pour les personnes aptes à travailler) (première lecture).",
+      "resultat": "adopté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 24,
+      "abstentions": 0
+    },
+    {
+      "numero": "10174",
+      "date": "2026-11-26",
+      "titre": "la demande de suspension de séance formulée par M. Léaument en application de l'article 58 du Règlement de l'Assemblée nationale (proposition de loi visant à limiter à deux ans le versement du RSA pour les personnes aptes à travailler) (première lecture).",
+      "resultat": "adopté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 23,
+      "abstentions": 0
+    },
+    {
+      "numero": "10173",
+      "date": "2026-11-26",
+      "titre": "la demande de suspension de séance formulée par M. Pribetich en application de l'article 58 du Règlement de l'Assemblée nationale (proposition de loi visant à limiter à deux ans le versement du RSA pour les personnes aptes à travailler) (première lecture).",
+      "resultat": "adopté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 25,
+      "abstentions": 0
+    },
+    {
+      "numero": "10172",
+      "date": "2026-11-26",
+      "titre": "l'amendement n° 48 de Mme K/Bidi à l'article unique de la proposition de loi visant à suspendre les prestations sociales pour les fraudeurs multirécidivistes (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 26,
+      "abstentions": 0
+    },
+    {
+      "numero": "10171",
+      "date": "2026-11-26",
+      "titre": "l'amendement n° 1 de M. Ray à l'article unique de la proposition de loi visant à suspendre les prestations sociales pour les fraudeurs multirécidivistes (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 26,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "10170",
+      "date": "2026-11-26",
+      "titre": "l'amendement n° 8 de Mme Allemand et les amendements identiques suivants de suppression de l'article unique de la proposition de loi visant à suspendre les prestations sociales pour les fraudeurs multirécidivistes (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 27,
+      "abstentions": 0
+    },
+    {
+      "numero": "10169",
+      "date": "2026-11-26",
+      "titre": "la demande de suspension de séance formulée par M. Pribetich en application de l'article 58 du Règlement de l'Assemblée nationale (proposition de loi visant à suspendre les prestations sociales pour les fraudeurs multirécidivistes) (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 24,
+      "abstentions": 0
+    },
+    {
       "numero": "10168",
       "date": "2026-11-26",
       "titre": "l'ensemble de la proposition de loi visant à maintenir les pharmacies existantes dans les communes rurales (première lecture).",
@@ -86710,6 +87060,76 @@
     }
   ],
   "PO845439": [
+    {
+      "numero": "10175",
+      "date": "2026-11-26",
+      "titre": "la demande de suspension de séance formulée par M. Boyard en application de l'article 58 du Règlement de l'Assemblée nationale (proposition de loi visant à limiter à deux ans le versement du RSA pour les personnes aptes à travailler) (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 7,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "10174",
+      "date": "2026-11-26",
+      "titre": "la demande de suspension de séance formulée par M. Léaument en application de l'article 58 du Règlement de l'Assemblée nationale (proposition de loi visant à limiter à deux ans le versement du RSA pour les personnes aptes à travailler) (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 9,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "10173",
+      "date": "2026-11-26",
+      "titre": "la demande de suspension de séance formulée par M. Pribetich en application de l'article 58 du Règlement de l'Assemblée nationale (proposition de loi visant à limiter à deux ans le versement du RSA pour les personnes aptes à travailler) (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 6,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "10172",
+      "date": "2026-11-26",
+      "titre": "l'amendement n° 48 de Mme K/Bidi à l'article unique de la proposition de loi visant à suspendre les prestations sociales pour les fraudeurs multirécidivistes (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 11,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "10171",
+      "date": "2026-11-26",
+      "titre": "l'amendement n° 1 de M. Ray à l'article unique de la proposition de loi visant à suspendre les prestations sociales pour les fraudeurs multirécidivistes (première lecture).",
+      "resultat": "adopté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 12,
+      "abstentions": 0
+    },
+    {
+      "numero": "10170",
+      "date": "2026-11-26",
+      "titre": "l'amendement n° 8 de Mme Allemand et les amendements identiques suivants de suppression de l'article unique de la proposition de loi visant à suspendre les prestations sociales pour les fraudeurs multirécidivistes (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 12,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "10169",
+      "date": "2026-11-26",
+      "titre": "la demande de suspension de séance formulée par M. Pribetich en application de l'article 58 du Règlement de l'Assemblée nationale (proposition de loi visant à suspendre les prestations sociales pour les fraudeurs multirécidivistes) (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 10,
+      "contre": 0,
+      "abstentions": 0
+    },
     {
       "numero": "10168",
       "date": "2026-11-26",
@@ -104053,6 +104473,76 @@
   ],
   "PO845454": [
     {
+      "numero": "10175",
+      "date": "2026-11-26",
+      "titre": "la demande de suspension de séance formulée par M. Boyard en application de l'article 58 du Règlement de l'Assemblée nationale (proposition de loi visant à limiter à deux ans le versement du RSA pour les personnes aptes à travailler) (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 0,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "10174",
+      "date": "2026-11-26",
+      "titre": "la demande de suspension de séance formulée par M. Léaument en application de l'article 58 du Règlement de l'Assemblée nationale (proposition de loi visant à limiter à deux ans le versement du RSA pour les personnes aptes à travailler) (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 0,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "10173",
+      "date": "2026-11-26",
+      "titre": "la demande de suspension de séance formulée par M. Pribetich en application de l'article 58 du Règlement de l'Assemblée nationale (proposition de loi visant à limiter à deux ans le versement du RSA pour les personnes aptes à travailler) (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 0,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "10172",
+      "date": "2026-11-26",
+      "titre": "l'amendement n° 48 de Mme K/Bidi à l'article unique de la proposition de loi visant à suspendre les prestations sociales pour les fraudeurs multirécidivistes (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 4,
+      "abstentions": 0
+    },
+    {
+      "numero": "10171",
+      "date": "2026-11-26",
+      "titre": "l'amendement n° 1 de M. Ray à l'article unique de la proposition de loi visant à suspendre les prestations sociales pour les fraudeurs multirécidivistes (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 4,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "10170",
+      "date": "2026-11-26",
+      "titre": "l'amendement n° 8 de Mme Allemand et les amendements identiques suivants de suppression de l'article unique de la proposition de loi visant à suspendre les prestations sociales pour les fraudeurs multirécidivistes (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 4,
+      "abstentions": 0
+    },
+    {
+      "numero": "10169",
+      "date": "2026-11-26",
+      "titre": "la demande de suspension de séance formulée par M. Pribetich en application de l'article 58 du Règlement de l'Assemblée nationale (proposition de loi visant à suspendre les prestations sociales pour les fraudeurs multirécidivistes) (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 4,
+      "abstentions": 0
+    },
+    {
       "numero": "10168",
       "date": "2026-11-26",
       "titre": "l'ensemble de la proposition de loi visant à maintenir les pharmacies existantes dans les communes rurales (première lecture).",
@@ -121394,6 +121884,76 @@
     }
   ],
   "PO845470": [
+    {
+      "numero": "10175",
+      "date": "2026-11-26",
+      "titre": "la demande de suspension de séance formulée par M. Boyard en application de l'article 58 du Règlement de l'Assemblée nationale (proposition de loi visant à limiter à deux ans le versement du RSA pour les personnes aptes à travailler) (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 0,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "10174",
+      "date": "2026-11-26",
+      "titre": "la demande de suspension de séance formulée par M. Léaument en application de l'article 58 du Règlement de l'Assemblée nationale (proposition de loi visant à limiter à deux ans le versement du RSA pour les personnes aptes à travailler) (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 0,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "10173",
+      "date": "2026-11-26",
+      "titre": "la demande de suspension de séance formulée par M. Pribetich en application de l'article 58 du Règlement de l'Assemblée nationale (proposition de loi visant à limiter à deux ans le versement du RSA pour les personnes aptes à travailler) (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 0,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "10172",
+      "date": "2026-11-26",
+      "titre": "l'amendement n° 48 de Mme K/Bidi à l'article unique de la proposition de loi visant à suspendre les prestations sociales pour les fraudeurs multirécidivistes (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 2,
+      "abstentions": 0
+    },
+    {
+      "numero": "10171",
+      "date": "2026-11-26",
+      "titre": "l'amendement n° 1 de M. Ray à l'article unique de la proposition de loi visant à suspendre les prestations sociales pour les fraudeurs multirécidivistes (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 1,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "10170",
+      "date": "2026-11-26",
+      "titre": "l'amendement n° 8 de Mme Allemand et les amendements identiques suivants de suppression de l'article unique de la proposition de loi visant à suspendre les prestations sociales pour les fraudeurs multirécidivistes (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 1,
+      "abstentions": 0
+    },
+    {
+      "numero": "10169",
+      "date": "2026-11-26",
+      "titre": "la demande de suspension de séance formulée par M. Pribetich en application de l'article 58 du Règlement de l'Assemblée nationale (proposition de loi visant à suspendre les prestations sociales pour les fraudeurs multirécidivistes) (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 1,
+      "abstentions": 0
+    },
     {
       "numero": "10168",
       "date": "2026-11-26",
@@ -138737,6 +139297,76 @@
   ],
   "PO845485": [
     {
+      "numero": "10175",
+      "date": "2026-11-26",
+      "titre": "la demande de suspension de séance formulée par M. Boyard en application de l'article 58 du Règlement de l'Assemblée nationale (proposition de loi visant à limiter à deux ans le versement du RSA pour les personnes aptes à travailler) (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 1,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "10174",
+      "date": "2026-11-26",
+      "titre": "la demande de suspension de séance formulée par M. Léaument en application de l'article 58 du Règlement de l'Assemblée nationale (proposition de loi visant à limiter à deux ans le versement du RSA pour les personnes aptes à travailler) (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 1,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "10173",
+      "date": "2026-11-26",
+      "titre": "la demande de suspension de séance formulée par M. Pribetich en application de l'article 58 du Règlement de l'Assemblée nationale (proposition de loi visant à limiter à deux ans le versement du RSA pour les personnes aptes à travailler) (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 1,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "10172",
+      "date": "2026-11-26",
+      "titre": "l'amendement n° 48 de Mme K/Bidi à l'article unique de la proposition de loi visant à suspendre les prestations sociales pour les fraudeurs multirécidivistes (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 0,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "10171",
+      "date": "2026-11-26",
+      "titre": "l'amendement n° 1 de M. Ray à l'article unique de la proposition de loi visant à suspendre les prestations sociales pour les fraudeurs multirécidivistes (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 0,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "10170",
+      "date": "2026-11-26",
+      "titre": "l'amendement n° 8 de Mme Allemand et les amendements identiques suivants de suppression de l'article unique de la proposition de loi visant à suspendre les prestations sociales pour les fraudeurs multirécidivistes (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 0,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "10169",
+      "date": "2026-11-26",
+      "titre": "la demande de suspension de séance formulée par M. Pribetich en application de l'article 58 du Règlement de l'Assemblée nationale (proposition de loi visant à suspendre les prestations sociales pour les fraudeurs multirécidivistes) (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 0,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
       "numero": "10168",
       "date": "2026-11-26",
       "titre": "l'ensemble de la proposition de loi visant à maintenir les pharmacies existantes dans les communes rurales (première lecture).",
@@ -156078,6 +156708,76 @@
     }
   ],
   "PO872880": [
+    {
+      "numero": "10175",
+      "date": "2026-11-26",
+      "titre": "la demande de suspension de séance formulée par M. Boyard en application de l'article 58 du Règlement de l'Assemblée nationale (proposition de loi visant à limiter à deux ans le versement du RSA pour les personnes aptes à travailler) (première lecture).",
+      "resultat": "adopté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 1,
+      "abstentions": 0
+    },
+    {
+      "numero": "10174",
+      "date": "2026-11-26",
+      "titre": "la demande de suspension de séance formulée par M. Léaument en application de l'article 58 du Règlement de l'Assemblée nationale (proposition de loi visant à limiter à deux ans le versement du RSA pour les personnes aptes à travailler) (première lecture).",
+      "resultat": "adopté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 1,
+      "abstentions": 0
+    },
+    {
+      "numero": "10173",
+      "date": "2026-11-26",
+      "titre": "la demande de suspension de séance formulée par M. Pribetich en application de l'article 58 du Règlement de l'Assemblée nationale (proposition de loi visant à limiter à deux ans le versement du RSA pour les personnes aptes à travailler) (première lecture).",
+      "resultat": "adopté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 1,
+      "abstentions": 0
+    },
+    {
+      "numero": "10172",
+      "date": "2026-11-26",
+      "titre": "l'amendement n° 48 de Mme K/Bidi à l'article unique de la proposition de loi visant à suspendre les prestations sociales pour les fraudeurs multirécidivistes (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 1,
+      "abstentions": 0
+    },
+    {
+      "numero": "10171",
+      "date": "2026-11-26",
+      "titre": "l'amendement n° 1 de M. Ray à l'article unique de la proposition de loi visant à suspendre les prestations sociales pour les fraudeurs multirécidivistes (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 1,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "10170",
+      "date": "2026-11-26",
+      "titre": "l'amendement n° 8 de Mme Allemand et les amendements identiques suivants de suppression de l'article unique de la proposition de loi visant à suspendre les prestations sociales pour les fraudeurs multirécidivistes (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 1,
+      "abstentions": 0
+    },
+    {
+      "numero": "10169",
+      "date": "2026-11-26",
+      "titre": "la demande de suspension de séance formulée par M. Pribetich en application de l'article 58 du Règlement de l'Assemblée nationale (proposition de loi visant à suspendre les prestations sociales pour les fraudeurs multirécidivistes) (première lecture).",
+      "resultat": "rejeté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 1,
+      "abstentions": 0
+    },
     {
       "numero": "10168",
       "date": "2026-11-26",
@@ -173421,6 +174121,76 @@
   ],
   "PO845514": [
     {
+      "numero": "10175",
+      "date": "2026-11-26",
+      "titre": "la demande de suspension de séance formulée par M. Boyard en application de l'article 58 du Règlement de l'Assemblée nationale (proposition de loi visant à limiter à deux ans le versement du RSA pour les personnes aptes à travailler) (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 3,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "10174",
+      "date": "2026-11-26",
+      "titre": "la demande de suspension de séance formulée par M. Léaument en application de l'article 58 du Règlement de l'Assemblée nationale (proposition de loi visant à limiter à deux ans le versement du RSA pour les personnes aptes à travailler) (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 4,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "10173",
+      "date": "2026-11-26",
+      "titre": "la demande de suspension de séance formulée par M. Pribetich en application de l'article 58 du Règlement de l'Assemblée nationale (proposition de loi visant à limiter à deux ans le versement du RSA pour les personnes aptes à travailler) (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 5,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "10172",
+      "date": "2026-11-26",
+      "titre": "l'amendement n° 48 de Mme K/Bidi à l'article unique de la proposition de loi visant à suspendre les prestations sociales pour les fraudeurs multirécidivistes (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 4,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "10171",
+      "date": "2026-11-26",
+      "titre": "l'amendement n° 1 de M. Ray à l'article unique de la proposition de loi visant à suspendre les prestations sociales pour les fraudeurs multirécidivistes (première lecture).",
+      "resultat": "adopté",
+      "position": "contre",
+      "pour": 0,
+      "contre": 5,
+      "abstentions": 0
+    },
+    {
+      "numero": "10170",
+      "date": "2026-11-26",
+      "titre": "l'amendement n° 8 de Mme Allemand et les amendements identiques suivants de suppression de l'article unique de la proposition de loi visant à suspendre les prestations sociales pour les fraudeurs multirécidivistes (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 7,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "10169",
+      "date": "2026-11-26",
+      "titre": "la demande de suspension de séance formulée par M. Pribetich en application de l'article 58 du Règlement de l'Assemblée nationale (proposition de loi visant à suspendre les prestations sociales pour les fraudeurs multirécidivistes) (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 5,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
       "numero": "10168",
       "date": "2026-11-26",
       "titre": "l'ensemble de la proposition de loi visant à maintenir les pharmacies existantes dans les communes rurales (première lecture).",
@@ -190762,6 +191532,76 @@
     }
   ],
   "PO840056": [
+    {
+      "numero": "10175",
+      "date": "2026-11-26",
+      "titre": "la demande de suspension de séance formulée par M. Boyard en application de l'article 58 du Règlement de l'Assemblée nationale (proposition de loi visant à limiter à deux ans le versement du RSA pour les personnes aptes à travailler) (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 0,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "10174",
+      "date": "2026-11-26",
+      "titre": "la demande de suspension de séance formulée par M. Léaument en application de l'article 58 du Règlement de l'Assemblée nationale (proposition de loi visant à limiter à deux ans le versement du RSA pour les personnes aptes à travailler) (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 0,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "10173",
+      "date": "2026-11-26",
+      "titre": "la demande de suspension de séance formulée par M. Pribetich en application de l'article 58 du Règlement de l'Assemblée nationale (proposition de loi visant à limiter à deux ans le versement du RSA pour les personnes aptes à travailler) (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 0,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "10172",
+      "date": "2026-11-26",
+      "titre": "l'amendement n° 48 de Mme K/Bidi à l'article unique de la proposition de loi visant à suspendre les prestations sociales pour les fraudeurs multirécidivistes (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 0,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "10171",
+      "date": "2026-11-26",
+      "titre": "l'amendement n° 1 de M. Ray à l'article unique de la proposition de loi visant à suspendre les prestations sociales pour les fraudeurs multirécidivistes (première lecture).",
+      "resultat": "adopté",
+      "position": "pour",
+      "pour": 0,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "10170",
+      "date": "2026-11-26",
+      "titre": "l'amendement n° 8 de Mme Allemand et les amendements identiques suivants de suppression de l'article unique de la proposition de loi visant à suspendre les prestations sociales pour les fraudeurs multirécidivistes (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 0,
+      "contre": 0,
+      "abstentions": 0
+    },
+    {
+      "numero": "10169",
+      "date": "2026-11-26",
+      "titre": "la demande de suspension de séance formulée par M. Pribetich en application de l'article 58 du Règlement de l'Assemblée nationale (proposition de loi visant à suspendre les prestations sociales pour les fraudeurs multirécidivistes) (première lecture).",
+      "resultat": "rejeté",
+      "position": "pour",
+      "pour": 0,
+      "contre": 0,
+      "abstentions": 0
+    },
     {
       "numero": "10168",
       "date": "2026-11-26",
